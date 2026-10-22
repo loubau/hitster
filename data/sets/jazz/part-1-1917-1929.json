@@ -676,47 +676,6 @@
     "notes": "Recording date, take 9, Victor 18690, B-side, Grofe credit and chart facts from the Wikipedia article; Grammy Hall of Fame 1998 and National Recording Registry 2020 per Wikipedia and the Hall of Fame list. Composer credits are as in the Wikipedia infobox; the 1920 copyright attributes the lyrics to Malvin Schonberger. Whiteman is a dance-band act that scored jazz-style hits, so the jazz label is generous; shown as big-band with dance-band tags. Duration is a generic 78 rpm length, not read from a source."
   },
   {
-    "id": "jazz-bessie-smith-down-hearted-blues",
-    "artist": "Bessie Smith",
-    "title": "Down Hearted Blues",
-    "composer": "Lovie Austin (music), Alberta Hunter (lyrics)",
-    "recording_date": "1923-02-15",
-    "recording_year": 1923,
-    "release_year": 1923,
-    "original_issue": "Columbia A3844 (78 rpm, b/w Gulf Coast Blues), matrix 80863 take 5",
-    "personnel": "Bessie Smith (vocal), Clarence Williams (piano)",
-    "style": "vocal",
-    "year": 1923,
-    "year_lo": 1923,
-    "year_hi": 1923,
-    "year_label": "1923",
-    "trivia": "This was Bessie Smith's first single, and it sold about 780,000 copies in its first six months. Alberta Hunter, who wrote the lyrics, had recorded the song for Paramount the year before.",
-    "tags": [
-      "1920s",
-      "vocal",
-      "columbia",
-      "blues",
-      "classic-blues"
-    ],
-    "track": {
-      "artist": "Bessie Smith",
-      "title": "Down Hearted Blues",
-      "album": "Down Hearted Blues / Gulf Coast Blues (Columbia 78 rpm single)",
-      "duration": "3:00",
-      "isrc": null,
-      "query": "Bessie Smith Down Hearted Blues 1923 Columbia Clarence Williams",
-      "notes": "Bessie Smith's 1923 Columbia original with Clarence Williams on piano, not Alberta Hunter's 1922 Paramount recording"
-    },
-    "confidence": "high",
-    "sources": [
-      "https://en.wikipedia.org/wiki/Downhearted_Blues",
-      "https://en.wikipedia.org/wiki/Bessie_Smith",
-      "https://en.wikipedia.org/wiki/List_of_Grammy_Hall_of_Fame_Award_recipients_(A%E2%80%93D)",
-      "https://adp.library.ucsb.edu/index.php/matrix/refer/2000028630"
-    ],
-    "notes": "Date: DAHR (read via search summary) gives 15 Feb 1923 for matrix 80863; the discography table on Wikipedia's Bessie Smith page lists 16 Feb 1923. 15 Feb used. Wikipedia's song article calls it the first of Columbia's race records and the label's first popular hit, but the Bessie Smith article says the race series proper began with Cemetery Blues (Sept 1923), so that claim is not repeated. Grammy Hall of Fame 2006 as Bessie Smith with Clarence Williams. Duration is a generic 78 rpm length, not read from a source."
-  },
-  {
     "id": "jazz-king-oliver-canal-street-blues",
     "artist": "King Oliver's Creole Jazz Band",
     "title": "Canal Street Blues",
@@ -910,43 +869,6 @@
       "https://syncopatedtimes.com/fletcher-henderson-orchestra/"
     ],
     "notes": "Matrix W142205 take 3, date 14 May 1926, 654-D, the flip Jackass Blues (W142206 take 2, same date) and the composer credit come from the 78discography.com table; DAHR (via search summary) agrees on the matrix. No source read named the personnel for this session, so none is listed. The Red Hot Jazz list shows a later Henderson Stampede (Vocalion 3534, 1937). Release year 1926 assumed from the recording date. Duration is a generic 78 rpm length, not read from a source."
-  },
-  {
-    "id": "jazz-jelly-roll-morton-dead-man-blues",
-    "artist": "Jelly Roll Morton's Red Hot Peppers",
-    "title": "Dead Man Blues",
-    "composer": "Jelly Roll Morton",
-    "recording_date": "1926-09-21",
-    "recording_year": 1926,
-    "release_year": 1927,
-    "original_issue": "Victor 20252 (78 rpm, b/w Sidewalk Blues), matrix BVE-36284, release January 1927",
-    "personnel": "George Mitchell (cornet), Kid Ory (trombone), Omer Simeon, Barney Bigard and Darnell Howard (clarinets), Jelly Roll Morton (piano), Johnny St. Cyr (banjo), John Lindsay (bass), Andrew Hilaire (drums), Marty Bloom (effects, session credit)",
-    "style": "new-orleans",
-    "year": 1926,
-    "year_lo": 1926,
-    "year_hi": 1926,
-    "year_label": "1926",
-    "trivia": "Recorded at the Webster Hotel in Chicago on 21 September 1926. The Hot Club of New York session listing adds Barney Bigard and Darnell Howard on clarinet for this title and for Sidewalk Blues, its flip side.",
-    "tags": [
-      "1920s",
-      "new-orleans",
-      "victor"
-    ],
-    "track": {
-      "artist": "Jelly Roll Morton's Red Hot Peppers",
-      "title": "Dead Man Blues",
-      "album": "Dead Man Blues / Sidewalk Blues (Victor 78 rpm single)",
-      "duration": "3:00",
-      "isrc": null,
-      "query": "Jelly Roll Morton Red Hot Peppers Dead Man Blues 1926 Victor",
-      "notes": "The September 1926 Victor recording (20252, matrix BVE-36284), not Morton's later remakes or other bands' covers"
-    },
-    "confidence": "high",
-    "sources": [
-      "https://hotclubny.org/jellyrollmorton1",
-      "https://adp.library.ucsb.edu/index.php/matrix/refer/800010529"
-    ],
-    "notes": "Date 21 Sep 1926, Victor 20252, matrix BVE-36284 (takes 1 and 2 are both listed by Hot Club of New York) and release 1/1927 from DAHR (via search summary) and Hot Club of New York; the 15 Sep 1926 Red Hot Peppers session is a different session. Which take was issued is not stated, so either take may appear online. Hot Club lists Simeon (clarinet) for the whole session, with Bigard and Howard added on clarinet for this title and Sidewalk Blues; the Bloom effects credit is session-level, not title-specific. Duration is a generic 78 rpm length, not read from a source."
   },
   {
     "id": "jazz-venuti-lang-stringin-the-blues",

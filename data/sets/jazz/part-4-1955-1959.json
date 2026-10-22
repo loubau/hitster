@@ -341,14 +341,14 @@
   },
   {
     "id": "jazz-gilberto-chega-de-saudade",
-    "artist": "Joao Gilberto",
+    "artist": "João Gilberto",
     "title": "Chega de Saudade",
-    "composer": "Antonio Carlos Jobim and Vinicius de Moraes",
+    "composer": "Antônio Carlos Jobim and Vinícius de Moraes",
     "recording_date": "1958-07-10",
     "recording_year": 1958,
     "release_year": 1958,
     "original_issue": "Odeon 14.360 (78 rpm single, b/w \"Bim Bom\", 1958); later LP \"Chega de Saudade\", Odeon (14 April 1959)",
-    "personnel": "Joao Gilberto (vocal, guitar), with orchestral accompaniment arranged by Antonio Carlos Jobim",
+    "personnel": "João Gilberto (vocal, guitar), with orchestral accompaniment arranged by Antônio Carlos Jobim",
     "style": "bossa-nova",
     "year": 1958,
     "year_lo": 1958,
@@ -361,13 +361,13 @@
       "odeon"
     ],
     "track": {
-      "artist": "Joao Gilberto",
+      "artist": "João Gilberto",
       "title": "Chega de Saudade",
       "album": "Chega de Saudade (Odeon single)",
       "duration": "2:01",
       "isrc": null,
-      "query": "Joao Gilberto Chega de Saudade 1958",
-      "notes": "Joao Gilberto's 1958 Odeon single version (about 2:01); not Elizeth Cardoso's earlier recording nor Getz/Gilberto remakes"
+      "query": "João Gilberto Chega de Saudade 1958",
+      "notes": "João Gilberto's 1958 Odeon single version (about 2:01); not Elizeth Cardoso's earlier recording nor Getz/Gilberto remakes"
     },
     "confidence": "medium",
     "sources": [
@@ -375,7 +375,7 @@
       "https://en.wikipedia.org/wiki/Chega_de_Saudade_(album)",
       "https://en.wikipedia.org/wiki/List_of_Grammy_Hall_of_Fame_Award_recipients_(A%E2%80%93D)"
     ],
-    "notes": "Wikipedia describes Gilberto's as the second recording of the song, in 1958, after Cardoso (recorded 1957, released 1958). Single catalogue number conflicts between sources (Odeon 14.360 on Wikipedia; 12725/6 in a Brazilian article) and the exact release month (July or August 1958) is uncertain. The orchestra credit is not confirmed against a session sheet. The Grammy Hall of Fame inducted the single in 2000. Diacritics omitted in the artist and title fields."
+    "notes": "Wikipedia describes Gilberto's as the second recording of the song, in 1958, after Cardoso (recorded 1957, released 1958). Single catalogue number conflicts between sources (Odeon 14.360 on Wikipedia; 12725/6 in a Brazilian article) and the exact release month (July or August 1958) is uncertain. The orchestra credit is not confirmed against a session sheet. The Grammy Hall of Fame inducted the single in 2000."
   },
   {
     "id": "jazz-washington-what-a-diffrence-a-day-makes",
@@ -642,82 +642,6 @@
       "https://en.wikipedia.org/wiki/Horace_Silver_and_the_Jazz_Messengers"
     ],
     "notes": "Date, take and issues from jazzdisco (Van Gelder Studio, Hackensack). BLP 5062 is the first LP issue (1955); the 12-inch LP BLP 1518 and the 45 followed in 1956. Duration from Wikipedia's track list for the 12-inch LP."
-  },
-  {
-    "id": "jazz-rollins-tenor-madness",
-    "artist": "Sonny Rollins Quartet with John Coltrane",
-    "title": "Tenor Madness",
-    "composer": "Sonny Rollins",
-    "recording_date": "1956-05-24",
-    "recording_year": 1956,
-    "release_year": 1956,
-    "original_issue": "Prestige PRLP 7047 (LP \"Tenor Madness\", October 1956)",
-    "personnel": "Sonny Rollins (tenor sax), John Coltrane (tenor sax, title track only), Red Garland (piano), Paul Chambers (bass), Philly Joe Jones (drums)",
-    "style": "hard-bop",
-    "year": 1956,
-    "year_lo": 1956,
-    "year_hi": 1956,
-    "year_label": "1956",
-    "trivia": "The only known recording of Sonny Rollins and John Coltrane playing together: two tenor players trading choruses on a blues, backed by the rhythm section of Miles Davis's quintet. The title track was added to the Grammy Hall of Fame in 2019.",
-    "tags": [
-      "1950s",
-      "hard-bop",
-      "prestige"
-    ],
-    "track": {
-      "artist": "Sonny Rollins Quartet",
-      "title": "Tenor Madness",
-      "album": "Tenor Madness",
-      "duration": "12:16",
-      "isrc": null,
-      "query": "Sonny Rollins Quartet Tenor Madness 1956",
-      "notes": "Prestige matrix 906, the title track with Coltrane (12:16 on the LP); not the other tracks of the album, which are quartet only"
-    },
-    "confidence": "high",
-    "sources": [
-      "https://www.jazzdisco.org/sonny-rollins/discography/",
-      "https://en.wikipedia.org/wiki/Tenor_Madness",
-      "https://en.wikipedia.org/wiki/List_of_Grammy_Hall_of_Fame_Award_recipients_(Q%E2%80%93Z)"
-    ],
-    "notes": "Date, matrix and personnel from jazzdisco (Van Gelder Studio, Hackensack); Wikipedia confirms October 1956 release and the \"only known recording\" claim."
-  },
-  {
-    "id": "jazz-monk-brilliant-corners",
-    "artist": "Thelonious Monk Quintet",
-    "title": "Brilliant Corners",
-    "composer": "Thelonious Monk",
-    "recording_date": "1956-10-15",
-    "recording_year": 1956,
-    "release_year": 1957,
-    "original_issue": "Riverside RLP 12-226 (LP \"Brilliant Corners\", April 1957); 45 rpm Riverside R-45-608",
-    "personnel": "Ernie Henry (alto sax), Sonny Rollins (tenor sax), Thelonious Monk (piano), Oscar Pettiford (bass), Max Roach (drums)",
-    "style": "hard-bop",
-    "year": 1956,
-    "year_lo": 1956,
-    "year_hi": 1956,
-    "year_label": "1956",
-    "trivia": "The twisting theme and its tempo changes defeated the band: twenty-five takes were attempted without a complete one, so producer Orrin Keepnews edited the issued version from several takes. The album gave Monk his Riverside breakthrough.",
-    "tags": [
-      "1950s",
-      "hard-bop",
-      "riverside"
-    ],
-    "track": {
-      "artist": "Thelonious Monk",
-      "title": "Brilliant Corners",
-      "album": "Brilliant Corners",
-      "duration": "7:42",
-      "isrc": null,
-      "query": "Thelonious Monk Brilliant Corners 1956",
-      "notes": "Edited master of the title track from 15 Oct 1956, as on Riverside RLP 12-226 (7:42); not the Bemsha Swing or Pannonica sessions of the same album"
-    },
-    "confidence": "high",
-    "sources": [
-      "https://www.jazzdisco.org/thelonious-monk/discography/",
-      "https://en.wikipedia.org/wiki/Brilliant_Corners",
-      "https://en.wikipedia.org/wiki/List_of_Grammy_Hall_of_Fame_Award_recipients_(A%E2%80%93D)"
-    ],
-    "notes": "Date and issue from jazzdisco (Reeves Sound Studios, NYC); Wikipedia gives recording dates of 9 Oct, 15 Oct and 7 Dec 1956 for the album and an April 1957 release. \"Breakthrough\" is a common critical description rather than a sourced fact here. Filed as hard-bop (Wikipedia's genre) although Monk resists easy labelling."
   },
   {
     "id": "jazz-holiday-fine-and-mellow",
@@ -1411,44 +1335,6 @@
     "notes": "The album sessions were 26 and 31 Aug and 4 and 29 Sep 1958 at Radio Recorders, Hollywood (Wikipedia); which day the theme was cut is not stated, so only the year is given. Wikipedia says the musicians vary by track, so the personnel line is the album roster plus the one track-specific credit it gives (John Williams on the piano riff, later a famous film composer); which horn players are on the theme itself is not documented. Length is 2:06 on the LP track list (the song page infobox says 2:04). Single and LP both January 1959 per Wikipedia; the single's catalogue number was not found. Grammy Hall of Fame has the track (2005) and the album (1998); the album is also in the National Recording Registry (2010). Tier A: widely known TV theme."
   },
   {
-    "id": "jazz-blakey-blues-march",
-    "artist": "Art Blakey and the Jazz Messengers",
-    "title": "Blues March",
-    "composer": "Benny Golson",
-    "recording_date": "1958-10-30",
-    "recording_year": 1958,
-    "release_year": 1958,
-    "original_issue": "Blue Note BLP 4003 (LP \"Moanin'\", late 1958); 45 rpm Blue Note 45-1736 (b/w \"Along Came Betty\", 1958)",
-    "personnel": "Lee Morgan (trumpet), Benny Golson (tenor sax), Bobby Timmons (piano), Jymie Merritt (bass), Art Blakey (drums)",
-    "style": "hard-bop",
-    "year": 1958,
-    "year_lo": 1958,
-    "year_hi": 1958,
-    "year_label": "1958",
-    "trivia": "Benny Golson's march-like theme was influenced by New Orleans marching bands, and real marching bands, military ones included, now play it. Trumpeter Blue Mitchell had recorded it first, on 2 and 3 July 1958, four months before this version.",
-    "tags": [
-      "1950s",
-      "hard-bop",
-      "blue-note"
-    ],
-    "track": {
-      "artist": "Art Blakey and the Jazz Messengers",
-      "title": "Blues March",
-      "album": "Moanin'",
-      "duration": "6:17",
-      "isrc": null,
-      "query": "Art Blakey and the Jazz Messengers Blues March Moanin' 1958",
-      "notes": "Blue Note take 19 from 30 Oct 1958 (6:17 on the LP), not Blue Mitchell's July 1958 Riverside original on Big 6 and not the Messengers' live version from the Olympia, Paris (December 1958)"
-    },
-    "confidence": "high",
-    "sources": [
-      "https://www.jazzdisco.org/art-blakey/discography/",
-      "https://en.wikipedia.org/wiki/Blues_March",
-      "https://en.wikipedia.org/wiki/Moanin'"
-    ],
-    "notes": "Date, take 19 and the single (45-1736) from jazzdisco (Van Gelder Studio, Hackensack); the 6:17 length and the Blue Mitchell fact from Wikipedia, which notes that some sources wrongly call Blakey's the first recording. Wikipedia says the album came out \"late 1958\" while some sources give 1959. This is Blakey's second card after \"Moanin'\" from the same session."
-  },
-  {
     "id": "jazz-evans-peace-piece",
     "artist": "Bill Evans",
     "title": "Peace Piece",
@@ -1486,81 +1372,6 @@
       "https://en.wikipedia.org/wiki/Everybody_Digs_Bill_Evans"
     ],
     "notes": "Date, studio (Reeves Sound, New York) and issue numbers from jazzdisco; release March 1959, track length and the solo status from Wikipedia (the album page's by-track bass and drums credits do not line up with its own track numbers, but jazzdisco's credits and the page text agree the piece is solo). The trivia about the 1978 performance is Wikipedia's claim that he played it live only once. Bill Evans may reach three cards in the whole set if a \"Waltz for Debby\" card exists, counting the joint Tony Bennett and Bill Evans card."
-  },
-  {
-    "id": "jazz-baker-alone-together",
-    "artist": "Chet Baker",
-    "title": "Alone Together",
-    "composer": "Arthur Schwartz (music), Howard Dietz (lyrics)",
-    "recording_date": "1958-12-30",
-    "recording_year": 1958,
-    "release_year": 1959,
-    "original_issue": "Riverside RLP 12-299 / RLP 1135 (LP \"Chet\", 1959)",
-    "personnel": "Chet Baker (trumpet), Herbie Mann (alto flute), Pepper Adams (baritone sax), Bill Evans (piano), Paul Chambers (bass), Connie Kay (drums)",
-    "style": "cool",
-    "year": 1958,
-    "year_lo": 1958,
-    "year_hi": 1958,
-    "year_label": "1958",
-    "trivia": "Although Baker was then known as much for singing as for trumpet playing, the album \"Chet\" is entirely instrumental, with Bill Evans on piano. This ballad is its opening track.",
-    "tags": [
-      "1950s",
-      "cool",
-      "riverside"
-    ],
-    "track": {
-      "artist": "Chet Baker",
-      "title": "Alone Together",
-      "album": "Chet",
-      "duration": "6:46",
-      "isrc": null,
-      "query": "Chet Baker Alone Together Chet 1958",
-      "notes": "Riverside LP version, first track of Chet (6:46); not Baker's 1950s versions or the Jazz Samba-era remakes"
-    },
-    "confidence": "medium",
-    "sources": [
-      "https://www.jazzdisco.org/bill-evans/discography/",
-      "https://en.wikipedia.org/wiki/Chet_(Chet_Baker_album)"
-    ],
-    "notes": "Wikipedia assigns tracks 1-3 and 5-7 to 30 Dec 1958 and tracks 4 and 8-10 to 19 Jan 1959, which puts this track in 1958; jazzdisco merges the two dates into one session and credits drummers differently for some other tracks, but both agree Connie Kay plays on this one. Medium confidence because the per-track date rests on Wikipedia alone. Studio: Reeves Sound, New York. Catalogue numbers are jazzdisco's. Evans left Miles Davis's band shortly before this session."
-  },
-  {
-    "id": "jazz-powell-cleopatras-dream",
-    "artist": "Bud Powell",
-    "title": "Cleopatra's Dream",
-    "composer": "Bud Powell",
-    "recording_date": "1958-12-29",
-    "recording_year": 1958,
-    "release_year": 1959,
-    "original_issue": "Blue Note BLP 4009 (LP \"The Scene Changes: The Amazing Bud Powell, Vol. 5\", 1959)",
-    "personnel": "Bud Powell (piano), Paul Chambers (bass), Art Taylor (drums)",
-    "style": "bebop",
-    "year": 1958,
-    "year_lo": 1958,
-    "year_hi": 1958,
-    "year_label": "1958",
-    "trivia": "This opens an album on which every piece is a Powell original, cut at Rudy Van Gelder's Hackensack studio with Paul Chambers and Art Taylor. Powell moved to Paris the year the album came out.",
-    "tags": [
-      "1950s",
-      "bebop",
-      "blue-note"
-    ],
-    "track": {
-      "artist": "Bud Powell",
-      "title": "Cleopatra's Dream",
-      "album": "The Scene Changes: The Amazing Bud Powell, Vol. 5",
-      "duration": "4:22",
-      "isrc": null,
-      "query": "Bud Powell Cleopatra's Dream The Scene Changes 1958",
-      "notes": "Blue Note master take 10 from 29 Dec 1958 (4:22 on the LP); not later Powell live performances or other pianists' covers"
-    },
-    "confidence": "high",
-    "sources": [
-      "https://www.jazzdisco.org/bud-powell/discography/",
-      "https://en.wikipedia.org/wiki/The_Scene_Changes_(Bud_Powell_album)",
-      "https://en.wikipedia.org/wiki/Bud_Powell"
-    ],
-    "notes": "Date, take 10, personnel and LP number from jazzdisco; Van Gelder Studio, Hackensack, NJ (not Paris). The length is from Wikipedia's track list, which also gives the album genre as bebop and hard bop (bebop chosen for style spread) and \"all compositions by Bud Powell\"; the Paris move in 1959 is from Wikipedia's Bud Powell page (jazzdisco shows his first Paris dates in Nov 1959). Tier C justification: a Real Book staple for fans (about a million views on one upload) but not widely known by the general public; it fills the bop-piano slot and is Powell's second card after \"Un Poco Loco\"."
   },
   {
     "id": "jazz-donaldson-blues-walk",

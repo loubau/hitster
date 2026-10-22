@@ -21255,6 +21255,62 @@
    }
   ]
  },
+ "jazz-corea-mcbride-blade-windows-live": {
+  "set": "jazz",
+  "card": "Chick Corea, Christian McBride and Brian Blade - Windows (Live)",
+  "query": "Chick Corea Christian McBride Brian Blade Windows Live Trilogy 3 2020",
+  "expected": 575,
+  "picked": [
+   {
+    "id": "Xi_wP8zTfXY",
+    "title": "Chick Corea, Christian McBride, and Brian Blade | Windows (Visualizer)",
+    "channel": "Chick Corea",
+    "duration": 576,
+    "views": 35001,
+    "score": 105.2,
+    "why": {
+     "title": 1.0,
+     "artist": 1.0,
+     "query": 0.64,
+     "channel": "artist",
+     "dur": "576s vs 575s"
+    }
+   },
+   {
+    "id": "xMgjy3Z2aEk",
+    "title": "Windows",
+    "channel": "Chick Corea",
+    "duration": 522,
+    "views": 8110,
+    "score": 79.9,
+    "why": {
+     "title": 1.0,
+     "artist": 0.33,
+     "query": 0.27,
+     "channel": "artist",
+     "dur": "522s vs 575s"
+    }
+   },
+   {
+    "id": "UsNTAWlxTiw",
+    "title": "Windows- Chick Corea and Jazz at Lincoln Center Orchestra",
+    "channel": "birks2342",
+    "duration": 494,
+    "views": 29058,
+    "score": 64.3,
+    "why": {
+     "title": 1.0,
+     "artist": 0.33,
+     "query": 0.27,
+     "dur": "494s vs 575s"
+    }
+   }
+  ],
+  "searched": [
+   "Chick Corea Christian McBride Brian Blade Windows Live Trilogy 3 2020",
+   "Windows Chick Corea, Christian McBride and Brian Blade"
+  ]
+ },
  "jazz-corea-mcferrin-spain": {
   "set": "jazz",
   "card": "Chick Corea and Bobby McFerrin - Spain",
@@ -22530,6 +22586,62 @@
    }
   ]
  },
+ "jazz-domi-jd-beck-smile": {
+  "set": "jazz",
+  "card": "DOMi & JD BECK - SMiLE",
+  "query": "DOMi & JD BECK SMiLE Not Tight 2022",
+  "expected": 191,
+  "picked": [
+   {
+    "id": "SmRppchB8vs",
+    "title": "DOMi & JD BECK - SMiLE (Official Video)",
+    "channel": "DOMi & JD BECK",
+    "duration": 284,
+    "views": 1589566,
+    "score": 82.3,
+    "why": {
+     "title": 1.0,
+     "artist": 1.0,
+     "query": 0.57,
+     "channel": "artist",
+     "dur": "284s vs 191s"
+    }
+   },
+   {
+    "id": "IBAJCUcxQlE",
+    "title": "DOMi & JD BECK, Thundercat - NOT TiGHT (Audio)",
+    "channel": "DOMi & JD BECK",
+    "duration": 249,
+    "views": 327023,
+    "score": 76.7,
+    "why": {
+     "title": 0.67,
+     "artist": 1.0,
+     "query": 0.71,
+     "channel": "artist",
+     "dur": "249s vs 191s"
+    }
+   },
+   {
+    "id": "0FdIoo3gMWw",
+    "title": "DOMi & JD BECK - SMiLE (LIVE)",
+    "channel": "stevoramo",
+    "duration": 247,
+    "views": 6109,
+    "score": 66.8,
+    "why": {
+     "title": 1.0,
+     "artist": 1.0,
+     "query": 0.57,
+     "dur": "247s vs 191s",
+     "penalty": [
+      "live"
+     ]
+    }
+   }
+  ],
+  "flag": "duration 284s vs 191s"
+ },
  "jazz-donaldson-blues-walk": {
   "set": "jazz",
   "card": "Lou Donaldson Quintet - Blues Walk",
@@ -23425,6 +23537,110 @@
      "query": 0.9,
      "channel": "artist",
      "dur": "413s vs 420s"
+    }
+   }
+  ]
+ },
+ "jazz-ezra-collective-ajala": {
+  "set": "jazz",
+  "card": "Ezra Collective - Ajala",
+  "query": "Ezra Collective Ajala Dance, No One's Watching 2023",
+  "expected": 262,
+  "picked": [
+   {
+    "id": "mmKDG9Nm0DA",
+    "title": "Ezra Collective - Ajala (Official Visualiser)",
+    "channel": "Ezra Collective",
+    "duration": 255,
+    "views": 68402,
+    "score": 102.3,
+    "why": {
+     "title": 1.0,
+     "artist": 1.0,
+     "query": 0.43,
+     "channel": "artist",
+     "dur": "255s vs 262s"
+    }
+   },
+   {
+    "id": "v9UOsO80l1I",
+    "title": "Ezra Collective - Ajala (Single Edit) [Official Audio]",
+    "channel": "Ezra Collective",
+    "duration": 263,
+    "views": 31696,
+    "score": 102.0,
+    "why": {
+     "title": 1.0,
+     "artist": 1.0,
+     "query": 0.43,
+     "channel": "artist",
+     "dur": "263s vs 262s"
+    }
+   },
+   {
+    "id": "qPGXTPfD2rc",
+    "title": "Ajala (Single Edit)",
+    "channel": "Ezra Collective",
+    "duration": 262,
+    "views": 4746,
+    "score": 101.4,
+    "why": {
+     "title": 1.0,
+     "artist": 1.0,
+     "query": 0.43,
+     "channel": "artist",
+     "dur": "262s vs 262s"
+    }
+   }
+  ]
+ },
+ "jazz-ezra-collective-victory-dance": {
+  "set": "jazz",
+  "card": "Ezra Collective - Victory Dance",
+  "query": "Ezra Collective Victory Dance Where I'm Meant to Be 2022",
+  "expected": 296,
+  "picked": [
+   {
+    "id": "NiZPsN2pbTM",
+    "title": "Ezra Collective - Victory Dance (Official Video)",
+    "channel": "Ezra Collective",
+    "duration": 313,
+    "views": 635272,
+    "score": 103.3,
+    "why": {
+     "title": 1.0,
+     "artist": 1.0,
+     "query": 0.44,
+     "channel": "artist",
+     "dur": "313s vs 296s"
+    }
+   },
+   {
+    "id": "GV2w4Kvm7Oo",
+    "title": "Ezra Collective - Victory Dance | Mercury Prize 2023",
+    "channel": "BBC Music",
+    "duration": 211,
+    "views": 105233,
+    "score": 70.1,
+    "why": {
+     "title": 1.0,
+     "artist": 1.0,
+     "query": 0.44,
+     "dur": "211s vs 296s"
+    }
+   },
+   {
+    "id": "ISXiUSz-Nqs",
+    "title": "\"Victory Dance\" by Ezra Collective covered by Felonious Drunk at Golden Dagger Chicago 6/27/2023",
+    "channel": "Felonious Drunk",
+    "duration": 460,
+    "views": 304,
+    "score": 59.2,
+    "why": {
+     "title": 1.0,
+     "artist": 1.0,
+     "query": 0.44,
+     "dur": "460s vs 296s"
     }
    }
   ]
@@ -24672,8 +24888,8 @@
  },
  "jazz-gilberto-chega-de-saudade": {
   "set": "jazz",
-  "card": "Joao Gilberto - Chega de Saudade",
-  "query": "Joao Gilberto Chega de Saudade 1958",
+  "card": "João Gilberto - Chega de Saudade",
+  "query": "João Gilberto Chega de Saudade 1958",
   "expected": 121,
   "picked": [
    {
@@ -24681,7 +24897,7 @@
     "title": "Chega de Saudade",
     "channel": "João Gilberto - Topic",
     "duration": 124,
-    "views": 919408,
+    "views": 919486,
     "score": 118.8,
     "why": {
      "title": 1.0,
@@ -24692,17 +24908,17 @@
     }
    },
    {
-    "id": "Hgy5DnlX27Y",
-    "title": "Chega de Saudade - João Gilberto (original version)",
-    "channel": "Augusto Nomberto",
-    "duration": 121,
-    "views": 104,
-    "score": 93.6,
+    "id": "k2WctARV8Dc",
+    "title": "Chega de Saudade - João Gilberto 1958",
+    "channel": "Confraria do Chiado ",
+    "duration": 134,
+    "views": 10177,
+    "score": 98.1,
     "why": {
      "title": 1.0,
      "artist": 1.0,
-     "query": 0.8,
-     "dur": "121s vs 121s"
+     "query": 1.0,
+     "dur": "134s vs 121s"
     }
    },
    {
@@ -27662,8 +27878,8 @@
  },
  "jazz-jarrett-the-koln-concert-part-i": {
   "set": "jazz",
-  "card": "Keith Jarrett - The Koln Concert, Part I",
-  "query": "Keith Jarrett The Koln Concert Part I 1975",
+  "card": "Keith Jarrett - The Köln Concert, Part I",
+  "query": "Keith Jarrett The Köln Concert Part I 1975",
   "expected": 1561,
   "picked": [
    {
@@ -27671,7 +27887,7 @@
     "title": "Keith Jarrett - The Köln Concert - Part I (1/4)",
     "channel": "Giovanni Natella",
     "duration": 1576,
-    "views": 895907,
+    "views": 895911,
     "score": 97.6,
     "why": {
      "title": 1.0,
@@ -27685,7 +27901,7 @@
     "title": "Köln, January 24, 1975, Part I (Live)",
     "channel": "Keith Jarrett",
     "duration": 1562,
-    "views": 1968290,
+    "views": 1968340,
     "score": 94.9,
     "why": {
      "title": 0.75,
@@ -27703,7 +27919,7 @@
     "title": "Keith Jarrett on doing the Cologne Concert - Köln Concert",
     "channel": "Patrik Tschudin",
     "duration": 92,
-    "views": 232708,
+    "views": 232709,
     "score": 42.9,
     "why": {
      "title": 0.5,
@@ -29214,6 +29430,58 @@
      "query": 0.67,
      "topic": "artist",
      "dur": "253s vs 255s"
+    }
+   }
+  ]
+ },
+ "jazz-laufey-from-the-start": {
+  "set": "jazz",
+  "card": "Laufey - From the Start",
+  "query": "Laufey From the Start Bewitched 2023",
+  "expected": 169,
+  "picked": [
+   {
+    "id": "lSD_L-xic9o",
+    "title": "Laufey - From The Start (Official Music Video)",
+    "channel": "Laufey",
+    "duration": 170,
+    "views": 165958828,
+    "score": 107.6,
+    "why": {
+     "title": 1.0,
+     "artist": 1.0,
+     "query": 0.6,
+     "channel": "artist",
+     "dur": "170s vs 169s"
+    }
+   },
+   {
+    "id": "VArOUfVOjqI",
+    "title": "Laufey - From The Start (Official Audio)",
+    "channel": "Laufey",
+    "duration": 170,
+    "views": 19444267,
+    "score": 106.8,
+    "why": {
+     "title": 1.0,
+     "artist": 1.0,
+     "query": 0.6,
+     "channel": "artist",
+     "dur": "170s vs 169s"
+    }
+   },
+   {
+    "id": "rHvQakk1zMA",
+    "title": "@laufey - From The Start (Lyrics)",
+    "channel": "Dan Music",
+    "duration": 172,
+    "views": 72849622,
+    "score": 95.3,
+    "why": {
+     "title": 1.0,
+     "artist": 1.0,
+     "query": 0.6,
+     "dur": "172s vs 169s"
     }
    }
   ]
@@ -30899,6 +31167,56 @@
    }
   ]
  },
+ "jazz-merrill-youd-be-so-nice-to-come-home-to": {
+  "set": "jazz",
+  "card": "Helen Merrill - You'd Be So Nice to Come Home To",
+  "query": "Helen Merrill You'd Be So Nice to Come Home To Helen Merrill with Clifford Brown 1954",
+  "expected": 257,
+  "picked": [
+   {
+    "id": "Q_fviT6xsEU",
+    "title": "Helen Merrill & Clifford Brown - 1954 - 02 You'd Be So Nice to Come Home To",
+    "channel": "JazzTube",
+    "duration": 262,
+    "views": 24235,
+    "score": 101.5,
+    "why": {
+     "title": 1.0,
+     "artist": 1.0,
+     "query": 1.0,
+     "dur": "262s vs 257s"
+    }
+   },
+   {
+    "id": "YM0PhsP7ulk",
+    "title": "Helen Merrill with Clifford Brown / You'd Be So Nice To Come Home To",
+    "channel": "gattenshouchi",
+    "duration": 264,
+    "views": 2603707,
+    "score": 99.0,
+    "why": {
+     "title": 1.0,
+     "artist": 1.0,
+     "query": 0.92,
+     "dur": "264s vs 257s"
+    }
+   },
+   {
+    "id": "KZWwqg-etis",
+    "title": "Helen Merrill with Clifford Brown - You'd Be So Nice To Come Home To",
+    "channel": "monomotapa15",
+    "duration": 263,
+    "views": 406,
+    "score": 95.9,
+    "why": {
+     "title": 1.0,
+     "artist": 1.0,
+     "query": 0.92,
+     "dur": "263s vs 257s"
+    }
+   }
+  ]
+ },
  "jazz-metheny-always-and-forever": {
   "set": "jazz",
   "card": "Pat Metheny - Always and Forever",
@@ -31365,6 +31683,61 @@
    }
   ]
  },
+ "jazz-misch-dayes-nightrider": {
+  "set": "jazz",
+  "card": "Tom Misch & Yussef Dayes - Nightrider",
+  "query": "Tom Misch Yussef Dayes Nightrider Freddie Gibbs What Kinda Music 2020",
+  "expected": 300,
+  "picked": [
+   {
+    "id": "ImllpvDwbQ8",
+    "title": "Tom Misch & Yussef Dayes - Nightrider (feat. Freddie Gibbs) [Official Video]",
+    "channel": "Tom Misch",
+    "duration": 305,
+    "views": 17030320,
+    "score": 107.3,
+    "why": {
+     "title": 1.0,
+     "artist": 1.0,
+     "query": 0.64,
+     "channel": "artist",
+     "dur": "305s vs 300s"
+    }
+   },
+   {
+    "id": "4az3mKDOrEo",
+    "title": "Tom Misch & Yussef Dayes - What Kinda Music (Official Video)",
+    "channel": "Tom Misch",
+    "duration": 261,
+    "views": 2256155,
+    "score": 80.8,
+    "why": {
+     "title": 0.5,
+     "artist": 1.0,
+     "query": 0.64,
+     "channel": "artist",
+     "dur": "261s vs 300s"
+    }
+   },
+   {
+    "id": "BegpBozE0VM",
+    "title": "Tom Misch × Yussef Dayes | Nightrider (Instrumental) 2020",
+    "channel": "re:play",
+    "duration": 248,
+    "views": 7031,
+    "score": 64.8,
+    "why": {
+     "title": 1.0,
+     "artist": 1.0,
+     "query": 0.55,
+     "dur": "248s vs 300s",
+     "penalty": [
+      "instrumental"
+     ]
+    }
+   }
+  ]
+ },
  "jazz-mjq-django": {
   "set": "jazz",
   "card": "The Modern Jazz Quartet - Django",
@@ -31736,7 +32109,7 @@
   "set": "jazz",
   "card": "Gerry Mulligan Quartet - Bernie's Tune",
   "query": "Gerry Mulligan Quartet Bernie's Tune Pacific Jazz 601 1952",
-  "expected": 175,
+  "expected": 174,
   "picked": [
    {
     "id": "42D-4p53ml8",
@@ -31744,17 +32117,17 @@
     "channel": "Gerry Mulligan - Topic",
     "duration": 251,
     "views": 159,
-    "score": 80.6,
+    "score": 80.3,
     "why": {
      "title": 1.0,
      "artist": 0.67,
      "query": 0.44,
      "topic": "artist",
-     "dur": "251s vs 175s"
+     "dur": "251s vs 174s"
     }
    }
   ],
-  "flag": "duration 251s vs 175s"
+  "flag": "duration 251s vs 174s"
  },
  "jazz-mulligan-my-funny-valentine": {
   "set": "jazz",
@@ -33765,16 +34138,30 @@
  },
  "jazz-regina-jobim-aguas-de-marco": {
   "set": "jazz",
-  "card": "Elis Regina & Antonio Carlos Jobim - Aguas de Marco",
-  "query": "Elis Regina Tom Jobim Aguas de Marco Elis & Tom 1974",
+  "card": "Elis Regina & Antônio Carlos Jobim - Águas de Março",
+  "query": "Elis Regina Tom Jobim Águas de Março Elis & Tom 1974",
   "expected": 212,
   "picked": [
+   {
+    "id": "YWBrekvg5So",
+    "title": "Elis Regina, Antônio Carlos Jobim - Águas de Março (1974) [HQ Video]",
+    "channel": "Old But Gold - Musik Nostalgie",
+    "duration": 212,
+    "views": 2430,
+    "score": 97.4,
+    "why": {
+     "title": 1.0,
+     "artist": 1.0,
+     "query": 0.78,
+     "dur": "212s vs 212s"
+    }
+   },
    {
     "id": "E1tOV7y94DY",
     "title": "Elis Regina & Tom Jobim -  \"Aguas de Março\" - 1974",
     "channel": "Federico Mocciaro",
     "duration": 211,
-    "views": 24712048,
+    "views": 24712131,
     "score": 93.9,
     "why": {
      "title": 1.0,
@@ -33788,27 +34175,13 @@
     "title": "Elis Regina & Tom Jobim - \"Aguas de Março\" - 1974 HQ",
     "channel": "Liam Mcniffe",
     "duration": 228,
-    "views": 98335,
+    "views": 98339,
     "score": 90.7,
     "why": {
      "title": 1.0,
      "artist": 0.6,
      "query": 1.0,
      "dur": "228s vs 212s"
-    }
-   },
-   {
-    "id": "aKvwnHiJSdk",
-    "title": "Águas de Março - Elis Regina e Tom Jobim (Áudio Perfeito)",
-    "channel": "SuperSucata",
-    "duration": 225,
-    "views": 3143300,
-    "score": 88.4,
-    "why": {
-     "title": 1.0,
-     "artist": 0.6,
-     "query": 0.89,
-     "dur": "225s vs 212s"
     }
    }
   ]
@@ -34285,6 +34658,169 @@
      "dur": "302s vs 298s"
     }
    }
+  ]
+ },
+ "jazz-salvant-ghost-song": {
+  "set": "jazz",
+  "card": "Cécile McLorin Salvant - Ghost Song",
+  "query": "Cécile McLorin Salvant Ghost Song 2020",
+  "expected": 203,
+  "picked": [
+   {
+    "id": "hiolDEzEwm0",
+    "title": "ghost song, cecile mclorin salvant & sullivan fortner",
+    "channel": "Cecile McLorin Salvant",
+    "duration": 152,
+    "views": 3031,
+    "score": 91.9,
+    "why": {
+     "title": 1.0,
+     "artist": 1.0,
+     "query": 0.83,
+     "channel": "artist",
+     "dur": "152s vs 203s"
+    }
+   },
+   {
+    "id": "luIa4rd_wV0",
+    "title": "Cécile McLorin Salvant - Ghost Song (Official Video)",
+    "channel": "Nonesuch Records and Cecile McLorin Salvant",
+    "duration": 228,
+    "views": 336233,
+    "score": 91.7,
+    "why": {
+     "title": 1.0,
+     "artist": 1.0,
+     "query": 0.83,
+     "dur": "228s vs 203s"
+    }
+   },
+   {
+    "id": "HLvdruP74To",
+    "title": "Cécile McLorin Salvant | Ghost Song",
+    "channel": "QPAC",
+    "duration": 228,
+    "views": 3093,
+    "score": 90.0,
+    "why": {
+     "title": 1.0,
+     "artist": 1.0,
+     "query": 0.83,
+     "dur": "228s vs 203s"
+    }
+   }
+  ],
+  "flag": "duration 152s vs 203s"
+ },
+ "jazz-samara-joy-guess-who-i-saw-today": {
+  "set": "jazz",
+  "card": "Samara Joy - Guess Who I Saw Today",
+  "query": "Samara Joy Guess Who I Saw Today Linger Awhile 2022",
+  "expected": 249,
+  "picked": [
+   {
+    "id": "X03lvK7qoco",
+    "title": "Samara Joy - Guess Who I Saw Today",
+    "channel": "Samara Joy",
+    "duration": 239,
+    "views": 2719326,
+    "score": 107.6,
+    "why": {
+     "title": 1.0,
+     "artist": 1.0,
+     "query": 0.7,
+     "channel": "artist",
+     "dur": "239s vs 249s"
+    }
+   },
+   {
+    "id": "Dzdwk2D0rh4",
+    "title": "Samara Joy - Guess Who I Saw Today (Duo Version) ft. Gerald Clayton",
+    "channel": "Samara Joy",
+    "duration": 286,
+    "views": 366422,
+    "score": 99.6,
+    "why": {
+     "title": 1.0,
+     "artist": 1.0,
+     "query": 0.7,
+     "channel": "artist",
+     "dur": "286s vs 249s"
+    }
+   },
+   {
+    "id": "He_ao7IZwto",
+    "title": "Samara Joy - Guess Who I Saw Today (Live On The Tonight Show Starring Jimmy Fallon)",
+    "channel": "Samara Joy",
+    "duration": 268,
+    "views": 111415,
+    "score": 97.2,
+    "why": {
+     "title": 1.0,
+     "artist": 1.0,
+     "query": 0.7,
+     "channel": "artist",
+     "dur": "268s vs 249s",
+     "penalty": [
+      "live"
+     ]
+    }
+   }
+  ]
+ },
+ "jazz-samara-joy-tight": {
+  "set": "jazz",
+  "card": "Samara Joy - Tight",
+  "query": "Samara Joy Tight Betty Carter 2023",
+  "expected": 116,
+  "picked": [
+   {
+    "id": "_OkkyRkGSRY",
+    "title": "Samara Joy - Tight",
+    "channel": "Samara Joy",
+    "duration": 114,
+    "views": 2417510,
+    "score": 104.6,
+    "why": {
+     "title": 1.0,
+     "artist": 1.0,
+     "query": 0.5,
+     "channel": "artist",
+     "dur": "114s vs 116s"
+    }
+   },
+   {
+    "id": "OTPJTdNnW0A",
+    "title": "Samara Joy  - Tight",
+    "channel": "Jazz Connections",
+    "duration": 134,
+    "views": 695,
+    "score": 83.5,
+    "why": {
+     "title": 1.0,
+     "artist": 1.0,
+     "query": 0.5,
+     "dur": "134s vs 116s"
+    }
+   },
+   {
+    "id": "OL8z3n_7BJk",
+    "title": "Samara Joy | September 14 | Ordway Center for the Performing Arts | \"Tight\"",
+    "channel": "Ordway Center for the Performing Arts",
+    "duration": 71,
+    "views": 1890,
+    "score": 71.9,
+    "why": {
+     "title": 1.0,
+     "artist": 1.0,
+     "query": 0.5,
+     "dur": "71s vs 116s"
+    }
+   }
+  ],
+  "searched": [
+   "Samara Joy Tight Betty Carter 2023",
+   "Tight Samara Joy"
   ]
  },
  "jazz-santana-samba-pa-ti": {
@@ -35101,6 +35637,63 @@
    }
   ]
  },
+ "jazz-snarky-puppy-trinity": {
+  "set": "jazz",
+  "card": "Snarky Puppy - Trinity",
+  "query": "Snarky Puppy Trinity Empire Central 2022",
+  "expected": 474,
+  "picked": [
+   {
+    "id": "4OiuyueDJBs",
+    "title": "‘Trinity’ - Snarky Puppy, Empire Central tour, Wembley Arena 07/10/2022",
+    "channel": "Duchess of Langley",
+    "duration": 542,
+    "views": 291,
+    "score": 93.0,
+    "why": {
+     "title": 1.0,
+     "artist": 1.0,
+     "query": 1.0,
+     "dur": "542s vs 474s"
+    }
+   },
+   {
+    "id": "SI_IDMZ83tA",
+    "title": "Snarky Puppy - Honiara (Empire Central)",
+    "channel": "GroundUP Music NYC",
+    "duration": 406,
+    "views": 330830,
+    "score": 74.1,
+    "why": {
+     "title": 0.67,
+     "artist": 1.0,
+     "query": 0.67,
+     "dur": "406s vs 474s"
+    }
+   },
+   {
+    "id": "CSiLPkUopBg",
+    "title": "Snarky Puppy - Trinity (Extended Version) (Empire Central)",
+    "channel": "GroundUP Music NYC",
+    "duration": 703,
+    "views": 2762482,
+    "score": 66.5,
+    "why": {
+     "title": 1.0,
+     "artist": 1.0,
+     "query": 0.83,
+     "dur": "703s vs 474s",
+     "penalty": [
+      "extended"
+     ]
+    }
+   }
+  ],
+  "override": [
+   "z3bBIoRnd9k",
+   "CSiLPkUopBg"
+  ]
+ },
  "jazz-sons-of-kemet-my-queen-is-harriet-tubman": {
   "set": "jazz",
   "card": "Sons of Kemet - My Queen Is Harriet Tubman",
@@ -35149,6 +35742,61 @@
      "query": 0.58,
      "channel": "artist",
      "dur": "306s vs 340s"
+    }
+   }
+  ]
+ },
+ "jazz-sons-of-kemet-pick-up-your-burning-cross": {
+  "set": "jazz",
+  "card": "Sons of Kemet - Pick Up Your Burning Cross",
+  "query": "Sons of Kemet Pick Up Your Burning Cross Black to the Future 2021",
+  "expected": 224,
+  "picked": [
+   {
+    "id": "Dw_YbYpOPzo",
+    "title": "Sons Of Kemet - Pick Up Your Burning Cross ft. Moor Mother, Angel Bat Dawid",
+    "channel": "Sons Of Kemet",
+    "duration": 225,
+    "views": 167578,
+    "score": 106.7,
+    "why": {
+     "title": 1.0,
+     "artist": 1.0,
+     "query": 0.7,
+     "channel": "artist",
+     "dur": "225s vs 224s"
+    }
+   },
+   {
+    "id": "t-pcXXZ0q8s",
+    "title": "Sons of Kemet : \"Pick Up Your Burning Cross\"",
+    "channel": "New Sounds",
+    "duration": 244,
+    "views": 738,
+    "score": 90.4,
+    "why": {
+     "title": 1.0,
+     "artist": 1.0,
+     "query": 0.7,
+     "dur": "244s vs 224s"
+    }
+   },
+   {
+    "id": "w5D1M2r5QB0",
+    "title": "Sons Of Kemet - Pick Up Your Burning Cross (Live)",
+    "channel": "Sons Of Kemet",
+    "duration": 302,
+    "views": 23383,
+    "score": 79.4,
+    "why": {
+     "title": 1.0,
+     "artist": 1.0,
+     "query": 0.7,
+     "channel": "artist",
+     "dur": "302s vs 224s",
+     "penalty": [
+      "live"
+     ]
     }
    }
   ]

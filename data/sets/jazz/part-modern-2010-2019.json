@@ -78,43 +78,6 @@
     "notes": "Third version of Body and Soul in the set, after Coleman Hawkins 1939 and Dexter Gordon 1985. Not tagged crossover: a standard sung by two vocalists on a Bennett duets album, with a jazz-trained arranger and conductor."
   },
   {
-    "id": "jazz-porter-be-good-lions-song",
-    "artist": "Gregory Porter",
-    "title": "Be Good (Lion's Song)",
-    "composer": "Gregory Porter",
-    "recording_date": "2011-06",
-    "recording_year": 2011,
-    "release_year": 2012,
-    "original_issue": "Motéma (album Be Good, 15 Feb 2012)",
-    "personnel": "Gregory Porter (vocals); Chip Crawford (piano); Aaron James (bass); Emanuel Harrold (drums); Yosuke Sato (alto saxophone); Tivon Pennicott (tenor saxophone); Keyon Harrold (trumpet); Kamau Kenyatta (horn arrangements); Brian Bacchus (producer). Album credits, horn players not assigned by track in the source",
-    "style": "vocal",
-    "year": 2011,
-    "year_lo": 2011,
-    "year_hi": 2011,
-    "year_label": "2011",
-    "trivia": "Gregory Porter wrote the title track of his 2012 album Be Good, which one reviewer called lullaby-like. The album was cut in three days in June 2011 at Systems Two in Brooklyn and went on to chart in Belgium, France and the Netherlands.",
-    "tags": [
-      "2010s",
-      "vocal",
-      "motema",
-      "original"
-    ],
-    "track": {
-      "artist": "Gregory Porter",
-      "title": "Be Good (Lion's Song)",
-      "album": "Be Good",
-      "duration": "6:26",
-      "isrc": null,
-      "query": "Gregory Porter Be Good Lion's Song Be Good 2011",
-      "notes": "album version (6:26, track 2)"
-    },
-    "confidence": "high",
-    "sources": [
-      "https://en.wikipedia.org/wiki/Be_Good_(Gregory_Porter_album)"
-    ],
-    "notes": "The album page gives 20 to 22 June 2011 for the whole album, so the month is used and no single day. Porter's first card in the set."
-  },
-  {
     "id": "jazz-glasper-afro-blue",
     "artist": "Robert Glasper Experiment",
     "title": "Afro Blue",

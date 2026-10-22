@@ -187,43 +187,6 @@
     "notes": "Session 14-16 Sep 1971 at Van Gelder Studio (Wikipedia). The Wikipedia lead also names Herbie Hancock and Eric Gale but neither appears in its personnel list; the personnel list is used. Per-track personnel not given. Single source."
   },
   {
-    "id": "jazz-grover-washington-inner-city-blues",
-    "artist": "Grover Washington Jr.",
-    "title": "Inner City Blues",
-    "composer": "Marvin Gaye, James Nyx Jr.",
-    "recording_date": "1971-09",
-    "recording_year": 1971,
-    "release_year": 1972,
-    "original_issue": "Kudu KU-03 (LP, Inner City Blues, 1972)",
-    "personnel": "Grover Washington Jr. (alto and tenor saxophones), Bob James (electric piano, arranger, conductor), Richard Tee (organ), Eric Gale (guitar), Ron Carter (bass), Idris Muhammad (drums), Airto Moreira (percussion), plus horns, vocal quartet and strings",
-    "style": "soul-jazz",
-    "year": 1971,
-    "year_lo": 1971,
-    "year_hi": 1971,
-    "year_label": "1971",
-    "trivia": "Washington's debut album as a leader opens with his take on Marvin Gaye's hit, which had come out only a few months earlier. AllMusic's Thom Jurek called the album a landmark and a turning point in jazz.",
-    "tags": [
-      "1970s",
-      "soul-jazz",
-      "kudu",
-      "kudu"
-    ],
-    "track": {
-      "artist": "Grover Washington Jr.",
-      "title": "Inner City Blues",
-      "album": "Inner City Blues",
-      "duration": "7:10",
-      "isrc": null,
-      "query": "Grover Washington Jr Inner City Blues 1971 Kudu",
-      "notes": "studio title track (7:10) from the Kudu album"
-    },
-    "confidence": "high",
-    "sources": [
-      "https://en.wikipedia.org/wiki/Inner_City_Blues_(Grover_Washington_Jr._album)"
-    ],
-    "notes": "Recorded Sep 1971 at Van Gelder Studio, released 1972 (Wikipedia); one-year gap, no gap note needed. Personnel given for the whole album, not per track, so horns, vocalists and strings are listed generally. Single source."
-  },
-  {
     "id": "jazz-deodato-also-sprach-zarathustra-2001",
     "artist": "Deodato",
     "title": "Also Sprach Zarathustra (2001)",
@@ -562,14 +525,14 @@
   },
   {
     "id": "jazz-regina-jobim-aguas-de-marco",
-    "artist": "Elis Regina and Antonio Carlos Jobim",
-    "title": "Aguas de Marco",
-    "composer": "Antonio Carlos Jobim",
+    "artist": "Elis Regina and Antônio Carlos Jobim",
+    "title": "Águas de Março",
+    "composer": "Antônio Carlos Jobim",
     "recording_date": null,
     "recording_year": 1974,
     "release_year": 1974,
     "original_issue": "Philips (LP, Elis & Tom, 1974; catalogue number not verified)",
-    "personnel": "Elis Regina (vocals), Antonio Carlos Jobim (vocals), Cesar Camargo Mariano (piano, arranger), Helio Delmiro (guitar), Oscar Castro-Neves (guitar), Luizao Maia (bass), Paulo Braga (drums), Hubert Laws and Jerome Richardson (flutes, uncredited), strings conducted by Bill Hitchcock",
+    "personnel": "Elis Regina (vocals), Antônio Carlos Jobim (vocals), César Camargo Mariano (piano, arranger), Hélio Delmiro (guitar), Oscar Castro-Neves (guitar), Luizão Maia (bass), Paulo Braga (drums), Hubert Laws and Jerome Richardson (flutes, uncredited), strings conducted by Bill Hitchcock",
     "style": "bossa-nova",
     "year": 1974,
     "year_lo": 1974,
@@ -582,12 +545,12 @@
       "philips"
     ],
     "track": {
-      "artist": "Elis Regina & Antonio Carlos Jobim",
-      "title": "Aguas de Marco",
+      "artist": "Elis Regina & Antônio Carlos Jobim",
+      "title": "Águas de Março",
       "album": "Elis & Tom",
       "duration": "3:32",
       "isrc": null,
-      "query": "Elis Regina Tom Jobim Aguas de Marco Elis & Tom 1974",
+      "query": "Elis Regina Tom Jobim Águas de Março Elis & Tom 1974",
       "notes": "Elis and Tom duet from the 1974 LP, not Jobim's 1972 original or Elis Regina's 1972 solo version"
     },
     "confidence": "medium",
@@ -714,12 +677,12 @@
   {
     "id": "jazz-jarrett-the-koln-concert-part-i",
     "artist": "Keith Jarrett",
-    "title": "The Koln Concert, Part I",
+    "title": "The Köln Concert, Part I",
     "composer": "Keith Jarrett",
     "recording_date": "1975-01-24",
     "recording_year": 1975,
     "release_year": 1975,
-    "original_issue": "ECM 1064/65 ST (2-LP, The Koln Concert, 30 Nov 1975)",
+    "original_issue": "ECM 1064/65 ST (2-LP, The Köln Concert, 30 Nov 1975)",
     "personnel": "Keith Jarrett (piano)",
     "style": "ecm",
     "year": 1975,
@@ -736,11 +699,11 @@
     ],
     "track": {
       "artist": "Keith Jarrett",
-      "title": "The Koln Concert, Part I",
-      "album": "The Koln Concert",
+      "title": "The Köln Concert, Part I",
+      "album": "The Köln Concert",
       "duration": "26:01",
       "isrc": null,
-      "query": "Keith Jarrett The Koln Concert Part I 1975",
+      "query": "Keith Jarrett The Köln Concert Part I 1975",
       "notes": "live solo piano, Cologne Opera, 24 January 1975, Part I (26:01), not Part IIa, IIb or IIc"
     },
     "confidence": "high",
@@ -748,7 +711,7 @@
       "https://www.jazzdisco.org/keith-jarrett/discography/",
       "https://en.wikipedia.org/wiki/The_K%C3%B6ln_Concert"
     ],
-    "notes": "Live recording at the Oper Koln, 24 Jan 1975 (jazzdisco and Wikipedia agree). Released 30 Nov 1975 (Wikipedia). Part I is the 26:01 first side-and-a-half track; Parts IIa-IIc are separate tracks."
+    "notes": "Live recording at the Oper Köln, 24 Jan 1975 (jazzdisco and Wikipedia agree). Released 30 Nov 1975 (Wikipedia). Part I is the 26:01 first side-and-a-half track; Parts IIa-IIc are separate tracks."
   },
   {
     "id": "jazz-metheny-bright-size-life",
@@ -824,42 +787,6 @@
     "notes": "Wikipedia gives recording as Oct 1975 at Columbia studios and Camp Colomby in New York; released late April 1976 (one-year gap). The Wikipedia track list credits the tune as Charlie Parker or Miles Davis, so the composer line records both. Single source."
   },
   {
-    "id": "jazz-bennett-evans-young-and-foolish",
-    "artist": "Tony Bennett and Bill Evans",
-    "title": "Young and Foolish",
-    "composer": "Albert Hague, Arnold B. Horwitt",
-    "recording_date": "1975-06",
-    "recording_year": 1975,
-    "release_year": 1975,
-    "original_issue": "Fantasy F-9489 (LP, The Tony Bennett/Bill Evans Album, July 1975)",
-    "personnel": "Tony Bennett (vocals), Bill Evans (piano)",
-    "style": "vocal",
-    "year": 1975,
-    "year_lo": 1975,
-    "year_hi": 1975,
-    "year_label": "1975",
-    "trivia": "Singer Annie Ross suggested to Bennett that he record with the pianist Bill Evans, and this is from the first of their two albums together. It is just voice and piano; the second album, Together Again, followed in 1977.",
-    "tags": [
-      "1970s",
-      "vocal",
-      "fantasy"
-    ],
-    "track": {
-      "artist": "Tony Bennett & Bill Evans",
-      "title": "Young and Foolish",
-      "album": "The Tony Bennett/Bill Evans Album",
-      "duration": "3:54",
-      "isrc": null,
-      "query": "Tony Bennett Bill Evans Young and Foolish 1975 Fantasy",
-      "notes": "studio version (3:54) from the 1975 Fantasy LP, not the 1976 Together Again version or alternate takes"
-    },
-    "confidence": "high",
-    "sources": [
-      "https://en.wikipedia.org/wiki/The_Tony_Bennett/Bill_Evans_Album"
-    ],
-    "notes": "Sessions 10-13 Jun 1975 at Fantasy Studios, Berkeley (Wikipedia); month used. Single source."
-  },
-  {
     "id": "jazz-laws-always-there",
     "artist": "Ronnie Laws",
     "title": "Always There",
@@ -932,43 +859,6 @@
       "https://en.wikipedia.org/wiki/Breezin'"
     ],
     "notes": "Wikipedia gives recording as 6-8 Jan 1976 at Capitol Studios, Hollywood; month used because the day for this track is not stated. Released 19 Mar 1976. Wikipedia credits Dalto's piano solo and Banks's bass to track 2 specifically; Foster, Mason and MacDonald are credited album-wide, and flautist Bennie Maupin is credited album-wide so is left out of pe. Single source; Warner catalogue number not verified."
-  },
-  {
-    "id": "jazz-corea-medieval-overture",
-    "artist": "Return to Forever",
-    "title": "Medieval Overture",
-    "composer": "Chick Corea",
-    "recording_date": "1976-02",
-    "recording_year": 1976,
-    "release_year": 1976,
-    "original_issue": "Columbia (LP, Romantic Warrior, 1976; catalogue number not verified)",
-    "personnel": "Chick Corea (keyboards), Al Di Meola (guitar), Stanley Clarke (bass), Lenny White (drums)",
-    "style": "fusion",
-    "year": 1976,
-    "year_lo": 1976,
-    "year_hi": 1976,
-    "year_label": "1976",
-    "trivia": "The opener of Return to Forever's first album for Columbia, after four on Polydor; its distinctive melodic motifs set the medieval mood. The album became the band's most popular and was eventually certified gold in the United States.",
-    "tags": [
-      "1970s",
-      "fusion",
-      "columbia",
-      "prog"
-    ],
-    "track": {
-      "artist": "Return to Forever",
-      "title": "Medieval Overture",
-      "album": "Romantic Warrior",
-      "duration": "5:14",
-      "isrc": null,
-      "query": "Return to Forever Medieval Overture Romantic Warrior 1976",
-      "notes": "studio album opener Medieval Overture (5:14) from Romantic Warrior, not the album's title track The Romantic Warrior"
-    },
-    "confidence": "high",
-    "sources": [
-      "https://en.wikipedia.org/wiki/Romantic_Warrior"
-    ],
-    "notes": "Recorded Feb 1976 at Caribou Ranch, Nederland, Colorado (Wikipedia); month used. Released 1976, month not stated. Wikipedia lists the four members' instruments album-wide only, so pe gives each player's main instrument. Corea is the leader of three cards in this slice (Spain, Crystal Silence with Burton, this one), at the cap of 3. Single source; catalogue number not verified."
   },
   {
     "id": "jazz-clarke-school-days",
@@ -1119,118 +1009,6 @@
       "https://en.wikipedia.org/wiki/Feels_So_Good_(composition)"
     ],
     "notes": "No source gives a recording date: the Wikipedia infobox recorded field is empty and only the studio (Kendun Recorders, Burbank) is listed. Year 1977 is INFERRED from Wikipedia calling it a 1977 album and a 1977 song, with release on 8 Dec 1977; the single came out early 1978 (peak No. 4 in June 1978). Hence medium. Mangione re-recorded the tune in 1982. Album length 9:42 is from the LP track list; the length of the 1978 single edit was not found."
-  },
-  {
-    "id": "jazz-jarrett-my-song",
-    "artist": "Keith Jarrett",
-    "title": "My Song",
-    "composer": "Keith Jarrett",
-    "recording_date": "1977-11",
-    "recording_year": 1977,
-    "release_year": 1978,
-    "original_issue": "ECM 1115 (LP, My Song, June 1978)",
-    "personnel": "Keith Jarrett (piano), Jan Garbarek (tenor and soprano saxophones), Palle Danielsson (bass), Jon Christensen (drums)",
-    "style": "ecm",
-    "year": 1977,
-    "year_lo": 1977,
-    "year_hi": 1977,
-    "year_label": "1977",
-    "trivia": "The popularity of the title piece made this the best-known album of Jarrett's work with Jan Garbarek, according to AllMusic's Scott Yanow. It was the second release by his European quartet, after Belonging in 1974.",
-    "tags": [
-      "1970s",
-      "ecm",
-      "ecm",
-      "european-quartet"
-    ],
-    "track": {
-      "artist": "Keith Jarrett",
-      "title": "My Song",
-      "album": "My Song",
-      "duration": "6:12",
-      "isrc": null,
-      "query": "Keith Jarrett Jan Garbarek My Song ECM 1978 European Quartet",
-      "notes": "European quartet studio version (6:12) from ECM 1115, not the Vermont solo version"
-    },
-    "confidence": "high",
-    "sources": [
-      "https://www.jazzdisco.org/keith-jarrett/discography/",
-      "https://en.wikipedia.org/wiki/My_Song_(Keith_Jarrett_album)"
-    ],
-    "notes": "Recorded Nov 1977 at Talent Studio, Oslo (jazzdisco and Wikipedia agree; no day given). Released June 1978 (Wikipedia), a one-year gap. Jarrett also played the tune solo in Vermont on 26 Aug 1977 (jazzdisco), which this card is not."
-  },
-  {
-    "id": "jazz-rollins-dont-stop-the-carnival",
-    "artist": "Sonny Rollins",
-    "title": "Don't Stop the Carnival",
-    "composer": "Traditional",
-    "recording_date": "1978-04",
-    "recording_year": 1978,
-    "release_year": 1979,
-    "original_issue": "Milestone M-55005 (2-LP, Don't Stop the Carnival; dated 1979 by jazzdisco, 1978 by Wikipedia)",
-    "personnel": "Sonny Rollins (tenor saxophone), Mark Soskin (piano), Aurell Ray (electric guitar), Jerome Harris (electric bass), Tony Williams (drums)",
-    "style": "post-bop",
-    "year": 1978,
-    "year_lo": 1978,
-    "year_hi": 1978,
-    "year_label": "1978",
-    "trivia": "Rollins had also recorded this tune in 1962 for the album What's New and returned to it for this live set at San Francisco's Great American Music Hall. AllMusic's Scott Yanow singled out this version and Autumn Nocturne as the memorable ones.",
-    "tags": [
-      "1970s",
-      "post-bop",
-      "milestone",
-      "live"
-    ],
-    "track": {
-      "artist": "Sonny Rollins",
-      "title": "Don't Stop the Carnival",
-      "album": "Don't Stop the Carnival",
-      "duration": "8:46",
-      "isrc": null,
-      "query": "Sonny Rollins Don't Stop the Carnival live Great American Music Hall 1978",
-      "notes": "live 1978 Great American Music Hall version (8:46) from Milestone M-55005, not the 1962 studio recording on What's New or the 1976 Turin live version"
-    },
-    "confidence": "high",
-    "sources": [
-      "https://www.jazzdisco.org/sonny-rollins/discography/",
-      "https://en.wikipedia.org/wiki/Don't_Stop_the_Carnival_(Sonny_Rollins_album)"
-    ],
-    "notes": "Live at the Great American Music Hall, San Francisco, 13-15 Apr 1978 (jazzdisco and Wikipedia agree); day of this track not given, so month used. CONFLICT on release: jazzdisco lists Milestone M-55005 under 1979, Wikipedia says 1978; 1979 kept (discography preferred), gap at most one year either way. Donald Byrd plays only on later tracks (5-10 per Wikipedia, 5-9 per jazzdisco), not on this opener. Wikipedia credits the tune as traditional. Rollins is credited with tenor and soprano saxophone on the album; the instrument on this track is assumed tenor."
-  },
-  {
-    "id": "jazz-vaughan-how-long-has-this-been-going-on",
-    "artist": "Sarah Vaughan",
-    "title": "How Long Has This Been Going On?",
-    "composer": "George Gershwin, Ira Gershwin",
-    "recording_date": "1978-04-25",
-    "recording_year": 1978,
-    "release_year": 1978,
-    "original_issue": "Pablo (LP, How Long Has This Been Going On?, 1978; catalogue number not verified)",
-    "personnel": "Sarah Vaughan (vocal), Oscar Peterson (piano), Joe Pass (guitar), Ray Brown (double bass), Louie Bellson (drums)",
-    "style": "vocal",
-    "year": 1978,
-    "year_lo": 1978,
-    "year_hi": 1978,
-    "year_label": "1978",
-    "trivia": "Vaughan is accompanied by a quartet led by Oscar Peterson, with Joe Pass on guitar, in a session produced by Norman Granz for his Pablo label. This is the title track of the 1978 album.",
-    "tags": [
-      "1970s",
-      "vocal",
-      "pablo"
-    ],
-    "track": {
-      "artist": "Sarah Vaughan",
-      "title": "How Long Has This Been Going On?",
-      "album": "How Long Has This Been Going On?",
-      "duration": "6:03",
-      "isrc": null,
-      "query": "Sarah Vaughan Oscar Peterson How Long Has This Been Going On 1978 Pablo",
-      "notes": "studio title track (6:03) from the 1978 Pablo album with the Oscar Peterson quartet, not another Vaughan version"
-    },
-    "confidence": "high",
-    "sources": [
-      "https://en.wikipedia.org/wiki/How_Long_Has_This_Been_Going_On?_(Sarah_Vaughan_album)"
-    ],
-    "notes": "Wikipedia's infobox gives a single recording date, 25 Apr 1978, for the album and no studio; used for this track. Released 1978, month not stated. Single source; Pablo catalogue number not verified."
   },
   {
     "id": "jazz-bob-james-angela-theme-from-taxi",

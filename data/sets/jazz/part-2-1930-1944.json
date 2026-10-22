@@ -151,43 +151,6 @@
     "notes": "Wikipedia says recorded in Hollywood; one other source says New York. The Carnegie Hall live version (recorded 1938, first issued 1950) is a different recording deliberately not used. Duration and date from Wikipedia."
   },
   {
-    "id": "jazz-goodman-quartet-moonglow",
-    "artist": "Benny Goodman Quartet",
-    "title": "Moonglow",
-    "composer": "Will Hudson, Eddie DeLange and Irving Mills",
-    "recording_date": "1936-08-21",
-    "recording_year": 1936,
-    "release_year": 1936,
-    "original_issue": "Victor 25398 (78 rpm, b/w Dinah)",
-    "personnel": "Benny Goodman (clarinet), Teddy Wilson (piano), Lionel Hampton (vibraphone), Gene Krupa (drums)",
-    "style": "swing",
-    "year": 1936,
-    "year_lo": 1936,
-    "year_hi": 1936,
-    "year_label": "1936",
-    "trivia": "Made in Hollywood in the summer of 1936, this was an early record by a mixed-race jazz group and the first on which Lionel Hampton appeared with Goodman. The quartet's elegant chamber-swing sound made it a hit.",
-    "tags": [
-      "1930s",
-      "swing",
-      "victor"
-    ],
-    "track": {
-      "artist": "Benny Goodman Quartet",
-      "title": "Moonglow",
-      "album": "Moonglow / Dinah (78 rpm single)",
-      "duration": "3:15",
-      "isrc": null,
-      "query": "Benny Goodman Quartet Moonglow 1936",
-      "notes": "The 21 Aug 1936 Victor quartet with Wilson, Hampton and Krupa; not the Goodman orchestra's other Moonglow recordings or the 1950s remakes"
-    },
-    "confidence": "high",
-    "sources": [
-      "https://adp.library.ucsb.edu/index.php/matrix/refer/200022440",
-      "https://en.wikipedia.org/wiki/List_of_Grammy_Hall_of_Fame_Award_recipients_(J%E2%80%93P)"
-    ],
-    "notes": "DAHR (matrix PBS-97752, take 1) gives 21 Aug 1936, Hollywood, Victor 25398 coupled with Dinah. Duration approximate (not taken from a source)."
-  },
-  {
     "id": "jazz-basie-one-oclock-jump",
     "artist": "Count Basie and His Orchestra",
     "title": "One O'Clock Jump",
@@ -935,44 +898,6 @@
     "notes": "Date and Dorsey Brothers accompaniment from classicjazzstandards.com and jazzstandards.com. Label conflict: Wikipedia and the Grammy list name Brunswick, jazzstandards.com says Columbia; I could not confirm the catalog number. Credited a blues in the Grammy list, but filed as a vocal-jazz crossover. Duration approximate (not taken from a source)."
   },
   {
-    "id": "jazz-nat-king-cole-straighten-up-and-fly-right",
-    "artist": "King Cole Trio",
-    "title": "Straighten Up and Fly Right",
-    "composer": "Nat King Cole and Irving Mills",
-    "recording_date": "1943-11-30",
-    "recording_year": 1943,
-    "release_year": 1944,
-    "original_issue": "Capitol 154 (78 rpm)",
-    "personnel": "Nat King Cole (piano, vocal), Oscar Moore (guitar), Johnny Miller (bass)",
-    "style": "vocal",
-    "year": 1943,
-    "year_lo": 1943,
-    "year_hi": 1943,
-    "year_label": "1943",
-    "trivia": "Cole based this tale of a buzzard and a monkey on a folk tale his preacher father told in sermons. The record was the Trio's first hit on the young Capitol label, and it began Cole's move from pianist to singer.",
-    "tags": [
-      "1940s",
-      "vocal",
-      "capitol",
-      "swing"
-    ],
-    "track": {
-      "artist": "The King Cole Trio",
-      "title": "Straighten Up and Fly Right",
-      "album": "Straighten Up and Fly Right (Capitol 154, 78 rpm single)",
-      "duration": "2:35",
-      "isrc": null,
-      "query": "The King Cole Trio Straighten Up and Fly Right 1943",
-      "notes": "The 30 Nov 1943 Capitol original; not Cole's later remakes or Capitol 1940s alternates"
-    },
-    "confidence": "high",
-    "sources": [
-      "https://en.wikipedia.org/wiki/Straighten_Up_and_Fly_Right",
-      "https://en.wikipedia.org/wiki/List_of_Grammy_Hall_of_Fame_Award_recipients_(Q%E2%80%93Z)"
-    ],
-    "notes": "Date, Capitol 154 and release (14 Apr 1944) from the Wikipedia infobox. Personnel from memory, not re-verified. Duration approximate (not taken from a source)."
-  },
-  {
     "id": "jazz-lionel-hampton-flying-home",
     "artist": "Lionel Hampton and His Orchestra",
     "title": "Flying Home",
@@ -1009,44 +934,6 @@
       "https://en.wikipedia.org/wiki/List_of_Grammy_Hall_of_Fame_Award_recipients_(E%E2%80%93I)"
     ],
     "notes": "Date from a Hampton discography page (swingcityradio.com); Decca 18394 from a reissue track listing and forum; Jacquet's first recording session. Full band roster is from memory, not re-verified (treat the personnel as partial). Duration approximate (not taken from a source)."
-  },
-  {
-    "id": "jazz-woody-herman-woodchoppers-ball",
-    "artist": "Woody Herman and His Orchestra",
-    "title": "Woodchopper's Ball",
-    "composer": "Woody Herman and Joe Bishop",
-    "recording_date": "1939-04-12",
-    "recording_year": 1939,
-    "release_year": 1939,
-    "original_issue": "Decca 2440 (78 rpm, b/w Big Wig in the Wigwam)",
-    "personnel": "Woody Herman (clarinet, alto sax, vocal, leader), Joe Bishop (flugelhorn, arranger) and the Herman orchestra (\"The Band That Plays the Blues\")",
-    "style": "big-band",
-    "year": 1939,
-    "year_lo": 1939,
-    "year_hi": 1939,
-    "year_label": "1939",
-    "trivia": "Herman's blues-based riff number gave his \"band that plays the blues\" a first big hit in 1939, and it became his theme. The label title was \"At the Woodchopper's Ball\", usually shortened to \"Woodchopper's Ball\".",
-    "tags": [
-      "1930s",
-      "big-band",
-      "decca"
-    ],
-    "track": {
-      "artist": "Woody Herman and His Orchestra",
-      "title": "Woodchopper's Ball",
-      "album": "At the Woodchopper's Ball / Big Wig in the Wigwam (78 rpm single)",
-      "duration": "3:17",
-      "isrc": null,
-      "query": "Woody Herman and His Orchestra Woodchopper's Ball 1939",
-      "notes": "The 12 Apr 1939 Decca original; not the 1940s-50s Herman remakes or other versions"
-    },
-    "confidence": "high",
-    "sources": [
-      "https://adpprod1.library.ucsb.edu/index.php/matrix/refer/2000293492",
-      "https://adp.library.ucsb.edu/index.php/objects/refer/311390",
-      "https://en.wikipedia.org/wiki/List_of_Grammy_Hall_of_Fame_Award_recipients_(Q%E2%80%93Z)"
-    ],
-    "notes": "DAHR: Decca matrix 65379, 4/12/1939, New York, Decca 2440 coupled with Big Wig in the Wigwam (65380). An earlier note had suggested a different date; DAHR's April 12 is used. Duration from earlier research."
   },
   {
     "id": "jazz-charlie-barnet-cherokee",
@@ -1273,44 +1160,6 @@
     "notes": "DAHR: Decca 3598, DLA 2326 take B, 1/2/1941; the DAHR page does not name an arranger (Vic Schoen's role is from memory). Crossover: usually classed as pop/boogie-woogie vocal; kept as a swing-era vocal hit. Duration approximate (not taken from a source)."
   },
   {
-    "id": "jazz-goodman-king-porter-stomp",
-    "artist": "Benny Goodman and His Orchestra",
-    "title": "King Porter Stomp",
-    "composer": "Jelly Roll Morton (Fletcher Henderson arrangement)",
-    "recording_date": "1935-07-01",
-    "recording_year": 1935,
-    "release_year": 1935,
-    "original_issue": "Victor 25090 (78 rpm)",
-    "personnel": "Benny Goodman (clarinet, leader), Bunny Berigan (trumpet), Gene Krupa (drums), Harry Goodman (bass), Allan Reuss (guitar), Art Rollini (tenor sax) and the Goodman orchestra",
-    "style": "big-band",
-    "year": 1935,
-    "year_lo": 1935,
-    "year_hi": 1935,
-    "year_label": "1935",
-    "trivia": "Fletcher Henderson's arrangement of Jelly Roll Morton's tune, played by Goodman's band, made a dance-hall sensation of a decade-old New Orleans composition. Goodman's summer 1935 tour, climaxing at the Palomar in Los Angeles, is often taken as the birth of the swing era.",
-    "tags": [
-      "1930s",
-      "big-band",
-      "victor"
-    ],
-    "track": {
-      "artist": "Benny Goodman and His Orchestra",
-      "title": "King Porter Stomp",
-      "album": "King Porter Stomp / Sometimes I'm Happy (78 rpm single)",
-      "duration": "3:13",
-      "isrc": null,
-      "query": "Benny Goodman and His Orchestra King Porter Stomp 1935",
-      "notes": "The 1 July 1935 Victor studio recording with the Henderson arrangement; not Jelly Roll Morton's own versions or the 1938 Carnegie Hall performance"
-    },
-    "confidence": "medium",
-    "sources": [
-      "https://en.wikipedia.org/wiki/King_Porter_Stomp",
-      "https://oldtimeblues.net/tag/gene-krupa/",
-      "https://en.wikipedia.org/wiki/List_of_Grammy_Hall_of_Fame_Award_recipients_(J%E2%80%93P)"
-    ],
-    "notes": "Date, Victor number and the release date of 31 July 1935 from oldtimeblues.net and Wikipedia; the personnel listing there includes Berigan, Krupa, Allan Reuss, Harry Goodman and Art Rollini but I did not verify the full roster. Coupling from memory. Duration approximate (not taken from a source)."
-  },
-  {
     "id": "jazz-cab-calloway-hep-hep-the-jumpin-jive",
     "artist": "Cab Calloway and His Orchestra",
     "title": "(Hep-Hep!) The Jumpin' Jive",
@@ -1385,79 +1234,6 @@
       "https://jazz.com/music/gene-krupa-roy-eldridge-let-me-off-uptown"
     ],
     "notes": "Wikipedia gives recording as May 1941 (exact day not found), release June 1941; coupling per Wikipedia infobox. Radio Swiss Jazz lists a 1956 recording which is a separate remake. The OKeh catalog number was not found. Duration approximate (not taken from a source)."
-  },
-  {
-    "id": "jazz-bennie-moten-moten-swing",
-    "artist": "Bennie Moten's Kansas City Orchestra",
-    "title": "Moten Swing",
-    "composer": "Bennie and Buster Moten (Eddie Durham arrangement; authorship disputed)",
-    "recording_date": "1932-12-13",
-    "recording_year": 1932,
-    "release_year": 1933,
-    "original_issue": "Victor 23384 (78 rpm)",
-    "personnel": "Bennie Moten (leader), Count Basie (piano), Hot Lips Page (trumpet), Eddie Durham (trombone, guitar, arranger), Ben Webster, Eddie Barefield (reeds), Walter Page (bass)",
-    "style": "swing",
-    "year": 1932,
-    "year_lo": 1932,
-    "year_hi": 1932,
-    "year_label": "1932",
-    "trivia": "Moten's Kansas City band, which included Basie and several future stars, cut this riff-based number in Camden, New Jersey. After Moten died in 1935, Basie took over the band's style and sound.",
-    "tags": [
-      "1930s",
-      "swing",
-      "victor"
-    ],
-    "track": {
-      "artist": "Bennie Moten's Kansas City Orchestra",
-      "title": "Moten Swing",
-      "album": "Moten's Swing (Victor 23384, 78 rpm single)",
-      "duration": "3:15",
-      "isrc": null,
-      "query": "Bennie Moten's Kansas City Orchestra Moten Swing Moten's Swing 1932",
-      "notes": "The 13 Dec 1932 Victor recording; not the later Basie versions"
-    },
-    "confidence": "medium",
-    "sources": [
-      "https://adp.library.ucsb.edu/index.php/matrix/refer/800040141",
-      "https://en.wikipedia.org/wiki/Moten_Swing"
-    ],
-    "notes": "DAHR: Victor matrix BS-74847, 12/13/1932, Camden NJ, Victor 23384 (not 23038). Release year 1933 is an estimate; personnel from memory/Wikipedia, not re-verified (DAHR lists the instrumentation only). Duration approximate (not taken from a source)."
-  },
-  {
-    "id": "jazz-ellington-sophisticated-lady",
-    "artist": "Duke Ellington and His Orchestra",
-    "title": "Sophisticated Lady",
-    "composer": "Duke Ellington (lyrics Mitchell Parish; publisher credit Irving Mills)",
-    "recording_date": "1933-02-15",
-    "recording_year": 1933,
-    "release_year": 1933,
-    "original_issue": "78 rpm single issued 1933 (label and catalogue number not verified)",
-    "personnel": "Duke Ellington (piano, leader), Otto \"Toby\" Hardwick (alto sax), Barney Bigard (clarinet), Lawrence Brown (trombone); the rest of the orchestra was not verified",
-    "style": "big-band",
-    "year": 1933,
-    "year_lo": 1933,
-    "year_hi": 1933,
-    "year_label": "1933",
-    "trivia": "This instrumental entered the US charts on 27 May 1933 and climbed to number three, with solos from Toby Hardwick, Barney Bigard, Lawrence Brown and Ellington himself. Trombonist Lawrence Brown claimed he came up with the main hook of the tune's opening strain.",
-    "tags": [
-      "1930s",
-      "big-band"
-    ],
-    "track": {
-      "artist": "Duke Ellington and His Orchestra",
-      "title": "Sophisticated Lady",
-      "album": "Single (1933)",
-      "duration": "3:13",
-      "isrc": null,
-      "query": "Duke Ellington Sophisticated Lady 1933 original recording",
-      "notes": "Ellington's original 1933 orchestra recording (instrumental), not a later Ellington remake or a vocal version by another singer"
-    },
-    "confidence": "medium",
-    "sources": [
-      "https://en.wikipedia.org/wiki/Sophisticated_Lady",
-      "https://musicbrainz.org/recording/860c41a3-5b4e-4830-9ff0-d29e0db0217e"
-    ],
-    "notes": "Date (15 Feb 1933), the chart run and the solo order come from Wikipedia; it names no label or catalogue number, so none is given. MusicBrainz carries a recording credit dated 1933-05-16 (Ellington on piano only) which was not reconciled with the February date. Duration is the MusicBrainz length, approximate. Chosen instead of Caravan (1937), whose session date could not be pinned down from the sources reachable (an archive snippet gave 1937-04-29, other recollection 14 May)."
   },
   {
     "id": "jazz-jimmie-lunceford-rhythm-is-our-business",
@@ -1658,82 +1434,6 @@
     "notes": "Date, Vocalion 3654 and matrix from the 78discography Vocalion listing; Wikipedia's Loch Lomond article gives the same date and matrix and the number as 364, which looks like a truncation. Personnel is MusicBrainz's credit list. The 14 recordings, the swung-folk-song trend and the Goodman imitation of the arrangement are from Wikipedia's Loch Lomond article. Duration is the MusicBrainz length (2:51 to 2:54 across issues)."
   },
   {
-    "id": "jazz-fats-waller-the-joint-is-jumpin",
-    "artist": "Fats Waller and His Rhythm",
-    "title": "The Joint Is Jumpin'",
-    "composer": "Fats Waller, Andy Razaf, J. C. Johnson",
-    "recording_date": "1937-10-07",
-    "recording_year": 1937,
-    "release_year": 1937,
-    "original_issue": "Victor 25689 (10-inch 78 rpm; matrix BS-014646, recorded in New York); released 20 October 1937",
-    "personnel": "Fats Waller (piano, vocal), Herman Autrey (trumpet), Gene Sedric (clarinet, tenor sax), Al Casey (guitar), Charles Turner (bass), Slick Jones (drums)",
-    "style": "swing",
-    "year": 1937,
-    "year_lo": 1937,
-    "year_hi": 1937,
-    "year_label": "1937",
-    "trivia": "Waller wrote the tune with lyricist Andy Razaf and J. C. Johnson, and Victor had it in the shops two weeks after the session. Waller filmed it again in 1941 as one of four Soundies shorts he made that year.",
-    "tags": [
-      "1930s",
-      "swing",
-      "victor",
-      "stride",
-      "vocal"
-    ],
-    "track": {
-      "artist": "Fats Waller and His Rhythm",
-      "title": "The Joint Is Jumpin'",
-      "album": "Single (Victor 25689)",
-      "duration": "2:49",
-      "isrc": null,
-      "query": "Fats Waller and His Rhythm The Joint Is Jumpin' 1937 Victor",
-      "notes": "Original Victor studio recording of October 1937, not the 1941 Soundies film performance"
-    },
-    "confidence": "high",
-    "sources": [
-      "https://musicbrainz.org/recording/3ba78c80-430b-42df-ae31-76c3f28725bd",
-      "https://en.wikipedia.org/wiki/Fats_Waller"
-    ],
-    "notes": "Date, Victor 25689, matrix and the 20 Oct 1937 release date come from a DAHR search snippet (which spells the title 'joint is jumping') and MusicBrainz; the DAHR page itself could not be opened. DAHR lists only Waller; the rest of the personnel is MusicBrainz's credit list. Wikipedia's Fats Waller article lists the 1941 Soundies including this title. Duration is the MusicBrainz length."
-  },
-  {
-    "id": "jazz-glenn-miller-a-string-of-pearls",
-    "artist": "Glenn Miller and His Orchestra",
-    "title": "A String of Pearls",
-    "composer": "Jerry Gray (music), Eddie DeLange (lyrics)",
-    "recording_date": "1941-11-03",
-    "recording_year": 1941,
-    "release_year": 1941,
-    "original_issue": "Bluebird B-11382 (10-inch 78 rpm; matrix 68068; B-side of \"Day Dreaming\"); released 5 December 1941",
-    "personnel": "Glenn Miller (trombone, leader), Johnny Best, R. D. McMickle, Billy May and Alec Fila (trumpets), Jimmy Priddy, Paul Tanner and Frank D'Annolfo (trombones), Babe Russin, Tex Beneke, Wilbur Schwartz, Ernie Caceres and Al Klink (saxes), Chummy MacGregor (piano), Bobby Hackett (cornet, guitar), Doc Goldberg (bass), Moe Purtill (drums)",
-    "style": "big-band",
-    "year": 1941,
-    "year_lo": 1941,
-    "year_hi": 1941,
-    "year_label": "1941",
-    "trivia": "Jerry Gray's tune, with a cornet solo by Bobby Hackett, was a Billboard number one for two weeks in 1942. It came out on Bluebird less than five weeks after the session.",
-    "tags": [
-      "1940s",
-      "big-band",
-      "bluebird"
-    ],
-    "track": {
-      "artist": "Glenn Miller and His Orchestra",
-      "title": "A String of Pearls",
-      "album": "Single (Bluebird B-11382)",
-      "duration": "3:15",
-      "isrc": null,
-      "query": "Glenn Miller and His Orchestra A String of Pearls 1941 Bluebird",
-      "notes": "Original Bluebird studio recording of 3 November 1941, not the later wartime broadcast versions"
-    },
-    "confidence": "high",
-    "sources": [
-      "https://en.wikipedia.org/wiki/A_String_of_Pearls",
-      "http://www.78discography.com/BB11000.htm"
-    ],
-    "notes": "Wikipedia's infobox and the 78discography listing give 3 November 1941; Wikipedia's running text says 8 November. 3 November used. Date, number, matrix and 'Day Dreaming' coupling from the 78 listing; release date, chart run, personnel and 3:15 duration from Wikipedia. Glenn Miller is at four cards with this one."
-  },
-  {
     "id": "jazz-goodman-why-dont-you-do-right",
     "artist": "Benny Goodman and His Orchestra (vocal Peggy Lee)",
     "title": "Why Don't You Do Right?",
@@ -1771,46 +1471,6 @@
       "https://musicbrainz.org/recording/0a48b356-039e-4402-a973-e8935c81d84e"
     ],
     "notes": "DATE CONFLICT: 78discography (matrix CO33048=1; neighbouring matrices dated 28 July) gives 27 July 1942, which is used; the MusicBrainz credit list is dated 1942-02-27, probably a typo. The personnel list comes from that MusicBrainz entry and was not matched to the July date, hence medium confidence. Wikipedia supplies the song history, the film appearance and the million-seller claim. Duration is the MusicBrainz length. Goodman is at four cards with this one."
-  },
-  {
-    "id": "jazz-dinah-washington-evil-gal-blues",
-    "artist": "Dinah Washington (with Lionel Hampton's sextet)",
-    "title": "Evil Gal Blues",
-    "composer": "Leonard Feather",
-    "recording_date": "1943-12",
-    "recording_year": 1943,
-    "release_year": 1944,
-    "original_issue": "Keynote 78 rpm single, 1943-44 (catalogue number not verified)",
-    "personnel": "Dinah Washington (vocal), Lionel Hampton (vibraphone) and musicians from his band including Joe Morris (trumpet) and Milt Buckner (piano); the full line-up was not verified",
-    "style": "vocal",
-    "year": 1943,
-    "year_lo": 1943,
-    "year_hi": 1943,
-    "year_label": "1943",
-    "trivia": "Dinah Washington's recording debut, written by critic Leonard Feather (first recorded in 1940 by the Hot Lips Page Trio) and made with musicians from Lionel Hampton's band, reached number nine on the R&B chart in 1944. It was the B-side of the first of her two Keynote discs with the Hampton sextet.",
-    "tags": [
-      "1940s",
-      "vocal",
-      "keynote",
-      "blues",
-      "r-and-b"
-    ],
-    "track": {
-      "artist": "Dinah Washington",
-      "title": "Evil Gal Blues",
-      "album": "Single (Keynote, 1944)",
-      "duration": "2:54",
-      "isrc": null,
-      "query": "Dinah Washington Evil Gal Blues 1943 Keynote Lionel Hampton",
-      "notes": "Original Keynote studio recording of December 1943 with Hampton's musicians, not later remakes of the song"
-    },
-    "confidence": "low",
-    "sources": [
-      "https://en.wikipedia.org/wiki/Dinah_Washington",
-      "https://en.wikipedia.org/wiki/Evil_Man's_Blues",
-      "https://en.wikipedia.org/wiki/Dinah_Washington_discography"
-    ],
-    "notes": "LOW CONFIDENCE ON THE YEAR: Wikipedia's Dinah Washington article says only that she made her debut for Keynote 'that December' (after joining Hampton) and does not print the year; its Evil Man's Blues article says she launched her career in 1944 with a two-disc set of 78s, and the discography shows 1944 R&B peaks (Evil Gal Blues number 9). December 1943 is the date in the standard discographies from memory and is consistent with the Keynote singles series MusicBrainz titles 1943-1953, but it was not confirmed from a source read, so the card is set to low; if wrong the recording would fall in 1944. Personnel (Hampton, Joe Morris, Milt Buckner) is from Wikipedia; the full line-up, Keynote number, exact day and the original label billing were not verified (MusicBrainz credits the reissued track to Lionel Hampton Sextet feat. Dinah Washington, with no dated personnel). Duration is approximate (MusicBrainz lengths run from about 2:52 to 2:55)."
   },
   {
     "id": "jazz-azpiazu-the-peanut-vendor-el-manisero",
@@ -2012,46 +1672,6 @@
       "https://musicbrainz.org/recording/9d63b007-ed64-4238-aa20-391a6659d7c1"
     ],
     "notes": "Date and Vocalion 4021 (matrix 22318-4) come from the 78discography Vocalion listing and match Wikipedia's 17 Feb 1938. Personnel is the MusicBrainz credit list for this recording. Duration is the MusicBrainz recording length (2:52). Wikipedia says Benny Goodman's radio performance helped launch its popularity."
-  },
-  {
-    "id": "jazz-goodman-dont-be-that-way",
-    "artist": "Benny Goodman and His Orchestra",
-    "title": "Don't Be That Way",
-    "composer": "Edgar Sampson and Benny Goodman (lyrics Mitchell Parish)",
-    "recording_date": "1938-02-16",
-    "recording_year": 1938,
-    "release_year": 1938,
-    "original_issue": "Victor 25792 (10-inch 78 rpm; matrix 19831; b/w \"One O'Clock Jump\")",
-    "personnel": "Benny Goodman (clarinet, leader) and His Orchestra; the full line-up was not verified",
-    "style": "swing",
-    "year": 1938,
-    "year_lo": 1938,
-    "year_hi": 1938,
-    "year_label": "1938",
-    "trivia": "Edgar Sampson wrote this tune while with Chick Webb's band, and it became a Goodman showpiece. Goodman opened his famous Carnegie Hall concert of 16 January 1938 with it, a month before cutting this studio single.",
-    "tags": [
-      "1930s",
-      "swing",
-      "victor",
-      "big-band"
-    ],
-    "track": {
-      "artist": "Benny Goodman and His Orchestra",
-      "title": "Don't Be That Way",
-      "album": "Don't Be That Way / One O'Clock Jump (Victor 25792, 78 rpm single)",
-      "duration": "3:17",
-      "isrc": null,
-      "query": "Benny Goodman and His Orchestra Don't Be That Way Victor 25792 1938 studio single",
-      "notes": "Victor studio single recorded 16 Feb 1938; not the live performance that opened the Carnegie Hall concert of 16 Jan 1938"
-    },
-    "confidence": "medium",
-    "sources": [
-      "https://en.wikipedia.org/wiki/Edgar_Sampson",
-      "https://en.wikipedia.org/wiki/The_Famous_1938_Carnegie_Hall_Jazz_Concert",
-      "http://www.78discography.com/vic25500.html",
-      "https://musicbrainz.org/recording/bfe4750e-b82c-4a5d-bd9c-f9c4219b1faf"
-    ],
-    "notes": "Studio single of 16 Feb 1938 from the 78discography Victor listing (Victor 25792, matrix 19831, b/w \"One O'Clock Jump\"); MusicBrainz gives 1938 and a 3:17 length (used as the duration). This is NOT the live performance that opened the Carnegie Hall concert of 16 Jan 1938. No session personnel list was found (MusicBrainz credits only Goodman), so the line-up is not given and confidence is medium. Composer credit from Wikipedia's Edgar Sampson article; the Carnegie Hall running order from the concert article. Goodman's fifth card in the set, the one extra slot allowed."
   },
   {
     "id": "jazz-armstrong-when-the-saints-go-marching-in",
@@ -2294,46 +1914,6 @@
       "https://musicbrainz.org/recording/1ba3ee69-e48a-4176-b25d-084c37ceeae1"
     ],
     "notes": "Date (18 Feb 1942), Decca 18318 and matrix 70348-A come from the 78discography Decca listing and agree with Wikipedia; the May 1942 release is from Wikipedia. The brief's 1943 refers to the chart year, not the recording (1942). Side conflict: Wikipedia calls \"I'll Be Around\" the A-side while the discography lists Paper Doll as 18318A, so the sides are not stated. John Mills Jr. had died in 1936, so this is not the original four-man line-up; only the three surviving brothers are named. Duration is the MusicBrainz recording length (2:38). Crossover pick: a pop number-one by a vocal group."
-  },
-  {
-    "id": "jazz-jordan-is-you-is-or-is-you-aint-ma-baby",
-    "artist": "Louis Jordan and His Tympany Five",
-    "title": "Is You Is or Is You Ain't (Ma' Baby)",
-    "composer": "Billy Austin and Louis Jordan",
-    "recording_date": "1943-10-04",
-    "recording_year": 1943,
-    "release_year": 1944,
-    "original_issue": "Decca 8659 (10-inch 78 rpm; matrix L3205; b/w \"G.I. Jive\")",
-    "personnel": "Louis Jordan (alto and tenor sax, vocal), Eddie Roane (trumpet), Arnold Thomas (piano), Jesse \"Po\" Simpkins (bass), Shadow Wilson (drums), per the MusicBrainz credits",
-    "style": "swing",
-    "year": 1943,
-    "year_lo": 1943,
-    "year_hi": 1943,
-    "year_label": "1943",
-    "trivia": "Issued as the B-side of \"G.I. Jive\", this Jordan and Billy Austin song still reached number two on the pop chart, and more than 130 artists have recorded it since. A Smithsonian summary quoted by Wikipedia singles out the humour and the call-and-response vocals between Jordan and the band as hallmarks of his style.",
-    "tags": [
-      "1940s",
-      "swing",
-      "decca",
-      "jump-blues",
-      "vocal"
-    ],
-    "track": {
-      "artist": "Louis Jordan and His Tympany Five",
-      "title": "Is You Is or Is You Ain't (Ma' Baby)",
-      "album": "G.I. Jive / Is You Is or Is You Ain't (Ma' Baby) (Decca 8659, 78 rpm single)",
-      "duration": "2:44",
-      "isrc": null,
-      "query": "Louis Jordan and His Tympany Five Is You Is or Is You Ain't (Ma' Baby) Decca 8659 1943",
-      "notes": "Decca 8659 studio recording of 4 Oct 1943; not the Bing Crosby and Andrews Sisters cover of June 1944"
-    },
-    "confidence": "high",
-    "sources": [
-      "https://en.wikipedia.org/wiki/Is_You_Is_or_Is_You_Ain't_My_Baby",
-      "http://www.78discography.com/Dec8500.htm",
-      "https://musicbrainz.org/recording/97c673c3-dbed-4dbb-af14-492ba76b355c"
-    ],
-    "notes": "Date (4 Oct 1943), Decca 8659 and matrix L3205 come from the 78discography Decca listing and agree with Wikipedia and MusicBrainz, which supplies the line-up. The other side, \"G.I. Jive\", was recorded at a separate session. First release: Wikipedia says June 1944 and MusicBrainz April 1944; 1944 is used (the gap to the recording year is under two years). This is Jordan's third card in the set, taken as the explicitly allowed extra slot. Duration is the MusicBrainz recording length (2:44)."
   },
   {
     "id": "jazz-tommy-dorsey-opus-no-1",

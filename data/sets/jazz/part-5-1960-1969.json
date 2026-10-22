@@ -298,44 +298,6 @@
     "notes": "Date, matrix 5120 and issues from jazzdisco (Atlantic Studios, NYC); the album was recorded across 21, 24 and 26 Oct 1960 and the title track comes from the first session. 13:41, the March 1961 release and the soprano-sax background from the Wikipedia album page, which lists the single parts as 2:45 and 3:02. Fourth Coltrane card in the set counting the one with Ellington in part 5b."
   },
   {
-    "id": "jazz-gilberto-samba-de-uma-nota-so",
-    "artist": "João Gilberto",
-    "title": "Samba de Uma Nota Só",
-    "composer": "Antônio Carlos Jobim and Newton Mendonça",
-    "recording_date": null,
-    "recording_year": 1960,
-    "release_year": 1960,
-    "original_issue": "Odeon LP \"O Amor, o Sorriso e a Flor\" (Brazil, 1960); US edition Capitol ST 10280 as \"Brazil's Brilliant João Gilberto\" (1960)",
-    "personnel": "João Gilberto (vocal, guitar)",
-    "style": "bossa-nova",
-    "year": 1960,
-    "year_lo": 1960,
-    "year_hi": 1960,
-    "year_label": "1960",
-    "trivia": "Wikipedia credits Gilberto with the first recording of this Jobim and Mendonça song, on the album that introduced bossa nova to North American listeners. The US edition came out almost at once under a different title on Capitol.",
-    "tags": [
-      "1960s",
-      "bossa-nova",
-      "odeon"
-    ],
-    "track": {
-      "artist": "João Gilberto",
-      "title": "Samba de Uma Nota Só",
-      "album": "O Amor, o Sorriso e a Flor",
-      "duration": "1:38",
-      "isrc": null,
-      "query": "João Gilberto Samba de Uma Nota Só O Amor, o Sorriso e a Flor 1960",
-      "notes": "Odeon studio version on the 1960 album (about 1:38); not the later Getz/Gilberto-era or live versions"
-    },
-    "confidence": "medium",
-    "sources": [
-      "https://en.wikipedia.org/wiki/O_Amor,_o_Sorriso_e_a_Flor",
-      "https://en.wikipedia.org/wiki/One_Note_Samba",
-      "https://pt.wikipedia.org/wiki/O_Amor,_o_Sorriso_e_a_Flor"
-    ],
-    "notes": "Recording year is not pinned down: English Wikipedia says the song was first recorded in 1960 for this album and dates the album to 1960, while Portuguese Wikipedia gives recording in 1959 and 1960 in Rio de Janeiro. No exact session date was found, so ry is 1960 and confidence is medium. Duration 1:38 is from the Wikipedia track list (MusicBrainz lists about 1:37 to 1:39). Personnel is the album credit; no session personnel source was found. Gilberto already has Chega de Saudade (1958) and shares The Girl from Ipanema with Getz in part 5b, so this would be a third card: drop it if the cap of two applies strictly."
-  },
-  {
     "id": "jazz-eddie-harris-exodus",
     "artist": "Eddie Harris",
     "title": "Exodus",
@@ -797,44 +759,6 @@
     "notes": "Date, matrix 11115 and Aaron Bell / Elvin Jones for this track from jazzdisco (Van Gelder Studio, Englewood Cliffs); Wikipedia's track-by-track personnel agrees. Jazzdisco also lists an edited version (matrix 11295, made in New York on 15 January 1963) that was not examined further. This is Ellington's 7th and Coltrane's 4th card in the set (giant slot approved by the coordinator)."
   },
   {
-    "id": "jazz-cannonball-jive-samba",
-    "artist": "Cannonball Adderley",
-    "title": "Jive Samba",
-    "composer": "Nat Adderley",
-    "recording_date": "1962-09",
-    "recording_year": 1962,
-    "release_year": 1962,
-    "original_issue": "Riverside RM 444 / RS 9444 (LP \"Jazz Workshop Revisited\", recorded live at the Jazz Workshop, San Francisco, 22-23 September 1962)",
-    "personnel": "Cannonball Adderley (alto sax), Nat Adderley (cornet), Yusef Lateef (tenor sax, flute, oboe), Joe Zawinul (piano), Sam Jones (bass), Louis Hayes (drums); producer Orrin Keepnews",
-    "style": "soul-jazz",
-    "year": 1962,
-    "year_lo": 1962,
-    "year_hi": 1962,
-    "year_label": "1962",
-    "trivia": "Nat Adderley's samba-flavoured tune is the 11-minute centrepiece of a live set from San Francisco's Jazz Workshop, with Cannonball introducing the numbers from the stage. The album reached No. 11 on Billboard's Top LPs and stayed on the chart for 25 weeks.",
-    "tags": [
-      "1960s",
-      "soul-jazz",
-      "riverside",
-      "live"
-    ],
-    "track": {
-      "artist": "Cannonball Adderley",
-      "title": "Jive Samba",
-      "album": "Jazz Workshop Revisited",
-      "duration": "11:00",
-      "isrc": null,
-      "query": "Cannonball Adderley Jive Samba Jazz Workshop Revisited 1962 live",
-      "notes": "Live version from Jazz Workshop Revisited (about 11:00), not a studio recording or the 1962 Birdland broadcast"
-    },
-    "confidence": "high",
-    "sources": [
-      "https://www.jazzdisco.org/cannonball-adderley/discography/",
-      "https://en.wikipedia.org/wiki/Jazz_Workshop_Revisited"
-    ],
-    "notes": "The session spans 22 and 23 September 1962 and the day of this track is not stated, so the month is used. Release year conflict: Wikipedia's infobox and chart text imply 1962 (the album entered the chart that year, peaking in 1963), while jazzdisco lists the Riverside LP as 1963; 1962 is used. Jazzdisco's track title is \"The Jive Samba\", the Wikipedia track list says \"Jive Samba\". Cannonball's 2nd card in the set."
-  },
-  {
     "id": "jazz-peterson-hymn-to-freedom",
     "artist": "The Oscar Peterson Trio",
     "title": "Hymn to Freedom",
@@ -1216,81 +1140,6 @@
     "notes": "GAP: recorded 1963, first released 1965 (2 yrs). Date and take (tk.14, 4 November 1963; Van Gelder Studio, Englewood Cliffs) from jazzdisco; Wikipedia gives the album sessions as 4 and 15 November 1963 and release in February 1965 (jazzdisco also lists the LP as 1965), so the gap of about 15 months to the next calendar year is real but the reason it sat unreleased was not sourced. Duration 14:56 from the Wikipedia track list."
   },
   {
-    "id": "jazz-gordon-a-night-in-tunisia",
-    "artist": "Dexter Gordon",
-    "title": "A Night in Tunisia",
-    "composer": "Dizzy Gillespie (Frank Paparelli co-credited)",
-    "recording_date": "1963-05-23",
-    "recording_year": 1963,
-    "release_year": 1963,
-    "original_issue": "Blue Note BLP 4146 / BST 84146 (LP \"Our Man in Paris\", December 1963)",
-    "personnel": "Dexter Gordon (tenor sax), Bud Powell (piano), Pierre Michelot (bass), Kenny Clarke (drums); producer Francis Wolff",
-    "style": "bebop",
-    "year": 1963,
-    "year_lo": 1963,
-    "year_hi": 1963,
-    "year_label": "1963",
-    "trivia": "Gordon had just moved to Copenhagen when he cut this Paris session with fellow expatriates Bud Powell and Kenny Clarke. The plan for new Gordon compositions was dropped because Powell would not play new material, so standards were chosen at rehearsal.",
-    "tags": [
-      "1960s",
-      "bebop",
-      "blue-note"
-    ],
-    "track": {
-      "artist": "Dexter Gordon",
-      "title": "A Night in Tunisia",
-      "album": "Our Man in Paris",
-      "duration": "8:15",
-      "isrc": null,
-      "query": "Dexter Gordon A Night in Tunisia Our Man in Paris 1963",
-      "notes": "Blue Note album track from Our Man in Paris (8:15; tk.1 of 23 May 1963), not Dizzy Gillespie's 1946 original or Charlie Parker's recording"
-    },
-    "confidence": "high",
-    "sources": [
-      "https://www.jazzdisco.org/dexter-gordon/discography/",
-      "https://en.wikipedia.org/wiki/Our_Man_in_Paris"
-    ],
-    "notes": "Date and Blue Note catalogue number from jazzdisco (CBS Studios, Paris, as \"Dexter Gordon With The Three Bosses\"); personnel, 8:15 and December 1963 release from Wikipedia. The Penguin Guide to Jazz gave the album a maximum rating and a core-collection place, calling this performance one of Gordon's finest. Dexter Gordon's 2nd card in the set and the tune's 2nd version after Gillespie's 1946 recording."
-  },
-  {
-    "id": "jazz-davis-my-funny-valentine",
-    "artist": "Miles Davis",
-    "title": "My Funny Valentine",
-    "composer": "Richard Rodgers, Lorenz Hart",
-    "recording_date": "1964-02-12",
-    "recording_year": 1964,
-    "release_year": 1965,
-    "original_issue": "Columbia CL 2306 (mono) / CS 9106 (stereo), LP \"My Funny Valentine: Miles Davis in Concert\", released 23 February 1965",
-    "personnel": "Miles Davis (trumpet), George Coleman (tenor sax), Herbie Hancock (piano), Ron Carter (bass), Tony Williams (drums)",
-    "style": "post-bop",
-    "year": 1964,
-    "year_lo": 1964,
-    "year_hi": 1964,
-    "year_label": "1964",
-    "trivia": "Recorded live at New York's Philharmonic Hall as a benefit for civil-rights organisations (NAACP, CORE and SNCC) supporting voter registration in the South. It was the last recording George Coleman made with Davis.",
-    "tags": [
-      "1960s",
-      "post-bop",
-      "columbia",
-      "live"
-    ],
-    "track": {
-      "artist": "Miles Davis",
-      "title": "My Funny Valentine",
-      "album": "My Funny Valentine: Miles Davis in Concert",
-      "duration": "15:03",
-      "isrc": null,
-      "query": "Miles Davis My Funny Valentine My Funny Valentine Miles Davis in Concert 1964",
-      "notes": "Live take from the Lincoln Center concert of 12 Feb 1964 (15:03 on the LP), not the 1956 Prestige studio version on Cookin' nor Davis's other live versions"
-    },
-    "confidence": "high",
-    "sources": [
-      "https://www.jazzdisco.org/miles-davis/discography/",
-      "https://en.wikipedia.org/wiki/My_Funny_Valentine:_Miles_Davis_in_Concert"
-    ],
-    "notes": "Date, venue and personnel from jazzdisco (second set of the evening) and the album's Wikipedia page, which gives the release as 23 Feb 1965. YouTube: the Miles Davis channel upload is 901 s (about 265k views). Set-level note: this is the 6th Davis card in the set (assignment slot), and the 2nd version of the tune after Mulligan's 1952 recording."
-  },
-  {
     "id": "jazz-coltrane-a-love-supreme-part-i-acknowledgement",
     "artist": "John Coltrane",
     "title": "A Love Supreme, Part I: Acknowledgement",
@@ -1416,7 +1265,7 @@
     "recording_year": 1964,
     "release_year": 1965,
     "original_issue": "Verve V6-8614 (stereo LP \"Soul Sauce\", 1965)",
-    "personnel": "Cal Tjader (vibraphone), Lonnie Hewitt (piano), John Hilliard (bass), Johnny Rae (drums), Willie Bobo, Armando Peraza and Alberto Valdes (percussion)",
+    "personnel": "Cal Tjader (vibraphone), Lonnie Hewitt (piano), John Hilliard (bass), Johnny Rae (drums), Willie Bobo, Armando Peraza and Alberto Valdés (percussion)",
     "style": "latin",
     "year": 1964,
     "year_lo": 1964,
@@ -2289,44 +2138,6 @@
       "https://musicbrainz.org/recording/fd91b6d0-46da-4af8-bf0c-90ed6a1e1b6a"
     ],
     "notes": "Weakest card: the exact recording date is not documented, so 1968 follows from the 1968 film and Wikipedia's statement that the song debuted in it. Release conflict: Wikipedia dates the US single and soundtrack album 1968, MusicBrainz dates the US single Ariel AR 500 and the US LP \"Sweden Heaven and Hell\" 1969, and the Italian Omicron LP (LPM 0014, 1968) track list there does not include this title; 1968 is kept. Jazz status is marginal: Wikipedia calls Umiliani a film composer and the tune is a scat novelty from a studio combo, so it is a pure crossover pick. Duration is the MusicBrainz length (128 s) of the US LP track; the original UK single is not timed."
-  },
-  {
-    "id": "jazz-wes-montgomery-road-song",
-    "artist": "Wes Montgomery",
-    "title": "Road Song",
-    "composer": "Wes Montgomery",
-    "recording_date": "1968-05-08",
-    "recording_year": 1968,
-    "release_year": 1968,
-    "original_issue": "A&M SP-3012 (LP \"Road Song\", October 1968; produced by Creed Taylor)",
-    "personnel": "Wes Montgomery (guitar), Herbie Hancock (piano), Richard Davis (bass), Ed Shaughnessy (drums), Ray Barretto and Jack Jennings (percussion), Sivert Johnson Jr. (harpsichord), brass, woodwinds and strings under arranger Don Sebesky; jazzdisco gives one roster for the whole 8 May session",
-    "style": "smooth",
-    "year": 1968,
-    "year_lo": 1968,
-    "year_hi": 1968,
-    "year_label": "1968",
-    "trivia": "Montgomery's last album was recorded about five weeks before he died of a heart attack on 15 June 1968, and this self-written title tune shows the lush orchestral setting that Creed Taylor gave his guitar in his A&M years. The LP reached number one on Billboard's jazz album chart.",
-    "tags": [
-      "1960s",
-      "smooth",
-      "a-and-m",
-      "orchestral"
-    ],
-    "track": {
-      "artist": "Wes Montgomery",
-      "title": "Road Song",
-      "album": "Road Song",
-      "duration": "3:53",
-      "isrc": null,
-      "query": "Wes Montgomery Road Song Road Song 1968",
-      "notes": "A&M studio recording of 8 May 1968 (3:53), not Montgomery's Riverside or Verve-era recordings"
-    },
-    "confidence": "high",
-    "sources": [
-      "https://www.jazzdisco.org/wes-montgomery/discography/",
-      "https://en.wikipedia.org/wiki/Road_Song"
-    ],
-    "notes": "Date and the personnel roster from jazzdisco (Van Gelder Studio, Englewood Cliffs, 8 May 1968, A&M SP-3012); Wikipedia's album page gives 7-9 May and lists drummer Grady Tate as well, and its track list gives the 3:53 length and Montgomery's writing credit. Chosen as Montgomery's single card (California Dreaming of 1966 was the alternative) to fill 1968. Style set to smooth as the closest listed tag for the orchestral A&M/CTI sound."
   },
   {
     "id": "jazz-davis-bitches-brew",
