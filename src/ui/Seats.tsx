@@ -11,10 +11,12 @@ interface Props {
   /** In a room: this device's player, and players whose phone has dropped out. */
   meId?: string;
   away?: ReadonlySet<string>;
+  /** Players who passed on challenging the card in play. */
+  passed?: string[];
   onPeek: (id: string) => void;
 }
 
-export function Seats({ players, colors, activeId, highlightId, target, meId, away, onPeek }: Props) {
+export function Seats({ players, colors, activeId, highlightId, target, meId, away, passed, onPeek }: Props) {
   return (
     <div className="seats">
       {players.map((p) => (
@@ -24,9 +26,10 @@ export function Seats({ players, colors, activeId, highlightId, target, meId, aw
           className={`seat${p.id === activeId ? ' is-active' : ''}${p.id === highlightId ? ' is-highlight' : ''}${away?.has(p.id) ? ' is-away' : ''}`}
           style={{ '--token': colors[p.id], '--tilt': tilt(p.id + p.name, 3) } as CSSProperties}
           onClick={() => onPeek(p.id)}
-          aria-label={`${p.name}: ${p.timeline.length} cards, ${p.chips} chips. Show timeline`}
+          aria-label={`${p.name}: ${p.timeline.length} cards, ${p.chips} chips${passed?.includes(p.id) ? ', passed' : ''}. Show timeline`}
         >
           {p.id === meId && <span className="seat-you">you</span>}
+          {passed?.includes(p.id) && <span className="seat-passed">passed</span>}
           <span className="seat-name">{p.name}</span>
           <span className="seat-stats">
             <span className="seat-cards">

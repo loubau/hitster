@@ -1,5 +1,5 @@
 import { afterEach, beforeEach, describe, expect, it, vi } from 'vitest';
-import { activePlayer, newGame, reduce, type Action } from '../engine/game';
+import { activePlayer, challengers, newGame, reduce, type Action } from '../engine/game';
 import type { Card, GameState, Settings } from '../engine/types';
 import { electHost, mayAct, mayControl } from './authority';
 import { Clock, clockSample, estimateOffset } from './clock';
@@ -8,7 +8,7 @@ import { CODE_LETTERS, newCode, normaliseCode } from './code';
 import { decodeRoom, encodeRoom, isNewer, type Member, type Msg, type Room, type Tune, type WireRoom } from './protocol';
 import { dealGame, seatLatecomer, uniqueName } from './roster';
 import { hostPosition, syncStep, targetPosition } from './playback';
-import { BEAT_MS, challengesOpen, nextTimer, timeUp } from './timer';
+import { BEAT_MS, challengesOpen, nextTimer, timeUp, timerSeconds } from './timer';
 
 function card(id: string, year: number): Card {
   return {
@@ -131,6 +131,29 @@ describe('authority', () => {
     expect(mayAct(picking, { type: 'cancelChallenge' }, who('bob'))).toBe(false);
   });
 
+  it('lets players pass on a card only for themselves, and then not challenge it', () => {
+    const s = play(game(), { type: 'selectSlot', slot: 0 }, { type: 'lockIn' });
+    expect(mayAct(s, { type: 'pass', playerId: 'ann' }, who('bob'))).toBe(false);
+    expect(mayAct(s, { type: 'pass', playerId: 'host' }, who('host'))).toBe(false);
+    expect(mayAct(s, { type: 'pass', playerId: 'ann' }, { ...who('ann'), challengesOpen: false })).toBe(false);
+    expect(mayAct(s, { type: 'pass', playerId: 'ann' }, who('ann'))).toBe(true);
+    const passed = reduce(s, { type: 'pass', playerId: 'ann' });
+    expect(passed.passed).toEqual(['ann']);
+    expect(challengers(passed).map((p) => p.id)).toEqual(['bob']);
+    expect(mayAct(passed, { type: 'startChallenge', playerId: 'ann' }, who('ann'))).toBe(false);
+    expect(reduce(passed, { type: 'startChallenge', playerId: 'ann' })).toBe(passed);
+    expect(mayAct(passed, { type: 'pass', playerId: 'ann' }, who('ann'))).toBe(false);
+    // The next card starts over.
+    expect(play(passed, { type: 'reveal' }, { type: 'next' }).passed).toEqual([]);
+  });
+
+  it('leaves the rules mid-game to the host', () => {
+    const s = game();
+    const a: Action = { type: 'updateSettings', settings: { ...settings, target: 12 } };
+    expect(mayAct(s, a, who('ann'))).toBe(false);
+    expect(mayAct(s, a, who('host'))).toBe(true);
+  });
+
   it('refuses a challenge once the challenge timer has run out', () => {
     const s = play(game(), { type: 'selectSlot', slot: 0 }, { type: 'lockIn' });
     const a: Action = { type: 'startChallenge', playerId: 'ann' };
@@ -181,10 +204,12 @@ describe('challenge timer', () => {
     expect(nextTimer(s, t, 5000)).toBe(t);
   });
 
-  it('is off when the rule is, and in rooms from before it', () => {
+  it('runs 10 s in rooms and saves from before the setting, and as long as the host sets', () => {
     const { challengeTimer: _, ...older } = timed;
-    expect(nextTimer(locked(older), null, 0)).toBeNull();
-    expect(nextTimer(locked({ ...timed, challengeTimer: 0 }), null, 0)).toBeNull();
+    expect(timerSeconds(older)).toBe(10);
+    expect(nextTimer(locked(older), null, 0)).toMatchObject({ ends: 10_000 });
+    expect(nextTimer(locked({ ...timed, challengeTimer: 0 }), null, 0)).toMatchObject({ ends: 10_000 });
+    expect(nextTimer(locked({ ...timed, challengeTimer: 25 }), null, 0)).toMatchObject({ ends: 25_000 });
     expect(challengesOpen(undefined, 1e12)).toBe(true);
     expect(timeUp(locked(), undefined, 1e12)).toBe(false);
   });
@@ -213,6 +238,18 @@ describe('challenge timer', () => {
     // Ann challenged; with Bob away, nobody is left once she locks in.
     const paused = nextTimer(pick(s), nextTimer(s, null, 0, everyone), 4000, everyone);
     expect(nextTimer(lockPick(pick(s)), paused, 5000, new Set(['host', 'ann']))).toEqual({ draw: s.draw, ends: 5000 + BEAT_MS, settled: true });
+  });
+
+  it('closes after a beat once the last one who could challenge passes', () => {
+    const everyone = new Set(['host', 'ann', 'bob']);
+    const s = locked();
+    const running = nextTimer(s, null, 0, everyone)!;
+    const annPassed = reduce(s, { type: 'pass', playerId: 'ann' });
+    expect(nextTimer(annPassed, running, 2000, everyone)).toBe(running);
+    const bothPassed = reduce(annPassed, { type: 'pass', playerId: 'bob' });
+    expect(nextTimer(bothPassed, running, 3000, everyone)).toEqual({ draw: s.draw, ends: 3000 + BEAT_MS, settled: true });
+    // With less than a beat to go, passing doesn't add time.
+    expect(nextTimer(bothPassed, running, 9500, everyone)).toEqual({ draw: s.draw, ends: 10_000, settled: true });
   });
 
   it('closes challenges at the deadline and goes with the reveal', () => {
@@ -622,13 +659,80 @@ describe('room client', () => {
     expect(game(ann).phase).toBe('reveal');
   });
 
-  it('leaves the reveal to the players when the timer is off', async () => {
-    const { host, ann } = await twoAtTheTable({ ...settings, startChips: 0 });
+  it('runs a 10 s clock in a room from before the setting', async () => {
+    const { host, ann } = await twoAtTheTable(settings);
+    host.dispatch({ type: 'selectSlot', slot: 0 });
+    const lockedAt = Date.now();
+    host.dispatch({ type: 'lockIn' });
+    await wait();
+    expect(ann.view.room!.timer).toEqual({ draw: game(ann).draw, ends: lockedAt + 10_000 });
+    await wait(10_000);
+    expect(game(ann).phase).toBe('reveal');
+  });
+
+  it('shows a pass at once and refuses a challenge from that player after it', async () => {
+    const { host, ann, bob } = await threeAtTheTable(timed);
     host.dispatch({ type: 'selectSlot', slot: 0 });
     host.dispatch({ type: 'lockIn' });
-    await wait(12_000);
+    await wait();
+    expect(ann.dispatch({ type: 'pass', playerId: 'a' })).toBe(true);
+    expect(game(ann).passed).toEqual(['a']);
+    expect(ann.may({ type: 'startChallenge', playerId: 'a' })).toBe(false);
+    await wait();
+    for (const c of [host, ann, bob]) expect(game(c).passed).toEqual(['a']);
+    // A challenge sent anyway, as from a phone that hadn't caught up.
+    const n = Date.now() + 1e6;
+    hub.connect('TEST', { id: 'x', name: 'Wire' }, { message() {}, presence() {}, status() {} }).send({
+      type: 'intent',
+      from: 'a',
+      to: 'h',
+      n,
+      action: { type: 'startChallenge', playerId: 'a' },
+    });
+    await wait(100);
+    expect(host.view.room!.acks.a).toBe(n);
+    expect(game(host).picking).toBeNull();
+    // Bob can still challenge, so the clock runs on.
+    expect(game(bob).phase).toBe('challenge');
+    expect(bob.view.room!.timer).not.toMatchObject({ settled: true });
+  });
+
+  it('reveals a beat after everyone who could challenge has passed', async () => {
+    const { host, ann, bob } = await threeAtTheTable(timed);
+    host.dispatch({ type: 'selectSlot', slot: 0 });
+    host.dispatch({ type: 'lockIn' });
+    await wait();
+    ann.dispatch({ type: 'pass', playerId: 'a' });
+    bob.dispatch({ type: 'pass', playerId: 'b' });
+    await wait(500);
     expect(game(ann).phase).toBe('challenge');
-    expect(ann.view.room!.timer).toBeNull();
+    expect(ann.view.room!.timer).toMatchObject({ settled: true });
+    await wait(600);
+    for (const c of [host, ann, bob]) expect(game(c).phase).toBe('reveal');
+    expect(game(ann).outcome?.challenges).toEqual([]);
+  });
+
+  it('lets only the host change the rules mid-game, for the next card and the next game', async () => {
+    const { host, ann, bob } = await threeAtTheTable();
+    expect(ann.dispatch({ type: 'updateSettings', settings: { ...settings, target: 15 } })).toBe(false);
+    hub.connect('TEST', { id: 'x', name: 'Wire' }, { message() {}, presence() {}, status() {} }).send({
+      type: 'intent',
+      from: 'a',
+      to: 'h',
+      n: Date.now() + 1e6,
+      action: { type: 'updateSettings', settings: { ...settings, target: 15 } },
+    });
+    await wait();
+    expect(game(bob).nextSettings ?? null).toBeNull();
+    expect(host.dispatch({ type: 'updateSettings', settings: { ...settings, target: 12, maxChips: 1 } })).toBe(true);
+    await wait();
+    expect(game(bob).nextSettings).toMatchObject({ target: 12, maxChips: 1 });
+    expect(game(bob).settings.target).toBe(10);
+    expect(bob.view.room!.settings.target).toBe(12);
+    for (const a of [{ type: 'selectSlot', slot: 0 }, { type: 'lockIn' }, { type: 'reveal' }, { type: 'next' }] as Action[]) host.dispatch(a);
+    await wait();
+    expect(game(bob).settings).toMatchObject({ target: 12, maxChips: 1 });
+    expect(game(bob).players.map((p) => p.chips)).toEqual([1, 1, 1]);
   });
 
   it('drops a prediction the host never confirms', async () => {

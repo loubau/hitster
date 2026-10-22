@@ -1,5 +1,6 @@
 import { useEffect, useMemo, useRef, useState, type CSSProperties } from 'react';
 import { usePlayback } from '../audio/usePlayback';
+import { cardsFor } from '../data/cards';
 import { BUY_COST, SKIP_COST, activePlayer, buyAllowed, challengers, skipAllowed, takenSlots, type Action } from '../engine/game';
 import { earnsChip } from '../engine/rules';
 import type { Card, GameState, Player } from '../engine/types';
@@ -11,9 +12,11 @@ import { CardBack, CardFace, PLAYER_COLORS, Token, cardColor } from './cards';
 import { ChallengeClock, useTimeUp } from './ChallengeClock';
 import { FeedbackSheet } from './FeedbackSheet';
 import { Fx, type FxEvent } from './fx/Fx';
+import { HouseRules } from './HouseRules';
 import { Icon } from './Icon';
 import { Menu, type MenuItem } from './Menu';
 import { inviteTo } from './RoomCode';
+import { describeChanges } from './Rules';
 import { Seats } from './Seats';
 import { Timeline, type Marker } from './Timeline';
 import { Victory } from './Victory';
@@ -68,19 +71,31 @@ export function Game({ state, dispatch, onExit, room }: Props) {
   const [fx, setFx] = useState<FxEvent | null>(null);
   const [peek, setPeek] = useState<string | null>(null);
   const [asking, setAsking] = useState(false);
-  const [toast, setToast] = useState<{ id: number; text: string } | null>(null);
+  const [toast, setToast] = useState<{ id: number; text: string; ms: number } | null>(null);
   const [nudge, setNudge] = useState(0);
   const [freshId, setFreshId] = useState<string | undefined>();
   const [noting, setNoting] = useState(false);
+  const [rulesOpen, setRulesOpen] = useState(false);
   /** The last few revealed cards, newest first, so players can still leave a note on them. */
   const [recent, setRecent] = useState<{ card: Card; videoId?: string }[]>([]);
 
-  const say = (text: string) => setToast({ id: Date.now(), text });
+  const say = (text: string, ms = 1800) => setToast({ id: Date.now(), text, ms });
   useEffect(() => {
     if (!toast) return;
-    const t = setTimeout(() => setToast(null), 1800);
+    const t = setTimeout(() => setToast(null), toast.ms);
     return () => clearTimeout(t);
   }, [toast]);
+
+  // New rules mid-game, whoever set them: everyone hears what changed.
+  const rules = state.nextSettings ?? state.settings;
+  const lastRules = useRef({ seed: state.seed, rules });
+  useEffect(() => {
+    const prev = lastRules.current;
+    lastRules.current = { seed: state.seed, rules };
+    if (prev.seed !== state.seed) return;
+    const changes = describeChanges(prev.rules, rules);
+    if (changes.length > 0) say(changes.join('\n'), 3200);
+  }, [rules]);
 
   // Room: anyone's Next moves the table on, so every device files away the card that just left.
   const before = useRef({ state, videoId: playback.videoId });
@@ -125,6 +140,7 @@ export function Game({ state, dispatch, onExit, room }: Props) {
   const picking = state.picking;
   const picker = picking ? byId(picking.playerId) : null;
   const canChallenge = challengers(state);
+  const passed = state.passed ?? [];
   // Room: the host's challenge timer, shown on every phone against the host's clock.
   const roomTimer = room?.view.room?.timer;
   const timer = state.phase === 'challenge' && roomTimer?.draw === state.draw ? roomTimer : null;
@@ -182,16 +198,19 @@ export function Game({ state, dispatch, onExit, room }: Props) {
   const invite = room ? inviteTo(room.view.code, say) : null;
   const away = room ? new Set(state.players.filter((p) => !room.view.online.has(p.id)).map((p) => p.id)) : undefined;
 
+  const rulesItem: MenuItem[] = state.phase === 'over' ? [] : [{ id: 'rules', label: 'House rules', onSelect: () => setRulesOpen(true) }];
   const menu: MenuItem[] =
     room && invite
       ? [
           { id: 'copy', label: 'Copy room link', onSelect: invite.copy },
           ...(invite.share ? [{ id: 'share', label: 'Share invite', onSelect: invite.share }] : []),
+          ...rulesItem,
           ...(isHost ? [{ id: 'lobby', label: 'Back to the lobby', confirm: 'Sure? End this game', onSelect: () => room.client.endGame() }] : []),
           { id: 'feedback', label: 'Feedback', onSelect: () => setNoting(true) },
           { id: 'exit', label: 'Leave room', confirm: 'Sure? Leave room', onSelect: onExit },
         ]
       : [
+          ...rulesItem,
           { id: 'feedback', label: 'Feedback', onSelect: () => setNoting(true) },
           { id: 'exit', label: 'Exit game', confirm: 'Sure? End game', onSelect: onExit },
         ];
@@ -225,6 +244,7 @@ export function Game({ state, dispatch, onExit, room }: Props) {
           target={state.settings.target}
           meId={meId}
           away={away}
+          passed={state.phase === 'challenge' ? passed : undefined}
           onPeek={(id) => setPeek(id === active.id ? null : id)}
         />
         {room && (
@@ -410,31 +430,43 @@ export function Game({ state, dispatch, onExit, room }: Props) {
         {room && state.phase === 'challenge' && !picking && (
           <>
             {canChallenge.some((p) => p.id === meId) && !timeUp ? (
-              <button
-                type="button"
-                className="challenge"
-                disabled={calling}
-                onClick={() => {
-                  buzz([40, 30, 40]);
-                  setCalling(true);
-                  dispatch({ type: 'startChallenge', playerId: meId! });
-                }}
-              >
-                {calling ? 'Calling it…' : 'Challenge!'}
-              </button>
+              <>
+                <button
+                  type="button"
+                  className="reveal-side is-pass"
+                  disabled={calling}
+                  onClick={() => dispatch({ type: 'pass', playerId: meId! })}
+                >
+                  <span>Pass</span>
+                </button>
+                <button
+                  type="button"
+                  className="challenge"
+                  disabled={calling}
+                  onClick={() => {
+                    buzz([40, 30, 40]);
+                    setCalling(true);
+                    dispatch({ type: 'startChallenge', playerId: meId! });
+                  }}
+                >
+                  <span>{calling ? 'Calling it…' : 'Challenge!'}</span>
+                </button>
+              </>
             ) : (
               <p className="no-challenge">
-                {timeUp && !settled
-                  ? "Time's up"
-                  : mine
-                    ? settled
-                      ? 'Nobody left to challenge'
-                      : canChallenge.length > 0
-                        ? 'Anyone think you got it wrong?'
-                        : 'Nobody has a chip left to challenge'
-                    : state.challenges.some((c) => c.playerId === meId)
-                      ? 'Your challenge is in'
-                      : 'No chip left to challenge with'}
+                {passed.includes(meId!)
+                  ? 'You passed'
+                  : timeUp && !settled
+                    ? "Time's up"
+                    : mine
+                      ? settled || (canChallenge.length === 0 && passed.length > 0)
+                        ? 'Nobody left to challenge'
+                        : canChallenge.length > 0
+                          ? 'Anyone think you got it wrong?'
+                          : 'Nobody has a chip left to challenge'
+                      : state.challenges.some((c) => c.playerId === meId)
+                        ? 'Your challenge is in'
+                        : 'No chip left to challenge with'}
               </p>
             )}
             {may({ type: 'reveal' }) && (
@@ -464,7 +496,7 @@ export function Game({ state, dispatch, onExit, room }: Props) {
                   else setAsking(true);
                 }}
               >
-                Challenge!
+                <span>Challenge!</span>
               </button>
             ) : (
               <p className="no-challenge">Nobody has a chip left to challenge</p>
@@ -604,8 +636,17 @@ export function Game({ state, dispatch, onExit, room }: Props) {
         />
       )}
 
+      {rulesOpen && (
+        <HouseRules
+          state={state}
+          room={room ? { isHost, hostName } : undefined}
+          onSave={(settings) => dispatch({ type: 'updateSettings', settings, cards: cardsFor(settings) })}
+          onClose={() => setRulesOpen(false)}
+        />
+      )}
+
       {toast && (
-        <div className="toast" key={toast.id}>
+        <div className="toast" key={toast.id} style={{ animationDuration: `${toast.ms}ms` }}>
           {toast.text}
         </div>
       )}

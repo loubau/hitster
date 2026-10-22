@@ -36,6 +36,10 @@ export function mayAct(s: GameState, a: Action, who: Asker): boolean {
       // Only for yourself; when two tap at once, the host takes whichever intent arrives first.
       if (who.challengesOpen === false) return false;
       return a.playerId === me && s.phase === 'challenge' && !s.picking && challengers(s).some((p) => p.id === me);
+    case 'pass':
+      // Only for yourself, and only while you could still have challenged.
+      if (who.challengesOpen === false) return false;
+      return a.playerId === me && s.phase === 'challenge' && s.picking?.playerId !== me && challengers(s).some((p) => p.id === me);
     case 'cancelChallenge':
       return !!s.picking && (s.picking.playerId === me || isHost);
     case 'lockChallenge':
@@ -45,6 +49,8 @@ export function mayAct(s: GameState, a: Action, who: Asker): boolean {
     case 'toggleNamed':
     case 'next':
       return s.phase === 'reveal' && (me === active || isHost);
+    case 'updateSettings':
+      return isHost;
   }
 }
 

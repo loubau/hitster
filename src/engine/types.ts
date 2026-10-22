@@ -48,8 +48,8 @@ export interface Settings {
   /** House rule: spend 1 chip to skip a song. On by default; missing in older saves means on. */
   allowSkip: boolean;
   /**
-   * Rooms only: seconds to challenge after a lock-in, then the card is revealed. 0 is no timer,
-   * and so is a missing field (rooms from before the rule). The table ignores it.
+   * Rooms only: seconds to challenge after a lock-in, then the card is revealed. Missing or 0
+   * (older rooms and saves) means the default. The table has no timer.
    */
   challengeTimer?: number;
 }
@@ -99,10 +99,14 @@ export interface GameState {
   challenges: Challenge[];
   /** A challenger currently choosing their slot. */
   picking: { playerId: string; slot: number | null } | null;
+  /** Rooms: players who passed on challenging this card. Missing means nobody. */
+  passed?: string[];
   outcome: Outcome | null;
   named: Named;
   winnerId: string | null;
   seed: number;
   /** Bumps on every new mystery card so the UI can restart playback/animations. */
   draw: number;
+  /** Rules changed mid-game; they take over from the next card. */
+  nextSettings?: Settings | null;
 }

@@ -1,5 +1,5 @@
 import { describe, expect, it } from 'vitest';
-import { newGame, reduce, type Action } from './game';
+import { minTarget, newGame, reduce, type Action } from './game';
 import { autoSlot, correctSlots, fitsAt } from './rules';
 import type { Card, GameState, Settings } from './types';
 
@@ -158,5 +158,55 @@ describe('turns', () => {
     s = play(s, { type: 'selectSlot', slot: 1 }, { type: 'lockIn' }, { type: 'reveal' }, { type: 'next' });
     expect(s.phase).toBe('over');
     expect(s.winnerId).toBe('p0');
+  });
+});
+
+describe('rules mid-game', () => {
+  const mine = [card('a', 1969), card('b', 1982)];
+  const theirs = [card('c', 2001)];
+  const placeAndNext: Action[] = [{ type: 'selectSlot', slot: 1 }, { type: 'lockIn' }, { type: 'reveal' }, { type: 'next' }];
+
+  it('deals on from the new sets, leaving out every card already out', () => {
+    const jazz = (id: string, year: number): Card => ({ ...card(id, year), set: 'jazz' });
+    let s = rigged([mine, theirs], card('m', 1975), [card('n', 1990)]);
+    s = { ...s, discard: [card('gone', 1980)] };
+    const pool = [...mine, ...theirs, card('m', 1975), card('gone', 1980), card('n', 1990), jazz('j1', 1959), jazz('j2', 1964)];
+    s = reduce(s, { type: 'updateSettings', settings: { ...settings, sets: ['regular', 'jazz'] }, cards: pool });
+    expect(s.deck.map((c) => c.id).sort()).toEqual(['j1', 'j2', 'n']);
+    // The card in play finishes under the old rules.
+    expect(s.current?.id).toBe('m');
+    expect(s.settings.sets).toEqual(['regular']);
+    s = play(s, ...placeAndNext);
+    expect(s.settings.sets).toEqual(['regular', 'jazz']);
+    expect(s.nextSettings).toBeNull();
+    expect(['j1', 'j2', 'n']).toContain(s.current?.id);
+  });
+
+  it('refuses sets with nothing left to draw', () => {
+    const s = rigged([mine, theirs], card('m', 1975));
+    expect(reduce(s, { type: 'updateSettings', settings: { ...settings, sets: ['jazz'] }, cards: [] })).toBe(s);
+    expect(reduce(s, { type: 'updateSettings', settings: { ...settings, sets: ['regular'], includeDutch: false }, cards: [...mine, ...theirs] })).toBe(s);
+    expect(reduce(s, { type: 'updateSettings', settings: { ...settings, sets: [] }, cards: [] })).toBe(s);
+  });
+
+  it('keeps the target above the longest timeline, so nobody wins by the change', () => {
+    let s = rigged([mine, theirs], card('m', 1975));
+    expect(minTarget(s)).toBe(3);
+    s = reduce(s, { type: 'updateSettings', settings: { ...settings, target: 2 } });
+    expect(s.nextSettings?.target).toBe(3);
+    // The card in play still counts toward the old target; the new one starts above the 3 cards now held.
+    s = play(s, ...placeAndNext);
+    expect(s.phase).toBe('place');
+    expect(s.settings.target).toBe(4);
+  });
+
+  it('caps chips at a lower maximum from the next card', () => {
+    let s = rigged([mine, theirs], card('m', 1975));
+    s = { ...s, players: s.players.map((p, i) => (i === 1 ? { ...p, chips: 5 } : p)) };
+    s = reduce(s, { type: 'updateSettings', settings: { ...settings, maxChips: 3 } });
+    expect(s.players[1].chips).toBe(5);
+    expect(play(s, ...placeAndNext).players[1].chips).toBe(3);
+    // A skip draws the next card too.
+    expect(reduce(s, { type: 'skip' }).players.map((p) => p.chips)).toEqual([1, 3]);
   });
 });

@@ -1035,10 +1035,13 @@
   top: calc(env(safe-area-inset-top) + 84px);
   left: 50%;
   z-index: 45;
+  width: max-content;
   max-width: calc(100vw - 32px);
   padding: 10px 16px;
   font-weight: 800;
   font-size: 15px;
+  text-align: center;
+  white-space: pre-line;
   color: var(--ink);
   background: var(--noise), var(--paper);
   background-blend-mode: multiply;
@@ -1791,6 +1794,61 @@
   30% {
     scale: 1;
   }
+}
+
+/* Passing on a card: the quiet way out, next to the loud one. Beside Pass and the host's Reveal the
+   alarm gets narrow on a phone, so its word shrinks to fit rather than push the table wide. */
+.challenge {
+  min-width: 0;
+  container-type: inline-size;
+}
+.challenge span {
+  font-size: min(1em, 13cqi);
+}
+.reveal-side.is-pass {
+  width: 64px;
+  color: var(--chrome);
+  border-color: rgba(255, 255, 255, 0.4);
+}
+.reveal-side.is-pass:disabled {
+  opacity: 0.45;
+}
+.seat-passed {
+  position: absolute;
+  bottom: -7px;
+  right: -4px;
+  z-index: 1;
+  padding: 0 4px;
+  font-size: 9px;
+  font-weight: 800;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--ink);
+  background: var(--paper);
+  border: 1.5px solid var(--ink);
+  rotate: -5deg;
+  opacity: 0.8;
+  animation: stamp-in 0.25s ease-out backwards;
+}
+@keyframes stamp-in {
+  from {
+    opacity: 0;
+    scale: 1.6;
+  }
+}
+
+/* House rules mid-game: the lobby's felt over the table. */
+.house-rules {
+  position: fixed;
+  inset: 0;
+  z-index: 40;
+  min-height: 0;
+  overflow-y: auto;
+  overscroll-behavior: contain;
+  animation: fade 0.2s ease-out;
+}
+.house-rules .wordmark {
+  font-size: 40px;
 }
 
 /* ---------- small phones ---------- */

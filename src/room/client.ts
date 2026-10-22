@@ -231,7 +231,10 @@ export class RoomClient {
     const room = this.room;
     if (!room?.game || !this.may(a)) return false;
     if (this.isHost) {
-      this.commit({ ...room, game: reduce(room.game, a) });
+      const game = reduce(room.game, a);
+      // Rules changed mid-game are the room's rules for the next game too.
+      const settings = a.type === 'updateSettings' && game !== room.game ? a.settings : room.settings;
+      this.commit({ ...room, settings, game });
       return true;
     }
     const n = ++this.n;

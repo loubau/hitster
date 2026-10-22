@@ -1,7 +1,7 @@
 import { challengers } from '../engine/game';
 import type { GameState, Settings } from '../engine/types';
 
-/** The challenge timer's one setting besides off. */
+/** The challenge timer unless the host set another: new rooms, and older rooms and saves without one. */
 export const TIMER_SECONDS = 10;
 /** When a challenger is done picking, the others still get at least this long. */
 export const RESUME_MIN_MS = 3000;
@@ -15,13 +15,14 @@ export const BEAT_MS = 1000;
  */
 export type ChallengeTimer = { draw: number; ends: number; settled?: boolean } | { draw: number; left: number };
 
-export const timerMs = (s: Settings) => Math.max(0, s.challengeTimer ?? 0) * 1000;
+export const timerSeconds = (s: Settings) => (s.challengeTimer && s.challengeTimer > 0 ? s.challengeTimer : TIMER_SECONDS);
+export const timerMs = (s: Settings) => timerSeconds(s) * 1000;
 
 /**
  * The window after a change to the game, at host time `now`. It opens at the lock-in, pauses while
  * someone picks and carries on with what was left (at least RESUME_MIN_MS) when they are done.
- * Each time it (re)starts, `online` (presence, when known) is checked: with nobody there who could
- * still challenge, it closes after a beat instead.
+ * Each time it (re)starts or someone passes, `online` (presence, when known) is checked: with
+ * nobody there who could still challenge, it closes after a beat instead.
  */
 export function nextTimer(
   game: GameState | null,
@@ -29,14 +30,16 @@ export function nextTimer(
   now: number,
   online?: ReadonlySet<string>,
 ): ChallengeTimer | null {
-  const ms = game ? timerMs(game.settings) : 0;
-  if (!game || ms === 0 || game.phase !== 'challenge') return null;
+  if (!game || game.phase !== 'challenge') return null;
+  const ms = timerMs(game.settings);
   const { draw, picking } = game;
-  const run = (ends: number): ChallengeTimer =>
-    online && !challengers(game).some((p) => online.has(p.id)) ? { draw, ends: now + BEAT_MS, settled: true } : { draw, ends };
+  const nobodyLeft = !!online && !challengers(game).some((p) => online.has(p.id));
+  const run = (ends: number): ChallengeTimer => (nobodyLeft ? { draw, ends: Math.min(ends, now + BEAT_MS), settled: true } : { draw, ends });
   if (!timer || timer.draw !== draw) return picking ? { draw, left: ms } : run(now + ms);
   if (picking && 'ends' in timer) return { draw, left: Math.max(0, timer.ends - now) };
   if (!picking && 'left' in timer) return run(now + Math.max(timer.left, RESUME_MIN_MS));
+  // The last one who could have challenged passed.
+  if ('ends' in timer && !picking && !timer.settled && nobodyLeft) return run(timer.ends);
   return timer;
 }
 

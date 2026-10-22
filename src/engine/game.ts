@@ -12,11 +12,15 @@ export type Action =
   | { type: 'skip' }
   | { type: 'buyCard' }
   | { type: 'startChallenge'; playerId: string }
+  /** Room: this player won't challenge this card. */
+  | { type: 'pass'; playerId: string }
   | { type: 'cancelChallenge' }
   | { type: 'lockChallenge' }
   | { type: 'reveal' }
   | { type: 'toggleNamed'; field: keyof Named }
-  | { type: 'next' };
+  | { type: 'next' }
+  /** New rules from the next card. `cards`: every card the new sets hold, for a new deck when they change. */
+  | { type: 'updateSettings'; settings: Settings; cards?: Card[] };
 
 const NOTHING_NAMED: Named = { primary: false, secondary: false, year: false };
 
@@ -57,9 +61,32 @@ export const activePlayer = (s: GameState): Player => s.players[s.turn];
 /** Players who may still challenge this turn. */
 export function challengers(s: GameState): Player[] {
   const active = activePlayer(s);
+  const passed = s.passed ?? [];
   return s.players.filter(
-    (p) => p.id !== active.id && p.chips >= CHALLENGE_COST && !s.challenges.some((c) => c.playerId === p.id),
+    (p) =>
+      p.id !== active.id && p.chips >= CHALLENGE_COST && !s.challenges.some((c) => c.playerId === p.id) && !passed.includes(p.id),
   );
+}
+
+/** The fewest cards to win a game in progress: one more than anyone already has. */
+export const minTarget = (s: GameState) => Math.max(0, ...s.players.map((p) => p.timeline.length)) + 1;
+
+/** Cards from `pool` that are in nobody's timeline, not in the discard pile and not playing now. */
+export function unusedCards(s: GameState, pool: Card[]): Card[] {
+  const used = new Set([...s.players.flatMap((p) => p.timeline), ...s.discard, ...(s.current ? [s.current] : [])].map((c) => c.id));
+  return pool.filter((c) => !used.has(c.id));
+}
+
+/** Whether two sets of rules deal from the same cards. */
+export const sameCards = (a: Settings, b: Settings) =>
+  a.includeDutch === b.includeDutch && a.sets.length === b.sets.length && a.sets.every((id) => b.sets.includes(id));
+
+/** Rules from mid-game take over: nobody wins by the change, and nobody keeps chips above the new cap. */
+function applyNextSettings(s: GameState): GameState {
+  if (!s.nextSettings) return s;
+  const settings = { ...s.nextSettings, target: Math.max(s.nextSettings.target, minTarget(s)) };
+  const players = s.players.map((p) => (p.chips > settings.maxChips ? { ...p, chips: settings.maxChips } : p));
+  return { ...s, settings, players, nextSettings: null };
 }
 
 /** Slots already claimed this turn (by the active player or an earlier challenger). */
@@ -88,7 +115,7 @@ function leader(s: GameState): Player {
 }
 
 function resetTurn(s: GameState): GameState {
-  return { ...s, phase: 'place', slot: null, challenges: [], picking: null, outcome: null, named: NOTHING_NAMED };
+  return { ...s, phase: 'place', slot: null, challenges: [], picking: null, passed: [], outcome: null, named: NOTHING_NAMED };
 }
 
 export function reduce(s: GameState, a: Action): GameState {
@@ -107,7 +134,7 @@ export function reduce(s: GameState, a: Action): GameState {
     case 'skip': {
       if (s.phase !== 'place' || !s.current || active.chips < SKIP_COST || !skipAllowed(s.settings)) return s;
       const players = updatePlayer(s, active.id, (p) => ({ ...p, chips: p.chips - SKIP_COST }));
-      return drawCard({ ...s, players, slot: null, discard: [...s.discard, s.current] });
+      return drawCard(applyNextSettings({ ...s, players, slot: null, discard: [...s.discard, s.current] }));
     }
     case 'buyCard': {
       if (s.phase !== 'place' || active.chips < BUY_COST || s.deck.length === 0 || !buyAllowed(s.settings)) return s;
@@ -125,6 +152,11 @@ export function reduce(s: GameState, a: Action): GameState {
       if (s.phase !== 'challenge' || s.picking) return s;
       if (!challengers(s).some((p) => p.id === a.playerId)) return s;
       return { ...s, picking: { playerId: a.playerId, slot: null } };
+    }
+    case 'pass': {
+      if (s.phase !== 'challenge' || s.picking?.playerId === a.playerId) return s;
+      if (!challengers(s).some((p) => p.id === a.playerId)) return s;
+      return { ...s, passed: [...(s.passed ?? []), a.playerId] };
     }
     case 'cancelChallenge':
       return { ...s, picking: null };
@@ -171,7 +203,24 @@ export function reduce(s: GameState, a: Action): GameState {
         players.find((p) => p.timeline.length >= s.settings.target);
       const after = { ...s, players, discard };
       if (winner) return { ...after, phase: 'over', winnerId: winner.id };
-      return drawCard(resetTurn({ ...after, turn: (s.turn + 1) % s.players.length }));
+      return drawCard(resetTurn(applyNextSettings({ ...after, turn: (s.turn + 1) % s.players.length })));
+    }
+    case 'updateSettings': {
+      const { settings } = a;
+      if (s.phase === 'over' || settings.sets.length === 0 || settings.maxChips < 1) return s;
+      const next: Settings = {
+        ...settings,
+        target: Math.max(settings.target, minTarget(s)),
+        startChips: Math.min(settings.startChips, settings.maxChips),
+      };
+      let deck = s.deck;
+      if (!sameCards(s.nextSettings ?? s.settings, next)) {
+        // The cards still to come, from the new sets; the ones already out stay where they are.
+        const fresh = a.cards ? unusedCards(s, a.cards) : [];
+        if (fresh.length === 0) return s;
+        deck = shuffle(fresh, s.seed + s.draw * 31);
+      }
+      return { ...s, deck, nextSettings: next };
     }
   }
 }

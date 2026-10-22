@@ -1,7 +1,7 @@
 import { SET_INFO, cardsFor, countBySet } from '../data/cards';
 import { BUY_COST, SKIP_COST, buyAllowed, skipAllowed } from '../engine/game';
 import type { SetId, Settings, Variant } from '../engine/types';
-import { TIMER_SECONDS, timerMs } from '../room/timer';
+import { timerSeconds } from '../room/timer';
 import { Icon } from './Icon';
 
 const VARIANTS: { id: Variant; name: string; blurb: string }[] = [
@@ -12,14 +12,22 @@ const VARIANTS: { id: Variant; name: string; blurb: string }[] = [
 
 const SET_SAMPLE: Record<SetId, { year: string; top: string; bottom: string }> = {
   regular: { year: '1975', top: 'Pop', bottom: 'Elvis to Eilish' },
-  jazz: { year: '1959', top: 'Jazz', bottom: 'Ellington to Esperanza Spalding' },
+  jazz: { year: '1959', top: 'Jazz', bottom: 'Ellington to Ezra Collective' },
   classical: { year: '1808', top: 'Classical', bottom: 'Palestrina to Pärt' },
 };
 
 const chips = (n: number) => `${n} chip${n === 1 ? '' : 's'}`;
 const BUY_LABEL = `Buy a card (${chips(BUY_COST)})`;
 const SKIP_LABEL = `Skip a song (${chips(SKIP_COST)})`;
-const TIMER_LABEL = `Challenge timer (${TIMER_SECONDS} s)`;
+const TIMER_LABEL = 'Seconds to challenge';
+const TARGET_MIN = 5;
+
+/** The chosen sets by name, in the picker's order whatever order they were tapped in. */
+const setNames = (settings: Settings) =>
+  (Object.keys(SET_INFO) as SetId[])
+    .filter((id) => settings.sets.includes(id))
+    .map((id) => SET_INFO[id].name)
+    .join(', ');
 
 /** Why these settings can't be dealt to this many players, if they can't. */
 export function dealProblem(settings: Settings, players: number): string | null {
@@ -28,16 +36,30 @@ export function dealProblem(settings: Settings, players: number): string | null 
   return null;
 }
 
-function Stepper({ label, value, min, max, onChange }: { label: string; value: number; min: number; max: number; onChange: (v: number) => void }) {
+function Stepper({
+  label,
+  value,
+  min,
+  max,
+  step = 1,
+  onChange,
+}: {
+  label: string;
+  value: number;
+  min: number;
+  max: number;
+  step?: number;
+  onChange: (v: number) => void;
+}) {
   return (
     <div className="stepper">
       <span>{label}</span>
       <div>
-        <button type="button" aria-label={`Fewer: ${label}`} onClick={() => onChange(Math.max(min, value - 1))}>
+        <button type="button" aria-label={`Fewer: ${label}`} onClick={() => onChange(Math.max(min, value - step))}>
           <Icon name="minus" size={16} />
         </button>
         <b>{value}</b>
-        <button type="button" aria-label={`More: ${label}`} onClick={() => onChange(Math.min(max, value + 1))}>
+        <button type="button" aria-label={`More: ${label}`} onClick={() => onChange(Math.min(max, value + step))}>
           <Icon name="plus" size={16} />
         </button>
       </div>
@@ -45,8 +67,23 @@ function Stepper({ label, value, min, max, onChange }: { label: string; value: n
   );
 }
 
-/** Which cards and the house rules: the table's setup and a room host's lobby. */
-export function Rules({ settings, onChange, room = false }: { settings: Settings; onChange: (s: Settings) => void; room?: boolean }) {
+/**
+ * Which cards and the house rules: the table's setup, a room host's lobby, and both mid-game
+ * (`playing`), where the target can't drop to `minTarget` and starting chips are long gone.
+ */
+export function Rules({
+  settings,
+  onChange,
+  room = false,
+  playing = false,
+  minTarget = TARGET_MIN,
+}: {
+  settings: Settings;
+  onChange: (s: Settings) => void;
+  room?: boolean;
+  playing?: boolean;
+  minTarget?: number;
+}) {
   const counts = countBySet();
   const update = (patch: Partial<Settings>) => onChange({ ...settings, ...patch });
   const toggleSet = (id: SetId) =>
@@ -100,8 +137,16 @@ export function Rules({ settings, onChange, room = false }: { settings: Settings
             </button>
           ))}
         </div>
-        <Stepper label="Cards to win" value={settings.target} min={5} max={20} onChange={(target) => update({ target })} />
-        <Stepper label="Starting chips" value={settings.startChips} min={0} max={settings.maxChips} onChange={(startChips) => update({ startChips })} />
+        <Stepper
+          label="Cards to win"
+          value={settings.target}
+          min={Math.max(TARGET_MIN, minTarget)}
+          max={Math.max(20, minTarget)}
+          onChange={(target) => update({ target })}
+        />
+        {!playing && (
+          <Stepper label="Starting chips" value={settings.startChips} min={0} max={settings.maxChips} onChange={(startChips) => update({ startChips })} />
+        )}
         <Stepper label="Most chips you can hold" value={settings.maxChips} min={1} max={10} onChange={(maxChips) => update({ maxChips, startChips: Math.min(settings.startChips, maxChips) })} />
         <label className="switch">
           <input type="checkbox" checked={buyAllowed(settings)} onChange={(e) => update({ allowBuy: e.target.checked })} />
@@ -113,14 +158,7 @@ export function Rules({ settings, onChange, room = false }: { settings: Settings
         </label>
         {/* At the table everyone sees everyone hesitate; on separate phones a clock keeps it moving. */}
         {room && (
-          <label className="switch">
-            <input
-              type="checkbox"
-              checked={timerMs(settings) > 0}
-              onChange={(e) => update({ challengeTimer: e.target.checked ? TIMER_SECONDS : 0 })}
-            />
-            <span>{TIMER_LABEL}</span>
-          </label>
+          <Stepper label={TIMER_LABEL} value={timerSeconds(settings)} min={5} max={30} step={5} onChange={(challengeTimer) => update({ challengeTimer })} />
         )}
       </section>
     </>
@@ -128,21 +166,31 @@ export function Rules({ settings, onChange, room = false }: { settings: Settings
 }
 
 /** The rules as a room guest sees them: the host sets them. */
-export function RulesSummary({ settings, host }: { settings: Settings; host: string }) {
+export function RulesSummary({
+  settings,
+  host,
+  playing = false,
+  title = `House rules, set by ${host}`,
+}: {
+  settings: Settings;
+  host: string;
+  playing?: boolean;
+  title?: string;
+}) {
   const variant = VARIANTS.find((v) => v.id === settings.variant) ?? VARIANTS[0];
-  const sets = settings.sets.map((id) => SET_INFO[id].name).join(', ') || 'None yet';
+  const sets = setNames(settings) || 'None yet';
   const rows: [string, string][] = [
     ['Cards', settings.sets.includes('regular') && settings.includeDutch ? `${sets}, with Dutch and Flemish hits` : sets],
     ['Game', `${variant.name}: ${variant.blurb.toLowerCase()}`],
     ['Cards to win', String(settings.target)],
-    ['Starting chips', `${settings.startChips}, at most ${settings.maxChips}`],
+    playing ? ['Most chips you can hold', String(settings.maxChips)] : ['Starting chips', `${settings.startChips}, at most ${settings.maxChips}`],
     [BUY_LABEL, buyAllowed(settings) ? 'Yes' : 'No'],
     [SKIP_LABEL, skipAllowed(settings) ? 'Yes' : 'No'],
-    ['Challenge timer', timerMs(settings) > 0 ? `${settings.challengeTimer} s` : 'Off'],
+    ['Challenge timer', `${timerSeconds(settings)} s`],
   ];
   return (
     <section className="setup-block">
-      <h2>House rules, set by {host}</h2>
+      <h2>{title}</h2>
       <dl className="rules-summary">
         {rows.map(([label, value]) => (
           <div key={label}>
@@ -153,4 +201,21 @@ export function RulesSummary({ settings, host }: { settings: Settings; host: str
       </dl>
     </section>
   );
+}
+
+const onOff = (on: boolean) => (on ? 'on' : 'off');
+
+/** What changed between two sets of rules, one short phrase each: "Cards to win 10 → 12". */
+export function describeChanges(a: Settings, b: Settings): string[] {
+  const variant = (s: Settings) => VARIANTS.find((v) => v.id === s.variant)?.name ?? s.variant;
+  const out: string[] = [];
+  if (setNames(a) !== setNames(b)) out.push(`Cards: ${setNames(b)}`);
+  if (a.includeDutch !== b.includeDutch && b.sets.includes('regular')) out.push(`Dutch and Flemish hits ${onOff(b.includeDutch)}`);
+  if (a.variant !== b.variant) out.push(`${variant(a)} → ${variant(b)} rules`);
+  if (a.target !== b.target) out.push(`Cards to win ${a.target} → ${b.target}`);
+  if (a.maxChips !== b.maxChips) out.push(`Most chips ${a.maxChips} → ${b.maxChips}`);
+  if (buyAllowed(a) !== buyAllowed(b)) out.push(`Buying cards ${onOff(buyAllowed(b))}`);
+  if (skipAllowed(a) !== skipAllowed(b)) out.push(`Skipping songs ${onOff(skipAllowed(b))}`);
+  if (timerSeconds(a) !== timerSeconds(b)) out.push(`Challenge timer ${timerSeconds(a)} → ${timerSeconds(b)} s`);
+  return out;
 }
