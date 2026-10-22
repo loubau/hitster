@@ -4,6 +4,7 @@ import { HOST_GRACE_MS, electHost, mayAct, mayControl, type Asker } from './auth
 import { CLOCK_BURST, Clock, clockSample } from './clock';
 import { decodeRoom, encodeRoom, isNewer, isWireRoom, type Control, type Member, type Msg, type Room, type Tune, type WireRoom } from './protocol';
 import { dealGame, seatLatecomer, uniqueName } from './roster';
+import { challengesOpen, nextTimer, timeUp } from './timer';
 
 export type LinkStatus = 'connecting' | 'live' | 'down';
 
@@ -115,6 +116,8 @@ export class RoomClient {
   private timers = new Set<ReturnType<typeof setTimeout>>();
   private tick: ReturnType<typeof setInterval> | null = null;
   private saveTimer: ReturnType<typeof setTimeout> | null = null;
+  /** Host: turns the card over when the challenge timer runs out. */
+  private expiry: ReturnType<typeof setTimeout> | null = null;
   private listeners = new Set<() => void>();
   private tuneListeners = new Set<(t: Tune | null) => void>();
   private controlListeners = new Set<(c: Control) => void>();
@@ -163,6 +166,7 @@ export class RoomClient {
 
   stop() {
     if (this.tick) clearInterval(this.tick);
+    if (this.expiry) clearTimeout(this.expiry);
     this.timers.forEach(clearTimeout);
     this.timers.clear();
     if (this.saveTimer) {
@@ -283,7 +287,8 @@ export class RoomClient {
   // ---------- internals ----------
 
   private asker(playerId: string): Asker {
-    return { playerId, hostId: this.room?.hostId ?? '', online: this.online };
+    const room = this.room;
+    return { playerId, hostId: room?.hostId ?? '', online: this.online, challengesOpen: challengesOpen(room?.timer, this.hostNow()) };
   }
 
   private decode(wire: WireRoom): Room {
@@ -320,7 +325,8 @@ export class RoomClient {
 
   /** Host: a change to the room. */
   private commit(next: Room) {
-    this.room = { ...next, seq: next.seq + 1 };
+    this.room = { ...next, seq: next.seq + 1, timer: nextTimer(next.game, next.timer, Date.now()) };
+    this.armExpiry();
     this.keep(true);
     this.send({ type: 'state', room: encodeRoom(this.room) });
     this.emit();
@@ -353,6 +359,7 @@ export class RoomClient {
     if (next.code !== this.code || !isNewer(next, this.room)) return;
     const prevHost = this.room?.hostId;
     this.room = next;
+    this.armExpiry();
     // Never reuse a number the host has seen, whatever this device's clock did since.
     this.n = Math.max(this.n, next.acks[this.me.id] ?? 0);
     this.keep(false);
@@ -409,9 +416,31 @@ export class RoomClient {
     console.info(`[room] host ${room.hostId} is gone; taking over ${room.code}`);
     this.hostGoneAt = null;
     this.pending = [];
+    // The deadline is in the old host's clock; carry it over into ours.
+    const t = room.timer;
+    const timer = t && 'ends' in t ? { ...t, ends: t.ends - this.clock.offset } : t;
     this.clock.reset();
     this.setTune(null);
-    this.commit({ ...room, hostId: this.me.id, term: room.term + 1 });
+    this.commit({ ...room, hostId: this.me.id, term: room.term + 1, timer });
+  }
+
+  /** Host: wait for the challenge timer, if one is running. */
+  private armExpiry() {
+    if (this.expiry) clearTimeout(this.expiry);
+    this.expiry = null;
+    const t = this.room?.timer;
+    if (!this.isHost || !t || !('ends' in t)) return;
+    this.expiry = setTimeout(() => {
+      this.expiry = null;
+      this.expire();
+    }, Math.max(0, t.ends - Date.now()));
+  }
+
+  /** Host: time is up and nobody is picking, so challenges close and the card is turned over. */
+  private expire() {
+    const room = this.room;
+    if (!this.isHost || !room?.game || !timeUp(room.game, room.timer, Date.now())) return;
+    this.commit({ ...room, game: reduce(room.game, { type: 'reveal' }) });
   }
 
   private onTick() {

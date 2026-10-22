@@ -8,6 +8,7 @@ import { CODE_LETTERS, newCode, normaliseCode } from './code';
 import { decodeRoom, encodeRoom, isNewer, type Member, type Msg, type Room, type Tune, type WireRoom } from './protocol';
 import { dealGame, seatLatecomer, uniqueName } from './roster';
 import { hostPosition, syncStep, targetPosition } from './playback';
+import { challengesOpen, nextTimer, timeUp } from './timer';
 
 function card(id: string, year: number): Card {
   return {
@@ -40,6 +41,7 @@ const settings: Settings = {
   allowBuy: true,
   allowSkip: true,
 };
+const timed: Settings = { ...settings, challengeTimer: 10 };
 
 describe('clock', () => {
   it('reads the offset from one round trip', () => {
@@ -129,6 +131,13 @@ describe('authority', () => {
     expect(mayAct(picking, { type: 'cancelChallenge' }, who('bob'))).toBe(false);
   });
 
+  it('refuses a challenge once the challenge timer has run out', () => {
+    const s = play(game(), { type: 'selectSlot', slot: 0 }, { type: 'lockIn' });
+    const a: Action = { type: 'startChallenge', playerId: 'ann' };
+    expect(mayAct(s, a, { ...who('ann'), challengesOpen: true })).toBe(true);
+    expect(mayAct(s, a, { ...who('ann'), challengesOpen: false })).toBe(false);
+  });
+
   it('leaves reveal, naming and next to the active player or the host', () => {
     let s = play({ ...game(), turn: 1 }, { type: 'selectSlot', slot: 0 }, { type: 'lockIn' });
     expect(mayAct(s, { type: 'reveal' }, who('ann'))).toBe(true);
@@ -155,6 +164,51 @@ describe('authority', () => {
     // The missing host never re-elects itself, even when presence still lists it.
     expect(electHost(members, new Set(['host', 'bob']), 'host')).toBe('bob');
     expect(electHost(members, new Set(), 'host')).toBeNull();
+  });
+});
+
+describe('challenge timer', () => {
+  const seat = (rules: Settings) => dealGame(rules, ['host', 'ann', 'bob'].map((id) => ({ id, name: id })), CARDS, 7);
+  const locked = (rules = timed) => [{ type: 'selectSlot', slot: 0 }, { type: 'lockIn' }].reduce((g, a) => reduce(g, a as Action), seat(rules));
+  const pick = (s: GameState) => reduce(s, { type: 'startChallenge', playerId: 'ann' });
+  const lockPick = (s: GameState) => reduce(reduce(s, { type: 'selectSlot', slot: 1 }), { type: 'lockChallenge' });
+
+  it('opens at the lock-in with a deadline in host time, and keeps it', () => {
+    expect(nextTimer(seat(timed), null, 1000)).toBeNull();
+    const s = locked();
+    const t = nextTimer(s, null, 1000);
+    expect(t).toEqual({ draw: s.draw, ends: 11_000 });
+    expect(nextTimer(s, t, 5000)).toBe(t);
+  });
+
+  it('is off when the rule is, and in rooms from before it', () => {
+    const { challengeTimer: _, ...older } = timed;
+    expect(nextTimer(locked(older), null, 0)).toBeNull();
+    expect(nextTimer(locked({ ...timed, challengeTimer: 0 }), null, 0)).toBeNull();
+    expect(challengesOpen(undefined, 1e12)).toBe(true);
+    expect(timeUp(locked(), undefined, 1e12)).toBe(false);
+  });
+
+  it('stands still while a challenger picks, then gives the rest what was left, at least 3 s', () => {
+    const s = locked();
+    const t = nextTimer(s, null, 0);
+    const paused = nextTimer(pick(s), t, 4000);
+    expect(paused).toEqual({ draw: s.draw, left: 6000 });
+    expect(timeUp(pick(s), paused, 60_000)).toBe(false);
+    expect(nextTimer(lockPick(pick(s)), paused, 60_000)).toEqual({ draw: s.draw, ends: 66_000 });
+    // Picked with a second to go: the others still get three.
+    const late = nextTimer(pick(s), t, 9000);
+    expect(nextTimer(lockPick(pick(s)), late, 20_000)).toEqual({ draw: s.draw, ends: 23_000 });
+  });
+
+  it('closes challenges at the deadline and goes with the reveal', () => {
+    const s = locked();
+    const t = nextTimer(s, null, 0)!;
+    expect(challengesOpen(t, 9999)).toBe(true);
+    expect(challengesOpen(t, 10_000)).toBe(false);
+    expect(timeUp(s, t, 9999)).toBe(false);
+    expect(timeUp(s, t, 10_000)).toBe(true);
+    expect(nextTimer(reduce(s, { type: 'reveal' }), t, 10_000)).toBeNull();
   });
 });
 
@@ -324,11 +378,12 @@ describe('room client', () => {
     vi.useRealTimers();
   });
 
-  async function threeAtTheTable() {
+  async function threeAtTheTable(rules?: Settings) {
     const host = device('h', 'Hana', true);
     const ann = device('a', 'Ann');
     const bob = device('b', 'Bob');
     await wait();
+    if (rules) host.setSettings(rules);
     host.startGame(11);
     await wait();
     return { host, ann, bob };
@@ -434,6 +489,66 @@ describe('room client', () => {
     await wait();
     expect(game(bob).challenges).toEqual([{ playerId: 'a', slot: 1 }]);
     expect(bob.may({ type: 'startChallenge', playerId: 'b' })).toBe(true);
+  });
+
+  it('stamps the challenge deadline at the lock-in and reveals when it runs out', async () => {
+    const { host, ann, bob } = await threeAtTheTable(timed);
+    host.dispatch({ type: 'selectSlot', slot: 0 });
+    const lockedAt = Date.now();
+    host.dispatch({ type: 'lockIn' });
+    await wait();
+    expect(ann.view.room!.timer).toEqual({ draw: game(ann).draw, ends: lockedAt + 10_000 });
+    await wait(9000);
+    expect(game(bob).phase).toBe('challenge');
+    await wait(1000);
+    for (const c of [host, ann, bob]) expect(game(c).phase).toBe('reveal');
+    expect(bob.view.room!.timer).toBeNull();
+  });
+
+  it('stops the challenge clock while someone picks, and gives the rest at least 3 s after', async () => {
+    const { host, ann, bob } = await threeAtTheTable(timed);
+    host.dispatch({ type: 'selectSlot', slot: 0 });
+    host.dispatch({ type: 'lockIn' });
+    await wait(8000);
+    ann.dispatch({ type: 'startChallenge', playerId: 'a' });
+    await wait(5000);
+    // Long past the deadline, but Ann is still picking.
+    expect(game(bob).picking?.playerId).toBe('a');
+    expect(bob.view.room!.timer).toEqual({ draw: game(bob).draw, left: 2000 - LATENCY });
+    ann.dispatch({ type: 'selectSlot', slot: 1 });
+    ann.dispatch({ type: 'lockChallenge' });
+    await wait(2500);
+    expect(game(bob).phase).toBe('challenge');
+    expect(bob.may({ type: 'startChallenge', playerId: 'b' })).toBe(true);
+    await wait(1000);
+    expect(game(bob).phase).toBe('reveal');
+    expect(game(bob).outcome?.challenges.map((c) => c.playerId)).toEqual(['a']);
+  });
+
+  it('refuses a challenge that reaches the host after the deadline', async () => {
+    const { host, bob } = await threeAtTheTable(timed);
+    host.dispatch({ type: 'selectSlot', slot: 0 });
+    host.dispatch({ type: 'lockIn' });
+    await wait();
+    // Every clock passes the deadline before the host's own timeout gets its turn.
+    vi.setSystemTime(Date.now() + 10_500);
+    expect(bob.may({ type: 'startChallenge', playerId: 'b' })).toBe(false);
+    // A phone that still showed the button sends it anyway.
+    const n = Date.now() + 1e6;
+    hub.connect('TEST', { id: 'x', name: 'Wire' }, { message() {}, presence() {}, status() {} }).send({
+      type: 'intent',
+      from: 'b',
+      to: 'h',
+      n,
+      action: { type: 'startChallenge', playerId: 'b' },
+    });
+    await wait(100);
+    expect(host.view.room!.acks.b).toBe(n);
+    expect(game(host).picking).toBeNull();
+    expect(game(host).players.find((p) => p.id === 'b')!.chips).toBe(settings.startChips);
+    await wait(10_000);
+    expect(game(bob).phase).toBe('reveal');
+    expect(game(bob).outcome?.challenges).toEqual([]);
   });
 
   it('drops a prediction the host never confirms', async () => {

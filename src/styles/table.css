@@ -1737,6 +1737,62 @@
   opacity: 0.7;
 }
 
+/* The challenge timer: a quiet bar draining along the footer's top edge, loud for the last seconds. */
+.actions.has-clock {
+  position: relative;
+}
+.challenge-clock {
+  position: absolute;
+  top: -1px;
+  right: 0;
+  left: 0;
+  height: 4px;
+  pointer-events: none;
+}
+.challenge-clock i {
+  display: block;
+  height: 100%;
+  background: rgba(255, 255, 255, 0.45);
+  transform-origin: left;
+  transition: transform 0.1s linear;
+}
+.challenge-clock.is-paused i {
+  background: repeating-linear-gradient(90deg, rgba(255, 255, 255, 0.35) 0 8px, transparent 8px 14px);
+}
+.challenge-clock.is-urgent {
+  height: 6px;
+}
+.challenge-clock.is-urgent i {
+  background: var(--alarm);
+  box-shadow: 0 0 12px var(--alarm);
+}
+.challenge-clock b {
+  position: absolute;
+  bottom: 10px;
+  left: 50%;
+  display: grid;
+  place-items: center;
+  width: 40px;
+  height: 40px;
+  font-family: var(--display);
+  font-size: 24px;
+  color: var(--alarm-ink);
+  background: var(--alarm);
+  border: 3px solid rgba(0, 0, 0, 0.7);
+  border-radius: 50%;
+  box-shadow: 0 4px 0 var(--alarm-deep);
+  translate: -50% 0;
+  animation: clock-tick 1s ease-out;
+}
+@keyframes clock-tick {
+  from {
+    scale: 1.35;
+  }
+  30% {
+    scale: 1;
+  }
+}
+
 /* ---------- small phones ---------- */
 @media (max-height: 700px) {
   .deck {

@@ -1,6 +1,7 @@
 import { SET_INFO, cardsFor, countBySet } from '../data/cards';
 import { BUY_COST, SKIP_COST, buyAllowed, skipAllowed } from '../engine/game';
 import type { SetId, Settings, Variant } from '../engine/types';
+import { TIMER_SECONDS, timerMs } from '../room/timer';
 import { Icon } from './Icon';
 
 const VARIANTS: { id: Variant; name: string; blurb: string }[] = [
@@ -18,6 +19,7 @@ const SET_SAMPLE: Record<SetId, { year: string; top: string; bottom: string }> =
 const chips = (n: number) => `${n} chip${n === 1 ? '' : 's'}`;
 const BUY_LABEL = `Buy a card (${chips(BUY_COST)})`;
 const SKIP_LABEL = `Skip a song (${chips(SKIP_COST)})`;
+const TIMER_LABEL = `Challenge timer (${TIMER_SECONDS} s)`;
 
 /** Why these settings can't be dealt to this many players, if they can't. */
 export function dealProblem(settings: Settings, players: number): string | null {
@@ -44,7 +46,7 @@ function Stepper({ label, value, min, max, onChange }: { label: string; value: n
 }
 
 /** Which cards and the house rules: the table's setup and a room host's lobby. */
-export function Rules({ settings, onChange }: { settings: Settings; onChange: (s: Settings) => void }) {
+export function Rules({ settings, onChange, room = false }: { settings: Settings; onChange: (s: Settings) => void; room?: boolean }) {
   const counts = countBySet();
   const update = (patch: Partial<Settings>) => onChange({ ...settings, ...patch });
   const toggleSet = (id: SetId) =>
@@ -109,6 +111,17 @@ export function Rules({ settings, onChange }: { settings: Settings; onChange: (s
           <input type="checkbox" checked={skipAllowed(settings)} onChange={(e) => update({ allowSkip: e.target.checked })} />
           <span>{SKIP_LABEL}</span>
         </label>
+        {/* At the table everyone sees everyone hesitate; on separate phones a clock keeps it moving. */}
+        {room && (
+          <label className="switch">
+            <input
+              type="checkbox"
+              checked={timerMs(settings) > 0}
+              onChange={(e) => update({ challengeTimer: e.target.checked ? TIMER_SECONDS : 0 })}
+            />
+            <span>{TIMER_LABEL}</span>
+          </label>
+        )}
       </section>
     </>
   );
@@ -125,6 +138,7 @@ export function RulesSummary({ settings, host }: { settings: Settings; host: str
     ['Starting chips', `${settings.startChips}, at most ${settings.maxChips}`],
     [BUY_LABEL, buyAllowed(settings) ? 'Yes' : 'No'],
     [SKIP_LABEL, skipAllowed(settings) ? 'Yes' : 'No'],
+    ['Challenge timer', timerMs(settings) > 0 ? `${settings.challengeTimer} s` : 'Off'],
   ];
   return (
     <section className="setup-block">

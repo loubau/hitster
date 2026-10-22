@@ -5,8 +5,10 @@ import { earnsChip } from '../engine/rules';
 import type { Card, GameState, Player } from '../engine/types';
 import { submitFeedback } from '../feedback';
 import type { RoomClient, RoomView } from '../room/client';
+import { timerMs } from '../room/timer';
 import { useRoomPlayback } from '../room/useRoomPlayback';
 import { CardBack, CardFace, PLAYER_COLORS, Token, cardColor } from './cards';
+import { ChallengeClock, useTimeUp } from './ChallengeClock';
 import { FeedbackSheet } from './FeedbackSheet';
 import { Fx, type FxEvent } from './fx/Fx';
 import { Icon } from './Icon';
@@ -123,6 +125,11 @@ export function Game({ state, dispatch, onExit, room }: Props) {
   const picking = state.picking;
   const picker = picking ? byId(picking.playerId) : null;
   const canChallenge = challengers(state);
+  // Room: the host's challenge timer, shown on every phone against the host's clock.
+  const roomTimer = room?.view.room?.timer;
+  const timer = state.phase === 'challenge' && roomTimer?.draw === state.draw ? roomTimer : null;
+  const hostNow = () => room?.client.hostNow() ?? Date.now();
+  const timeUp = useTimeUp(timer, hostNow);
 
   const markers: Marker[] = state.challenges.map((c) => {
     const result = state.outcome?.challenges.find((r) => r.playerId === c.playerId);
@@ -357,7 +364,8 @@ export function Game({ state, dispatch, onExit, room }: Props) {
         </div>
       </section>
 
-      <footer className="actions" data-phase={state.phase}>
+      <footer className={timer ? 'actions has-clock' : 'actions'} data-phase={state.phase}>
+        {timer && <ChallengeClock timer={timer} total={timerMs(state.settings)} hostNow={hostNow} />}
         {state.phase === 'place' && !may({ type: 'lockIn' }) && <p className="no-challenge">Waiting for {active.name} to lock in</p>}
 
         {state.phase === 'place' && may({ type: 'lockIn' }) && (
@@ -399,7 +407,7 @@ export function Game({ state, dispatch, onExit, room }: Props) {
 
         {room && state.phase === 'challenge' && !picking && (
           <>
-            {canChallenge.some((p) => p.id === meId) ? (
+            {canChallenge.some((p) => p.id === meId) && !timeUp ? (
               <button
                 type="button"
                 className="challenge"
@@ -414,13 +422,15 @@ export function Game({ state, dispatch, onExit, room }: Props) {
               </button>
             ) : (
               <p className="no-challenge">
-                {mine
-                  ? canChallenge.length > 0
-                    ? 'Anyone think you got it wrong?'
-                    : 'Nobody has a chip left to challenge'
-                  : state.challenges.some((c) => c.playerId === meId)
-                    ? 'Your challenge is in'
-                    : 'No chip left to challenge with'}
+                {timeUp
+                  ? "Time's up"
+                  : mine
+                    ? canChallenge.length > 0
+                      ? 'Anyone think you got it wrong?'
+                      : 'Nobody has a chip left to challenge'
+                    : state.challenges.some((c) => c.playerId === meId)
+                      ? 'Your challenge is in'
+                      : 'No chip left to challenge with'}
               </p>
             )}
             {may({ type: 'reveal' }) && (

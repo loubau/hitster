@@ -1,5 +1,6 @@
 import type { Action } from '../engine/game';
 import type { Card, GameState, Settings } from '../engine/types';
+import type { ChallengeTimer } from './timer';
 
 /* Room mode: every player on their own phone, all on one Supabase Realtime channel (room:<CODE>).
    The host's browser runs the reducer and broadcasts the whole room after every change; guests
@@ -28,6 +29,8 @@ export interface Room {
   game: GameState | null;
   /** The last intent number the host handled per player, so guests can drop their predictions. */
   acks: Record<string, number>;
+  /** The challenge window, stamped by the host. Missing (older rooms) or null: no timer running. */
+  timer?: ChallengeTimer | null;
 }
 
 /**

@@ -124,7 +124,7 @@ export function Lobby({ client, view, onLeave }: Props) {
         {!seated && <p className="room-blurb">Send the others the link or the code; they show up here.</p>}
       </section>
 
-      {isHost ? <Rules settings={room.settings} onChange={(s) => client.setSettings(s)} /> : <RulesSummary settings={room.settings} host={hostName} />}
+      {isHost ? <Rules room settings={room.settings} onChange={(s) => client.setSettings(s)} /> : <RulesSummary settings={room.settings} host={hostName} />}
 
       <footer className="setup-foot">
         {isHost ? (

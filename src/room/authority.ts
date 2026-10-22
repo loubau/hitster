@@ -8,6 +8,8 @@ export interface Asker {
   hostId: string;
   /** Members online right now (presence). */
   online: ReadonlySet<string>;
+  /** False once the challenge timer has run out; left out, challenges stay open. */
+  challengesOpen?: boolean;
 }
 
 /**
@@ -32,6 +34,7 @@ export function mayAct(s: GameState, a: Action, who: Asker): boolean {
       return s.phase === 'place' && buyAllowed(s.settings) && as(active);
     case 'startChallenge':
       // Only for yourself; when two tap at once, the host takes whichever intent arrives first.
+      if (who.challengesOpen === false) return false;
       return a.playerId === me && s.phase === 'challenge' && !s.picking && challengers(s).some((p) => p.id === me);
     case 'cancelChallenge':
       return !!s.picking && (s.picking.playerId === me || isHost);

@@ -47,6 +47,11 @@ export interface Settings {
   allowBuy: boolean;
   /** House rule: spend 1 chip to skip a song. On by default; missing in older saves means on. */
   allowSkip: boolean;
+  /**
+   * Rooms only: seconds to challenge after a lock-in, then the card is revealed. 0 is no timer,
+   * and so is a missing field (rooms from before the rule). The table ignores it.
+   */
+  challengeTimer?: number;
 }
 
 export interface Player {

@@ -1,4 +1,5 @@
 import type { Settings } from '../engine/types';
+import { TIMER_SECONDS } from '../room/timer';
 
 const PREFS_KEY = 'hitster.prefs.v1';
 
@@ -20,6 +21,7 @@ const DEFAULTS: Prefs = {
     includeDutch: true,
     allowBuy: false,
     allowSkip: true,
+    challengeTimer: TIMER_SECONDS,
   },
   me: '',
 };
