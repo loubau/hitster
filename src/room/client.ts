@@ -325,7 +325,9 @@ export class RoomClient {
 
   /** Host: a change to the room. */
   private commit(next: Room) {
-    this.room = { ...next, seq: next.seq + 1, timer: nextTimer(next.game, next.timer, Date.now()) };
+    // Presence only counts once it has arrived: a host just back from a reload sees nobody yet.
+    const timer = nextTimer(next.game, next.timer, Date.now(), this.presenceSeen ? this.online : undefined);
+    this.room = { ...next, seq: next.seq + 1, timer };
     this.armExpiry();
     this.keep(true);
     this.send({ type: 'state', room: encodeRoom(this.room) });

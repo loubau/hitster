@@ -130,6 +130,8 @@ export function Game({ state, dispatch, onExit, room }: Props) {
   const timer = state.phase === 'challenge' && roomTimer?.draw === state.draw ? roomTimer : null;
   const hostNow = () => room?.client.hostNow() ?? Date.now();
   const timeUp = useTimeUp(timer, hostNow);
+  // Nobody left to challenge: the card turns over after a beat, with no clock to watch.
+  const settled = !!timer && 'ends' in timer && !!timer.settled;
 
   const markers: Marker[] = state.challenges.map((c) => {
     const result = state.outcome?.challenges.find((r) => r.playerId === c.playerId);
@@ -364,8 +366,8 @@ export function Game({ state, dispatch, onExit, room }: Props) {
         </div>
       </section>
 
-      <footer className={timer ? 'actions has-clock' : 'actions'} data-phase={state.phase}>
-        {timer && <ChallengeClock timer={timer} total={timerMs(state.settings)} hostNow={hostNow} />}
+      <footer className={timer && !settled ? 'actions has-clock' : 'actions'} data-phase={state.phase}>
+        {timer && !settled && <ChallengeClock timer={timer} total={timerMs(state.settings)} hostNow={hostNow} />}
         {state.phase === 'place' && !may({ type: 'lockIn' }) && <p className="no-challenge">Waiting for {active.name} to lock in</p>}
 
         {state.phase === 'place' && may({ type: 'lockIn' }) && (
@@ -422,12 +424,14 @@ export function Game({ state, dispatch, onExit, room }: Props) {
               </button>
             ) : (
               <p className="no-challenge">
-                {timeUp
+                {timeUp && !settled
                   ? "Time's up"
                   : mine
-                    ? canChallenge.length > 0
-                      ? 'Anyone think you got it wrong?'
-                      : 'Nobody has a chip left to challenge'
+                    ? settled
+                      ? 'Nobody left to challenge'
+                      : canChallenge.length > 0
+                        ? 'Anyone think you got it wrong?'
+                        : 'Nobody has a chip left to challenge'
                     : state.challenges.some((c) => c.playerId === meId)
                       ? 'Your challenge is in'
                       : 'No chip left to challenge with'}

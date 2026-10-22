@@ -8,7 +8,7 @@ import { CODE_LETTERS, newCode, normaliseCode } from './code';
 import { decodeRoom, encodeRoom, isNewer, type Member, type Msg, type Room, type Tune, type WireRoom } from './protocol';
 import { dealGame, seatLatecomer, uniqueName } from './roster';
 import { hostPosition, syncStep, targetPosition } from './playback';
-import { challengesOpen, nextTimer, timeUp } from './timer';
+import { BEAT_MS, challengesOpen, nextTimer, timeUp } from './timer';
 
 function card(id: string, year: number): Card {
   return {
@@ -199,6 +199,20 @@ describe('challenge timer', () => {
     // Picked with a second to go: the others still get three.
     const late = nextTimer(pick(s), t, 9000);
     expect(nextTimer(lockPick(pick(s)), late, 20_000)).toEqual({ draw: s.draw, ends: 23_000 });
+  });
+
+  it('closes after a beat once nobody here could still challenge', () => {
+    const everyone = new Set(['host', 'ann', 'bob']);
+    const s = locked();
+    expect(nextTimer(s, null, 0, everyone)).toEqual({ draw: s.draw, ends: 10_000 });
+    // Ann is out of chips and Bob's phone is gone.
+    const broke = { ...s, players: s.players.map((p) => (p.id === 'ann' ? { ...p, chips: 0 } : p)) };
+    expect(nextTimer(broke, null, 0, new Set(['host', 'ann']))).toEqual({ draw: s.draw, ends: BEAT_MS, settled: true });
+    // Until presence is known (a host just back from a reload), nobody counts as gone.
+    expect(nextTimer(broke, null, 0)).toEqual({ draw: s.draw, ends: 10_000 });
+    // Ann challenged; with Bob away, nobody is left once she locks in.
+    const paused = nextTimer(pick(s), nextTimer(s, null, 0, everyone), 4000, everyone);
+    expect(nextTimer(lockPick(pick(s)), paused, 5000, new Set(['host', 'ann']))).toEqual({ draw: s.draw, ends: 5000 + BEAT_MS, settled: true });
   });
 
   it('closes challenges at the deadline and goes with the reveal', () => {
@@ -549,6 +563,72 @@ describe('room client', () => {
     await wait(10_000);
     expect(game(bob).phase).toBe('reveal');
     expect(game(bob).outcome?.challenges).toEqual([]);
+  });
+
+  async function twoAtTheTable(rules: Settings) {
+    const host = device('h', 'Hana', true);
+    const ann = device('a', 'Ann');
+    await wait();
+    host.setSettings(rules);
+    host.startGame(11);
+    await wait();
+    return { host, ann };
+  }
+
+  it('reveals a beat after the only other player has challenged', async () => {
+    const { host, ann } = await twoAtTheTable(timed);
+    host.dispatch({ type: 'selectSlot', slot: 0 });
+    host.dispatch({ type: 'lockIn' });
+    await wait();
+    expect(ann.view.room!.timer).toEqual({ draw: game(ann).draw, ends: expect.any(Number) });
+    ann.dispatch({ type: 'startChallenge', playerId: 'a' });
+    await wait();
+    ann.dispatch({ type: 'selectSlot', slot: 1 });
+    ann.dispatch({ type: 'lockChallenge' });
+    await wait(500);
+    expect(game(ann).phase).toBe('challenge');
+    expect(ann.view.room!.timer).toMatchObject({ settled: true });
+    await wait(600);
+    for (const c of [host, ann]) expect(game(c).phase).toBe('reveal');
+    expect(game(ann).outcome?.challenges.map((c) => c.playerId)).toEqual(['a']);
+  });
+
+  it('reveals a beat after the lock-in when nobody has a chip to challenge with', async () => {
+    const { host, ann, bob } = await threeAtTheTable({ ...timed, startChips: 0 });
+    host.dispatch({ type: 'selectSlot', slot: 0 });
+    host.dispatch({ type: 'lockIn' });
+    await wait(500);
+    expect(game(bob).phase).toBe('challenge');
+    expect(bob.view.room!.timer).toMatchObject({ settled: true });
+    await wait(600);
+    for (const c of [host, ann, bob]) expect(game(c).phase).toBe('reveal');
+  });
+
+  it('does not wait on a player whose phone is gone', async () => {
+    const { host, ann, bob } = await threeAtTheTable(timed);
+    bob.stop();
+    await wait();
+    host.dispatch({ type: 'selectSlot', slot: 0 });
+    host.dispatch({ type: 'lockIn' });
+    await wait();
+    // Ann is here with a chip, so the clock runs as usual...
+    expect(ann.view.room!.timer).toEqual({ draw: game(ann).draw, ends: expect.any(Number) });
+    ann.dispatch({ type: 'startChallenge', playerId: 'a' });
+    await wait();
+    ann.dispatch({ type: 'selectSlot', slot: 1 });
+    ann.dispatch({ type: 'lockChallenge' });
+    // ...but once she is in, Bob (offline, chips and all) holds nothing up.
+    await wait(1200);
+    expect(game(ann).phase).toBe('reveal');
+  });
+
+  it('leaves the reveal to the players when the timer is off', async () => {
+    const { host, ann } = await twoAtTheTable({ ...settings, startChips: 0 });
+    host.dispatch({ type: 'selectSlot', slot: 0 });
+    host.dispatch({ type: 'lockIn' });
+    await wait(12_000);
+    expect(game(ann).phase).toBe('challenge');
+    expect(ann.view.room!.timer).toBeNull();
   });
 
   it('drops a prediction the host never confirms', async () => {
