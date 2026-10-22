@@ -16,6 +16,18 @@ export interface MusicProvider {
   restart(): void;
   seekBy(seconds: number): void;
   subscribe(listener: (p: Playback) => void): () => void;
+  /* Room mode: guests follow the host's player. */
+  seekTo(seconds: number): void;
+  /** Seconds, read from the player now rather than from the last poll. */
+  currentTime(): number;
+  /** Asked to play but waiting on the network, so the position is standing still. */
+  buffering(): boolean;
+  /** Where the loaded clip starts ("id@37" starts at 37). */
+  readonly start: number;
+  /** The card loaded last, and its video when there is one. */
+  readonly cardId: string | undefined;
+  readonly videoId?: string;
+  setMuted(muted: boolean): void;
 }
 
 /** Silent stand-in that only moves a playhead, so the table can be tried without an account. */
@@ -25,7 +37,10 @@ export class MockProvider implements MusicProvider {
   private listeners = new Set<(p: Playback) => void>();
   private timer: ReturnType<typeof setInterval> | null = null;
 
-  async load(): Promise<void> {
+  cardId: string | undefined;
+
+  async load(card: Card): Promise<void> {
+    this.cardId = card.id;
     this.set({ playing: false, position: 0, duration: 150 + Math.floor(Math.random() * 120) });
   }
   play(): void {
@@ -45,8 +60,19 @@ export class MockProvider implements MusicProvider {
     this.set({ position: 0 });
   }
   seekBy(seconds: number): void {
-    this.set({ position: Math.max(0, Math.min(this.state.duration, this.state.position + seconds)) });
+    this.seekTo(this.state.position + seconds);
   }
+  seekTo(seconds: number): void {
+    this.set({ position: Math.max(0, Math.min(this.state.duration, seconds)) });
+  }
+  currentTime(): number {
+    return this.state.position;
+  }
+  buffering(): boolean {
+    return false;
+  }
+  readonly start = 0;
+  setMuted(): void {}
   subscribe(listener: (p: Playback) => void): () => void {
     this.listeners.add(listener);
     listener(this.state);

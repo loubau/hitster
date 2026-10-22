@@ -43,6 +43,10 @@ export interface Settings {
   maxChips: number;
   variant: Variant;
   includeDutch: boolean;
+  /** House rule: spend 3 chips for a card. Off by default; missing in older saves means off. */
+  allowBuy: boolean;
+  /** House rule: spend 1 chip to skip a song. On by default; missing in older saves means on. */
+  allowSkip: boolean;
 }
 
 export interface Player {

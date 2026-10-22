@@ -3,7 +3,17 @@ import type { Player, SetId } from '../engine/types';
 import { CardStrip } from './cards';
 import { fireworks } from './fx/confetti';
 
-export function Victory({ winner, color, set, onExit }: { winner: Player; color: string; set: SetId; onExit: () => void }) {
+interface Props {
+  winner: Player;
+  color: string;
+  set: SetId;
+  onExit: () => void;
+  /** Rooms: guests leave instead, and a line says what happens next. */
+  label?: string;
+  note?: string;
+}
+
+export function Victory({ winner, color, set, onExit, label = 'New game', note }: Props) {
   useEffect(() => fireworks(set), [set]);
   return (
     <div className={`victory fx-${set}`}>
@@ -18,8 +28,9 @@ export function Victory({ winner, color, set, onExit }: { winner: Player; color:
           ))}
         </ol>
         <button type="button" className="slab" onClick={onExit}>
-          New game
+          {label}
         </button>
+        {note && <p className="victory-note">{note}</p>}
       </div>
     </div>
   );

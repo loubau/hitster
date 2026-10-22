@@ -1454,6 +1454,289 @@
   color: var(--chrome);
 }
 
+/* ---------- rooms: one phone each ---------- */
+.setup-resume {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+}
+.modes {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 6px;
+  padding: 4px;
+  background: rgba(0, 0, 0, 0.3);
+  border: 1px solid rgba(255, 255, 255, 0.12);
+}
+.mode {
+  min-height: 46px;
+  padding: 6px 4px;
+  font-size: 13.5px;
+  font-weight: 800;
+  line-height: 1.15;
+  color: var(--chrome);
+  transition: transform 0.07s;
+}
+.mode.is-on {
+  color: var(--accent-ink);
+  background: var(--accent);
+  box-shadow: 0 3px 0 var(--accent-deep);
+}
+.mode:active {
+  transform: translateY(2px);
+}
+.room-form {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  gap: 16px;
+}
+.room-blurb {
+  margin: 0 0 12px;
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 1.35;
+  color: var(--muted);
+}
+.room-blurb:last-child {
+  margin: 12px 0 0;
+}
+.room-field {
+  display: block;
+  width: 100%;
+  margin-top: 12px;
+  padding: 11px 12px;
+  font: inherit;
+  font-size: 17px;
+  font-weight: 700;
+  color: #fff;
+  background: rgba(0, 0, 0, 0.3);
+  border: 1.5px solid rgba(255, 255, 255, 0.3);
+  border-radius: 0;
+}
+.room-field:first-child,
+.room-blurb + .room-field {
+  margin-top: 0;
+}
+.room-field::placeholder {
+  color: var(--muted);
+}
+.code-field {
+  font-family: var(--pop);
+  font-weight: 400;
+  font-size: 34px;
+  letter-spacing: 0.35em;
+  text-align: center;
+  text-indent: 0.35em;
+}
+.code-field::placeholder {
+  color: rgba(255, 255, 255, 0.22);
+}
+
+/* The code, big enough to read out across the table. */
+.room-code {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+}
+.room-code span {
+  display: grid;
+  place-items: center;
+  width: min(64px, 19vw);
+  aspect-ratio: 4 / 5;
+  font-family: var(--pop);
+  font-size: min(42px, 12vw);
+  color: var(--ink);
+  background: var(--noise), var(--paper);
+  background-blend-mode: multiply;
+  box-shadow: var(--shadow-card);
+  rotate: -2deg;
+  animation: drop-in 0.35s cubic-bezier(0.2, 1.4, 0.4, 1) backwards;
+}
+.room-code span:nth-child(even) {
+  rotate: 2.5deg;
+}
+.room-code span:nth-child(2) {
+  animation-delay: 0.05s;
+}
+.room-code span:nth-child(3) {
+  animation-delay: 0.1s;
+}
+.room-code span:nth-child(4) {
+  animation-delay: 0.15s;
+}
+.join-room .room-code,
+.room-wait .room-code {
+  margin-bottom: 16px;
+}
+.invite-row {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 8px;
+  margin-top: 16px;
+}
+.invite-row .chip-btn {
+  padding: 10px 14px;
+  font-size: 14px;
+}
+.qr {
+  display: block;
+  width: 180px;
+  margin: 14px auto 0;
+  box-shadow: var(--shadow-card);
+}
+.plate.is-away {
+  opacity: 0.5;
+}
+.plate-tag {
+  padding: 1px 5px;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 800;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--paper);
+  background: var(--ink);
+}
+.plate-end {
+  width: 4px;
+}
+.rules-summary {
+  display: flex;
+  flex-direction: column;
+  margin: 0;
+}
+.rules-summary div {
+  display: flex;
+  justify-content: space-between;
+  gap: 12px;
+  padding: 8px 0;
+  font-size: 14px;
+  border-top: 1px solid rgba(255, 255, 255, 0.1);
+}
+.rules-summary div:first-child {
+  border-top: 0;
+  padding-top: 0;
+}
+.rules-summary dt {
+  font-weight: 650;
+}
+.rules-summary dd {
+  margin: 0;
+  font-weight: 800;
+  text-align: right;
+}
+.room-note {
+  margin: 0;
+  padding: 8px 12px;
+  font-size: 14px;
+  font-weight: 750;
+  color: var(--ink);
+  background: var(--accent);
+}
+.room-wait-title {
+  margin: 0 0 6px;
+  font-size: 18px;
+  font-weight: 800;
+  text-align: center;
+}
+.room-wait .room-blurb {
+  margin: 0;
+  text-align: center;
+}
+.room-wait .setup-foot,
+.join-room .setup-foot {
+  align-items: center;
+}
+.join-room .setup-foot .slab {
+  align-self: stretch;
+}
+
+/* In the game: this phone's sound, its player, and whose move it is. */
+.mute-btn {
+  display: grid;
+  place-items: center;
+  flex: none;
+  width: 40px;
+  height: 44px;
+  color: var(--chrome);
+}
+.mute-btn.is-muted {
+  color: var(--muted);
+}
+.room-banner {
+  position: fixed;
+  top: calc(env(safe-area-inset-top) + 76px);
+  left: 50%;
+  z-index: 40;
+  padding: 6px 14px;
+  font-size: 13px;
+  font-weight: 800;
+  white-space: nowrap;
+  color: var(--ink);
+  background: var(--accent);
+  box-shadow: var(--shadow-card);
+  translate: -50% 0;
+  animation: drop-in 0.3s cubic-bezier(0.2, 1.4, 0.4, 1);
+}
+.seat-you {
+  position: absolute;
+  top: -7px;
+  right: -6px;
+  z-index: 1;
+  padding: 1px 5px;
+  font-size: 9.5px;
+  font-weight: 800;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--paper);
+  background: var(--ink);
+  rotate: 6deg;
+}
+.seat.is-away {
+  opacity: 0.55;
+}
+.transport button:disabled {
+  opacity: 0.35;
+}
+.transport button:disabled:active {
+  transform: none;
+}
+.challenge:disabled {
+  filter: saturate(0.5);
+  animation: none;
+}
+.challenge:disabled::before,
+.challenge:disabled::after {
+  animation: none;
+  opacity: 0;
+}
+.toggle:disabled {
+  opacity: 0.85;
+}
+/* "Joost is placing" is longer than a name's turn; let it take two lines rather than lose the verb. */
+.turn-label.is-room {
+  display: -webkit-box;
+  white-space: normal;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+  line-clamp: 2;
+}
+.named-wait {
+  flex: 1;
+  font-size: 14px;
+  font-weight: 750;
+  text-align: right;
+  color: var(--muted);
+}
+.victory-note {
+  margin: 12px 0 0;
+  font-size: 14px;
+  font-weight: 700;
+  opacity: 0.7;
+}
+
 /* ---------- small phones ---------- */
 @media (max-height: 700px) {
   .deck {

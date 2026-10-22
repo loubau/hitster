@@ -62,6 +62,9 @@ interface YTPlayer {
   pauseVideo(): void;
   stopVideo(): void;
   seekTo(seconds: number, allowSeekAhead: boolean): void;
+  mute(): void;
+  unMute(): void;
+  isMuted(): boolean;
   getCurrentTime(): number;
   getDuration(): number;
   getPlayerState(): number;
@@ -124,6 +127,7 @@ type Status = 'loading' | 'ready' | 'blocked' | 'none' | 'offline';
  * iOS only starts sound from a tap inside the iframe, so until this player has played once the
  * overlay takes taps (data-tap on the host): tapping the card starts the song. After that the same
  * player may be started from script, so the overlay lets taps through and the buttons drive it.
+ * A muted player (a room guest) may start from script anyway; it is unlocked once it plays with sound.
  */
 export class YouTubeProvider implements MusicProvider {
   private state: Playback = { playing: false, position: 0, duration: 1 };
@@ -142,6 +146,11 @@ export class YouTubeProvider implements MusicProvider {
   private cueing = false;
   private wantPlay = false;
   private unlocked = false;
+  private muted = false;
+  /** Where to start the cued clip once it plays: seeking a cued video would start it from script. */
+  private pendingSeek: number | undefined;
+  /** Videos that failed on this device for the current card; a room host asking for one is ignored. */
+  private failedHere = new Set<string>();
   private status: Status = 'loading';
   private timer: ReturnType<typeof setInterval> | null = null;
   private blockedCheck: ReturnType<typeof setTimeout> | null = null;
@@ -166,6 +175,14 @@ export class YouTubeProvider implements MusicProvider {
     return this.clip?.videoId;
   }
 
+  get start(): number {
+    return this.clip?.startSeconds ?? 0;
+  }
+
+  get cardId(): string | undefined {
+    return this.card?.id;
+  }
+
   /** Ref callback for the element the player lives in. */
   readonly mount = (el: HTMLElement | null) => {
     if (!el || el === this.host) return;
@@ -179,6 +196,7 @@ export class YouTubeProvider implements MusicProvider {
     const seq = ++this.loads;
     this.card = card;
     this.queue = clipsFor(card);
+    this.failedHere.clear();
     this.tried = 0;
     this.wantPlay = false;
     this.status = 'loading';
@@ -221,14 +239,29 @@ export class YouTubeProvider implements MusicProvider {
     if (this.yt && this.card?.id === cardId && this.clip?.videoId === videoId) this.next(this.yt);
   }
 
+  /**
+   * Room guests: switch to the host's video, unless it already failed here. The current clip
+   * stays next in line as the fallback.
+   */
+  prefer(videoId: string, start: number): void {
+    const yt = this.yt;
+    if (!yt || !this.card || this.clip?.videoId === videoId || this.failedHere.has(videoId)) return;
+    const wanted: Clip = start ? { videoId, startSeconds: start } : { videoId };
+    this.queue = [wanted, ...(this.clip ? [this.clip] : []), ...this.queue.filter((c) => c.videoId !== videoId)];
+    this.tried = 0;
+    this.next(yt);
+  }
+
   play(): void {
     const yt = this.yt;
     if (!yt || !this.clip) return;
     this.wantPlay = true;
     if (this.cueing) return; // onState starts it once the cue lands.
-    if (this.fresh) yt.loadVideoById(this.clip);
+    if (this.muted) yt.mute();
+    if (this.fresh) yt.loadVideoById(this.pendingSeek === undefined ? this.clip : { ...this.clip, startSeconds: this.pendingSeek });
     else yt.playVideo();
     this.fresh = false;
+    this.pendingSeek = undefined;
     // Fallback for browsers that refuse silently instead of firing onAutoplayBlocked.
     this.clearBlockedCheck();
     if (!this.unlocked) {
@@ -253,7 +286,43 @@ export class YouTubeProvider implements MusicProvider {
 
   seekBy(seconds: number): void {
     if (!this.yt) return;
-    this.seek(this.yt.getCurrentTime() + seconds);
+    this.seek(this.currentTime() + seconds);
+  }
+
+  seekTo(seconds: number): void {
+    this.seek(seconds);
+  }
+
+  currentTime(): number {
+    if (this.yt && this.clip && !this.fresh) return this.yt.getCurrentTime();
+    return this.pendingSeek ?? this.state.position;
+  }
+
+  buffering(): boolean {
+    return this.wantPlay && (this.cueing || this.yt?.getPlayerState() !== PLAYING);
+  }
+
+  setMuted(muted: boolean): void {
+    if (muted === this.muted) return;
+    this.muted = muted;
+    const yt = this.yt;
+    if (yt && muted) yt.mute();
+    if (yt && !muted) {
+      yt.unMute();
+      // iOS refuses sound from script until a tap inside the player: if it went quiet, ask for one.
+      if (!this.unlocked && this.state.playing) {
+        setTimeout(() => {
+          if (this.muted || this.unlocked || this.yt !== yt) return;
+          if (yt.getPlayerState() === PLAYING && !yt.isMuted()) this.unlocked = true;
+          else {
+            yt.pauseVideo();
+            this.blocked();
+          }
+          this.arm();
+        }, 800);
+      }
+    }
+    this.arm();
   }
 
   subscribe(listener: (p: Playback) => void): () => void {
@@ -266,8 +335,9 @@ export class YouTubeProvider implements MusicProvider {
     const yt = this.yt;
     if (!yt || !this.clip) return;
     const duration = yt.getDuration() || this.state.duration;
-    const position = Math.max(0, Math.min(to, duration - 1));
-    yt.seekTo(position, true);
+    const position = Math.max(0, duration > 1 ? Math.min(to, duration - 1) : to);
+    if (this.fresh) this.pendingSeek = position;
+    else yt.seekTo(position, true);
     this.set({ position });
   }
 
@@ -287,6 +357,7 @@ export class YouTubeProvider implements MusicProvider {
               onReady: (e) => {
                 this.yt = e.target;
                 e.target.getIframe().tabIndex = -1;
+                if (this.muted) e.target.mute();
                 resolve(e.target);
               },
               onStateChange: (e) => this.onState(e.data),
@@ -304,6 +375,7 @@ export class YouTubeProvider implements MusicProvider {
   private next(yt: YTPlayer) {
     this.clip = this.queue.shift() ?? null;
     this.cueing = false;
+    this.pendingSeek = undefined;
     this.stopPolling();
     if (!this.clip) {
       this.status = 'none';
@@ -329,6 +401,7 @@ export class YouTubeProvider implements MusicProvider {
   private onError(code: number) {
     if (!this.yt || !this.clip || !this.card) return;
     rememberFailed(this.clip.videoId, this.card.id, code);
+    this.failedHere.add(this.clip.videoId);
     this.next(this.yt);
   }
 
@@ -350,7 +423,7 @@ export class YouTubeProvider implements MusicProvider {
     }
     if (s === PLAYING) {
       // Started, by script or by a tap inside the iframe: from now on scripts may start this player.
-      this.unlocked = true;
+      if (!this.muted) this.unlocked = true;
       this.wantPlay = true;
       this.fresh = false;
       this.status = 'ready';
@@ -372,10 +445,10 @@ export class YouTubeProvider implements MusicProvider {
     this.set({ playing, duration, position: ended ? duration : yt.getCurrentTime() });
   }
 
-  /** Let the hidden player take taps on the deck until it has played once. */
+  /** Let the hidden player take taps on the deck until it has played once (with sound). */
   private arm() {
     if (!this.host) return;
-    if (this.clip && !this.unlocked) this.host.dataset.tap = '';
+    if (this.clip && !this.unlocked && (!this.muted || this.status === 'blocked')) this.host.dataset.tap = '';
     else delete this.host.dataset.tap;
   }
 

@@ -29,6 +29,8 @@ const settings: Settings = {
   maxChips: 5,
   variant: 'original',
   includeDutch: true,
+  allowBuy: true,
+  allowSkip: true,
 };
 
 const play = (s: GameState, ...actions: Action[]) => actions.reduce(reduce, s);
@@ -127,6 +129,27 @@ describe('turns', () => {
     const s = reduce(rigged([mine, theirs], card('m', 1975)), { type: 'skip' });
     expect(s.players[0].chips).toBe(1);
     expect(s.current?.id).toBe('spare');
+  });
+
+  it('refuses skipping when the house rules leave it out', () => {
+    let s = rigged([mine, theirs], card('m', 1975));
+    s = { ...s, settings: { ...s.settings, allowSkip: false } };
+    expect(reduce(s, { type: 'skip' })).toBe(s);
+  });
+
+  it('refuses buying a card unless the house rules allow it', () => {
+    let s = rigged([mine, theirs], card('m', 1975), [card('n', 1990), card('o', 1991)]);
+    s = { ...s, players: s.players.map((p, i) => (i === 0 ? { ...p, chips: 5 } : p)) };
+    expect(reduce({ ...s, settings: { ...s.settings, allowBuy: false } }, { type: 'buyCard' }).players[0].chips).toBe(5);
+    expect(reduce(s, { type: 'buyCard' }).players[0].chips).toBe(2);
+  });
+
+  it('reads a save without the newer house rules as buying off and skipping on', () => {
+    const { allowBuy: _b, allowSkip: _s, ...old } = settings;
+    let s = rigged([mine, theirs], card('m', 1975), [card('n', 1990), card('o', 1991)]);
+    s = { ...s, settings: old as Settings, players: s.players.map((p, i) => (i === 0 ? { ...p, chips: 5 } : p)) };
+    expect(reduce(s, { type: 'buyCard' })).toBe(s);
+    expect(reduce(s, { type: 'skip' }).players[0].chips).toBe(4);
   });
 
   it('ends the game when someone reaches the target', () => {

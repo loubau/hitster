@@ -20,6 +20,10 @@ export type Action =
 
 const NOTHING_NAMED: Named = { primary: false, secondary: false, year: false };
 
+/* Saves and room snapshots from before these house rules lack them: read them with their defaults. */
+export const buyAllowed = (settings: Settings) => settings.allowBuy === true;
+export const skipAllowed = (settings: Settings) => settings.allowSkip !== false;
+
 export function newGame(settings: Settings, names: string[], cards: Card[], seed: number): GameState {
   let deck = shuffle(cards, seed);
   // Everyone starts with one face-up card, as in the physical game.
@@ -101,12 +105,12 @@ export function reduce(s: GameState, a: Action): GameState {
       return s.phase === 'place' && s.slot !== null ? { ...s, phase: 'challenge' } : s;
 
     case 'skip': {
-      if (s.phase !== 'place' || !s.current || active.chips < SKIP_COST) return s;
+      if (s.phase !== 'place' || !s.current || active.chips < SKIP_COST || !skipAllowed(s.settings)) return s;
       const players = updatePlayer(s, active.id, (p) => ({ ...p, chips: p.chips - SKIP_COST }));
       return drawCard({ ...s, players, slot: null, discard: [...s.discard, s.current] });
     }
     case 'buyCard': {
-      if (s.phase !== 'place' || active.chips < BUY_COST || s.deck.length === 0) return s;
+      if (s.phase !== 'place' || active.chips < BUY_COST || s.deck.length === 0 || !buyAllowed(s.settings)) return s;
       const [bought, ...deck] = s.deck;
       const players = updatePlayer(s, active.id, (p) => ({
         ...p,
