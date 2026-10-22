@@ -116,7 +116,7 @@ export const ALL_CARDS = load();
 
 export const SET_INFO: Record<SetId, { name: string; blurb: string }> = {
   regular: { name: 'Regular', blurb: 'Pop hits, 1950s to now' },
-  jazz: { name: 'Jazz', blurb: 'Landmark recordings, ODJB to Thundercat' },
+  jazz: { name: 'Jazz', blurb: 'Landmark recordings, Ellington to Esperanza Spalding' },
   classical: { name: 'Classical', blurb: 'Composer and year written' },
 };
 

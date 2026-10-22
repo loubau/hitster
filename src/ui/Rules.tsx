@@ -12,8 +12,8 @@ const VARIANTS: { id: Variant; name: string; blurb: string }[] = [
 
 const SET_SAMPLE: Record<SetId, { year: string; top: string; bottom: string }> = {
   regular: { year: '1975', top: 'Pop', bottom: '1950s to now' },
-  jazz: { year: '1959', top: 'Jazz', bottom: 'ODJB to Thundercat' },
-  classical: { year: '1808', top: 'Classical', bottom: 'Palestrina to Guðnadóttir' },
+  jazz: { year: '1959', top: 'Jazz', bottom: 'Ellington to Esperanza Spalding' },
+  classical: { year: '1808', top: 'Classical', bottom: 'Palestrina to Pärt' },
 };
 
 const chips = (n: number) => `${n} chip${n === 1 ? '' : 's'}`;
