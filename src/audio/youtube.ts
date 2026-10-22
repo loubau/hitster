@@ -14,7 +14,8 @@ const FAILED_KEY = 'hitster.yt.failed';
 /** YouTube refuses label music (error 150) in players embedded on localhost; deployed https works. */
 const LOCAL = /^(localhost|127\.|\[::1\])/.test(location.hostname);
 
-type Failed = Record<string, { card: string; code: number; at: string }>;
+/** An IFrame API error code, or 'reported' when players flagged the video from the feedback sheet. */
+type Failed = Record<string, { card: string; code: number | 'reported'; at: string }>;
 
 function readFailed(): Failed {
   try {
@@ -25,14 +26,18 @@ function readFailed(): Failed {
 }
 
 /** Kept for a later review pass; the same id is tried last on the next game. */
-function rememberFailed(id: string, card: string, code: number) {
-  console.warn(`[youtube] ${id} failed for ${card} (error ${code})`);
-  if (LOCAL) return; // Not the video's fault; see LOCAL.
+function markFailed(id: string, card: string, code: Failed[string]['code']) {
   try {
     localStorage.setItem(FAILED_KEY, JSON.stringify({ ...readFailed(), [id]: { card, code, at: new Date().toISOString() } }));
   } catch {
     // Storage unavailable; the console line is enough.
   }
+}
+
+function rememberFailed(id: string, card: string, code: number) {
+  console.warn(`[youtube] ${id} failed for ${card} (error ${code})`);
+  if (LOCAL) return; // Not the video's fault; see LOCAL.
+  markFailed(id, card, code);
 }
 
 interface Clip {
@@ -156,6 +161,11 @@ export class YouTubeProvider implements MusicProvider {
     }
   }
 
+  /** The video cued or playing now, if any. */
+  get videoId(): string | undefined {
+    return this.clip?.videoId;
+  }
+
   /** Ref callback for the element the player lives in. */
   readonly mount = (el: HTMLElement | null) => {
     if (!el || el === this.host) return;
@@ -199,6 +209,16 @@ export class YouTubeProvider implements MusicProvider {
     this.stopPolling();
     this.yt?.stopVideo();
     this.arm();
+  }
+
+  /**
+   * Players flagged this video (wrong song, commentary, poor sound...): it is tried last from now on,
+   * and if it is the one playing, the card moves on to its next candidate straight away.
+   */
+  report(videoId: string, cardId: string): void {
+    console.warn(`[youtube] ${videoId} reported for ${cardId}`);
+    markFailed(videoId, cardId, 'reported');
+    if (this.yt && this.card?.id === cardId && this.clip?.videoId === videoId) this.next(this.yt);
   }
 
   play(): void {

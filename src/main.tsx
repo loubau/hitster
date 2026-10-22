@@ -14,6 +14,10 @@ import './styles/cards.css';
 import './styles/table.css';
 import './styles/fx.css';
 import { App } from './App';
+import { flushFeedback } from './feedback';
+
+// Remarks queued in an earlier session, e.g. while offline.
+void flushFeedback();
 
 createRoot(document.getElementById('root')!).render(
   <StrictMode>

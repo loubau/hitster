@@ -1,4 +1,4 @@
-import { useState, type CSSProperties } from 'react';
+import { useRef, useState, type CSSProperties } from 'react';
 import { SET_INFO, cardsFor, countBySet } from '../data/cards';
 import { newGame } from '../engine/game';
 import type { GameState, SetId, Settings, Variant } from '../engine/types';
@@ -13,14 +13,20 @@ interface Prefs {
 }
 
 const DEFAULTS: Prefs = {
-  names: ['Sanne', 'Joost', 'Lou'],
+  names: [],
   settings: { sets: ['regular'], target: 10, startChips: 2, maxChips: 5, variant: 'original', includeDutch: true },
 };
+
+/** Names the setup used to prefill while testing; saved as-is they are not a real table. */
+const TEST_NAMES = ['Sanne', 'Joost', 'Lou'];
 
 function loadPrefs(): Prefs {
   try {
     const raw = localStorage.getItem(PREFS_KEY);
-    return raw ? { ...DEFAULTS, ...(JSON.parse(raw) as Prefs) } : DEFAULTS;
+    if (!raw) return DEFAULTS;
+    const prefs = { ...DEFAULTS, ...(JSON.parse(raw) as Prefs) };
+    const leftover = prefs.names.length === TEST_NAMES.length && TEST_NAMES.every((n) => prefs.names.includes(n));
+    return leftover ? { ...prefs, names: [] } : prefs;
   } catch {
     return DEFAULTS;
   }
@@ -59,9 +65,12 @@ export function Setup({ canResume, onResume, onStart }: { canResume: boolean; on
   const [prefs, setPrefs] = useState(loadPrefs);
   const [draft, setDraft] = useState('');
   const [error, setError] = useState<string | null>(null);
+  const [nudge, setNudge] = useState(0);
+  const nameInput = useRef<HTMLInputElement>(null);
   const counts = countBySet();
   const { names, settings } = prefs;
   const deckSize = cardsFor(settings).length;
+  const seated = names.length >= 2;
 
   const update = (patch: Partial<Settings>) => setPrefs((p) => ({ ...p, settings: { ...p.settings, ...patch } }));
   const addName = () => {
@@ -76,7 +85,12 @@ export function Setup({ canResume, onResume, onStart }: { canResume: boolean; on
     update({ sets: settings.sets.includes(id) ? settings.sets.filter((s) => s !== id) : [...settings.sets, id] });
 
   const start = () => {
-    if (names.length < 2) return setError('Add at least two players');
+    if (!seated) {
+      // The hint under the button already says why; point at the name field.
+      setNudge((n) => n + 1);
+      nameInput.current?.focus();
+      return;
+    }
     if (settings.sets.length === 0) return setError('Pick at least one set of cards');
     if (deckSize < names.length + 10) return setError('Not enough cards in these sets yet');
     try {
@@ -120,7 +134,7 @@ export function Setup({ canResume, onResume, onStart }: { canResume: boolean; on
             addName();
           }}
         >
-          <input value={draft} onChange={(e) => setDraft(e.target.value)} placeholder="Add a player" maxLength={14} aria-label="Player name" />
+          <input ref={nameInput} value={draft} onChange={(e) => setDraft(e.target.value)} placeholder="Add a player" maxLength={14} aria-label="Player name" />
           <button type="submit" className="chip-btn">
             <Icon name="plus" size={16} /> Add
           </button>
@@ -180,10 +194,12 @@ export function Setup({ canResume, onResume, onStart }: { canResume: boolean; on
 
       <footer className="setup-foot">
         {error && <p className="form-error">{error}</p>}
-        <button type="button" className="slab" onClick={start}>
+        <button type="button" key={nudge} className={`slab${seated ? '' : ' is-waiting'}${nudge ? ' is-nudged' : ''}`} onClick={start}>
           Deal the cards
         </button>
-        <p className="deck-note">{deckSize} cards in the deck</p>
+        <p className={`deck-note${seated ? '' : ' is-hint'}`}>
+          {seated ? `${deckSize} cards in the deck` : names.length ? 'Add one more player to deal' : 'Add at least two players to deal'}
+        </p>
       </footer>
     </div>
   );

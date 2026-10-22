@@ -28,10 +28,14 @@ export function usePlayback(card: Card | null, draw: number) {
   return {
     ...state,
     label: provider.label,
+    /** The YouTube video for this card, while YouTube is the one playing it. */
+    videoId: provider === youtube ? youtube.videoId : undefined,
     /** Ref for the element the hidden YouTube player is mounted in. */
     host: youtube.mount,
     toggle: () => (state.playing ? provider.pause() : provider.play()),
     restart: () => provider.restart(),
     seekBy: (s: number) => provider.seekBy(s),
+    /** Players flagged a video; see YouTubeProvider.report. */
+    reportVideo: (videoId: string, cardId: string) => youtube.report(videoId, cardId),
   };
 }

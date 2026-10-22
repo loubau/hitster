@@ -2,10 +2,13 @@ import { useEffect, useMemo, useState, type CSSProperties } from 'react';
 import { usePlayback } from '../audio/usePlayback';
 import { BUY_COST, SKIP_COST, activePlayer, challengers, takenSlots, type Action } from '../engine/game';
 import { earnsChip } from '../engine/rules';
-import type { GameState, Player } from '../engine/types';
+import type { Card, GameState, Player } from '../engine/types';
+import { submitFeedback } from '../feedback';
 import { CardBack, CardFace, PLAYER_COLORS, Token, cardColor } from './cards';
+import { FeedbackSheet } from './FeedbackSheet';
 import { Fx, type FxEvent } from './fx/Fx';
 import { Icon } from './Icon';
+import { Menu } from './Menu';
 import { Seats } from './Seats';
 import { Timeline, type Marker } from './Timeline';
 import { Victory } from './Victory';
@@ -46,6 +49,9 @@ export function Game({ state, dispatch, onExit }: Props) {
   const [toast, setToast] = useState<{ id: number; text: string } | null>(null);
   const [nudge, setNudge] = useState(0);
   const [freshId, setFreshId] = useState<string | undefined>();
+  const [noting, setNoting] = useState(false);
+  /** The last few revealed cards, newest first, so players can still leave a note on them. */
+  const [recent, setRecent] = useState<{ card: Card; videoId?: string }[]>([]);
 
   const say = (text: string) => setToast({ id: Date.now(), text });
   useEffect(() => {
@@ -80,6 +86,7 @@ export function Game({ state, dispatch, onExit }: Props) {
     if (earnsChip(state.named)) say(`+1 chip for ${active.name}`);
     const o = state.outcome;
     if (o && card) setFreshId(card.id);
+    if (card) setRecent((r) => [{ card, videoId: playback.videoId }, ...r.filter((x) => x.card.id !== card.id)].slice(0, 3));
     setFx(null);
     dispatch({ type: 'next' });
   };
@@ -122,9 +129,12 @@ export function Game({ state, dispatch, onExit }: Props) {
           target={state.settings.target}
           onPeek={(id) => setPeek(id === active.id ? null : id)}
         />
-        <button type="button" className="menu-btn" aria-label="End game" onClick={() => confirm('End this game?') && onExit()}>
-          <Icon name="menu" />
-        </button>
+        <Menu
+          items={[
+            { id: 'feedback', label: 'Feedback', onSelect: () => setNoting(true) },
+            { id: 'exit', label: 'Exit game', confirm: 'Sure? End game', onSelect: onExit },
+          ]}
+        />
       </header>
 
       <section className="deck-zone">
@@ -388,6 +398,22 @@ export function Game({ state, dispatch, onExit }: Props) {
             </button>
           </div>
         </div>
+      )}
+
+      {noting && (
+        <FeedbackSheet
+          choices={[
+            ...(card ? [{ card, videoId: playback.videoId, revealed }] : []),
+            ...recent.filter((r) => r.card.id !== card?.id).map((r) => ({ ...r, revealed: true })),
+          ]}
+          onClose={() => setNoting(false)}
+          onSend={(f) => {
+            setNoting(false);
+            say('Thanks, noted');
+            void submitFeedback({ ...f, mode: 'table', roomCode: null });
+            if (f.videoId && f.reasons.includes('bad-youtube')) playback.reportVideo(f.videoId, f.cardId);
+          }}
+        />
       )}
 
       {toast && (
