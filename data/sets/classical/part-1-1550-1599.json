@@ -1,0 +1,613 @@
+[
+  {
+    "id": "cls-tallis-if-ye-love-me",
+    "composer": "Thomas Tallis",
+    "composer_short": "Tallis",
+    "work": "If ye love me",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "choral",
+    "accept_work": "Tallis's anthem If ye love me",
+    "excerpt": "Complete anthem",
+    "year": 1550,
+    "year_lo": 1547,
+    "year_hi": 1553,
+    "year_label": "c. 1547–1553",
+    "premiere_or_publication": "Published 1565 in Certaine notes set forth in foure and three partes (John Day)",
+    "dating_note": "Earliest sources date from the reign of Edward VI (1547–1553), when English-language church music was introduced; the 1565 print is a later witness.",
+    "recording": {
+      "performers": "The Tallis Scholars",
+      "conductor": "Peter Phillips",
+      "label": "Gimell",
+      "year": null,
+      "why": "Pure-toned English-church-music reading from the Tallis specialists"
+    },
+    "trivia": "One of the first anthems written in English after the Reformation. It fell out of use but was revived in a Victorian edition of 1847, and is now the most-sung piece Tallis wrote.",
+    "tags": [
+      "renaissance",
+      "choral",
+      "a-cappella",
+      "sacred",
+      "anglican"
+    ],
+    "track": {
+      "query": "Tallis If ye love me choir",
+      "album": null,
+      "duration": "~2:00",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/If_Ye_Love_Me"
+    ],
+    "notes": "Date is a reign-based range; no autograph. Alternative recording: Choir of King's College, Cambridge."
+  },
+  {
+    "id": "cls-palestrina-missa-papae-marcelli",
+    "composer": "Giovanni Pierluigi da Palestrina",
+    "composer_short": "Palestrina",
+    "work": "Missa Papae Marcelli",
+    "nickname": "Pope Marcellus Mass",
+    "catalogue_only": false,
+    "form": "mass",
+    "accept_work": "Palestrina's Pope Marcellus Mass (Missa Papae Marcelli)",
+    "excerpt": "Kyrie",
+    "year": 1562,
+    "year_lo": 1562,
+    "year_hi": 1562,
+    "year_label": "c. 1562",
+    "premiere_or_publication": "Published Rome, 1567 (second book of masses)",
+    "dating_note": "Traditionally linked to Pope Marcellus II (reigned 1555), but recent scholarship favours c. 1562, when it was copied into a manuscript at Santa Maria Maggiore in Rome.",
+    "recording": {
+      "performers": "The Tallis Scholars",
+      "conductor": "Peter Phillips",
+      "label": "Gimell",
+      "year": 1980,
+      "why": "The recording that made Renaissance polyphony a mainstream listen; pure, clear, benchmark sound"
+    },
+    "trivia": "A popular legend says this Mass convinced the Council of Trent not to ban polyphony from church music because the words stay audible. Historians now treat that story as a myth, though the Mass remains the textbook model of Palestrina's style.",
+    "tags": [
+      "renaissance",
+      "mass",
+      "a-cappella",
+      "sacred"
+    ],
+    "track": {
+      "query": "Palestrina Missa Papae Marcelli Tallis Scholars Kyrie",
+      "album": "Allegri: Miserere / Palestrina: Missa Papae Marcelli / Mundy: Vox Patris caelestis",
+      "duration": "~4:30",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Missa_Papae_Marcelli"
+    ],
+    "notes": "Composition date is a scholarly estimate (c. 1562); the 1555 link to Marcellus II is traditional. Tallis Scholars release year from memory."
+  },
+  {
+    "id": "cls-tallis-spem-in-alium",
+    "composer": "Thomas Tallis",
+    "composer_short": "Tallis",
+    "work": "Spem in alium",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "choral",
+    "accept_work": "Tallis's 40-part motet Spem in alium",
+    "excerpt": "Complete motet",
+    "year": 1570,
+    "year_lo": 1570,
+    "year_hi": 1572,
+    "year_label": "c. 1570",
+    "premiere_or_publication": "Early history obscure; an English-text version (Sing and glorify) was made for Prince Henry's investiture in 1610",
+    "dating_note": "Usually dated c. 1570; an anecdote linking it to the Duke of Norfolk (executed 1572) would give the latest possible date.",
+    "recording": {
+      "performers": "The Tallis Scholars",
+      "conductor": "Peter Phillips",
+      "label": "Gimell",
+      "year": 1985,
+      "why": "Defining recording of the 40-voice motet, made with a single voice per part"
+    },
+    "trivia": "Forty independent voices are arranged as eight choirs of five, and the sound moves around the room from choir to choir. An old story says an English duke challenged Tallis to match an Italian 40-part motet.",
+    "tags": [
+      "renaissance",
+      "choral",
+      "a-cappella",
+      "sacred"
+    ],
+    "track": {
+      "query": "Tallis Spem in alium Tallis Scholars Phillips",
+      "album": "Tallis: Spem in alium; Missa Salve intemerata",
+      "duration": "~10:30",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Spem_in_alium"
+    ],
+    "notes": "c. 1570 per standard sources; 1610 first-print detail from memory."
+  },
+  {
+    "id": "cls-victoria-o-magnum-mysterium",
+    "composer": "Tomás Luis de Victoria",
+    "composer_short": "Victoria",
+    "work": "O magnum mysterium",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "choral",
+    "accept_work": "Victoria's O magnum mysterium",
+    "excerpt": "Complete motet",
+    "year": 1572,
+    "year_lo": 1570,
+    "year_hi": 1572,
+    "year_label": "c. 1572",
+    "premiere_or_publication": "Published Venice, 1572 (first book of motets)",
+    "dating_note": "Printed in Victoria's first collection of motets (1572); composed shortly before.",
+    "recording": {
+      "performers": "The Tallis Scholars",
+      "conductor": "Peter Phillips",
+      "label": "Gimell",
+      "year": null,
+      "why": "Radiant, well-balanced reading of the best-known Spanish Renaissance motet"
+    },
+    "trivia": "A Christmas motet about animals at the manger, published when Victoria was a young Spanish priest in Rome. He liked it enough to build a whole Mass on it, published in 1592.",
+    "tags": [
+      "renaissance",
+      "choral",
+      "a-cappella",
+      "sacred",
+      "christmas"
+    ],
+    "track": {
+      "query": "Victoria O magnum mysterium Tallis Scholars",
+      "album": null,
+      "duration": "~4:00",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Tom%C3%A1s_Luis_de_Victoria",
+      "https://en.wikipedia.org/wiki/O_magnum_mysterium"
+    ],
+    "notes": "Venice place of publication from memory."
+  },
+  {
+    "id": "cls-tallis-o-nata-lux",
+    "composer": "Thomas Tallis",
+    "composer_short": "Tallis",
+    "work": "O nata lux",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "choral",
+    "accept_work": "Tallis's O nata lux",
+    "excerpt": "Complete motet",
+    "year": 1575,
+    "year_lo": 1570,
+    "year_hi": 1575,
+    "year_label": "c. 1575",
+    "premiere_or_publication": "Published 1575 in Cantiones quae ab argumento sacrae vocantur (Tallis and Byrd)",
+    "dating_note": "Only the 1575 publication date is firm; the motet may be a little older, so 1575 is treated as the latest date.",
+    "recording": {
+      "performers": "The Tallis Scholars",
+      "conductor": "Peter Phillips",
+      "label": "Gimell",
+      "year": null,
+      "why": "Smooth, luminous account from the standard-setting Tudor-polyphony ensemble"
+    },
+    "trivia": "This short five-part hymn setting appeared in a joint publication with Tallis's pupil Byrd. The book sold badly, and Tallis, described as 'very aged', was granted manors in 1577 as compensation.",
+    "tags": [
+      "renaissance",
+      "choral",
+      "a-cappella",
+      "sacred"
+    ],
+    "track": {
+      "query": "Tallis O nata lux Tallis Scholars",
+      "album": null,
+      "duration": "~2:00",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/O_nata_lux"
+    ],
+    "notes": "Publication date used as terminus ante quem; recording year not verified."
+  },
+  {
+    "id": "cls-anonymous-greensleeves",
+    "composer": "Anonymous",
+    "composer_short": "Anonymous",
+    "work": "Greensleeves (A New Northern Dittye of the Lady Greene Sleeves)",
+    "nickname": "Greensleeves",
+    "catalogue_only": false,
+    "form": "song",
+    "accept_work": "Greensleeves",
+    "excerpt": "Lute or consort setting of the tune",
+    "year": 1580,
+    "year_lo": 1578,
+    "year_hi": 1580,
+    "year_label": "c. 1580",
+    "premiere_or_publication": "Ballad registered at the Stationers' Company, London, Sept 1580",
+    "dating_note": "The words were registered in September 1580; the tune is first found in late-16th-century lute sources, so c. 1580 is a safe label.",
+    "recording": {
+      "performers": "Various early-music lutenists and consorts",
+      "conductor": null,
+      "label": null,
+      "year": null,
+      "why": "No canonical recording; resolver should prefer a lute, consort or choral version over pop covers"
+    },
+    "trivia": "A myth credits Henry VIII with writing it, but the ground-bass style came to England after his death. Shakespeare's Merry Wives of Windsor mentions the tune twice.",
+    "tags": [
+      "renaissance",
+      "song",
+      "folk",
+      "english",
+      "anonymous"
+    ],
+    "track": {
+      "query": "Greensleeves lute consort anonymous Elizabethan",
+      "album": null,
+      "duration": "~3:00",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Greensleeves"
+    ],
+    "notes": "Composer unknown; carded as Anonymous. Henry VIII attribution is folklore."
+  },
+  {
+    "id": "cls-lassus-matona-mia-cara",
+    "composer": "Orlande de Lassus",
+    "composer_short": "Lassus",
+    "work": "Matona, mia cara",
+    "nickname": "Matona, lovely maiden",
+    "catalogue_only": false,
+    "form": "song",
+    "accept_work": "Lassus's Matona, mia cara",
+    "excerpt": "Complete villanella",
+    "year": 1581,
+    "year_lo": 1578,
+    "year_hi": 1581,
+    "year_label": "c. 1581",
+    "premiere_or_publication": "Published Paris, 1581 (Libro de villanelle, moresche et altre canzoni)",
+    "dating_note": "Dated by its 1581 publication; may be a little older.",
+    "recording": {
+      "performers": "Various vocal ensembles (e.g. The King's Singers)",
+      "conductor": null,
+      "label": null,
+      "year": null,
+      "why": "No single canonical recording; choose a vocal-ensemble performance with the comic accent"
+    },
+    "trivia": "The text imitates a German soldier serenading an Italian lady in comically mangled Italian. Lassus was Flemish, worked in Munich, and enjoyed this multilingual joke.",
+    "tags": [
+      "renaissance",
+      "song",
+      "a-cappella",
+      "secular",
+      "humour"
+    ],
+    "track": {
+      "query": "Lassus Matona mia cara",
+      "album": null,
+      "duration": "~2:00",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Orlande_de_Lassus",
+      "https://cpdl.org/wiki/index.php/Matona,_mia_cara_(Orlando_di_Lasso)"
+    ],
+    "notes": "1581 publication (Paris, Le Roy & Ballard) confirmed via CPDL/IMSLP listings; composition date itself unknown. Recording unspecified: resolver should pick any good vocal-ensemble version."
+  },
+  {
+    "id": "cls-byrd-ne-irascaris-domine",
+    "composer": "William Byrd",
+    "composer_short": "Byrd",
+    "work": "Ne irascaris Domine (with Civitas sancti tui)",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "choral",
+    "accept_work": "Byrd's Ne irascaris Domine",
+    "excerpt": "Complete motet",
+    "year": 1589,
+    "year_lo": 1586,
+    "year_hi": 1589,
+    "year_label": "c. 1589",
+    "premiere_or_publication": "Published London, 1589 (Cantiones sacrae, first Byrd-only book)",
+    "dating_note": "Only the 1589 print date is secure; composition shortly before.",
+    "recording": {
+      "performers": "The Tallis Scholars",
+      "conductor": "Peter Phillips",
+      "label": "Gimell",
+      "year": null,
+      "why": "Reference-level Byrd motet singing"
+    },
+    "trivia": "A lament on the text 'Jerusalem has become a desert', often heard as a coded plea for England's persecuted Catholics. It sets two linked texts as a two-part motet.",
+    "tags": [
+      "renaissance",
+      "choral",
+      "a-cappella",
+      "sacred"
+    ],
+    "track": {
+      "query": "Byrd Ne irascaris Domine Civitas sancti tui",
+      "album": null,
+      "duration": "~6:30",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/William_Byrd"
+    ],
+    "notes": "Work-level Wikipedia page absent; date from the composer page (1589 Cantiones sacrae). The 'coded plea' reading is an interpretation, not proven."
+  },
+  {
+    "id": "cls-palestrina-stabat-mater",
+    "composer": "Giovanni Pierluigi da Palestrina",
+    "composer_short": "Palestrina",
+    "work": "Stabat Mater (double chorus, eight voices)",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "choral",
+    "accept_work": "Palestrina's Stabat Mater",
+    "excerpt": "Complete motet (opening 'Stabat Mater dolorosa')",
+    "year": 1591,
+    "year_lo": 1590,
+    "year_hi": 1591,
+    "year_label": "c. 1590–1591",
+    "premiere_or_publication": "Written for the papal chapel; first printed much later (modern editions from the 19th century)",
+    "dating_note": "Said to have been written for Pope Gregory XIV, who reigned from Dec 1590 to Oct 1591; no autograph date survives.",
+    "recording": {
+      "performers": "The Tallis Scholars",
+      "conductor": "Peter Phillips",
+      "label": "Gimell",
+      "year": null,
+      "why": "Clear, transparent double-choir reading from the leading Palestrina specialists"
+    },
+    "trivia": "Palestrina wrote it for two four-part choirs that answer each other, and Wagner admired it enough to prepare his own performing edition in 1877.",
+    "tags": [
+      "renaissance",
+      "choral",
+      "a-cappella",
+      "sacred"
+    ],
+    "track": {
+      "query": "Palestrina Stabat Mater Tallis Scholars Phillips",
+      "album": null,
+      "duration": "~8:30",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Stabat_Mater_(Palestrina)"
+    ],
+    "notes": "Date rests on the Gregory XIV commission tradition; recording year left null (not verified)."
+  },
+  {
+    "id": "cls-byrd-mass-for-four-voices",
+    "composer": "William Byrd",
+    "composer_short": "Byrd",
+    "work": "Mass for Four Voices",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "mass",
+    "accept_work": "Byrd's Mass for Four Voices",
+    "excerpt": "Kyrie",
+    "year": 1593,
+    "year_lo": 1592,
+    "year_hi": 1593,
+    "year_label": "1592–1593",
+    "premiere_or_publication": "Published London, c. 1592–93",
+    "dating_note": "Written around 1592–93; exact print dates were only settled in 1966 by bibliographic study of the partbooks.",
+    "recording": {
+      "performers": "The Tallis Scholars",
+      "conductor": "Peter Phillips",
+      "label": "Gimell",
+      "year": null,
+      "why": "Intimate one-voice-per-part feel that suits Byrd's private-chapel Masses"
+    },
+    "trivia": "Byrd was a Catholic composing Latin Masses under Elizabeth I, and they were printed discreetly and sold quietly. Each Mass is short and intimate, probably meant for secret services in country houses.",
+    "tags": [
+      "renaissance",
+      "mass",
+      "a-cappella",
+      "sacred"
+    ],
+    "track": {
+      "query": "Byrd Mass for Four Voices Kyrie",
+      "album": null,
+      "duration": "~3:00",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Mass_for_Four_Voices_(Byrd)"
+    ],
+    "notes": "Recording year not verified; many fine alternatives (The Cardinall's Musick, The Sixteen)."
+  },
+  {
+    "id": "cls-lassus-lagrime-di-san-pietro",
+    "composer": "Orlande de Lassus",
+    "composer_short": "Lassus",
+    "work": "Lagrime di San Pietro",
+    "nickname": "Tears of St Peter",
+    "catalogue_only": false,
+    "form": "choral",
+    "accept_work": "Lassus's Lagrime di San Pietro (Tears of St Peter)",
+    "excerpt": "Opening madrigal 'Il magnanimo Pietro'",
+    "year": 1594,
+    "year_lo": 1594,
+    "year_hi": 1594,
+    "year_label": "1594",
+    "premiere_or_publication": "Published Munich, 1595",
+    "dating_note": "Dedicated to Pope Clement VIII on 24 May 1594, three weeks before Lassus died; his last work.",
+    "recording": {
+      "performers": "Collegium Vocale Gent",
+      "conductor": "Philippe Herreweghe",
+      "label": "Harmonia Mundi",
+      "year": null,
+      "why": "Warm, expressive reading of Lassus's spiritual madrigal cycle"
+    },
+    "trivia": "Twenty seven-voice madrigals and a closing Latin motet about Peter weeping after denying Christ. Lassus finished it only weeks before he died.",
+    "tags": [
+      "renaissance",
+      "choral",
+      "a-cappella",
+      "sacred",
+      "madrigal"
+    ],
+    "track": {
+      "query": "Lassus Lagrime di San Pietro Herreweghe",
+      "album": null,
+      "duration": "~4:30",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Lagrime_di_San_Pietro"
+    ],
+    "notes": "Excerpt choice and recording attribution from memory; check streaming availability."
+  },
+  {
+    "id": "cls-morley-now-is-the-month-of-maying",
+    "composer": "Thomas Morley",
+    "composer_short": "Morley",
+    "work": "Now is the month of maying",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "song",
+    "accept_work": "Morley's Now is the month of maying",
+    "excerpt": "Complete ballett",
+    "year": 1595,
+    "year_lo": 1595,
+    "year_hi": 1595,
+    "year_label": "1595",
+    "premiere_or_publication": "Published London, 1595 (First Book of Balletts to Five Voyces)",
+    "dating_note": "Printed in 1595, adapted from an Italian original by Orazio Vecchi (1590).",
+    "recording": {
+      "performers": "The King's Singers",
+      "conductor": null,
+      "label": "EMI",
+      "year": null,
+      "why": "Light, witty, immaculately blended English madrigal singing"
+    },
+    "trivia": "A 'ballett' is a dance-like part-song with a fa-la-la refrain. Morley borrowed the tune from an Italian piece by Vecchi and gave it English words about the joys of May.",
+    "tags": [
+      "renaissance",
+      "song",
+      "madrigal",
+      "secular",
+      "english"
+    ],
+    "track": {
+      "query": "Morley Now is the month of maying King's Singers",
+      "album": null,
+      "duration": "~1:45",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Now_is_the_Month_of_Maying"
+    ],
+    "notes": "Recording attribution from memory (King's Singers have recorded it more than once)."
+  },
+  {
+    "id": "cls-dowland-come-again-sweet-love",
+    "composer": "John Dowland",
+    "composer_short": "Dowland",
+    "work": "Come again, sweet love doth now invite",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "song",
+    "accept_work": "Dowland's Come again, sweet love",
+    "excerpt": "Complete lute song",
+    "year": 1597,
+    "year_lo": 1597,
+    "year_hi": 1597,
+    "year_label": "1597",
+    "premiere_or_publication": "Published London, 1597 (The First Booke of Songes or Ayres)",
+    "dating_note": "Published in 1597; composition date unknown but not much earlier.",
+    "recording": {
+      "performers": "Emma Kirkby with Anthony Rooley (lute), or any tenor with lute",
+      "conductor": null,
+      "label": null,
+      "year": null,
+      "why": "Exemplary lute-song style; many equally valid recordings"
+    },
+    "trivia": "Dowland's famous melancholy streak coloured even this love song. The First Booke was printed so singers and lutenist could share one book around a table.",
+    "tags": [
+      "renaissance",
+      "song",
+      "lute-song",
+      "secular",
+      "english"
+    ],
+    "track": {
+      "query": "Dowland Come again sweet love lute song",
+      "album": null,
+      "duration": "~3:00",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Come_again,_sweet_love_doth_now_invite"
+    ],
+    "notes": "Performers are a suggestion only; recording year/label left vague deliberately."
+  },
+  {
+    "id": "cls-gabrieli-sonata-pian-e-forte",
+    "composer": "Giovanni Gabrieli",
+    "composer_short": "Gabrieli",
+    "work": "Sonata pian' e forte",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "chamber",
+    "accept_work": "Gabrieli's Sonata pian' e forte",
+    "excerpt": "Complete sonata for two brass choirs",
+    "year": 1597,
+    "year_lo": 1597,
+    "year_hi": 1597,
+    "year_label": "1597",
+    "premiere_or_publication": "Published Venice, 1597 (Sacrae symphoniae)",
+    "dating_note": "Published in 1597; no earlier date is known.",
+    "recording": {
+      "performers": "Philip Jones Brass Ensemble",
+      "conductor": null,
+      "label": "Decca",
+      "year": null,
+      "why": "Classic British brass-ensemble account of Gabrieli's Venetian brass music"
+    },
+    "trivia": "One of the earliest printed pieces to mark loud (forte) and soft (piano) passages. Gabrieli exploited the echoing stereo effect of St Mark's Basilica in Venice, where he was organist.",
+    "tags": [
+      "renaissance",
+      "chamber",
+      "brass",
+      "venetian"
+    ],
+    "track": {
+      "query": "Gabrieli Sonata pian e forte brass",
+      "album": null,
+      "duration": "~3:00",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Sonata_pian'_e_forte"
+    ],
+    "notes": "Recording attribution from memory; many equally good brass-ensemble versions exist."
+  }
+]

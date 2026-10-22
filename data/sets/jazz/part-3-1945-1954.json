@@ -1,0 +1,1045 @@
+[
+  {
+    "id": "jazz-parker-ko-ko",
+    "artist": "Charlie Parker's Re-Boppers",
+    "title": "Ko-Ko",
+    "composer": "Charlie Parker",
+    "recording_date": "1945-11-26",
+    "recording_year": 1945,
+    "release_year": 1946,
+    "original_issue": "Savoy 597 (78 rpm; first label spelling \"Cocoa\")",
+    "personnel": "Charlie Parker (alto sax), Dizzy Gillespie (trumpet and piano), Curly Russell (bass), Max Roach (drums)",
+    "style": "bebop",
+    "year": 1945,
+    "year_lo": 1945,
+    "year_hi": 1945,
+    "year_label": "1945",
+    "trivia": "Parker took the chord changes of \"Cherokee\" and ran them at a punishing tempo, giving bebop its calling card. With pianist Bud Powell absent, Dizzy Gillespie covered piano as well as trumpet on the date.",
+    "tags": [
+      "1940s",
+      "bebop",
+      "savoy"
+    ],
+    "track": {
+      "artist": "Charlie Parker's Re-Boppers",
+      "title": "Ko-Ko",
+      "album": "Ko-Ko / Warming Up a Riff (Savoy 597 / 945, 78 rpm)",
+      "duration": "2:50",
+      "isrc": null,
+      "query": "Charlie Parker's Re-Boppers Ko-Ko 1945",
+      "notes": "Savoy take 2 (matrix S5853-2), the take originally issued on Savoy 597; not the short take 1 and not live versions"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://www.jazzdisco.org/charlie-parker/discography/",
+      "https://en.wikipedia.org/wiki/Ko-Ko"
+    ],
+    "notes": "Date, take and matrix from jazzdisco (WOR Studios, 26 Nov 1945; billed there Charlie Parker Rebeboppers / The Be Bop Boys). Savoy's label read \"Charlie Parker's Re-Boppers\". Who plays what on Ko-Ko is disputed (Wikipedia notes the rumours); jazzdisco gives Gillespie on trumpet and piano and lists Miles Davis only on the other titles of the date. Savoy 597 release year (1946) is approximate. Duration approximate (not taken from a source)."
+  },
+  {
+    "id": "jazz-parker-nows-the-time",
+    "artist": "Charlie Parker's Re-Boppers",
+    "title": "Now's the Time",
+    "composer": "Charlie Parker",
+    "recording_date": "1945-11-26",
+    "recording_year": 1945,
+    "release_year": 1946,
+    "original_issue": "Savoy 573 (78 rpm; b/w \"Billie's Bounce\")",
+    "personnel": "Charlie Parker (alto sax), Miles Davis (trumpet), Dizzy Gillespie (piano), Curly Russell (bass), Max Roach (drums)",
+    "style": "bebop",
+    "year": 1945,
+    "year_lo": 1945,
+    "year_hi": 1945,
+    "year_label": "1945",
+    "trivia": "A twelve-bar blues built on a riff so catchy that its melody was recycled in 1949 for the rhythm-and-blues hit \"The Hucklebuck\". Nineteen-year-old Miles Davis plays trumpet on it.",
+    "tags": [
+      "1940s",
+      "bebop",
+      "savoy"
+    ],
+    "track": {
+      "artist": "Charlie Parker",
+      "title": "Now's the Time",
+      "album": "Billie's Bounce / Now's the Time (Savoy 573, 78 rpm single)",
+      "duration": "3:10",
+      "isrc": null,
+      "query": "Charlie Parker Now's the Time 1945",
+      "notes": "Savoy take 4 (matrix S5851-4), the take originally issued on Savoy 573; not take 3 (on later reissues), later remakes or live versions"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://www.jazzdisco.org/charlie-parker/discography/",
+      "https://en.wikipedia.org/wiki/Now's_the_Time_(composition)"
+    ],
+    "notes": "Same session as Ko-Ko. jazzdisco gives Gillespie (not Sadik Hakim) at the piano for this title; Wikipedia says Gillespie or Hakim. Wikipedia also notes the original issue credited Andy Gibson (writer of \"D-Natural Blues\") rather than Parker. Release year approximate (Savoy 573 is a 1945/46 issue). Miles Davis was born 1926, so about 19 at the session. Duration approximate (the take 4 length was not read from a source)."
+  },
+  {
+    "id": "jazz-parker-ornithology",
+    "artist": "Charlie Parker's Reboppers",
+    "title": "Ornithology",
+    "composer": "Charlie Parker and Benny Harris",
+    "recording_date": "1946-03-28",
+    "recording_year": 1946,
+    "release_year": 1946,
+    "original_issue": "Dial 1002 (78 rpm; b/w \"A Night in Tunisia\")",
+    "personnel": "Charlie Parker (alto sax), Miles Davis (trumpet), Lucky Thompson (tenor sax), Dodo Marmarosa (piano), Arvin Garrison (guitar), Vic McMillan (bass), Roy Porter (drums)",
+    "style": "bebop",
+    "year": 1946,
+    "year_lo": 1946,
+    "year_hi": 1946,
+    "year_label": "1946",
+    "trivia": "A new melody written over the chords of \"How High the Moon\", the classic bebop trick known as a contrafact. Parker and his septet cut it for Ross Russell's Dial label in Los Angeles, with the young Miles Davis on trumpet.",
+    "tags": [
+      "1940s",
+      "bebop",
+      "dial"
+    ],
+    "track": {
+      "artist": "Charlie Parker Septet",
+      "title": "Ornithology",
+      "album": "Ornithology / A Night in Tunisia (Dial 1002, 78 rpm single)",
+      "duration": "3:03",
+      "isrc": null,
+      "query": "Charlie Parker Septet Ornithology 1946",
+      "notes": "Dial master take 4 (matrix D1012-4) from 28 Mar 1946, the issued take; not later live or Verve versions"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://www.jazzdisco.org/charlie-parker/discography/",
+      "https://en.wikipedia.org/wiki/Ornithology_(composition)"
+    ],
+    "notes": "Date and matrix from jazzdisco (Radio Recorders, Los Angeles); Wikipedia gives the same date and a 3:03 running time for Dial 1002. Label billing varies between \"Charlie Parker Septet\" and \"Charlie Parker's Reboppers\" depending on the source. Duration from Wikipedia infobox."
+  },
+  {
+    "id": "jazz-gillespie-salt-peanuts",
+    "artist": "Dizzy Gillespie and His All Stars",
+    "title": "Salt Peanuts",
+    "composer": "Dizzy Gillespie and Kenny Clarke",
+    "recording_date": "1945-05-11",
+    "recording_year": 1945,
+    "release_year": 1945,
+    "original_issue": "Guild 1003 (78 rpm; b/w \"Hot House\")",
+    "personnel": "Dizzy Gillespie (trumpet, vocal), Charlie Parker (alto sax), Al Haig (piano), Curly Russell (bass), Sid Catlett (drums)",
+    "style": "bebop",
+    "year": 1945,
+    "year_lo": 1945,
+    "year_hi": 1945,
+    "year_label": "1945",
+    "trivia": "The shouted \"salt peanuts, salt peanuts\" hook is bebop's most famous catchphrase, delivered by Gillespie over a zigzagging theme. It comes from Gillespie's May 1945 Guild session with Charlie Parker, cut in New York with Sid Catlett on drums.",
+    "tags": [
+      "1940s",
+      "bebop",
+      "guild"
+    ],
+    "track": {
+      "artist": "Dizzy Gillespie and His All Stars",
+      "title": "Salt Peanuts",
+      "album": "Salt Peanuts / Hot House (Guild 1003, 78 rpm single)",
+      "duration": "3:00",
+      "isrc": null,
+      "query": "Dizzy Gillespie and His All Stars Salt Peanuts 1945",
+      "notes": "The 11 May 1945 Guild session with Charlie Parker (matrix G565A-1); not the Jan 1945 Manor \"Salted Peanuts\" with Don Byas and Trummy Young, nor later live versions (Massey Hall 1953)"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://www.jazzdisco.org/dizzy-gillespie/discography/",
+      "https://en.wikipedia.org/wiki/Salt_Peanuts"
+    ],
+    "notes": "Date, matrix, billing and Guild 1003 coupling from jazzdisco. A different earlier recording exists (Manor, 9 Jan 1945, \"Salted Peanuts\"). Composer credit: Wikipedia says Gillespie, co-written with drummer Kenny Clarke. Release year of Guild 1003 is inferred as 1945 (not read from a source). Duration approximate (not taken from a source)."
+  },
+  {
+    "id": "jazz-gillespie-a-night-in-tunisia",
+    "artist": "Dizzy Gillespie and His Orchestra",
+    "title": "A Night in Tunisia",
+    "composer": "Dizzy Gillespie (Frank Paparelli co-credited)",
+    "recording_date": "1946-02-22",
+    "recording_year": 1946,
+    "release_year": 1946,
+    "original_issue": "RCA Victor 40-0132 (78 rpm; b/w \"Anthropology\")",
+    "personnel": "Dizzy Gillespie (trumpet), Don Byas (tenor sax), Milt Jackson (vibes), Al Haig (piano), Bill DeArango (guitar), Ray Brown (bass), J.C. Heard (drums)",
+    "style": "bebop",
+    "year": 1946,
+    "year_lo": 1946,
+    "year_hi": 1946,
+    "year_label": "1946",
+    "trivia": "Gillespie's exotic minor-key theme with its Latin-flavoured bass vamp is one of the most recorded bebop tunes. The tune pauses for a solo break, and Charlie Parker's famous unaccompanied break on the 1946 Dial recording is one of bebop's most quoted moments.",
+    "tags": [
+      "1940s",
+      "bebop",
+      "rca",
+      "latin-tinge"
+    ],
+    "track": {
+      "artist": "Dizzy Gillespie and His Orchestra",
+      "title": "A Night in Tunisia",
+      "album": "A Night in Tunisia / Anthropology (RCA Victor 40-0132, 78 rpm single)",
+      "duration": "3:10",
+      "isrc": null,
+      "query": "Dizzy Gillespie and His Orchestra A Night in Tunisia 1946",
+      "notes": "RCA Victor master take 1 (matrix D6VB1683-1) of 22 Feb 1946; not the Dial version by Charlie Parker's septet (Mar 1946), Blakey's Birdland version or later remakes"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://www.jazzdisco.org/dizzy-gillespie/discography/",
+      "https://en.wikipedia.org/wiki/A_Night_in_Tunisia"
+    ],
+    "notes": "Matrix, date and coupling from jazzdisco. Wikipedia says the Recording Academy added this 1946 RCA Victor recording to the Grammy Hall of Fame (2004). Wikipedia notes Paparelli's credit was compensation for unrelated work and he did not write the tune. Duration approximate."
+  },
+  {
+    "id": "jazz-gillespie-manteca",
+    "artist": "Dizzy Gillespie and His Orchestra",
+    "title": "Manteca",
+    "composer": "Dizzy Gillespie, Chano Pozo and Gil Fuller",
+    "recording_date": "1947-12-30",
+    "recording_year": 1947,
+    "release_year": 1948,
+    "original_issue": "RCA Victor 20-3023 (78 rpm; b/w \"Cool Breeze\")",
+    "personnel": "Dizzy Gillespie, Benny Bailey, Dave Burns, Elmon Wright, Lamar Wright (trumpets), Ted Kelly, William Shepherd (trombones), John Brown, Howard Johnson (alto saxes), Joe Gayles, Big Nick Nicholas (tenor saxes), Cecil Payne (baritone sax), John Lewis (piano), Al McKibbon (bass), Kenny Clarke (drums), Chano Pozo (congas, bongos)",
+    "style": "latin",
+    "year": 1947,
+    "year_lo": 1947,
+    "year_hi": 1947,
+    "year_label": "1947",
+    "trivia": "Cuban conga player Chano Pozo brought the seed of the tune to Gillespie, and the big-band treatment launched Afro-Cuban jazz. Pozo was shot dead in a Harlem bar less than a year after this session.",
+    "tags": [
+      "1940s",
+      "latin",
+      "rca",
+      "big-band",
+      "afro-cuban"
+    ],
+    "track": {
+      "artist": "Dizzy Gillespie and His Orchestra",
+      "title": "Manteca",
+      "album": "Manteca / Cool Breeze (RCA Victor 20-3023, 78 rpm single)",
+      "duration": "3:10",
+      "isrc": null,
+      "query": "Dizzy Gillespie and His Orchestra Manteca 1947",
+      "notes": "RCA Victor master (matrix D7VB3090-1) of 30 Dec 1947; not later Gillespie remakes or live versions"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://www.jazzdisco.org/dizzy-gillespie/discography/",
+      "https://en.wikipedia.org/wiki/Manteca_(song)"
+    ],
+    "notes": "Matrix, date, coupling and personnel from jazzdisco; release year (1948) is inferred from the 20-3023 issue, not read from a source. Wikipedia quotes critic Gary Giddins on its importance and credits the co-writers as above. Style filed as latin; big-band added as a tag. Pozo's death was in Dec 1948 (from memory, widely documented). Duration approximate (not taken from a source)."
+  },
+  {
+    "id": "jazz-monk-round-about-midnight",
+    "artist": "Thelonious Monk Quintet",
+    "title": "'Round About Midnight",
+    "composer": "Thelonious Monk (Cootie Williams and Bernie Hanighen credited)",
+    "recording_date": "1947-11-21",
+    "recording_year": 1947,
+    "release_year": 1948,
+    "original_issue": "Blue Note 543 (78 rpm; b/w \"Well You Needn't\")",
+    "personnel": "Thelonious Monk (piano), George Taitt (trumpet), Edmund Gregory (alto sax), Robert Paige (bass), Art Blakey (drums)",
+    "style": "bebop",
+    "year": 1947,
+    "year_lo": 1947,
+    "year_hi": 1947,
+    "year_label": "1947",
+    "trivia": "Monk's most famous composition, a brooding ballad that became the most recorded jazz standard written by a jazz musician. This is Monk's first recording of it, on his first sessions as a leader for Blue Note. The title is also spelled 'Round Midnight.",
+    "tags": [
+      "1940s",
+      "bebop",
+      "blue-note"
+    ],
+    "track": {
+      "artist": "Thelonious Monk Quintet",
+      "title": "'Round About Midnight",
+      "album": "'Round About Midnight / Well You Needn't (Blue Note 543, 78 rpm single)",
+      "duration": "3:10",
+      "isrc": null,
+      "query": "Thelonious Monk Quintet 'Round About Midnight 1947",
+      "notes": "Blue Note 1947 original (matrix BN321-1) with Taitt and Gregory; not Monk's later solo or Columbia remakes, nor Miles Davis's 1955 version"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://www.jazzdisco.org/thelonious-monk/discography/",
+      "https://en.wikipedia.org/wiki/'Round_Midnight"
+    ],
+    "notes": "Matrix, date and Blue Note 543 coupling from jazzdisco. The release year 1948 is from memory (Blue Note 543 first appeared early 1948). \"Most-recorded jazz standard\" claim is a commonly repeated one. Duration approximate."
+  },
+  {
+    "id": "jazz-monk-blue-monk",
+    "artist": "Thelonious Monk Trio",
+    "title": "Blue Monk",
+    "composer": "Thelonious Monk",
+    "recording_date": "1954-09-22",
+    "recording_year": 1954,
+    "release_year": 1954,
+    "original_issue": "Prestige PRLP 189 (10-inch LP \"Thelonious Monk Plays\")",
+    "personnel": "Thelonious Monk (piano), Percy Heath (bass), Art Blakey (drums)",
+    "style": "bebop",
+    "year": 1954,
+    "year_lo": 1954,
+    "year_hi": 1954,
+    "year_label": "1954",
+    "trivia": "A bluesy twelve-bar theme that sounds simple and is not: Monk's stubborn rhythms make it a test for every pianist who tries it. This trio version, with Percy Heath and Art Blakey, was cut at Rudy Van Gelder's Hackensack studio for Prestige.",
+    "tags": [
+      "1950s",
+      "bebop",
+      "prestige"
+    ],
+    "track": {
+      "artist": "Thelonious Monk Trio",
+      "title": "Blue Monk",
+      "album": "Thelonious Monk Plays (Prestige PRLP 189, 10-inch LP)",
+      "duration": "5:50",
+      "isrc": null,
+      "query": "Thelonious Monk Trio Blue Monk Thelonious Monk Plays 1954",
+      "notes": "Prestige trio version of 22 Sep 1954 (matrix 621); not the Columbia or Riverside remakes"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://www.jazzdisco.org/thelonious-monk/discography/",
+      "https://en.wikipedia.org/wiki/List_of_compositions_by_Thelonious_Monk"
+    ],
+    "notes": "Date, matrix and personnel from jazzdisco; PRLP 189 is the first LP on which it appeared. jazzdisco lists the LP year as 1954 (probably 1955 in practice), so release is given as 1954 with that uncertainty. The Thelonious Monk Trio billing is from the Prestige LP series. Duration approximate. Style filed as bebop (Monk's idiom); there is no separate Monk style in the list."
+  },
+  {
+    "id": "jazz-davis-boplicity",
+    "artist": "Miles Davis Nonet",
+    "title": "Boplicity",
+    "composer": "Cleo Henry (pseudonym of Miles Davis)",
+    "recording_date": "1949-04-22",
+    "recording_year": 1949,
+    "release_year": 1949,
+    "original_issue": "Capitol 57-60011 (78 rpm; b/w \"Israel\")",
+    "personnel": "Miles Davis (trumpet), J.J. Johnson (trombone), Sandy Siegelstein (French horn), John Barber (tuba), Lee Konitz (alto sax), Gerry Mulligan (baritone sax), John Lewis (piano), Nelson Boyd (bass), Kenny Clarke (drums); arranged by Gil Evans",
+    "style": "cool",
+    "year": 1949,
+    "year_lo": 1949,
+    "year_hi": 1949,
+    "year_label": "1949",
+    "trivia": "Davis credited this to \"Cleo Henry\", the name of his mother, but it is his tune dressed in Gil Evans's soft-edged orchestration. It belongs to the Capitol nonet sessions later collected as \"Birth of the Cool\".",
+    "tags": [
+      "1940s",
+      "cool",
+      "capitol"
+    ],
+    "track": {
+      "artist": "Miles Davis and His Orchestra",
+      "title": "Boplicity",
+      "album": "Boplicity / Israel (Capitol 57-60011, 78 rpm single); later on \"Birth of the Cool\" (Capitol 1957)",
+      "duration": "3:02",
+      "isrc": null,
+      "query": "Miles Davis and His Orchestra Boplicity 1949",
+      "notes": "The Capitol 22 Apr 1949 session (matrix 3766-2), the version on the 1957 \"Birth of the Cool\" LP"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://www.jazzdisco.org/miles-davis/discography/",
+      "https://en.wikipedia.org/wiki/Boplicity"
+    ],
+    "notes": "Date, matrix and personnel from jazzdisco; Wikipedia's infobox gives 22 April 1949, a 3:02 running time and a February 1957 LP release (the 78 rpm single came out in 1949). Pseudonym explanation is the standard account (Cleo Henry = Davis's mother Cleota Henry Davis); the Capitol billing on the single was \"Miles Davis and His Orchestra\"."
+  },
+  {
+    "id": "jazz-davis-bags-groove",
+    "artist": "Miles Davis All Stars",
+    "title": "Bags' Groove",
+    "composer": "Milt Jackson",
+    "recording_date": "1954-12-24",
+    "recording_year": 1954,
+    "release_year": 1955,
+    "original_issue": "Prestige PRLP 196 (\"Miles Davis All Stars, Volume 1\"); also on \"Bags' Groove\" (PRLP 7109, 1957)",
+    "personnel": "Miles Davis (trumpet), Milt Jackson (vibes), Thelonious Monk (piano), Percy Heath (bass), Kenny Clarke (drums)",
+    "style": "hard-bop",
+    "year": 1954,
+    "year_lo": 1954,
+    "year_hi": 1954,
+    "year_label": "1954",
+    "trivia": "The only studio meeting of Miles Davis and Thelonious Monk, famous for the tension between them: Davis reportedly asked Monk to lay out behind his solos. The title is vibraphonist Milt Jackson's nickname, \"Bags\".",
+    "tags": [
+      "1950s",
+      "hard-bop",
+      "prestige"
+    ],
+    "track": {
+      "artist": "Miles Davis",
+      "title": "Bags' Groove",
+      "album": "Bags' Groove (Prestige PRLP 7109; first on PRLP 196)",
+      "duration": "11:09",
+      "isrc": null,
+      "query": "Miles Davis Bags' Groove 1954",
+      "notes": "Christmas Eve 1954 Van Gelder session, take 1 (the long version); also exists as a shorter take 2 -- either is acceptable; not the 29 Jun 1954 session (no Monk)"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://www.jazzdisco.org/miles-davis/discography/",
+      "https://en.wikipedia.org/wiki/Bags'_Groove"
+    ],
+    "notes": "Date and matrix (676-1/-2) from jazzdisco; Wikipedia's album infobox shows two sessions (29 Jun and 24 Dec 1954) and a December 1957 LP. The Prestige PRLP 196 issue as 1955 is from jazzdisco/memory. The Davis-Monk \"lay out\" story is a well-known but disputed anecdote. Duration approximate (take 1 ~ 11 min)."
+  },
+  {
+    "id": "jazz-herman-early-autumn",
+    "artist": "Woody Herman and His Orchestra",
+    "title": "Early Autumn",
+    "composer": "Ralph Burns and Woody Herman (lyrics Johnny Mercer, 1949)",
+    "recording_date": "1948-12-30",
+    "recording_year": 1948,
+    "release_year": 1949,
+    "original_issue": "Capitol (78 rpm; Capitol matrix 3831-2)",
+    "personnel": "Woody Herman (clarinet, leader), Stan Getz (tenor sax solo), Terry Gibbs (vibes), Al Cohn and Zoot Sims (tenor saxes), Serge Chaloff (baritone sax), Lou Levy (piano), Chubby Jackson (bass), Don Lamond (drums) and the Herman orchestra",
+    "style": "big-band",
+    "year": 1948,
+    "year_lo": 1948,
+    "year_hi": 1948,
+    "year_label": "1948",
+    "trivia": "Stan Getz's brief, yearning tenor solo turned him into a star almost overnight. The piece grew out of a section of Ralph Burns's \"Summer Sequence\" suite.",
+    "tags": [
+      "1940s",
+      "big-band",
+      "capitol"
+    ],
+    "track": {
+      "artist": "Woody Herman and His Orchestra",
+      "title": "Early Autumn",
+      "album": "Early Autumn (Capitol 78 rpm single, 1949)",
+      "duration": "3:00",
+      "isrc": null,
+      "query": "Woody Herman and His Orchestra Early Autumn 1948",
+      "notes": "The Capitol studio recording of 30 Dec 1948 featuring Stan Getz, not Herman's earlier Columbia \"Summer Sequence Part IV\" (27 Dec 1947) and not Getz's own remakes"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://www.jazzdisco.org/stan-getz/discography/",
+      "https://en.wikipedia.org/wiki/Early_Autumn_(song)",
+      "https://jpcavanaugh.com/2023/09/29/summer-turns-to-autumn-with-help-from-woody-herman/",
+      "https://en.wikipedia.org/wiki/List_of_Grammy_Hall_of_Fame_Award_recipients_(E%E2%80%93I)"
+    ],
+    "notes": "Date conflict: Wikipedia says the original recording was made on 27 Dec 1947 by Herman's Second Herd, but that is the Columbia \"Summer Sequence Part IV\" session the song grew out of. jazzdisco lists Early Autumn as Capitol matrix 3831-2 on 30 Dec 1948 in Los Angeles with the personnel above, and a jazz blog agrees on 30 Dec 1948; that is the date used. Capitol 78 catalogue number not located. Early Autumn is on the Grammy Hall of Fame list (2000, from earlier research). Duration approximate."
+  },
+  {
+    "id": "jazz-herman-four-brothers",
+    "artist": "Woody Herman and His Orchestra",
+    "title": "Four Brothers",
+    "composer": "Jimmy Giuffre",
+    "recording_date": "1947-12-27",
+    "recording_year": 1947,
+    "release_year": 1948,
+    "original_issue": "Columbia 38304 (78 rpm; b/w \"No Time\")",
+    "personnel": "Woody Herman (clarinet, leader), Stan Getz, Zoot Sims, Herbie Steward (tenor saxes), Serge Chaloff (baritone sax), Ralph Burns (piano), Don Lamond (drums) and the rest of the Second Herd",
+    "style": "big-band",
+    "year": 1947,
+    "year_lo": 1947,
+    "year_hi": 1947,
+    "year_label": "1947",
+    "trivia": "Three tenor saxes and one baritone, all drawing on Lester Young's feather-light sound, gave this arrangement its name and its sound. Jimmy Giuffre wrote it, and the reed section of Getz, Sims, Steward and Chaloff were nicknamed the Four Brothers.",
+    "tags": [
+      "1940s",
+      "big-band",
+      "columbia",
+      "cool-tenor"
+    ],
+    "track": {
+      "artist": "Woody Herman and His Orchestra",
+      "title": "Four Brothers",
+      "album": "No Time / Four Brothers (Columbia 38304, 78 rpm single)",
+      "duration": "2:55",
+      "isrc": null,
+      "query": "Woody Herman and His Orchestra Four Brothers 1947",
+      "notes": "The Columbia studio recording of 27 Dec 1947 by Herman's Second Herd; not the later Capitol or Mosaic remakes"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://www.jazzdisco.org/stan-getz/discography/",
+      "https://en.wikipedia.org/wiki/Four_Brothers"
+    ],
+    "notes": "Date (Los Angeles, 27 Dec 1947), matrix HCO3061-1, Columbia 38304 and personnel from jazzdisco's Stan Getz discography; Wikipedia credits Giuffre as composer. Release year 1948 is inferred (the 78 was issued after the session; exact month not found). Duration approximate."
+  },
+  {
+    "id": "jazz-mulligan-my-funny-valentine",
+    "artist": "Gerry Mulligan Quartet",
+    "title": "My Funny Valentine",
+    "composer": "Richard Rodgers and Lorenz Hart",
+    "recording_date": "1952-09-02",
+    "recording_year": 1952,
+    "release_year": 1952,
+    "original_issue": "Fantasy 525 (78 rpm; b/w \"Bark for Barksdale\")",
+    "personnel": "Gerry Mulligan (baritone sax), Chet Baker (trumpet), Carson Smith (bass), Chico Hamilton (drums)",
+    "style": "west-coast",
+    "year": 1952,
+    "year_lo": 1952,
+    "year_hi": 1952,
+    "year_label": "1952",
+    "trivia": "Chet Baker's lyrical trumpet solo on this ballad became his calling card; he would later make it a vocal showpiece as well. jazzdisco places the date at a San Francisco club, probably the Blackhawk.",
+    "tags": [
+      "1950s",
+      "west-coast",
+      "fantasy"
+    ],
+    "track": {
+      "artist": "Gerry Mulligan Quartet",
+      "title": "My Funny Valentine",
+      "album": "My Funny Valentine / Bark for Barksdale (Fantasy 525, 78 rpm single)",
+      "duration": "3:00",
+      "isrc": null,
+      "query": "Gerry Mulligan Quartet My Funny Valentine 1952",
+      "notes": "The Fantasy recording from Sept 1952 (the quartet with Chet Baker); not the 1953 Haig live version on the Library of Congress registry nor Chet Baker's vocal versions of 1954"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://www.jazzdisco.org/chet-baker/discography/",
+      "https://en.wikipedia.org/wiki/My_Funny_Valentine"
+    ],
+    "notes": "jazzdisco (Chet Baker discography) lists Fantasy 525 with the date 2 Sept 1952, \"probably The Blackhawk, SF\". The Library of Congress National Recording Registry (2015) lists the live Mulligan Quartet recording of 20 May 1953 at the Haig in Hollywood, which is a different recording; the Fantasy 1952 single is the version used here. Judgement call: the user may prefer the LoC version. Duration approximate."
+  },
+  {
+    "id": "jazz-shearing-lullaby-of-birdland",
+    "artist": "George Shearing Quintet",
+    "title": "Lullaby of Birdland",
+    "composer": "George Shearing (lyrics George David Weiss, as \"B. Y. Forster\")",
+    "recording_date": "1952-07-17",
+    "recording_year": 1952,
+    "release_year": 1952,
+    "original_issue": "MGM 11354 (78 rpm)",
+    "personnel": "George Shearing (piano), Joe Roland (vibes), Chuck Wayne (guitar), John Levy (bass), Denzil Best (drums)",
+    "style": "cool",
+    "year": 1952,
+    "year_lo": 1952,
+    "year_hi": 1952,
+    "year_label": "1952",
+    "trivia": "Shearing wrote it in 1952 for Birdland owner Morris Levy as the theme for the club's radio show, and says in his autobiography that he composed it in ten minutes. His quintet's blend of vibes, guitar and piano defined the sound of a generation.",
+    "tags": [
+      "1950s",
+      "cool",
+      "locked-hands"
+    ],
+    "track": {
+      "artist": "George Shearing Quintet",
+      "title": "Lullaby of Birdland",
+      "album": "Lullaby of Birdland (MGM 11354, 78 rpm single)",
+      "duration": "2:50",
+      "isrc": null,
+      "query": "George Shearing Quintet Lullaby of Birdland 1952",
+      "notes": "The MGM 1952 original with the Shearing Quintet (vibes, guitar, bass, drums); not Ella Fitzgerald's or Sarah Vaughan's vocal versions"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Lullaby_of_Birdland"
+    ],
+    "notes": "MGM 11354 and the 17 July 1952 date come from a prior search result (MGM 11354, not 11425). Personnel is from memory and the standard Shearing quintet line-up of the era; not re-verified. The Levy commission and ten-minute claim are from Wikipedia (citing Shearing's autobiography). Duration approximate. Style filed cool (Shearing's locked-hands quintet is cool/bop)."
+  },
+  {
+    "id": "jazz-mjq-django",
+    "artist": "Modern Jazz Quartet",
+    "title": "Django",
+    "composer": "John Lewis",
+    "recording_date": "1954-12-23",
+    "recording_year": 1954,
+    "release_year": 1955,
+    "original_issue": "Prestige PRLP 170 (\"Modern Jazz Quartet, Volume 2\"; 10-inch LP, 1955)",
+    "personnel": "John Lewis (piano), Milt Jackson (vibes), Percy Heath (bass), Kenny Clarke (drums)",
+    "style": "cool",
+    "year": 1954,
+    "year_lo": 1954,
+    "year_hi": 1954,
+    "year_label": "1954",
+    "trivia": "John Lewis wrote this slow, funeral-march-like elegy after hearing of the death of Django Reinhardt in 1953. Its moody theme and sudden swing into a bluesy solo section have kept it a standard of chamber jazz ever since.",
+    "tags": [
+      "1950s",
+      "cool",
+      "prestige",
+      "third-stream"
+    ],
+    "track": {
+      "artist": "The Modern Jazz Quartet",
+      "title": "Django",
+      "album": "Django (Prestige PRLP 170, 10-inch LP; later on 12-inch \"Django\", PRLP 7057)",
+      "duration": "7:03",
+      "isrc": null,
+      "query": "The Modern Jazz Quartet Django 1954",
+      "notes": "The 23 Dec 1954 Prestige original (matrix 673); not the later Atlantic remakes"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://www.jazzdisco.org/milt-jackson/discography/",
+      "https://en.wikipedia.org/wiki/Django_(composition)"
+    ],
+    "notes": "Date, matrix and PRLP 170 from jazzdisco; running time 7:03 from the Wikipedia infobox. Django Reinhardt died in May 1953. Style filed cool; third-stream added as a tag."
+  },
+  {
+    "id": "jazz-clifford-brown-joy-spring",
+    "artist": "Clifford Brown and Max Roach",
+    "title": "Joy Spring",
+    "composer": "Clifford Brown",
+    "recording_date": "1954-08-06",
+    "recording_year": 1954,
+    "release_year": 1954,
+    "original_issue": "EmArcy MG-26043 (10-inch LP \"Clifford Brown and Max Roach\"; 12-inch MG-36036 in 1955)",
+    "personnel": "Clifford Brown (trumpet), Harold Land (tenor sax), Richie Powell (piano), George Morrow (bass), Max Roach (drums)",
+    "style": "hard-bop",
+    "year": 1954,
+    "year_lo": 1954,
+    "year_hi": 1954,
+    "year_label": "1954",
+    "trivia": "Brownie's clean, lyrical trumpet and a bouncy theme he wrote for his wife LaRue. The Brown-Roach quintet was one of the first great hard-bop groups, and Brown died in a car crash less than two years later.",
+    "tags": [
+      "1950s",
+      "hard-bop",
+      "emarcy"
+    ],
+    "track": {
+      "artist": "Clifford Brown and Max Roach",
+      "title": "Joy Spring",
+      "album": "Clifford Brown and Max Roach (EmArcy MG-26043 / MG-36036)",
+      "duration": "6:52",
+      "isrc": null,
+      "query": "Clifford Brown and Max Roach Joy Spring Clifford Brown and Max Roach 1954",
+      "notes": "The EmArcy quintet recording of 6 Aug 1954 (matrix 10877-4); not the 12 Jul 1954 Pacific Jazz ensemble version (a different recording)"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://www.jazzdisco.org/clifford-brown/discography/",
+      "https://en.wikipedia.org/wiki/Joy_Spring"
+    ],
+    "notes": "Date and matrix from the earlier jazzdisco check; Wikipedia gives August 1954 at Capitol in Los Angeles, release December 1954 and a 6:52 running time. The wife dedication is the standard account, not re-checked in a source. Duration from Wikipedia."
+  },
+  {
+    "id": "jazz-silver-doodlin",
+    "artist": "Horace Silver and the Jazz Messengers",
+    "title": "Doodlin'",
+    "composer": "Horace Silver",
+    "recording_date": "1954-11-13",
+    "recording_year": 1954,
+    "release_year": 1955,
+    "original_issue": "Blue Note BLP 5058 (\"Horace Silver Quintet, Volume 3\"; 10-inch LP)",
+    "personnel": "Horace Silver (piano), Kenny Dorham (trumpet), Hank Mobley (tenor sax), Doug Watkins (bass), Art Blakey (drums)",
+    "style": "hard-bop",
+    "year": 1954,
+    "year_lo": 1954,
+    "year_hi": 1954,
+    "year_label": "1954",
+    "trivia": "Horace Silver's gospel-and-blues swagger on this quintet date helped define hard bop's \"funky\" sound. The group with Blakey, Dorham, Mobley and Watkins became the first Jazz Messengers.",
+    "tags": [
+      "1950s",
+      "hard-bop",
+      "blue-note",
+      "soul-jazz"
+    ],
+    "track": {
+      "artist": "Horace Silver and the Jazz Messengers",
+      "title": "Doodlin'",
+      "album": "Horace Silver Quintet, Volume 3 (Blue Note BLP 5058; later on \"Horace Silver and the Jazz Messengers\", BLP 1518)",
+      "duration": "4:45",
+      "isrc": null,
+      "query": "Horace Silver and the Jazz Messengers Doodlin' Horace Silver Quintet, Volume 3 1954",
+      "notes": "The 13 Nov 1954 Van Gelder master (take 8); not the 1950s Silver remakes"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://www.jazzdisco.org/horace-silver/discography/"
+    ],
+    "notes": "Date, take and Blue Note numbers from the earlier jazzdisco check. The 45 rpm single (45-1630, \"The Preacher\" / \"Doodlin'\") is from 1956. Release year 1955 is the 10-inch LP date. Duration approximate."
+  },
+  {
+    "id": "jazz-garner-misty",
+    "artist": "Erroll Garner",
+    "title": "Misty",
+    "composer": "Erroll Garner",
+    "recording_date": "1954-07-27",
+    "recording_year": 1954,
+    "release_year": 1954,
+    "original_issue": "EmArcy (\"Contrasts\", Dec 1954; catalogue number not verified)",
+    "personnel": "Erroll Garner (piano), Wyatt Ruther (bass), Eugene \"Fats\" Heard (drums)",
+    "style": "swing",
+    "year": 1954,
+    "year_lo": 1954,
+    "year_hi": 1954,
+    "year_label": "1954",
+    "trivia": "Garner wrote it as an instrumental in 1954 and recorded it that July for the album \"Contrasts\". Both his original and Johnny Mathis's 1959 vocal version are in the Grammy Hall of Fame, and the song has become one of the most covered ballads ever.",
+    "tags": [
+      "1950s",
+      "swing",
+      "emarcy",
+      "piano-trio"
+    ],
+    "track": {
+      "artist": "Erroll Garner",
+      "title": "Misty",
+      "album": "Contrasts (EmArcy, 1954)",
+      "duration": "2:57",
+      "isrc": null,
+      "query": "Erroll Garner Misty Contrasts 1954",
+      "notes": "The 27 Jul 1954 Chicago trio studio version with Ruther and Heard; not Johnny Mathis's 1959 vocal hit or Garner's later remakes"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Misty_(song)",
+      "https://en.wikipedia.org/wiki/List_of_Grammy_Hall_of_Fame_Award_recipients_(J%E2%80%93P)"
+    ],
+    "notes": "Date (27 Jul 1954, confirmed by Wikipedia) and personnel from earlier research (Universal Recording Studio, Chicago, 27 Jul 1954; trio is Ruther and \"Fats\" Heard, not Eddie Calhoun and Denzil Best). The EmArcy catalogue numbers were not located. Wikipedia's infobox on the song shows Johnny Mathis's 1959 recording instead.  Duration approximate (not taken from a source)."
+  },
+  {
+    "id": "jazz-cole-get-your-kicks-on-route-66",
+    "artist": "The King Cole Trio",
+    "title": "(Get Your Kicks on) Route 66",
+    "composer": "Bobby Troup",
+    "recording_date": "1946-03-15",
+    "recording_year": 1946,
+    "release_year": 1946,
+    "original_issue": "Capitol 256 (78 rpm; b/w \"Everyone Is Saying Hello Again\")",
+    "personnel": "Nat King Cole (piano, vocal), Oscar Moore (guitar), Johnny Miller (bass)",
+    "style": "vocal",
+    "year": 1946,
+    "year_lo": 1946,
+    "year_hi": 1946,
+    "year_label": "1946",
+    "trivia": "Songwriter Bobby Troup got the idea for a song about the highway from Chicago to Los Angeles while driving west. Cole's smooth trio recording, with its relaxed swing, turned the road into a pop-culture icon.",
+    "tags": [
+      "1940s",
+      "vocal",
+      "capitol",
+      "rhythm-and-blues"
+    ],
+    "track": {
+      "artist": "King Cole Trio",
+      "title": "(Get Your Kicks on) Route 66",
+      "album": "(Get Your Kicks on) Route 66 / Everyone Is Saying Hello Again (Capitol 78 rpm single)",
+      "duration": "2:57",
+      "isrc": null,
+      "query": "King Cole Trio (Get Your Kicks on) Route 66 1946",
+      "notes": "The original 1946 Capitol studio recording by the King Cole Trio; not covers (Chuck Berry, Rolling Stones, Depeche Mode)"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/(Get_Your_Kicks_on)_Route_66"
+    ],
+    "notes": "Date conflict: MusicBrainz and a Route 66 history site say 15 Mar 1946, Wikipedia's infobox says 16 Mar 1946 at Radio Recorders, Los Angeles; the 15th was chosen. Wikipedia gives release 1946-04-22 and length 2:57. Capitol 256 is from memory and not confirmed, B-side title \"Everyone Is Sayin' Hello Again\" per Wikipedia. Style filed as vocal with an R&B tag."
+  },
+  {
+    "id": "jazz-cole-nature-boy",
+    "artist": "Nat King Cole",
+    "title": "Nature Boy",
+    "composer": "eden ahbez",
+    "recording_date": "1947-08-22",
+    "recording_year": 1947,
+    "release_year": 1948,
+    "original_issue": "Capitol 15054 (78 rpm; b/w \"Lost April\")",
+    "personnel": "Nat King Cole (vocal), Frank De Vol and his orchestra",
+    "style": "vocal",
+    "year": 1947,
+    "year_lo": 1947,
+    "year_hi": 1947,
+    "year_label": "1947",
+    "trivia": "eden ahbez belonged to a proto-hippie Los Angeles subculture called the Nature Boys, and wrote the song as a tribute to one of its figures, Bill Pester. Cole's tender orchestral reading topped the Billboard chart, sold over a million copies and made his name as a solo vocalist.",
+    "tags": [
+      "1940s",
+      "vocal",
+      "capitol",
+      "pop"
+    ],
+    "track": {
+      "artist": "Nat King Cole",
+      "title": "Nature Boy",
+      "album": "Nature Boy / Lost April (Capitol 15054, 78 rpm single)",
+      "duration": "2:56",
+      "isrc": null,
+      "query": "Nat King Cole Nature Boy 1947",
+      "notes": "The original 1947 Capitol recording with the Frank De Vol orchestra; not Cole's later remakes or the Bobby Darin and Miles Davis covers"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Nature_Boy"
+    ],
+    "notes": "Wikipedia's infobox gives recorded 22 Aug 1947 at Capitol Studios, released 29 Mar 1948, 2:56, B-side \"Lost April\". Capitol 15054 is from memory (not confirmed). The Nature Boys, Pester and chart details are from Wikipedia. Cole's recordings sit on the border of jazz and pop; the card is filed as vocal."
+  },
+  {
+    "id": "jazz-vaughan-tenderly",
+    "artist": "Sarah Vaughan",
+    "title": "Tenderly",
+    "composer": "Walter Gross (lyrics Jack Lawrence)",
+    "recording_date": "1947-07-02",
+    "recording_year": 1947,
+    "release_year": 1947,
+    "original_issue": "Musicraft (78 rpm; b/w \"Don't Blame Me\")",
+    "personnel": "Sarah Vaughan (vocal) with George Treadwell and his orchestra",
+    "style": "vocal",
+    "year": 1947,
+    "year_lo": 1947,
+    "year_hi": 1947,
+    "year_label": "1947",
+    "trivia": "A floating waltz-time ballad performance by Vaughan after her bebop apprenticeship with Billy Eckstine and Dizzy Gillespie. Hers was only the second recording of the song, following Brazilian pianist Dick Farney's of 15 June 1947.",
+    "tags": [
+      "1940s",
+      "vocal",
+      "musicraft"
+    ],
+    "track": {
+      "artist": "Sarah Vaughan",
+      "title": "Tenderly",
+      "album": "Tenderly / Don't Blame Me (Musicraft 78 rpm single)",
+      "duration": "2:32",
+      "isrc": null,
+      "query": "Sarah Vaughan Tenderly 1947",
+      "notes": "The 1947 Musicraft studio recording with orchestra; not Vaughan's later Mercury or Roulette remakes"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Tenderly"
+    ],
+    "notes": "Wikipedia gives 2 July 1947 for Vaughan's recording and 15 June 1947 for Farney's first recording, plus Musicraft, length 2:32 and B-side \"Don't Blame Me\"; Gross wrote the music, Jack Lawrence the lyrics. The Musicraft catalogue number is unverified. Jack Lawrence wrote the lyrics. Duration from Wikipedia."
+  },
+  {
+    "id": "jazz-fitzgerald-oh-lady-be-good",
+    "artist": "Ella Fitzgerald with Bob Haggart and His Orchestra",
+    "title": "Oh, Lady Be Good!",
+    "composer": "George Gershwin and Ira Gershwin",
+    "recording_date": "1947-03-19",
+    "recording_year": 1947,
+    "release_year": 1947,
+    "original_issue": "Decca 23956 (78 rpm)",
+    "personnel": "Ella Fitzgerald (vocal) with Bob Haggart and his orchestra; vocal group the Andy Love Quintet",
+    "style": "vocal",
+    "year": 1947,
+    "year_lo": 1947,
+    "year_hi": 1947,
+    "year_label": "1947",
+    "trivia": "One of Ella's early scat showcases on record: a long improvised vocal solo that borrows the bebop vocabulary that was brand new to the public. It became a template for later scat singers.",
+    "tags": [
+      "1940s",
+      "vocal",
+      "decca",
+      "scat"
+    ],
+    "track": {
+      "artist": "Ella Fitzgerald",
+      "title": "Oh, Lady Be Good!",
+      "album": "Oh, Lady Be Good! (Decca 23956, 78 rpm single)",
+      "duration": "2:45",
+      "isrc": null,
+      "query": "Ella Fitzgerald Oh, Lady Be Good! 1947",
+      "notes": "The 1947 Decca studio recording (matrix 73820, 19 Mar 1947); not the later Verve songbook or live versions"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Oh,_Lady_Be_Good!"
+    ],
+    "notes": "DAHR (via search) gave the matrix 73820 and the date 19 Mar 1947 (not Oct 1947 as sometimes cited); Decca 23956 and the Haggart/Andy Love Quintet credits come from the same lookup; the coupling was not recorded. Duration approximate."
+  },
+  {
+    "id": "jazz-jordan-choo-choo-chboogie",
+    "artist": "Louis Jordan and His Tympany Five",
+    "title": "Choo Choo Ch'Boogie",
+    "composer": "Milt Gabler, Vaughn Horton and Denver Darling",
+    "recording_date": "1946-01-23",
+    "recording_year": 1946,
+    "release_year": 1946,
+    "original_issue": "Decca 23610 (78 rpm; b/w \"That Chick's Too Young to Fry\")",
+    "personnel": "Louis Jordan (alto sax, vocal), Aaron Izenhall (trumpet), Josh Jackson (tenor sax), Wild Bill Davis (piano), Carl Hogan (guitar), Jesse Simpkins (bass), Eddie Byrd (drums)",
+    "style": "swing",
+    "year": 1946,
+    "year_lo": 1946,
+    "year_hi": 1946,
+    "year_label": "1946",
+    "trivia": "Jordan's jumping little band recorded this train-chugging novelty in January 1946, and it topped the R&B chart for 18 weeks while crossing over to the pop top ten. Its shuffle groove helped pave the way for early rock 'n' roll.",
+    "tags": [
+      "1940s",
+      "swing",
+      "decca",
+      "jump-blues",
+      "vocal"
+    ],
+    "track": {
+      "artist": "Louis Jordan and His Tympany Five",
+      "title": "Choo Choo Ch'Boogie",
+      "album": "Choo Choo Ch'Boogie / That Chick's Too Young to Fry (Decca 23610, 78 rpm single)",
+      "duration": "2:50",
+      "isrc": null,
+      "query": "Louis Jordan and His Tympany Five Choo Choo Ch'Boogie 1946",
+      "notes": "The Decca studio original of 23 Jan 1946 (matrix 73305); not later Jordan remakes or covers"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Choo_Choo_Ch'Boogie"
+    ],
+    "notes": "Date, matrix and personnel from DAHR (via search). Wikipedia says recorded January 1946, 18 weeks at number one on the R&B charts from August 1946 and a peak of number seven nationally. Jump blues, filed as swing/vocal. Duration approximate."
+  },
+  {
+    "id": "jazz-bechet-petite-fleur",
+    "artist": "Sidney Bechet",
+    "title": "Petite Fleur",
+    "composer": "Sidney Bechet",
+    "recording_date": "1952-01-21",
+    "recording_year": 1952,
+    "release_year": 1952,
+    "original_issue": "Vogue (78 rpm; Vogue master 52V4176)",
+    "personnel": "Sidney Bechet (soprano sax), Guy Longnon (trumpet), Jean-Louis Durand (piano), Charlie Lewis (guitar), Alf Masselier (bass), Armand Molinetti (drums)",
+    "style": "new-orleans",
+    "year": 1952,
+    "year_lo": 1952,
+    "year_hi": 1952,
+    "year_label": "1952",
+    "trivia": "Bechet's wistful soprano-sax melody, written during his years in France, became a European hit; it later became a worldwide hit again through Chris Barber's 1959 cover. The New Orleans-born Bechet was a star in France in these years.",
+    "tags": [
+      "1950s",
+      "new-orleans",
+      "vogue",
+      "france",
+      "soprano-sax"
+    ],
+    "track": {
+      "artist": "Sidney Bechet",
+      "title": "Petite Fleur",
+      "album": "Petite Fleur (Vogue 78 rpm single)",
+      "duration": "3:05",
+      "isrc": null,
+      "query": "Sidney Bechet Petite Fleur 1952",
+      "notes": "Paris Vogue studio recording of 21 Jan 1952 (master 52V4176) with the Guy Longnon All Stars; not the Claude Luter-backed 18 Jan 1952 version nor the 31 Jan 1952 live Salle Pleyel version"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Petite_Fleur"
+    ],
+    "notes": "DAHR (via search) gives the master 52V4176, 21 Jan 1952 and the personnel; alternate versions exist (a Claude Luter-backed recording on 18 Jan 1952 and a Salle Pleyel live on 31 Jan 1952), so the identification is a judgement call. Chris Barber's 1959 cover was a hit in Britain and the US (from memory). Style filed new-orleans (Bechet's roots) despite the French setting. Duration approximate."
+  },
+  {
+    "id": "jazz-parker-just-friends",
+    "artist": "Charlie Parker with Strings",
+    "title": "Just Friends",
+    "composer": "John Klenner and Sam M. Lewis",
+    "recording_date": "1949-11-30",
+    "recording_year": 1949,
+    "release_year": 1950,
+    "original_issue": "Mercury 11036 (78 rpm; b/w \"Everything Happens to Me\")",
+    "personnel": "Charlie Parker (alto sax), Mitch Miller (oboe, English horn), Bronislaw Gimpel, Max Hollander and Milton Lomask (violins), Frank Brieff (viola), Frank Miller (cello), Meyer Rosen (harp), Stan Freeman (piano), Ray Brown (bass), Buddy Rich (drums), Jimmy Carroll (arranger and conductor)",
+    "style": "bebop",
+    "year": 1949,
+    "year_lo": 1949,
+    "year_hi": 1949,
+    "year_label": "1949",
+    "trivia": "Parker had long wanted to play with a string section, and producer Norman Granz arranged it for him in 1949. His flowing alto over Jimmy Carroll's string arrangement is among the best-loved tracks of the \"with Strings\" sessions.",
+    "tags": [
+      "1940s",
+      "bebop",
+      "mercury",
+      "strings"
+    ],
+    "track": {
+      "artist": "Charlie Parker with Strings",
+      "title": "Just Friends",
+      "album": "Charlie Parker with Strings (Mercury 11036, 78 rpm single; later LP)",
+      "duration": "3:05",
+      "isrc": null,
+      "query": "Charlie Parker with Strings Just Friends Charlie Parker with Strings 1949",
+      "notes": "Master take 5 (matrix 319-5) of 30 Nov 1949; not later live or reissue-remix versions"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://www.jazzdisco.org/charlie-parker/discography/",
+      "https://en.wikipedia.org/wiki/Just_Friends_(John_Klenner_and_Sam_M._Lewis_song)"
+    ],
+    "notes": "Session date, personnel and matrix from jazzdisco; Mercury 11036 coupling and the 1950 release year are from memory (release year is an estimate). Conductor/arranger Jimmy Carroll as listed in discographies. Wikipedia says Parker cut it in 1949. Duration approximate (not taken from a source)."
+  },
+  {
+    "id": "jazz-powell-un-poco-loco",
+    "artist": "The Bud Powell Trio",
+    "title": "Un Poco Loco",
+    "composer": "Bud Powell",
+    "recording_date": "1951-05-01",
+    "recording_year": 1951,
+    "release_year": 1951,
+    "original_issue": "Blue Note 1577 (78 rpm; b/w \"It Could Happen to You\")",
+    "personnel": "Bud Powell (piano), Curly Russell (bass), Max Roach (drums)",
+    "style": "bebop",
+    "year": 1951,
+    "year_lo": 1951,
+    "year_hi": 1951,
+    "year_label": "1951",
+    "trivia": "A Latin-tinged piano workout driven by Max Roach's rhythms, issued on a 78 in 1951. Its alternate takes finally came out in 1955 on \"The Amazing Bud Powell\", cementing it as a bebop trio landmark.",
+    "tags": [
+      "1950s",
+      "bebop",
+      "blue-note"
+    ],
+    "track": {
+      "artist": "Bud Powell Trio",
+      "title": "Un Poco Loco",
+      "album": "The Amazing Bud Powell, Volume 1 (Blue Note BLP 1503; first issued on Blue Note 1577, 78 rpm)",
+      "duration": "4:42",
+      "isrc": null,
+      "query": "Bud Powell Trio Un Poco Loco The Amazing Bud Powell, Volume 1 1951",
+      "notes": "The issued take 4 (matrix BN382-4, Blue Note 1577); takes 1 and 2 appeared on the 1955 LP, so avoid those"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://www.jazzdisco.org/bud-powell/discography/",
+      "https://en.wikipedia.org/wiki/Un_Poco_Loco"
+    ],
+    "notes": "Date, matrix and personnel from jazzdisco; Wikipedia's infobox gives 1951 as the release year and 4:42 for the length (taken over; the length may refer to a different take). Style is bebop with a Latin tinge."
+  },
+  {
+    "id": "jazz-gordon-the-chase",
+    "artist": "Dexter Gordon - Wardell Gray Quintet",
+    "title": "The Chase",
+    "composer": "Dexter Gordon",
+    "recording_date": "1947-06-12",
+    "recording_year": 1947,
+    "release_year": 1947,
+    "original_issue": "Dial 1017 (78 rpm; \"The Chase, Parts 1 and 2\")",
+    "personnel": "Dexter Gordon (tenor sax), Wardell Gray (tenor sax), Jimmy Bunn (piano), Red Callender (bass), Chuck Thompson (drums)",
+    "style": "bebop",
+    "year": 1947,
+    "year_lo": 1947,
+    "year_hi": 1947,
+    "year_label": "1947",
+    "trivia": "The two-tenor \"cutting contest\" that defined West Coast bebop: Gordon and Gray trade choruses and quote tunes at a sprint, modelled on the saxophone duels the pair played in Los Angeles clubs. The 78 ran over two sides, as Part 1 and Part 2.",
+    "tags": [
+      "1940s",
+      "bebop",
+      "dial"
+    ],
+    "track": {
+      "artist": "Dexter Gordon, Wardell Gray",
+      "title": "The Chase",
+      "album": "The Chase, Parts 1 and 2 (Dial 1017, 78 rpm single)",
+      "duration": "6:20",
+      "isrc": null,
+      "query": "Dexter Gordon, Wardell Gray The Chase The Chase, Parts 1 and 2 1947",
+      "notes": "The 12 Jun 1947 Dial master (matrices D1083-D / D1084-D), Parts 1 and 2 combined; not later live Gordon and Gray duels"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://www.jazzdisco.org/dexter-gordon/discography/"
+    ],
+    "notes": "Date, matrix, billing, personnel and Dial 1017 from jazzdisco (C.P. MacGregor Studios, LA); release year 1947 inferred from jazzdisco's LP-year note. Duration of the combined two sides is approximate. A false start of Part 1 (D1083-C) also exists, not to be used."
+  },
+  {
+    "id": "jazz-ellington-satin-doll",
+    "artist": "Duke Ellington and His Orchestra",
+    "title": "Satin Doll",
+    "composer": "Duke Ellington and Billy Strayhorn (lyrics Johnny Mercer)",
+    "recording_date": "1953-04-06",
+    "recording_year": 1953,
+    "release_year": 1953,
+    "original_issue": "Capitol (78 rpm / 45; catalogue number not located)",
+    "personnel": "Duke Ellington (piano, leader) and his orchestra (full 1953 line-up not verified for this session)",
+    "style": "big-band",
+    "year": 1953,
+    "year_lo": 1953,
+    "year_hi": 1953,
+    "year_label": "1953",
+    "trivia": "Ellington wrote the main themes and asked Billy Strayhorn to harmonise and orchestrate them. The cheerful, sly tune became one of the most-played jazz standards, with Johnny Mercer adding lyrics a few years later.",
+    "tags": [
+      "1950s",
+      "big-band",
+      "capitol"
+    ],
+    "track": {
+      "artist": "Duke Ellington and His Orchestra",
+      "title": "Satin Doll",
+      "album": "Satin Doll (Capitol single, 1953)",
+      "duration": "3:00",
+      "isrc": null,
+      "query": "Duke Ellington and His Orchestra Satin Doll 1953",
+      "notes": "The 6 Apr 1953 Capitol instrumental original (the band's first Capitol session); not the later Ellington remakes or vocal versions"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Satin_Doll"
+    ],
+    "notes": "Wikipedia says the orchestra recorded it as an instrumental in 1953 and it charted that year; the 6 April 1953 date (the first Capitol session) is from earlier research. Personnel is given only as the orchestra (individual names not verified for this session). Capitol catalogue not found. Ellington is at the upper end of the per-leader cap across the set. Duration approximate (not taken from a source)."
+  }
+]

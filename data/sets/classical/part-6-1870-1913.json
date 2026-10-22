@@ -1,0 +1,2622 @@
+[
+  {
+    "id": "cls-verdi-aida-triumphal-march",
+    "composer": "Giuseppe Verdi",
+    "composer_short": "Verdi",
+    "work": "Aida: Triumphal March ('Gloria all'Egitto')",
+    "nickname": "Triumphal March",
+    "catalogue_only": false,
+    "form": "opera",
+    "accept_work": "Verdi's Aida (the Triumphal March)",
+    "excerpt": "Triumphal March with trumpets",
+    "year": 1871,
+    "year_lo": 1870,
+    "year_hi": 1871,
+    "year_label": "1870–1871",
+    "premiere_or_publication": "Premiered at the Khedivial Opera House, Cairo, 24 December 1871; Italian premiere at La Scala, 8 February 1872",
+    "dating_note": "Composed in 1870 and early 1871, premiere delayed by the Franco-Prussian War (Wikipedia).",
+    "recording": {
+      "performers": "Any well-reviewed recording",
+      "conductor": null,
+      "label": null,
+      "year": null,
+      "why": "Any recording with the 'Aida trumpets' playing the fanfare."
+    },
+    "trivia": "Commissioned for the Cairo opera house, Aida's premiere was delayed because the sets and costumes were stuck in besieged Paris. Verdi regarded the later La Scala premiere as the real one.",
+    "tags": [
+      "late-romantic",
+      "opera",
+      "march",
+      "egypt",
+      "opera"
+    ],
+    "track": {
+      "query": "Verdi Aida Triumphal March Gloria all'Egitto",
+      "album": null,
+      "duration": "~5:00",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Aida"
+    ],
+    "notes": "Verdi total: 4 (Nabucco, Rigoletto, La traviata, Aida)."
+  },
+  {
+    "id": "cls-franck-panis-angelicus",
+    "composer": "César Franck",
+    "composer_short": "Franck",
+    "work": "Panis angelicus (from Messe à trois voix, Op. 12)",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "choral",
+    "accept_work": "Franck's Panis angelicus",
+    "excerpt": "Tenor or soprano solo",
+    "year": 1872,
+    "year_lo": 1872,
+    "year_hi": 1872,
+    "year_label": "1872",
+    "premiere_or_publication": "Added in 1872 to his Messe à trois voix (1860)",
+    "dating_note": "Composed in 1872 and inserted into the earlier Mass (Wikipedia).",
+    "recording": {
+      "performers": "Any well-reviewed recording",
+      "conductor": null,
+      "label": null,
+      "year": null,
+      "why": "Solo voice with organ; any good tenor or soprano."
+    },
+    "trivia": "Franck wrote it as an insertion for his Mass for three voices, which dates from 1860. The Latin text is a verse by Thomas Aquinas for the feast of Corpus Christi.",
+    "tags": [
+      "late-romantic",
+      "choral",
+      "sacred",
+      "solo-voice"
+    ],
+    "track": {
+      "query": "Franck Panis angelicus",
+      "album": null,
+      "duration": "~4:00",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Panis_angelicus"
+    ],
+    "notes": "Dated 1872 as per Wikipedia; Mass is 1860."
+  },
+  {
+    "id": "cls-bizet-carmen",
+    "composer": "Georges Bizet",
+    "composer_short": "Bizet",
+    "work": "Carmen (Habanera: 'L'amour est un oiseau rebelle')",
+    "nickname": "Habanera",
+    "catalogue_only": false,
+    "form": "opera",
+    "accept_work": "Bizet's Carmen (the Habanera)",
+    "excerpt": "Habanera",
+    "year": 1874,
+    "year_lo": 1873,
+    "year_hi": 1875,
+    "year_label": "1873–1875",
+    "premiere_or_publication": "Premiered at the Opéra-Comique, Paris, 3 March 1875",
+    "dating_note": "Bizet began composing in or around January 1873, and the vocal score came out in early 1875 shortly before the premiere (Wikipedia).",
+    "recording": {
+      "performers": "Any well-reviewed recording",
+      "conductor": null,
+      "label": null,
+      "year": null,
+      "why": "Any strong mezzo-soprano; the Habanera is also commonly heard in the orchestral Carmen Suite."
+    },
+    "trivia": "Bizet based the Habanera on a song by Sebastián Iradier that he thought was a traditional folk tune. Carmen's first audiences in 1875 were shocked, and Bizet died three months after the premiere, unaware of its eventual success.",
+    "tags": [
+      "late-romantic",
+      "opera",
+      "aria",
+      "mezzo-soprano"
+    ],
+    "track": {
+      "query": "Bizet Carmen Habanera L'amour est un oiseau rebelle",
+      "album": null,
+      "duration": "~4:00",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Carmen"
+    ],
+    "notes": "Iradier claim confirmed on the Carmen page (spelled Yradier there)."
+  },
+  {
+    "id": "cls-mussorgsky-pictures-at-an-exhibition",
+    "composer": "Modest Mussorgsky",
+    "composer_short": "Mussorgsky",
+    "work": "Pictures at an Exhibition (piano suite)",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "solo-piano",
+    "accept_work": "Mussorgsky's Pictures at an Exhibition (piano original or Ravel's orchestration)",
+    "excerpt": "The Great Gate of Kiev",
+    "year": 1874,
+    "year_lo": 1874,
+    "year_hi": 1874,
+    "year_label": "1874",
+    "premiere_or_publication": "Piano suite published posthumously in 1886; Ravel's orchestration dates from 1922",
+    "dating_note": "Written in 1874 (Wikipedia). If the track is Ravel's orchestration, the arrangement is 1922 but the work is still dated 1874.",
+    "recording": {
+      "performers": "Any well-reviewed recording",
+      "conductor": null,
+      "label": null,
+      "year": null,
+      "why": "Piano original or Ravel's orchestration are both fine; the work is the same."
+    },
+    "trivia": "Mussorgsky wrote it in memory of his friend Viktor Hartmann, an architect and painter who died suddenly in 1873. Each movement pictures a work from a memorial show of Hartmann's art, with a 'Promenade' tune representing the visitor walking between them.",
+    "tags": [
+      "late-romantic",
+      "solo-piano",
+      "suite",
+      "orchestrated-by-ravel"
+    ],
+    "track": {
+      "query": "Mussorgsky Pictures at an Exhibition Great Gate of Kiev",
+      "album": null,
+      "duration": "~5:00",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Pictures_at_an_Exhibition"
+    ],
+    "notes": "Excerpt works in either piano or orchestral form."
+  },
+  {
+    "id": "cls-saint-saens-danse-macabre",
+    "composer": "Camille Saint-Saëns",
+    "composer_short": "Saint-Saëns",
+    "work": "Danse macabre, Op. 40",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "orchestral",
+    "accept_work": "Saint-Saëns's Danse macabre",
+    "excerpt": "Opening harp notes and violin theme",
+    "year": 1874,
+    "year_lo": 1874,
+    "year_hi": 1874,
+    "year_label": "1874",
+    "premiere_or_publication": "Premiered 24 January 1875",
+    "dating_note": "Reworked into a tone poem in 1874 from an 1872 song (Wikipedia).",
+    "recording": {
+      "performers": "Any well-reviewed recording",
+      "conductor": null,
+      "label": null,
+      "year": null,
+      "why": "Any recording with a bright solo violin and clear xylophone."
+    },
+    "trivia": "It began as a song to a poem by Henri Cazalis about Death fiddling at midnight, and Saint-Saëns turned the vocal line into a violin solo. The violin's top string is tuned down a semitone for a sour sound, and a xylophone rattles like bones.",
+    "tags": [
+      "late-romantic",
+      "orchestral",
+      "tone-poem",
+      "halloween"
+    ],
+    "track": {
+      "query": "Saint-Saens Danse macabre Op. 40",
+      "album": null,
+      "duration": "~7:00",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Danse_macabre_(Saint-Sa%C3%ABns)"
+    ],
+    "notes": "Scordatura and xylophone details from general knowledge (Wikipedia confirms the song origin). Saint-Saëns total: 3 cards."
+  },
+  {
+    "id": "cls-smetana-vltava",
+    "composer": "Bedřich Smetana",
+    "composer_short": "Smetana",
+    "work": "Vltava (The Moldau), from Má vlast",
+    "nickname": "The Moldau",
+    "catalogue_only": false,
+    "form": "orchestral",
+    "accept_work": "Smetana's Vltava (The Moldau)",
+    "excerpt": "The river theme",
+    "year": 1874,
+    "year_lo": 1874,
+    "year_hi": 1874,
+    "year_label": "1874",
+    "premiere_or_publication": "Premiered 4 April 1875 under Adolf Čech; the full cycle Má vlast was first heard on 5 November 1882",
+    "dating_note": "Composed between 20 November and 8 December 1874 (Wikipedia, Má vlast).",
+    "recording": {
+      "performers": "Any well-reviewed recording",
+      "conductor": null,
+      "label": null,
+      "year": null,
+      "why": "Any strong orchestral recording; the flowing river theme is the point."
+    },
+    "trivia": "It is the second of six tone poems in Má vlast ('My Homeland') and traces the Vltava river from its two springs to Prague. Smetana wrote it as he was going deaf, which began in the summer of 1874. Its main tune adapts an old Italian melody, 'La Mantovana', which also lies behind Israel's anthem Hatikvah.",
+    "tags": [
+      "late-romantic",
+      "orchestral",
+      "tone-poem",
+      "czech",
+      "river"
+    ],
+    "track": {
+      "query": "Smetana Vltava The Moldau",
+      "album": null,
+      "duration": "~12:00",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/M%C3%A1_vlast"
+    ],
+    "notes": "Dates, deafness and La Mantovana/Hatikvah link verified on the Má vlast page."
+  },
+  {
+    "id": "cls-strauss-ii-die-fledermaus-overture",
+    "composer": "Johann Strauss II",
+    "composer_short": "Strauss II",
+    "work": "Die Fledermaus (Overture)",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "opera",
+    "accept_work": "Johann Strauss II's Die Fledermaus (the overture)",
+    "excerpt": "Overture",
+    "year": 1874,
+    "year_lo": 1873,
+    "year_hi": 1874,
+    "year_label": "1873–1874",
+    "premiere_or_publication": "Premiered at the Theater an der Wien, 5 April 1874",
+    "dating_note": "Written in 1873–74, premiered in April 1874.",
+    "recording": {
+      "performers": "Any well-reviewed recording",
+      "conductor": null,
+      "label": null,
+      "year": null,
+      "why": "Any lively Viennese-style performance."
+    },
+    "trivia": "The operetta tells of a masked ball, a practical joke and mistaken identities. It premiered at the Theater an der Wien in April 1874 and has stayed in the repertoire ever since, often staged at New Year.",
+    "tags": [
+      "late-romantic",
+      "opera",
+      "operetta",
+      "overture",
+      "vienna"
+    ],
+    "track": {
+      "query": "Johann Strauss Die Fledermaus Overture",
+      "album": null,
+      "duration": "~8:00",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Die_Fledermaus"
+    ],
+    "notes": "Wikipedia confirms the 1874 premiere (5 April, Theater an der Wien); the 1873 start is inferred (libretto sources date from 1872-73)."
+  },
+  {
+    "id": "cls-grieg-peer-gynt",
+    "composer": "Edvard Grieg",
+    "composer_short": "Grieg",
+    "work": "Peer Gynt (incidental music), Op. 23: Morning Mood and In the Hall of the Mountain King",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "orchestral",
+    "accept_work": "Grieg's Peer Gynt music (Morning Mood or In the Hall of the Mountain King)",
+    "excerpt": "'Morning Mood' (Suite No. 1)",
+    "year": 1875,
+    "year_lo": 1874,
+    "year_hi": 1875,
+    "year_label": "1874–1875",
+    "premiere_or_publication": "Incidental music premiered with Ibsen's play in Christiania, 24 February 1876; Suite No. 1 published 1888",
+    "dating_note": "Composed in 1874–75 for Ibsen's play (Wikipedia).",
+    "recording": {
+      "performers": "Any well-reviewed recording",
+      "conductor": null,
+      "label": null,
+      "year": null,
+      "why": "Suite No. 1 as an orchestral recording."
+    },
+    "trivia": "Ibsen asked Grieg for incidental music to his verse play, and Grieg's two suites later outlived the stage work. 'Morning Mood' is meant to depict sunrise in the Moroccan desert, not a Norwegian landscape, because that is where the play's fourth act is set.",
+    "tags": [
+      "late-romantic",
+      "orchestral",
+      "incidental-music",
+      "ibsen",
+      "norway"
+    ],
+    "track": {
+      "query": "Grieg Peer Gynt Morning Mood",
+      "album": null,
+      "duration": "~4:00",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Peer_Gynt_(Grieg)",
+      "https://en.wikipedia.org/wiki/Morning_Mood"
+    ],
+    "notes": "Morocco setting verified on the Morning Mood page. Grieg total: 2 cards."
+  },
+  {
+    "id": "cls-ponchielli-la-gioconda-dance-of-the-hours",
+    "composer": "Amilcare Ponchielli",
+    "composer_short": "Ponchielli",
+    "work": "La Gioconda: Dance of the Hours",
+    "nickname": "Dance of the Hours",
+    "catalogue_only": false,
+    "form": "opera",
+    "accept_work": "Ponchielli's Dance of the Hours (La Gioconda)",
+    "excerpt": "The ballet theme",
+    "year": 1876,
+    "year_lo": 1876,
+    "year_hi": 1876,
+    "year_label": "1876",
+    "premiere_or_publication": "La Gioconda premiered at La Scala, 8 April 1876; revised several times to 1880",
+    "dating_note": "The ballet belongs to the opera's first (1876) version.",
+    "recording": {
+      "performers": "Any well-reviewed recording",
+      "conductor": null,
+      "label": null,
+      "year": null,
+      "why": "Orchestral ballet music; any good concert recording."
+    },
+    "trivia": "A ballet in Act 3 of La Gioconda that stands for the hours of the day, from dawn to night. Disney's Fantasia (1940) used it for a comic ballet of ostriches, hippos, elephants and alligators.",
+    "tags": [
+      "late-romantic",
+      "opera",
+      "ballet-music",
+      "fantasia"
+    ],
+    "track": {
+      "query": "Ponchielli La Gioconda Dance of the Hours",
+      "album": null,
+      "duration": "~9:00",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/La_Gioconda",
+      "https://en.wikipedia.org/wiki/Dance_of_the_Hours"
+    ],
+    "notes": "Fantasia link from general knowledge."
+  },
+  {
+    "id": "cls-tchaikovsky-swan-lake",
+    "composer": "Pyotr Ilyich Tchaikovsky",
+    "composer_short": "Tchaikovsky",
+    "work": "Swan Lake, Op. 20",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "ballet",
+    "accept_work": "Tchaikovsky's Swan Lake",
+    "excerpt": "Scene (Moderato), the swan theme from Act II",
+    "year": 1876,
+    "year_lo": 1875,
+    "year_hi": 1876,
+    "year_label": "1875–1876",
+    "premiere_or_publication": "Premiered by the Bolshoi Ballet, 4 March 1877 (revived in 1895 in St Petersburg)",
+    "dating_note": "Commissioned in May 1875 and complete by April 1876 (Wikipedia).",
+    "recording": {
+      "performers": "Any well-reviewed recording",
+      "conductor": null,
+      "label": null,
+      "year": null,
+      "why": "Any complete or suite recording; the swan theme with solo oboe and harp."
+    },
+    "trivia": "The 1877 Moscow premiere was a flop, and the ballet only became a classic after a St Petersburg revival in 1895, two years after Tchaikovsky's death. His relatives said he had already staged a little 'Lake of the Swans' at their home in 1871.",
+    "tags": [
+      "late-romantic",
+      "ballet",
+      "ballet",
+      "tchaikovsky"
+    ],
+    "track": {
+      "query": "Tchaikovsky Swan Lake Scene Moderato Act II",
+      "album": null,
+      "duration": "~3:00",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Swan_Lake"
+    ],
+    "notes": "1895 revival from general knowledge (Petipa/Ivanov); 1871 home ballet from Wikipedia. Tchaikovsky total: 4 cards (R&J in part 5, plus Swan Lake, 1812, Nutcracker)."
+  },
+  {
+    "id": "cls-offenbach-les-contes-dhoffmann-barcarolle",
+    "composer": "Jacques Offenbach",
+    "composer_short": "Offenbach",
+    "work": "Les contes d'Hoffmann: Barcarolle ('Belle nuit, ô nuit d'amour')",
+    "nickname": "Barcarolle",
+    "catalogue_only": false,
+    "form": "opera",
+    "accept_work": "Offenbach's Barcarolle from The Tales of Hoffmann",
+    "excerpt": "Barcarolle",
+    "year": 1880,
+    "year_lo": 1877,
+    "year_hi": 1880,
+    "year_label": "1877–1880",
+    "premiere_or_publication": "Opera premiered at the Opéra-Comique, Paris, 10 February 1881, after Offenbach's death",
+    "dating_note": "Offenbach worked on the opera until his death on 5 October 1880 (Wikipedia). The barcarolle itself was borrowed from his earlier opera Die Rheinnixen (1864).",
+    "recording": {
+      "performers": "Any well-reviewed recording",
+      "conductor": null,
+      "label": null,
+      "year": null,
+      "why": "Soprano and mezzo duet; any recording."
+    },
+    "trivia": "Offenbach died four months before the premiere with the opera unfinished. He had recycled the famous barcarolle from an earlier opera that flopped, Die Rheinnixen (1864).",
+    "tags": [
+      "late-romantic",
+      "opera",
+      "duet",
+      "barcarolle",
+      "posthumous-premiere"
+    ],
+    "track": {
+      "query": "Offenbach Tales of Hoffmann Barcarolle Belle nuit",
+      "album": null,
+      "duration": "~3:30",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Tales_of_Hoffmann"
+    ],
+    "notes": "Dated to the opera (1877-80); Rheinnixen origin (1864) is in the trivia. The user may prefer to date to 1864. Offenbach total: 2."
+  },
+  {
+    "id": "cls-tchaikovsky-1812-overture",
+    "composer": "Pyotr Ilyich Tchaikovsky",
+    "composer_short": "Tchaikovsky",
+    "work": "The Year 1812, Solemn Overture, Op. 49 ('1812 Overture')",
+    "nickname": "1812 Overture",
+    "catalogue_only": false,
+    "form": "orchestral",
+    "accept_work": "Tchaikovsky's 1812 Overture",
+    "excerpt": "Finale with cannon fire",
+    "year": 1880,
+    "year_lo": 1880,
+    "year_hi": 1880,
+    "year_label": "1880",
+    "premiere_or_publication": "First performed in Moscow, 20 August 1882 (8 August Old Style), in a tent next to the unfinished Cathedral of Christ the Saviour",
+    "dating_note": "Begun 12 October 1880 and finished six weeks later (Wikipedia).",
+    "recording": {
+      "performers": "Any well-reviewed recording",
+      "conductor": null,
+      "label": null,
+      "year": null,
+      "why": "Choose a version with real or sampled cannon shots in the finale."
+    },
+    "trivia": "Written in about six weeks for an exhibition in Moscow, it commemorates Russia's defence against Napoleon's invasion in 1812 and calls for real cannon fire. Tchaikovsky himself had doubts about its worth.",
+    "tags": [
+      "late-romantic",
+      "orchestral",
+      "overture",
+      "cannons"
+    ],
+    "track": {
+      "query": "Tchaikovsky 1812 Overture finale cannons",
+      "album": null,
+      "duration": "~4:00",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/1812_Overture"
+    ],
+    "notes": "Check his own doubts stay a paraphrase (Wikipedia has the letter to von Meck)."
+  },
+  {
+    "id": "cls-borodin-string-quartet-2",
+    "composer": "Alexander Borodin",
+    "composer_short": "Borodin",
+    "work": "String Quartet No. 2 in D major",
+    "nickname": null,
+    "catalogue_only": true,
+    "form": "string-quartet",
+    "accept_work": "Borodin's String Quartet No. 2 in D major",
+    "excerpt": "III. Notturno",
+    "year": 1881,
+    "year_lo": 1881,
+    "year_hi": 1881,
+    "year_label": "1881",
+    "premiere_or_publication": "Dedicated to his wife, Ekaterina Protopova",
+    "dating_note": "Written quickly in 1881 at a friend's country estate (Wikipedia).",
+    "recording": {
+      "performers": "Any well-reviewed recording",
+      "conductor": null,
+      "label": null,
+      "year": null,
+      "why": "No single reference named; any good string quartet recording."
+    },
+    "trivia": "Borodin was a professional chemist who composed in his spare time. The 1953 Broadway musical Kismet borrowed from this quartet, using the second movement for 'Baubles, Bangles and Beads' and the Notturno for 'And This Is My Beloved'.",
+    "tags": [
+      "late-romantic",
+      "string-quartet",
+      "string-quartet",
+      "less-familiar",
+      "russian"
+    ],
+    "track": {
+      "query": "Borodin String Quartet No. 2 Notturno",
+      "album": null,
+      "duration": "~7:00",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/String_Quartet_No._2_(Borodin)"
+    ],
+    "notes": "Less-familiar pick. Kismet link to the second movement is on Wikipedia; the Notturno / 'And This Is My Beloved' link is from memory."
+  },
+  {
+    "id": "cls-delibes-lakme-flower-duet",
+    "composer": "Léo Delibes",
+    "composer_short": "Delibes",
+    "work": "Lakmé: 'Dôme épais le jasmin' (Flower Duet)",
+    "nickname": "Flower Duet",
+    "catalogue_only": false,
+    "form": "opera",
+    "accept_work": "Delibes's Flower Duet from Lakmé",
+    "excerpt": "The Flower Duet",
+    "year": 1882,
+    "year_lo": 1881,
+    "year_hi": 1882,
+    "year_label": "1881–1882",
+    "premiere_or_publication": "Lakmé premiered at the Opéra-Comique, Paris, 14 April 1883",
+    "dating_note": "The score was written from 1881 to 1882 (Wikipedia).",
+    "recording": {
+      "performers": "Any well-reviewed recording",
+      "conductor": null,
+      "label": null,
+      "year": null,
+      "why": "Any soprano and mezzo pair; the two voices should blend over gentle harp-like accompaniment."
+    },
+    "trivia": "Delibes was best known for ballets such as Coppélia before writing Lakmé, a love story set in British-ruled India. The Flower Duet later became familiar from British Airways adverts.",
+    "tags": [
+      "late-romantic",
+      "opera",
+      "duet",
+      "soprano-mezzo"
+    ],
+    "track": {
+      "query": "Delibes Lakme Flower Duet Dome epais le jasmin",
+      "album": null,
+      "duration": "~6:00",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Lakm%C3%A9",
+      "https://en.wikipedia.org/wiki/D%C3%B4me_%C3%A9pais_le_jasmin"
+    ],
+    "notes": "British Airways advert link is general knowledge; confirm on the duet page."
+  },
+  {
+    "id": "cls-brahms-symphony-3",
+    "composer": "Johannes Brahms",
+    "composer_short": "Brahms",
+    "work": "Symphony No. 3 in F major, Op. 90",
+    "nickname": null,
+    "catalogue_only": true,
+    "form": "symphony",
+    "accept_work": "Brahms's Symphony No. 3",
+    "excerpt": "III. Poco allegretto",
+    "year": 1883,
+    "year_lo": 1883,
+    "year_hi": 1883,
+    "year_label": "1883",
+    "premiere_or_publication": "Premiered in Vienna, 2 December 1883, conducted by Hans Richter",
+    "dating_note": "Composed in 1883, mainly at Wiesbaden (Wikipedia).",
+    "recording": {
+      "performers": "Any well-reviewed recording",
+      "conductor": null,
+      "label": null,
+      "year": null,
+      "why": "Any recording; the third movement's wistful cello tune is the best-known moment."
+    },
+    "trivia": "The symphony opens on three notes, F–A♭–F, widely read as a sign of Brahms's motto 'free but happy', and ends quietly, unusual for a symphony. The Poco allegretto has often been borrowed for film music.",
+    "tags": [
+      "late-romantic",
+      "symphony",
+      "symphony",
+      "brahms"
+    ],
+    "track": {
+      "query": "Brahms Symphony No. 3 Poco allegretto",
+      "album": null,
+      "duration": "~6:00",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Symphony_No._3_(Brahms)"
+    ],
+    "notes": "Brahms total across parts 5-6: 4 cards. Motto and film use from memory; confirm."
+  },
+  {
+    "id": "cls-bruckner-symphony-7",
+    "composer": "Anton Bruckner",
+    "composer_short": "Bruckner",
+    "work": "Symphony No. 7 in E major, WAB 107",
+    "nickname": null,
+    "catalogue_only": true,
+    "form": "symphony",
+    "accept_work": "Bruckner's Symphony No. 7",
+    "excerpt": "II. Adagio",
+    "year": 1883,
+    "year_lo": 1881,
+    "year_hi": 1883,
+    "year_label": "1881–1883",
+    "premiere_or_publication": "Premiered in Leipzig, 30 December 1884, conducted by Arthur Nikisch",
+    "dating_note": "Composed between 1881 and 1883 (Wikipedia).",
+    "recording": {
+      "performers": "Any well-reviewed recording",
+      "conductor": null,
+      "label": null,
+      "year": null,
+      "why": "Any recording; the Adagio features Wagner tubas."
+    },
+    "trivia": "The Adagio was written while Bruckner sensed that Wagner, his great idol, was near death, and its final section is a funeral music for him. The Leipzig premiere in 1884 gave Bruckner his first big international success.",
+    "tags": [
+      "late-romantic",
+      "symphony",
+      "symphony",
+      "wagner-tubas",
+      "less-familiar"
+    ],
+    "track": {
+      "query": "Bruckner Symphony No. 7 Adagio",
+      "album": null,
+      "duration": "~20:00",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Symphony_No._7_(Bruckner)"
+    ],
+    "notes": "Less-familiar pick."
+  },
+  {
+    "id": "cls-saint-saens-carnival-of-the-animals",
+    "composer": "Camille Saint-Saëns",
+    "composer_short": "Saint-Saëns",
+    "work": "Le carnaval des animaux (The Carnival of the Animals)",
+    "nickname": "The Carnival of the Animals",
+    "catalogue_only": false,
+    "form": "orchestral",
+    "accept_work": "Saint-Saëns's Carnival of the Animals (this card plays 'The Swan')",
+    "excerpt": "No. 13, 'Le cygne' (The Swan)",
+    "year": 1886,
+    "year_lo": 1886,
+    "year_hi": 1886,
+    "year_label": "1886",
+    "premiere_or_publication": "Published 1922, after his death; only 'The Swan' was released in his lifetime",
+    "dating_note": "Composed in February 1886 (Wikipedia).",
+    "recording": {
+      "performers": "Any well-reviewed recording",
+      "conductor": null,
+      "label": null,
+      "year": null,
+      "why": "Cello with two pianos or the full orchestral suite."
+    },
+    "trivia": "Saint-Saëns wrote it as a private joke for friends and kept it from the public during his lifetime, other than 'The Swan'. It has since become a standard work for introducing children to the orchestra.",
+    "tags": [
+      "late-romantic",
+      "orchestral",
+      "suite",
+      "children",
+      "humour"
+    ],
+    "track": {
+      "query": "Saint-Saens Carnival of the Animals The Swan",
+      "album": null,
+      "duration": "~3:00",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Carnival_of_the_Animals"
+    ],
+    "notes": "Withheld-from-publication detail is standard (Wikipedia)."
+  },
+  {
+    "id": "cls-saint-saens-symphony-3-organ",
+    "composer": "Camille Saint-Saëns",
+    "composer_short": "Saint-Saëns",
+    "work": "Symphony No. 3 in C minor, Op. 78 ('Organ Symphony')",
+    "nickname": "Organ Symphony",
+    "catalogue_only": false,
+    "form": "symphony",
+    "accept_work": "Saint-Saëns's Organ Symphony (No. 3)",
+    "excerpt": "Finale (organ entry)",
+    "year": 1886,
+    "year_lo": 1886,
+    "year_hi": 1886,
+    "year_label": "1886",
+    "premiere_or_publication": "Premiered in London, 19 May 1886",
+    "dating_note": "Composed for a May 1886 London premiere (Wikipedia).",
+    "recording": {
+      "performers": "Any well-reviewed recording",
+      "conductor": null,
+      "label": null,
+      "year": null,
+      "why": "Any recording with a good organ; the finale entry is the point."
+    },
+    "trivia": "It was commissioned by the Royal Philharmonic Society of London, and Saint-Saëns dedicated it to the memory of Franz Liszt, who died a few months after the premiere. The roaring organ entry in the finale was a startling sound for a symphony.",
+    "tags": [
+      "late-romantic",
+      "symphony",
+      "organ",
+      "symphony"
+    ],
+    "track": {
+      "query": "Saint-Saens Symphony No. 3 Organ Symphony finale",
+      "album": null,
+      "duration": "~7:00",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Symphony_No._3_(Saint-Sa%C3%ABns)"
+    ],
+    "notes": "Dedication and premiere from Wikipedia; the 'startling' remark is editorial."
+  },
+  {
+    "id": "cls-rimsky-korsakov-scheherazade",
+    "composer": "Nikolai Rimsky-Korsakov",
+    "composer_short": "Rimsky-Korsakov",
+    "work": "Scheherazade, Op. 35",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "orchestral",
+    "accept_work": "Rimsky-Korsakov's Scheherazade",
+    "excerpt": "I. The Sea and Sinbad's Ship (opening, violin theme)",
+    "year": 1888,
+    "year_lo": 1888,
+    "year_hi": 1888,
+    "year_label": "1888",
+    "premiere_or_publication": "Premiered in St Petersburg, 3 November 1888 (Old Style 22 October)",
+    "dating_note": "Composed in the summer of 1888 (Wikipedia).",
+    "recording": {
+      "performers": "Any well-reviewed recording",
+      "conductor": null,
+      "label": null,
+      "year": null,
+      "why": "Any recording where the solo violin voice of Scheherazade is clear."
+    },
+    "trivia": "The solo violin is the voice of the storyteller from the Arabian Nights, who stays alive by telling the sultan tales. Rimsky-Korsakov later dropped the story titles he had given the movements, saying he did not want listeners tied to a fixed story.",
+    "tags": [
+      "late-romantic",
+      "orchestral",
+      "programme-music",
+      "arabian-nights"
+    ],
+    "track": {
+      "query": "Rimsky-Korsakov Scheherazade The Sea and Sinbad's Ship",
+      "album": null,
+      "duration": "~10:00",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Scheherazade_(Rimsky-Korsakov)"
+    ],
+    "notes": "Premiere date (Nov 1888) from memory."
+  },
+  {
+    "id": "cls-satie-gymnopedie-1",
+    "composer": "Erik Satie",
+    "composer_short": "Satie",
+    "work": "Gymnopédie No. 1",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "solo-piano",
+    "accept_work": "Satie's Gymnopédie No. 1",
+    "excerpt": "The complete piece",
+    "year": 1888,
+    "year_lo": 1888,
+    "year_hi": 1888,
+    "year_label": "1888",
+    "premiere_or_publication": "Published in 1888",
+    "dating_note": "Composed in 1888 (Wikipedia).",
+    "recording": {
+      "performers": "Any well-reviewed recording",
+      "conductor": null,
+      "label": null,
+      "year": null,
+      "why": "Slow, undramatic piano performance."
+    },
+    "trivia": "Satie named the three Gymnopédies after an ancient Spartan festival. In 1897 Debussy orchestrated Nos. 1 and 3, which helped draw public attention to Satie.",
+    "tags": [
+      "late-romantic",
+      "solo-piano",
+      "piano",
+      "minimalism-before-minimalism"
+    ],
+    "track": {
+      "query": "Satie Gymnopedie No. 1",
+      "album": null,
+      "duration": "~3:30",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Gymnop%C3%A9dies"
+    ],
+    "notes": "Debussy orchestration (February 1897) per Wikipedia. Satie total: 1 so far (part 7 may add one)."
+  },
+  {
+    "id": "cls-mascagni-cavalleria-rusticana-intermezzo",
+    "composer": "Pietro Mascagni",
+    "composer_short": "Mascagni",
+    "work": "Cavalleria rusticana: Intermezzo",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "opera",
+    "accept_work": "Mascagni's Intermezzo from Cavalleria rusticana",
+    "excerpt": "Intermezzo",
+    "year": 1889,
+    "year_lo": 1888,
+    "year_hi": 1889,
+    "year_label": "1888–1889",
+    "premiere_or_publication": "Opera premiered at the Teatro Costanzi, Rome, 17 May 1890",
+    "dating_note": "Written in a rush for a competition announced in July 1888 (Wikipedia); the opera premiered in May 1890, and the composition is usually placed in 1889.",
+    "recording": {
+      "performers": "Any well-reviewed recording",
+      "conductor": null,
+      "label": null,
+      "year": null,
+      "why": "Strings and organ; any good orchestral recording."
+    },
+    "trivia": "Mascagni wrote the one-act opera for a competition for unpublished operas and won, becoming famous almost overnight. Its Intermezzo, a gentle break in a story of jealousy and revenge, opens Martin Scorsese's Raging Bull (1980).",
+    "tags": [
+      "late-romantic",
+      "opera",
+      "intermezzo",
+      "verismo",
+      "film-fame"
+    ],
+    "track": {
+      "query": "Mascagni Cavalleria rusticana Intermezzo",
+      "album": null,
+      "duration": "~4:00",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Cavalleria_rusticana"
+    ],
+    "notes": "Wikipedia gives the July 1888 competition and May 1890 premiere but no explicit composition year; 1889 is inferred. Raging Bull link confirmed."
+  },
+  {
+    "id": "cls-faure-requiem",
+    "composer": "Gabriel Fauré",
+    "composer_short": "Fauré",
+    "work": "Requiem in D minor, Op. 48",
+    "nickname": null,
+    "catalogue_only": true,
+    "form": "mass",
+    "accept_work": "Fauré's Requiem (this card plays the Pie Jesu)",
+    "excerpt": "Pie Jesu",
+    "year": 1890,
+    "year_lo": 1887,
+    "year_hi": 1900,
+    "year_label": "1887–1890 (orchestrated 1900)",
+    "premiere_or_publication": "First version performed 1888; second version 21 January 1893; full-orchestra version completed in 1900",
+    "dating_note": "Composed between 1887 and 1890 and expanded in the 1890s, with the full orchestral version finished in 1900 (Wikipedia).",
+    "recording": {
+      "performers": "Any well-reviewed recording",
+      "conductor": null,
+      "label": null,
+      "year": null,
+      "why": "Any recording; the Pie Jesu is sung by a treble or soprano."
+    },
+    "trivia": "Fauré said he wrote it for no special reason, 'for pleasure'. He left out the fiery Dies irae sequence of the traditional Requiem mass and stressed comfort and rest instead.",
+    "tags": [
+      "late-romantic",
+      "mass",
+      "requiem",
+      "choral",
+      "french"
+    ],
+    "track": {
+      "query": "Faure Requiem Pie Jesu",
+      "album": null,
+      "duration": "~3:30",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Requiem_(Faur%C3%A9)"
+    ],
+    "notes": "Version issue: range 1887-1900 covers all versions; card year 1890 is the original composition."
+  },
+  {
+    "id": "cls-albeniz-asturias-leyenda",
+    "composer": "Isaac Albéniz",
+    "composer_short": "Albéniz",
+    "work": "Asturias (Leyenda), from Suite española, Op. 47 (Prelude from Chants d'Espagne)",
+    "nickname": "Asturias (Leyenda)",
+    "catalogue_only": false,
+    "form": "solo-piano",
+    "accept_work": "Albéniz's Asturias (Leyenda), original piano or guitar arrangement",
+    "excerpt": "The opening",
+    "year": 1892,
+    "year_lo": 1890,
+    "year_hi": 1892,
+    "year_label": "c. 1890–1892",
+    "premiere_or_publication": "First published in Barcelona by Pujol in 1892 as the prelude of Chants d'Espagne; title 'Asturias' added posthumously in 1911",
+    "dating_note": "The only firm date is the 1892 first publication, so the range reaches back two years to allow for earlier writing.",
+    "recording": {
+      "performers": "Any well-reviewed recording",
+      "conductor": null,
+      "label": null,
+      "year": null,
+      "why": "Piano original or classical guitar arrangement; the repeated-note theme is the point."
+    },
+    "trivia": "Albéniz never gave the piece the title 'Asturias'; it was a publisher's addition after his death. Guitarists have taken it as a staple, though it was written for piano and the repeated notes imitate guitar strumming.",
+    "tags": [
+      "late-romantic",
+      "solo-piano",
+      "spanish",
+      "guitar-fame"
+    ],
+    "track": {
+      "query": "Albeniz Asturias Leyenda",
+      "album": null,
+      "duration": "~6:00",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Asturias_(Leyenda)"
+    ],
+    "notes": "Composition date undocumented; 1892 first publication per Wikipedia. Medium confidence."
+  },
+  {
+    "id": "cls-humperdinck-hansel-und-gretel",
+    "composer": "Engelbert Humperdinck",
+    "composer_short": "Humperdinck",
+    "work": "Hänsel und Gretel: Evening Prayer ('Abends, will ich schlafen gehn')",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "opera",
+    "accept_work": "Humperdinck's Hänsel und Gretel (Evening Prayer)",
+    "excerpt": "Evening Prayer duet",
+    "year": 1892,
+    "year_lo": 1891,
+    "year_hi": 1892,
+    "year_label": "1891–1892",
+    "premiere_or_publication": "Premiered in Weimar, 23 December 1893, conducted by Richard Strauss",
+    "dating_note": "Composed in Frankfurt in 1891 and 1892 (Wikipedia); the premiere followed in December 1893.",
+    "recording": {
+      "performers": "Any well-reviewed recording",
+      "conductor": null,
+      "label": null,
+      "year": null,
+      "why": "Any recording; two sopranos or soprano and mezzo."
+    },
+    "trivia": "His sister Adelheid Wette wrote a puppet play for her children and asked him for songs, and the project grew into a full opera. Richard Strauss conducted the 1893 premiere.",
+    "tags": [
+      "late-romantic",
+      "opera",
+      "fairy-tale-opera",
+      "duet",
+      "less-familiar"
+    ],
+    "track": {
+      "query": "Humperdinck Hansel und Gretel Evening Prayer Abendsegen",
+      "album": null,
+      "duration": "~4:00",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/H%C3%A4nsel_und_Gretel_(opera)"
+    ],
+    "notes": "Less-familiar pick. Composition 1891-92 and sister/libretto verified on Wikipedia."
+  },
+  {
+    "id": "cls-leoncavallo-pagliacci-vesti-la-giubba",
+    "composer": "Ruggero Leoncavallo",
+    "composer_short": "Leoncavallo",
+    "work": "Pagliacci: 'Vesti la giubba'",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "opera",
+    "accept_work": "Leoncavallo's Pagliacci ('Vesti la giubba')",
+    "excerpt": "'Vesti la giubba'",
+    "year": 1892,
+    "year_lo": 1890,
+    "year_hi": 1892,
+    "year_label": "1890–1892",
+    "premiere_or_publication": "Premiered at the Teatro Dal Verme, Milan, 21 May 1892, conducted by Arturo Toscanini",
+    "dating_note": "Composed in the early 1890s after Mascagni's success; premiered 1892 (Wikipedia).",
+    "recording": {
+      "performers": "Any well-reviewed recording",
+      "conductor": null,
+      "label": null,
+      "year": null,
+      "why": "Any dramatic tenor."
+    },
+    "trivia": "Leoncavallo wrote his own libretto, claiming it came from a real murder case in his boyhood. 'Vesti la giubba' ('Put on the costume') is the clown's heartbreak aria.",
+    "tags": [
+      "late-romantic",
+      "opera",
+      "aria",
+      "tenor",
+      "verismo"
+    ],
+    "track": {
+      "query": "Leoncavallo Pagliacci Vesti la giubba",
+      "album": null,
+      "duration": "~3:30",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Pagliacci"
+    ],
+    "notes": "Composition span (1890-92) from general sources; Wikipedia confirms premiere and Toscanini."
+  },
+  {
+    "id": "cls-rachmaninoff-prelude-in-c-sharp-minor",
+    "composer": "Sergei Rachmaninoff",
+    "composer_short": "Rachmaninoff",
+    "work": "Prelude in C-sharp minor, Op. 3 No. 2",
+    "nickname": "The Bells of Moscow",
+    "catalogue_only": false,
+    "form": "solo-piano",
+    "accept_work": "Rachmaninoff's Prelude in C-sharp minor, Op. 3 No. 2",
+    "excerpt": "The whole prelude",
+    "year": 1892,
+    "year_lo": 1892,
+    "year_hi": 1892,
+    "year_label": "1892",
+    "premiere_or_publication": "Published in 1893 as one of the Morceaux de fantaisie, Op. 3",
+    "dating_note": "Composed in 1892 when Rachmaninoff was 19.",
+    "recording": {
+      "performers": "Any well-reviewed recording",
+      "conductor": null,
+      "label": null,
+      "year": null,
+      "why": "Any strong pianist; the opening three-note tolling motif is key."
+    },
+    "trivia": "Rachmaninoff wrote it at 19 and played it first on 26 September 1892. Russian publishers paid no royalties then, so his only income from it was a one-off fee of 40 rubles, a fact often retold because the piece became his signature.",
+    "tags": [
+      "late-romantic",
+      "solo-piano",
+      "prelude",
+      "piano"
+    ],
+    "track": {
+      "query": "Rachmaninoff Prelude in C sharp minor Op. 3 No. 2",
+      "album": null,
+      "duration": "~4:00",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Prelude_in_C-sharp_minor_(Rachmaninoff)"
+    ],
+    "notes": "All claims verified on the Wikipedia page (premiere 26 Sep 1892, 40-ruble fee, Bells of Moscow nickname)."
+  },
+  {
+    "id": "cls-tchaikovsky-the-nutcracker",
+    "composer": "Pyotr Ilyich Tchaikovsky",
+    "composer_short": "Tchaikovsky",
+    "work": "The Nutcracker, Op. 71",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "ballet",
+    "accept_work": "Tchaikovsky's The Nutcracker",
+    "excerpt": "Dance of the Sugar Plum Fairy (celesta)",
+    "year": 1892,
+    "year_lo": 1891,
+    "year_hi": 1892,
+    "year_label": "1891–1892",
+    "premiere_or_publication": "Premiered at the Mariinsky Theatre, St Petersburg, 18 December 1892",
+    "dating_note": "Composed after The Sleeping Beauty (1890), with the double-bill commission and score finished in time for the December 1892 premiere.",
+    "recording": {
+      "performers": "Any well-reviewed recording",
+      "conductor": null,
+      "label": null,
+      "year": null,
+      "why": "Any recording of the Sugar Plum Fairy music; the celesta should be clear."
+    },
+    "trivia": "The Sugar Plum Fairy's shimmering sound comes from the celesta, a keyboard instrument with metal bars that Tchaikovsky had found in Paris. The ballet was only moderately received in 1892, and its Christmas tradition grew much later.",
+    "tags": [
+      "late-romantic",
+      "ballet",
+      "ballet",
+      "celesta",
+      "christmas"
+    ],
+    "track": {
+      "query": "Tchaikovsky Nutcracker Dance of the Sugar Plum Fairy",
+      "album": null,
+      "duration": "~2:00",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Nutcracker"
+    ],
+    "notes": "Dates of composition (1891-92) are inferred from commission/premiere; Wikipedia does not give a precise span. 'Christmas tradition grew later' is general knowledge."
+  },
+  {
+    "id": "cls-dvorak-symphony-9-new-world",
+    "composer": "Antonín Dvořák",
+    "composer_short": "Dvořák",
+    "work": "Symphony No. 9 in E minor, Op. 95 ('From the New World')",
+    "nickname": "New World Symphony",
+    "catalogue_only": false,
+    "form": "symphony",
+    "accept_work": "Dvořák's Symphony No. 9 'From the New World'",
+    "excerpt": "II. Largo (cor anglais theme)",
+    "year": 1893,
+    "year_lo": 1893,
+    "year_hi": 1893,
+    "year_label": "1893",
+    "premiere_or_publication": "Premiered at Carnegie Hall, New York, 16 December 1893, conducted by Anton Seidl",
+    "dating_note": "Composed in New York in 1893 while he was director of the National Conservatory (Wikipedia).",
+    "recording": {
+      "performers": "Any well-reviewed recording",
+      "conductor": null,
+      "label": null,
+      "year": null,
+      "why": "Any recording; the cor anglais solo in the Largo is the key moment."
+    },
+    "trivia": "Dvořák wrote it in New York, drawing on the spirit of the folk music he heard there. A pupil later set words to the slow movement's melody, creating the song 'Goin' Home' in 1922.",
+    "tags": [
+      "late-romantic",
+      "symphony",
+      "symphony",
+      "america"
+    ],
+    "track": {
+      "query": "Dvorak Symphony No. 9 New World Largo",
+      "album": null,
+      "duration": "~13:00",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Symphony_No._9_(Dvo%C5%99%C3%A1k)"
+    ],
+    "notes": "Premiere detail and 'Goin' Home' (William Arms Fisher, 1922) from Wikipedia."
+  },
+  {
+    "id": "cls-massenet-thais-meditation",
+    "composer": "Jules Massenet",
+    "composer_short": "Massenet",
+    "work": "Thaïs: Méditation",
+    "nickname": "Méditation",
+    "catalogue_only": false,
+    "form": "opera",
+    "accept_work": "Massenet's Méditation from Thaïs",
+    "excerpt": "The violin solo",
+    "year": 1893,
+    "year_lo": 1892,
+    "year_hi": 1894,
+    "year_label": "1892–1894",
+    "premiere_or_publication": "Thaïs premiered at the Paris Opéra, 16 March 1894",
+    "dating_note": "Massenet composed Thaïs in the early 1890s for a March 1894 premiere; the Méditation is an orchestral entr'acte between scenes of Act 2.",
+    "recording": {
+      "performers": "Any well-reviewed recording",
+      "conductor": null,
+      "label": null,
+      "year": null,
+      "why": "Violin and orchestra (or harp) - any famous violinist."
+    },
+    "trivia": "This solo-violin intermezzo comes between the two scenes of Act 2, where the courtesan Thaïs has to decide whether to give up her life for a monk's religion. It became a violin encore in its own right.",
+    "tags": [
+      "late-romantic",
+      "opera",
+      "violin",
+      "intermezzo"
+    ],
+    "track": {
+      "query": "Massenet Thais Meditation violin",
+      "album": null,
+      "duration": "~5:00",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Tha%C3%AFs_(opera)",
+      "https://en.wikipedia.org/wiki/M%C3%A9ditation_(Tha%C3%AFs)"
+    ],
+    "notes": "Premiere date (16 March 1894) verified; composition span is inferred, hence medium confidence."
+  },
+  {
+    "id": "cls-debussy-prelude-a-lapres-midi-dun-faune",
+    "composer": "Claude Debussy",
+    "composer_short": "Debussy",
+    "work": "Prélude à l'après-midi d'un faune, L. 86",
+    "nickname": "Afternoon of a Faun",
+    "catalogue_only": false,
+    "form": "orchestral",
+    "accept_work": "Debussy's Prélude à l'après-midi d'un faune",
+    "excerpt": "Opening flute solo",
+    "year": 1894,
+    "year_lo": 1892,
+    "year_hi": 1894,
+    "year_label": "1892–1894",
+    "premiere_or_publication": "Premiered in Paris, 22 December 1894",
+    "dating_note": "Composed 1892–94 (Wikipedia).",
+    "recording": {
+      "performers": "Any well-reviewed recording",
+      "conductor": null,
+      "label": null,
+      "year": null,
+      "why": "Any recording; the solo flute opening is the point."
+    },
+    "trivia": "It was inspired by Stéphane Mallarmé's poem about a faun waking in the afternoon heat, and Pierre Boulez later said modern music began with its flute solo. Nijinsky's 1912 ballet to the music caused a scandal.",
+    "tags": [
+      "late-romantic",
+      "orchestral",
+      "tone-poem",
+      "impressionism",
+      "flute"
+    ],
+    "track": {
+      "query": "Debussy Prelude a l'apres-midi d'un faune",
+      "album": null,
+      "duration": "~10:00",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Pr%C3%A9lude_%C3%A0_l'apr%C3%A8s-midi_d'un_faune",
+      "https://bso.org/works/prelude-to-the-afternoon-of-a-faun"
+    ],
+    "notes": "Wikipedia says composed 1894; BSO notes and Henle preface give a 1892 start (hence the range). Boulez remark and Nijinsky from Wikipedia."
+  },
+  {
+    "id": "cls-puccini-la-boheme",
+    "composer": "Giacomo Puccini",
+    "composer_short": "Puccini",
+    "work": "La bohème: 'Che gelida manina'",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "opera",
+    "accept_work": "Puccini's La bohème ('Che gelida manina')",
+    "excerpt": "'Che gelida manina'",
+    "year": 1895,
+    "year_lo": 1893,
+    "year_hi": 1895,
+    "year_label": "1893–1895",
+    "premiere_or_publication": "Premiered at the Teatro Regio, Turin, 1 February 1896, conducted by Arturo Toscanini",
+    "dating_note": "Composed 1893–95 (Wikipedia).",
+    "recording": {
+      "performers": "Luciano Pavarotti; Mirella Freni; Berlin Philharmonic",
+      "conductor": "Herbert von Karajan",
+      "label": "Decca",
+      "year": 1972,
+      "why": "Classic studio set from memory"
+    },
+    "trivia": "Puccini's friend and rival Ruggero Leoncavallo was writing his own La bohème at the same time, and the two composers argued publicly over the subject. Puccini's version premiered first.",
+    "tags": [
+      "late-romantic",
+      "opera",
+      "aria",
+      "tenor",
+      "verismo"
+    ],
+    "track": {
+      "query": "Puccini La boheme Che gelida manina Pavarotti Karajan",
+      "album": null,
+      "duration": "~4:30",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/La_boh%C3%A8me"
+    ],
+    "notes": "Recording year/cast from memory. Puccini total across parts 6-7: 4 (with Turandot)."
+  },
+  {
+    "id": "cls-beach-symphony-in-e-minor-gaelic",
+    "composer": "Amy Beach",
+    "composer_short": "Beach",
+    "work": "Symphony in E minor, Op. 32 ('Gaelic')",
+    "nickname": "Gaelic Symphony",
+    "catalogue_only": false,
+    "form": "symphony",
+    "accept_work": "Amy Beach's Gaelic Symphony",
+    "excerpt": "I. Allegro con fuoco",
+    "year": 1896,
+    "year_lo": 1894,
+    "year_hi": 1896,
+    "year_label": "1894–1896",
+    "premiere_or_publication": "Premiered by the Boston Symphony Orchestra, 30 October 1896",
+    "dating_note": "Begun in November 1894 and premiered in October 1896 (Wikipedia).",
+    "recording": {
+      "performers": "Any well-reviewed recording",
+      "conductor": null,
+      "label": null,
+      "year": null,
+      "why": "No single reference named; any orchestral recording."
+    },
+    "trivia": "It was the first symphony composed and published by an American woman. Beach drew on Irish folk melodies and was influenced by Dvořák's publicised views on American music.",
+    "tags": [
+      "late-romantic",
+      "symphony",
+      "women-composers",
+      "symphony",
+      "american",
+      "less-familiar"
+    ],
+    "track": {
+      "query": "Amy Beach Gaelic Symphony Allegro con fuoco",
+      "album": null,
+      "duration": "~10:00",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Gaelic_Symphony"
+    ],
+    "notes": "Less-familiar pick. Wikipedia: begun November 1894, premiere 30 Oct 1896."
+  },
+  {
+    "id": "cls-richard-strauss-also-sprach-zarathustra",
+    "composer": "Richard Strauss",
+    "composer_short": "Richard Strauss",
+    "work": "Also sprach Zarathustra, Op. 30",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "orchestral",
+    "accept_work": "Richard Strauss's Also sprach Zarathustra",
+    "excerpt": "Opening 'Sunrise' fanfare",
+    "year": 1896,
+    "year_lo": 1896,
+    "year_hi": 1896,
+    "year_label": "1896",
+    "premiere_or_publication": "Premiered in Frankfurt, 27 November 1896, conducted by Strauss",
+    "dating_note": "Composed in 1896 (Wikipedia).",
+    "recording": {
+      "performers": "Vienna Philharmonic",
+      "conductor": "Herbert von Karajan",
+      "label": "Decca",
+      "year": 1959,
+      "why": "The recording used in the film 2001: A Space Odyssey (per Wikipedia)"
+    },
+    "trivia": "It was inspired by Nietzsche's book of the same name, and its opening sunrise fanfare became world-famous when Stanley Kubrick used it in 2001: A Space Odyssey (1968).",
+    "tags": [
+      "late-romantic",
+      "orchestral",
+      "tone-poem",
+      "film-fame",
+      "nietzsche"
+    ],
+    "track": {
+      "query": "Richard Strauss Also sprach Zarathustra Sunrise",
+      "album": null,
+      "duration": "~2:00",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Also_sprach_Zarathustra_(Strauss)"
+    ],
+    "notes": "Richard Strauss and Johann Strauss are different families; composer_short uses full name for R. Strauss."
+  },
+  {
+    "id": "cls-sousa-the-stars-and-stripes-forever",
+    "composer": "John Philip Sousa",
+    "composer_short": "Sousa",
+    "work": "The Stars and Stripes Forever",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "orchestral",
+    "accept_work": "Sousa's The Stars and Stripes Forever",
+    "excerpt": "Main march and piccolo obbligato",
+    "year": 1896,
+    "year_lo": 1896,
+    "year_hi": 1896,
+    "year_label": "1896",
+    "premiere_or_publication": "First performed in May 1897 in Philadelphia",
+    "dating_note": "Sousa wrote that he composed it on Christmas Day 1896 (Wikipedia).",
+    "recording": {
+      "performers": "Any well-reviewed recording",
+      "conductor": null,
+      "label": null,
+      "year": null,
+      "why": "Any concert band recording with the piccolo solo."
+    },
+    "trivia": "Sousa said he composed it in his head on a ship home from Europe, and wrote it down on Christmas Day 1896. An act of Congress made it the official National March of the United States in 1987.",
+    "tags": [
+      "late-romantic",
+      "orchestral",
+      "march",
+      "american"
+    ],
+    "track": {
+      "query": "Sousa The Stars and Stripes Forever",
+      "album": null,
+      "duration": "~3:30",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Stars_and_Stripes_Forever"
+    ],
+    "notes": "Crossover (band/march) pick; first-performance date from memory."
+  },
+  {
+    "id": "cls-dukas-the-sorcerers-apprentice",
+    "composer": "Paul Dukas",
+    "composer_short": "Dukas",
+    "work": "L'apprenti sorcier (The Sorcerer's Apprentice)",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "orchestral",
+    "accept_work": "Dukas's The Sorcerer's Apprentice",
+    "excerpt": "Main theme (bassoon and brass)",
+    "year": 1897,
+    "year_lo": 1897,
+    "year_hi": 1897,
+    "year_label": "1897",
+    "premiere_or_publication": "Premiered in Paris, 18 May 1897, conducted by the composer",
+    "dating_note": "Composed in 1897 (Wikipedia).",
+    "recording": {
+      "performers": "Any well-reviewed recording",
+      "conductor": null,
+      "label": null,
+      "year": null,
+      "why": "Any lively orchestral recording."
+    },
+    "trivia": "It is based on Goethe's ballad of an apprentice who enchants a broom to fetch water and cannot stop it. Disney's Fantasia (1940) made it famous again with Mickey Mouse as the apprentice.",
+    "tags": [
+      "late-romantic",
+      "orchestral",
+      "scherzo",
+      "fantasia",
+      "goethe"
+    ],
+    "track": {
+      "query": "Dukas The Sorcerer's Apprentice",
+      "album": null,
+      "duration": "~11:00",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Sorcerer's_Apprentice_(Dukas)"
+    ],
+    "notes": "Fantasia link from general knowledge."
+  },
+  {
+    "id": "cls-elgar-enigma-variations",
+    "composer": "Edward Elgar",
+    "composer_short": "Elgar",
+    "work": "Variations on an Original Theme ('Enigma'), Op. 36",
+    "nickname": "Enigma Variations",
+    "catalogue_only": false,
+    "form": "orchestral",
+    "accept_work": "Elgar's Enigma Variations (this card plays 'Nimrod')",
+    "excerpt": "Variation IX, 'Nimrod'",
+    "year": 1899,
+    "year_lo": 1898,
+    "year_hi": 1899,
+    "year_label": "1898–1899",
+    "premiere_or_publication": "Premiered in London, 19 June 1899, conducted by Hans Richter",
+    "dating_note": "Sketched in autumn 1898 and orchestrated by February 1899 (Wikipedia).",
+    "recording": {
+      "performers": "Any well-reviewed recording",
+      "conductor": null,
+      "label": null,
+      "year": null,
+      "why": "Any strong English orchestral recording."
+    },
+    "trivia": "Each variation is a musical portrait of one of Elgar's friends. 'Nimrod' portrays his publisher August Jaeger, whose surname means 'hunter' in German, hence the biblical hunter Nimrod. Elgar also hinted at a hidden theme that fits the main tune and never revealed it.",
+    "tags": [
+      "late-romantic",
+      "orchestral",
+      "variations",
+      "portraits"
+    ],
+    "track": {
+      "query": "Elgar Enigma Variations Nimrod",
+      "album": null,
+      "duration": "~4:00",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Enigma_Variations"
+    ],
+    "notes": "Jaeger/Novello link from general knowledge; confirm."
+  },
+  {
+    "id": "cls-joplin-maple-leaf-rag",
+    "composer": "Scott Joplin",
+    "composer_short": "Joplin",
+    "work": "Maple Leaf Rag",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "solo-piano",
+    "accept_work": "Scott Joplin's Maple Leaf Rag",
+    "excerpt": "The whole rag",
+    "year": 1899,
+    "year_lo": 1898,
+    "year_hi": 1899,
+    "year_label": "c. 1898–1899",
+    "premiere_or_publication": "Copyright registered 18 September 1899 by John Stark & Son",
+    "dating_note": "Probably composed around 1898 and known in Sedalia before its 1899 publication (Wikipedia).",
+    "recording": {
+      "performers": "Joshua Rifkin (piano)",
+      "conductor": null,
+      "label": "Nonesuch",
+      "year": 1970,
+      "why": "The album that started the ragtime revival of the 1970s"
+    },
+    "trivia": "It may be named after the Maple Leaf Club in Sedalia, Missouri, a venue where Joplin played, though no evidence ties the name to it. It became the model for countless later rags.",
+    "tags": [
+      "late-romantic",
+      "solo-piano",
+      "ragtime",
+      "american"
+    ],
+    "track": {
+      "query": "Scott Joplin Maple Leaf Rag Rifkin",
+      "album": null,
+      "duration": "~3:00",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Maple_Leaf_Rag"
+    ],
+    "notes": "Composition date uncertain (1898-99); Rifkin 1970 from memory; Club-name link is only a possibility on Wikipedia. Is Joplin 'classical'? Included as crossover; user may move to a ragtime/other set."
+  },
+  {
+    "id": "cls-puccini-tosca",
+    "composer": "Giacomo Puccini",
+    "composer_short": "Puccini",
+    "work": "Tosca: 'Vissi d'arte'",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "opera",
+    "accept_work": "Puccini's Tosca ('Vissi d'arte')",
+    "excerpt": "'Vissi d'arte'",
+    "year": 1899,
+    "year_lo": 1896,
+    "year_hi": 1899,
+    "year_label": "1896–1899",
+    "premiere_or_publication": "Premiered at the Teatro Costanzi, Rome, 14 January 1900",
+    "dating_note": "Puccini began work in the late 1890s and finished by autumn 1899 (Wikipedia).",
+    "recording": {
+      "performers": "Maria Callas; Giuseppe Di Stefano; Tito Gobbi",
+      "conductor": "Victor de Sabata",
+      "label": "EMI",
+      "year": 1953,
+      "why": "Celebrated studio set"
+    },
+    "trivia": "Tosca is set in Rome on specific days in June 1800, so the story takes in real historical events. Callas's recording with Gobbi as Scarpia is a landmark of the gramophone era.",
+    "tags": [
+      "late-romantic",
+      "opera",
+      "aria",
+      "soprano",
+      "verismo"
+    ],
+    "track": {
+      "query": "Puccini Tosca Vissi d'arte Callas De Sabata",
+      "album": null,
+      "duration": "~3:00",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Tosca"
+    ],
+    "notes": "Composition span begins 1896 per general sources; confirm on page. Recording from memory."
+  },
+  {
+    "id": "cls-ravel-pavane-pour-une-infante-defunte",
+    "composer": "Maurice Ravel",
+    "composer_short": "Ravel",
+    "work": "Pavane pour une infante défunte",
+    "nickname": "Pavane for a Dead Princess",
+    "catalogue_only": false,
+    "form": "solo-piano",
+    "accept_work": "Ravel's Pavane pour une infante défunte (piano or orchestral)",
+    "excerpt": "The opening melody",
+    "year": 1899,
+    "year_lo": 1899,
+    "year_hi": 1899,
+    "year_label": "1899",
+    "premiere_or_publication": "Piano version 1899; orchestrated in 1910",
+    "dating_note": "Written for piano in 1899 and orchestrated in 1910; the work is dated 1899.",
+    "recording": {
+      "performers": "Any well-reviewed recording",
+      "conductor": null,
+      "label": null,
+      "year": null,
+      "why": "Piano original or Ravel's own orchestration are both fine."
+    },
+    "trivia": "Ravel said the title was chosen for how it sounded rather than for any particular dead princess. He later criticised the piece for its debt to Chabrier and for weak form.",
+    "tags": [
+      "late-romantic",
+      "solo-piano",
+      "pavane",
+      "piano",
+      "orchestrated"
+    ],
+    "track": {
+      "query": "Ravel Pavane pour une infante defunte",
+      "album": null,
+      "duration": "~6:00",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Pavane_pour_une_infante_d%C3%A9funte"
+    ],
+    "notes": "Excerpt works in piano or orchestral form."
+  },
+  {
+    "id": "cls-schoenberg-verklarte-nacht",
+    "composer": "Arnold Schoenberg",
+    "composer_short": "Schoenberg",
+    "work": "Verklärte Nacht, Op. 4 (string sextet)",
+    "nickname": "Transfigured Night",
+    "catalogue_only": false,
+    "form": "chamber",
+    "accept_work": "Schoenberg's Verklärte Nacht (sextet or string orchestra)",
+    "excerpt": "Opening",
+    "year": 1899,
+    "year_lo": 1899,
+    "year_hi": 1899,
+    "year_label": "1899",
+    "premiere_or_publication": "Sextet premiered in Vienna, 18 March 1902; string orchestra version 1917 (revised 1943)",
+    "dating_note": "Composed in three weeks in September 1899 (Wikipedia).",
+    "recording": {
+      "performers": "Any well-reviewed recording",
+      "conductor": null,
+      "label": null,
+      "year": null,
+      "why": "String sextet original or string orchestra version are both fine."
+    },
+    "trivia": "It is based on a poem by Richard Dehmel about a woman who tells her lover she is carrying another man's child. It was written when Schoenberg was still a late-Romantic composer, long before his twelve-tone music.",
+    "tags": [
+      "late-romantic",
+      "chamber",
+      "programme-music",
+      "late-romantic",
+      "less-familiar"
+    ],
+    "track": {
+      "query": "Schoenberg Verklarte Nacht",
+      "album": null,
+      "duration": "~30:00",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Verkl%C3%A4rte_Nacht"
+    ],
+    "notes": "Excerpt a short opening section; Wikipedia gives exact composition dates."
+  },
+  {
+    "id": "cls-sibelius-finlandia",
+    "composer": "Jean Sibelius",
+    "composer_short": "Sibelius",
+    "work": "Finlandia, Op. 26",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "orchestral",
+    "accept_work": "Sibelius's Finlandia",
+    "excerpt": "The hymn theme",
+    "year": 1899,
+    "year_lo": 1899,
+    "year_hi": 1900,
+    "year_label": "1899 (revised 1900)",
+    "premiere_or_publication": "Premiered in Helsinki, 2 July 1900, in the revised version",
+    "dating_note": "Written in 1899 for a press pageant and revised in 1900 as a stand-alone piece (Wikipedia).",
+    "recording": {
+      "performers": "Any well-reviewed recording",
+      "conductor": null,
+      "label": null,
+      "year": null,
+      "why": "Any recording; the hymn section is a calm chorale for the orchestra."
+    },
+    "trivia": "It began as the last tableau of a pageant staged in Helsinki to protest Russian press censorship. The stand-alone tone poem became a symbol of Finnish national identity.",
+    "tags": [
+      "late-romantic",
+      "orchestral",
+      "tone-poem",
+      "nationalism"
+    ],
+    "track": {
+      "query": "Sibelius Finlandia Op. 26",
+      "album": null,
+      "duration": "~8:00",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Finlandia"
+    ],
+    "notes": "Stage-pageant origin from Wikipedia."
+  },
+  {
+    "id": "cls-tarrega-recuerdos-de-la-alhambra",
+    "composer": "Francisco Tárrega",
+    "composer_short": "Tárrega",
+    "work": "Recuerdos de la Alhambra",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "other",
+    "accept_work": "Tárrega's Recuerdos de la Alhambra (classical guitar)",
+    "excerpt": "The tremolo opening",
+    "year": 1899,
+    "year_lo": 1896,
+    "year_hi": 1899,
+    "year_label": "1896–1899",
+    "premiere_or_publication": "Written for solo guitar and dedicated to his patron Concepción Gómez de Jacoby",
+    "dating_note": "Wikipedia gives 1899; many guitar sources give 1896, so the range covers both.",
+    "recording": {
+      "performers": "Any well-reviewed recording",
+      "conductor": null,
+      "label": null,
+      "year": null,
+      "why": "Classical guitar; the continuous tremolo is the point."
+    },
+    "trivia": "Tárrega wrote it for his patron, Concepción Gómez de Jacoby, to commemorate a visit to the Alhambra in Granada. The piece rests on a tremolo, with one melody note plucked repeatedly by three fingers in turn, so that a single guitar sounds like a mandolin.",
+    "tags": [
+      "late-romantic",
+      "other",
+      "guitar",
+      "spanish"
+    ],
+    "track": {
+      "query": "Tarrega Recuerdos de la Alhambra",
+      "album": null,
+      "duration": "~4:30",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Recuerdos_de_la_Alhambra"
+    ],
+    "notes": "DATE CONFLICT: Wikipedia says 1899, many guitar sources say 1896; medium confidence."
+  },
+  {
+    "id": "cls-dvorak-rusalka-song-to-the-moon",
+    "composer": "Antonín Dvořák",
+    "composer_short": "Dvořák",
+    "work": "Rusalka: 'Song to the Moon' (Měsíčku na nebi hlubokém)",
+    "nickname": "Song to the Moon",
+    "catalogue_only": false,
+    "form": "opera",
+    "accept_work": "Dvořák's 'Song to the Moon' from Rusalka",
+    "excerpt": "The complete aria",
+    "year": 1900,
+    "year_lo": 1900,
+    "year_hi": 1900,
+    "year_label": "1900",
+    "premiere_or_publication": "Rusalka premiered in Prague, 31 March 1901",
+    "dating_note": "The opera was composed in 1900 (Wikipedia).",
+    "recording": {
+      "performers": "Any well-reviewed recording",
+      "conductor": null,
+      "label": null,
+      "year": null,
+      "why": "Any lyric soprano; sung in Czech."
+    },
+    "trivia": "The water-sprite Rusalka sings it to the moon, asking it to tell the human prince she loves of her longing. It is the best-known aria in Czech opera, and the story draws on the same fairy-tale tradition as Andersen's Little Mermaid.",
+    "tags": [
+      "late-romantic",
+      "opera",
+      "aria",
+      "czech",
+      "soprano"
+    ],
+    "track": {
+      "query": "Dvorak Rusalka Song to the Moon Mesicku na nebi hlubokem",
+      "album": null,
+      "duration": "~5:00",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Rusalka_(opera)",
+      "https://en.wikipedia.org/wiki/Song_to_the_Moon"
+    ],
+    "notes": "Premiere date from memory (31 March 1901)."
+  },
+  {
+    "id": "cls-rimsky-korsakov-flight-of-the-bumblebee",
+    "composer": "Nikolai Rimsky-Korsakov",
+    "composer_short": "Rimsky-Korsakov",
+    "work": "The Tale of Tsar Saltan: Flight of the Bumblebee",
+    "nickname": "Flight of the Bumblebee",
+    "catalogue_only": false,
+    "form": "orchestral",
+    "accept_work": "Rimsky-Korsakov's Flight of the Bumblebee",
+    "excerpt": "The whole interlude",
+    "year": 1900,
+    "year_lo": 1899,
+    "year_hi": 1900,
+    "year_label": "1899–1900",
+    "premiere_or_publication": "Opera premiered in Moscow, 3 November 1900 (Old Style 21 October)",
+    "dating_note": "The opera was composed 1899–1900; the interlude comes between scenes of the opera.",
+    "recording": {
+      "performers": "Any well-reviewed recording",
+      "conductor": null,
+      "label": null,
+      "year": null,
+      "why": "Any fast orchestral or solo-instrument version."
+    },
+    "trivia": "In the opera, an orchestral interlude shows a prince turned into a bumblebee by a swan-princess so he can fly to the court and sting his scheming aunts. Away from the opera, it has become a standard speed test for instrumentalists.",
+    "tags": [
+      "late-romantic",
+      "orchestral",
+      "virtuoso",
+      "interlude"
+    ],
+    "track": {
+      "query": "Rimsky-Korsakov Flight of the Bumblebee Tsar Saltan",
+      "album": null,
+      "duration": "~1:30",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Flight_of_the_Bumblebee"
+    ],
+    "notes": "Exact composition date within 1899-1900 from secondary sources; confirm premiere date."
+  },
+  {
+    "id": "cls-elgar-pomp-and-circumstance-march-1",
+    "composer": "Edward Elgar",
+    "composer_short": "Elgar",
+    "work": "Pomp and Circumstance March No. 1 in D major, Op. 39",
+    "nickname": "Land of Hope and Glory",
+    "catalogue_only": false,
+    "form": "orchestral",
+    "accept_work": "Elgar's Pomp and Circumstance March No. 1 ('Land of Hope and Glory')",
+    "excerpt": "Trio theme (Land of Hope and Glory)",
+    "year": 1901,
+    "year_lo": 1901,
+    "year_hi": 1901,
+    "year_label": "1901",
+    "premiere_or_publication": "Premiered in Liverpool, 19 October 1901",
+    "dating_note": "Composed in 1901 (Wikipedia).",
+    "recording": {
+      "performers": "Any well-reviewed recording",
+      "conductor": null,
+      "label": null,
+      "year": null,
+      "why": "Orchestral march; the big trio tune is the point."
+    },
+    "trivia": "The central tune later became 'Land of Hope and Glory' when words were added for the 1902 coronation ode for Edward VII. The march is also a staple of American graduation ceremonies.",
+    "tags": [
+      "late-romantic",
+      "orchestral",
+      "march",
+      "patriotic",
+      "graduation"
+    ],
+    "track": {
+      "query": "Elgar Pomp and Circumstance March No. 1",
+      "album": null,
+      "duration": "~5:00",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Pomp_and_Circumstance_Marches"
+    ],
+    "notes": "Elgar total: 2 cards."
+  },
+  {
+    "id": "cls-rachmaninoff-piano-concerto-2",
+    "composer": "Sergei Rachmaninoff",
+    "composer_short": "Rachmaninoff",
+    "work": "Piano Concerto No. 2 in C minor, Op. 18",
+    "nickname": null,
+    "catalogue_only": true,
+    "form": "concerto",
+    "accept_work": "Rachmaninoff's Piano Concerto No. 2",
+    "excerpt": "I. Moderato (opening chords)",
+    "year": 1901,
+    "year_lo": 1900,
+    "year_hi": 1901,
+    "year_label": "1900–1901",
+    "premiere_or_publication": "Complete work premiered in Moscow, 27 October 1901, with the composer as soloist",
+    "dating_note": "Composed 1900–01 (Wikipedia).",
+    "recording": {
+      "performers": "Sergei Rachmaninoff (piano); Philadelphia Orchestra",
+      "conductor": "Leopold Stokowski",
+      "label": "Victor",
+      "year": 1929,
+      "why": "The composer's own recording"
+    },
+    "trivia": "After the disastrous 1897 premiere of his First Symphony, Rachmaninoff was depressed and barely composed for years. In 1900 he underwent hypnotherapy sessions with the neurologist Nikolai Dahl and returned to composing, dedicating the concerto to him.",
+    "tags": [
+      "late-romantic",
+      "concerto",
+      "piano-concerto",
+      "romantic-concerto"
+    ],
+    "track": {
+      "query": "Rachmaninoff Piano Concerto No. 2 Stokowski 1929",
+      "album": null,
+      "duration": "~11:00",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Piano_Concerto_No._2_(Rachmaninoff)"
+    ],
+    "notes": "Recording from memory (composer-pianist, Stokowski, 1929)."
+  },
+  {
+    "id": "cls-chaminade-concertino-for-flute",
+    "composer": "Cécile Chaminade",
+    "composer_short": "Chaminade",
+    "work": "Concertino for Flute and Orchestra in D major, Op. 107",
+    "nickname": null,
+    "catalogue_only": true,
+    "form": "concerto",
+    "accept_work": "Chaminade's Flute Concertino in D major",
+    "excerpt": "Opening (Allegretto)",
+    "year": 1902,
+    "year_lo": 1902,
+    "year_hi": 1902,
+    "year_label": "1902",
+    "premiere_or_publication": "Written for the Paris Conservatoire flute examination of 1902",
+    "dating_note": "Composed in 1902 as a test piece for the Conservatoire's flute competition.",
+    "recording": {
+      "performers": "Any well-reviewed recording",
+      "conductor": null,
+      "label": null,
+      "year": null,
+      "why": "Flute with orchestra or piano; any fine flutist."
+    },
+    "trivia": "It was commissioned by the Paris Conservatoire as an exam piece for its young flutists and it became a lasting favourite in flute recitals. Chaminade was a well-known composer and pianist in her day and the first female composer to be awarded the Légion d'honneur.",
+    "tags": [
+      "late-romantic",
+      "concerto",
+      "women-composers",
+      "flute",
+      "less-familiar"
+    ],
+    "track": {
+      "query": "Chaminade Concertino for Flute Op. 107",
+      "album": null,
+      "duration": "~9:00",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Flute_Concertino_(Chaminade)",
+      "https://en.wikipedia.org/wiki/C%C3%A9cile_Chaminade"
+    ],
+    "notes": "Less-familiar pick; Légion d'honneur claim to confirm."
+  },
+  {
+    "id": "cls-joplin-the-entertainer",
+    "composer": "Scott Joplin",
+    "composer_short": "Joplin",
+    "work": "The Entertainer",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "solo-piano",
+    "accept_work": "Scott Joplin's The Entertainer",
+    "excerpt": "The whole rag",
+    "year": 1902,
+    "year_lo": 1902,
+    "year_hi": 1902,
+    "year_label": "1902",
+    "premiere_or_publication": "Published December 1902",
+    "dating_note": "Composed and published in 1902.",
+    "recording": {
+      "performers": "Joshua Rifkin (piano)",
+      "conductor": null,
+      "label": "Nonesuch",
+      "year": 1970,
+      "why": "The ragtime revival album; the film version is by Marvin Hamlisch"
+    },
+    "trivia": "It was almost forgotten until the 1973 film The Sting used Marvin Hamlisch's arrangement, which made Joplin a household name. The film is set in 1936, though the music is from decades earlier.",
+    "tags": [
+      "late-romantic",
+      "solo-piano",
+      "ragtime",
+      "american",
+      "film-fame"
+    ],
+    "track": {
+      "query": "Scott Joplin The Entertainer",
+      "album": null,
+      "duration": "~3:00",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Entertainer_(rag)"
+    ],
+    "notes": "Publication/composition both 1902."
+  },
+  {
+    "id": "cls-mahler-symphony-5",
+    "composer": "Gustav Mahler",
+    "composer_short": "Mahler",
+    "work": "Symphony No. 5 in C-sharp minor",
+    "nickname": null,
+    "catalogue_only": true,
+    "form": "symphony",
+    "accept_work": "Mahler's Symphony No. 5",
+    "excerpt": "IV. Adagietto",
+    "year": 1902,
+    "year_lo": 1901,
+    "year_hi": 1902,
+    "year_label": "1901–1902",
+    "premiere_or_publication": "Premiered in Cologne, 18 October 1904, conducted by Mahler",
+    "dating_note": "Composed in the summers of 1901 and 1902 (Wikipedia).",
+    "recording": {
+      "performers": "Any well-reviewed recording",
+      "conductor": null,
+      "label": null,
+      "year": null,
+      "why": "Any recording; the Adagietto is strings and harp only."
+    },
+    "trivia": "The Adagietto, for strings and harp, is often described as a love letter to Alma Mahler, whom he married in 1902. Luchino Visconti used it in his 1971 film Death in Venice, which spread its popularity far beyond concert halls.",
+    "tags": [
+      "late-romantic",
+      "symphony",
+      "symphony",
+      "adagietto"
+    ],
+    "track": {
+      "query": "Mahler Symphony No. 5 Adagietto",
+      "album": null,
+      "duration": "~10:00",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Symphony_No._5_(Mahler)"
+    ],
+    "notes": "Love-letter story is traditional and sourced to Mengelberg's note; not undisputed."
+  },
+  {
+    "id": "cls-puccini-madama-butterfly",
+    "composer": "Giacomo Puccini",
+    "composer_short": "Puccini",
+    "work": "Madama Butterfly: 'Un bel dì, vedremo'",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "opera",
+    "accept_work": "Puccini's Madama Butterfly ('Un bel dì')",
+    "excerpt": "'Un bel dì, vedremo'",
+    "year": 1903,
+    "year_lo": 1901,
+    "year_hi": 1903,
+    "year_label": "1901–1903",
+    "premiere_or_publication": "Premiered at La Scala, Milan, 17 February 1904 (poorly received; revised version Brescia, May 1904)",
+    "dating_note": "Composed 1901–1903 (Wikipedia).",
+    "recording": {
+      "performers": "Any well-reviewed recording",
+      "conductor": null,
+      "label": null,
+      "year": null,
+      "why": "Any lyric soprano."
+    },
+    "trivia": "The La Scala premiere in 1904 was a famous failure, with the audience hissing, so Puccini revised the opera and it triumphed in Brescia a few months later. The story comes from a David Belasco play that Puccini saw in London in 1900.",
+    "tags": [
+      "late-romantic",
+      "opera",
+      "aria",
+      "soprano"
+    ],
+    "track": {
+      "query": "Puccini Madama Butterfly Un bel di vedremo",
+      "album": null,
+      "duration": "~4:30",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Madama_Butterfly",
+      "https://turismopadova.it/de/?p=1010003"
+    ],
+    "notes": "Composition span 1901-1903 from program-note sources found by search (began 1901, complete 1903); Wikipedia confirms the Belasco play, La Scala flop and Brescia revival."
+  },
+  {
+    "id": "cls-debussy-clair-de-lune",
+    "composer": "Claude Debussy",
+    "composer_short": "Debussy",
+    "work": "Clair de lune, from Suite bergamasque, L. 75",
+    "nickname": "Clair de lune",
+    "catalogue_only": false,
+    "form": "solo-piano",
+    "accept_work": "Debussy's Clair de lune (Suite bergamasque)",
+    "excerpt": "The opening melody",
+    "year": 1905,
+    "year_lo": 1890,
+    "year_hi": 1905,
+    "year_label": "begun c. 1890, revised 1905",
+    "premiere_or_publication": "Suite published in 1905",
+    "dating_note": "Debussy began the suite around 1890 and revised it just before its 1905 publication; it is not known how much was written in each year. Dated by the revised, published version.",
+    "recording": {
+      "performers": "Any well-reviewed recording",
+      "conductor": null,
+      "label": null,
+      "year": null,
+      "why": "Any gentle piano performance."
+    },
+    "trivia": "The title comes from a poem by Paul Verlaine. Debussy held the suite back for years because it was in an earlier style than his mature work, and then released it in 1905 at a publisher's urging.",
+    "tags": [
+      "late-romantic",
+      "solo-piano",
+      "piano",
+      "impressionism"
+    ],
+    "track": {
+      "query": "Debussy Clair de lune Suite bergamasque",
+      "album": null,
+      "duration": "~5:00",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Suite_bergamasque"
+    ],
+    "notes": "Dating ambiguity (1890/1905): carded 1905 with range back to 1890. Debussy total: 3 cards."
+  },
+  {
+    "id": "cls-debussy-la-mer",
+    "composer": "Claude Debussy",
+    "composer_short": "Debussy",
+    "work": "La mer, L. 111",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "orchestral",
+    "accept_work": "Debussy's La mer",
+    "excerpt": "I. De l'aube à midi sur la mer",
+    "year": 1905,
+    "year_lo": 1903,
+    "year_hi": 1905,
+    "year_label": "1903–1905",
+    "premiere_or_publication": "Premiered in Paris, 15 October 1905",
+    "dating_note": "Composed 1903–05 (Wikipedia).",
+    "recording": {
+      "performers": "Any well-reviewed recording",
+      "conductor": null,
+      "label": null,
+      "year": null,
+      "why": "Any strong orchestral recording."
+    },
+    "trivia": "Debussy began it inland, in Burgundy, far from the sea, and was still correcting the proofs at a seaside hotel in Eastbourne in the summer of 1905. The first Paris audience gave it a cool reception, and it only became a favourite after a later performance in 1908.",
+    "tags": [
+      "late-romantic",
+      "orchestral",
+      "symphonic-sketches",
+      "impressionism"
+    ],
+    "track": {
+      "query": "Debussy La mer De l'aube a midi sur la mer",
+      "album": null,
+      "duration": "~9:00",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/La_mer_(Debussy)"
+    ],
+    "notes": "Burgundy / Eastbourne / reception details verified on Wikipedia."
+  },
+  {
+    "id": "cls-lehar-the-merry-widow",
+    "composer": "Franz Lehár",
+    "composer_short": "Lehár",
+    "work": "Die lustige Witwe (The Merry Widow): Waltz ('Lippen schweigen')",
+    "nickname": "The Merry Widow Waltz",
+    "catalogue_only": false,
+    "form": "opera",
+    "accept_work": "Lehár's The Merry Widow (the waltz)",
+    "excerpt": "Merry Widow Waltz",
+    "year": 1905,
+    "year_lo": 1905,
+    "year_hi": 1905,
+    "year_label": "1905",
+    "premiere_or_publication": "Premiered at the Theater an der Wien, Vienna, 30 December 1905",
+    "dating_note": "Composed in 1905 for a premiere in December of that year.",
+    "recording": {
+      "performers": "Any well-reviewed recording",
+      "conductor": null,
+      "label": null,
+      "year": null,
+      "why": "Any strong Viennese-style recording."
+    },
+    "trivia": "It is based on an 1861 comedy by Henri Meilhac and has enjoyed huge international success since its 1905 Vienna premiere. The waltz tune carries the words 'Lippen schweigen' ('Lips are silent').",
+    "tags": [
+      "late-romantic",
+      "opera",
+      "operetta",
+      "waltz",
+      "vienna"
+    ],
+    "track": {
+      "query": "Lehar The Merry Widow Waltz Lippen schweigen",
+      "album": null,
+      "duration": "~4:00",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Merry_Widow"
+    ],
+    "notes": "Meilhac source and waltz lyric verified on Wikipedia."
+  },
+  {
+    "id": "cls-sibelius-violin-concerto",
+    "composer": "Jean Sibelius",
+    "composer_short": "Sibelius",
+    "work": "Violin Concerto in D minor, Op. 47",
+    "nickname": null,
+    "catalogue_only": true,
+    "form": "concerto",
+    "accept_work": "Sibelius's Violin Concerto in D minor",
+    "excerpt": "I. Allegro moderato (opening violin entry)",
+    "year": 1905,
+    "year_lo": 1904,
+    "year_hi": 1905,
+    "year_label": "1904 (revised 1905)",
+    "premiere_or_publication": "First version premiered 8 February 1904; revised version 19 October 1905 in Berlin conducted by Richard Strauss",
+    "dating_note": "The concerto was first performed in 1904 and heavily revised for 1905; the revised version is the one played today.",
+    "recording": {
+      "performers": "Any well-reviewed recording",
+      "conductor": null,
+      "label": null,
+      "year": null,
+      "why": "Any strong violinist."
+    },
+    "trivia": "The first version in 1904 was a failure, partly because the soloist was under-prepared, and Sibelius cut and reshaped it in 1905. In the revised version Richard Strauss conducted the Berlin premiere.",
+    "tags": [
+      "late-romantic",
+      "concerto",
+      "violin",
+      "romantic-concerto"
+    ],
+    "track": {
+      "query": "Sibelius Violin Concerto D minor Allegro moderato",
+      "album": null,
+      "duration": "~13:00",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Violin_Concerto_(Sibelius)"
+    ],
+    "notes": "Version issue: dated by the 1905 revision, range reaching back to the 1904 original."
+  },
+  {
+    "id": "cls-ives-the-unanswered-question",
+    "composer": "Charles Ives",
+    "composer_short": "Ives",
+    "work": "The Unanswered Question",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "orchestral",
+    "accept_work": "Ives's The Unanswered Question",
+    "excerpt": "The whole piece",
+    "year": 1908,
+    "year_lo": 1908,
+    "year_hi": 1935,
+    "year_label": "1908 (revised 1930–1935)",
+    "premiere_or_publication": "Revised version premiered 11 May 1946; original version not premiered until 1984",
+    "dating_note": "Composed in 1908, though often misdated to 1906, and revised in 1930–35 (Wikipedia).",
+    "recording": {
+      "performers": "Any well-reviewed recording",
+      "conductor": null,
+      "label": null,
+      "year": null,
+      "why": "Any recording with the solo trumpet placed at a distance, if possible."
+    },
+    "trivia": "A solo trumpet repeatedly asks a 'question' that the woodwinds fail to answer, over a hushed string background. It sat unplayed for nearly four decades after it was written, since Ives was an insurance executive who composed on the side.",
+    "tags": [
+      "late-romantic",
+      "orchestral",
+      "experimental",
+      "american",
+      "less-familiar"
+    ],
+    "track": {
+      "query": "Ives The Unanswered Question",
+      "album": null,
+      "duration": "~6:00",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Unanswered_Question"
+    ],
+    "notes": "Less-familiar pick. 1908-1935 range is wide (27 years)."
+  },
+  {
+    "id": "cls-ravel-gaspard-de-la-nuit",
+    "composer": "Maurice Ravel",
+    "composer_short": "Ravel",
+    "work": "Gaspard de la nuit, M. 55",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "solo-piano",
+    "accept_work": "Ravel's Gaspard de la nuit",
+    "excerpt": "I. Ondine",
+    "year": 1908,
+    "year_lo": 1908,
+    "year_hi": 1908,
+    "year_label": "1908",
+    "premiere_or_publication": "Premiered by Ricardo Viñes, Paris, 9 January 1909",
+    "dating_note": "Composed in 1908 (Wikipedia).",
+    "recording": {
+      "performers": "Any well-reviewed recording",
+      "conductor": null,
+      "label": null,
+      "year": null,
+      "why": "Any strong pianist; Ondine's shimmering opening."
+    },
+    "trivia": "Three piano pieces after prose poems by Aloysius Bertrand: Ondine (a water nymph), Le gibet (a gibbet), and Scarbo (a goblin). Ravel set out to make the finale, Scarbo, harder to play than Balakirev's Islamey, and pianists still rank it among the hardest pieces in the repertoire.",
+    "tags": [
+      "late-romantic",
+      "solo-piano",
+      "piano",
+      "virtuoso",
+      "less-familiar"
+    ],
+    "track": {
+      "query": "Ravel Gaspard de la nuit Ondine",
+      "album": null,
+      "duration": "~6:30",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Gaspard_de_la_nuit"
+    ],
+    "notes": "Less-familiar pick. Ravel total across parts 6-7: 3 with Boléro."
+  },
+  {
+    "id": "cls-smyth-the-march-of-the-women",
+    "composer": "Ethel Smyth",
+    "composer_short": "Smyth",
+    "work": "The March of the Women",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "song",
+    "accept_work": "Smyth's The March of the Women (suffragette anthem)",
+    "excerpt": "The whole march",
+    "year": 1910,
+    "year_lo": 1910,
+    "year_hi": 1910,
+    "year_label": "1910",
+    "premiere_or_publication": "Became the anthem of the Women's Social and Political Union",
+    "dating_note": "Composed in 1910 as a unison song to words by Cicely Hamilton (Wikipedia).",
+    "recording": {
+      "performers": "Any well-reviewed recording",
+      "conductor": null,
+      "label": null,
+      "year": null,
+      "why": "Choral or orchestral arrangement; any recording."
+    },
+    "trivia": "It became the anthem of the British suffrage movement, and campaigners sang it even in prison. After Smyth was jailed for breaking a politician's window, the conductor Thomas Beecham reported seeing her beat time with a toothbrush from an upper window as fellow prisoners sang it in the courtyard.",
+    "tags": [
+      "late-romantic",
+      "song",
+      "women-composers",
+      "suffrage",
+      "less-familiar"
+    ],
+    "track": {
+      "query": "Ethel Smyth March of the Women",
+      "album": null,
+      "duration": "~2:00",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_March_of_the_Women"
+    ],
+    "notes": "Less-familiar pick. Toothbrush story is Beecham's own account, quoted on Wikipedia."
+  },
+  {
+    "id": "cls-stravinsky-the-firebird",
+    "composer": "Igor Stravinsky",
+    "composer_short": "Stravinsky",
+    "work": "The Firebird (L'Oiseau de feu)",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "ballet",
+    "accept_work": "Stravinsky's The Firebird",
+    "excerpt": "Finale (the 'Firebird Suite' ending)",
+    "year": 1910,
+    "year_lo": 1909,
+    "year_hi": 1910,
+    "year_label": "1909–1910",
+    "premiere_or_publication": "Premiered by the Ballets Russes, Paris Opéra, 25 June 1910",
+    "dating_note": "Composed between November 1909 and spring 1910.",
+    "recording": {
+      "performers": "Any well-reviewed recording",
+      "conductor": null,
+      "label": null,
+      "year": null,
+      "why": "Any recording of the 1910 complete ballet or one of the suites."
+    },
+    "trivia": "Nikolai Tcherepnin was first meant to write the music but withdrew from the project, and Diaghilev gave the commission to the young Stravinsky. The 1910 Paris premiere was an immediate success and made him internationally famous.",
+    "tags": [
+      "late-romantic",
+      "ballet",
+      "ballet",
+      "ballets-russes"
+    ],
+    "track": {
+      "query": "Stravinsky The Firebird Finale",
+      "album": null,
+      "duration": "~3:00",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Firebird"
+    ],
+    "notes": "Tcherepnin/Stravinsky story verified on Wikipedia; composition span 1909-10 not stated there, so confidence medium. Stravinsky total across parts 6-7: 3-4."
+  },
+  {
+    "id": "cls-vaughan-williams-fantasia-on-a-theme-by-thomas-tallis",
+    "composer": "Ralph Vaughan Williams",
+    "composer_short": "Vaughan Williams",
+    "work": "Fantasia on a Theme by Thomas Tallis",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "orchestral",
+    "accept_work": "Vaughan Williams's Fantasia on a Theme by Thomas Tallis",
+    "excerpt": "The whole fantasia",
+    "year": 1910,
+    "year_lo": 1910,
+    "year_hi": 1919,
+    "year_label": "1910 (revised 1913, 1919)",
+    "premiere_or_publication": "Premiered at Gloucester Cathedral, 6 September 1910, at the Three Choirs Festival",
+    "dating_note": "Composed in 1910 and revised in 1913 and 1919; the range covers the revisions.",
+    "recording": {
+      "performers": "Any well-reviewed recording",
+      "conductor": null,
+      "label": null,
+      "year": null,
+      "why": "Strings in a resonant acoustic; many recordings are made in cathedrals."
+    },
+    "trivia": "The theme is a hymn tune that Thomas Tallis wrote in 1567 for Archbishop Parker's Psalter. Vaughan Williams scored it for two string orchestras and a solo quartet, to make use of cathedral echoes.",
+    "tags": [
+      "late-romantic",
+      "orchestral",
+      "strings",
+      "english",
+      "tallis"
+    ],
+    "track": {
+      "query": "Vaughan Williams Fantasia on a Theme by Thomas Tallis",
+      "album": null,
+      "duration": "~15:00",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Fantasia_on_a_Theme_by_Thomas_Tallis"
+    ],
+    "notes": "Version issue: original date 1910 retained; 1919 final version is the one performed. Verify Parker Psalter 1567 detail."
+  },
+  {
+    "id": "cls-stravinsky-the-rite-of-spring",
+    "composer": "Igor Stravinsky",
+    "composer_short": "Stravinsky",
+    "work": "The Rite of Spring (Le sacre du printemps)",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "ballet",
+    "accept_work": "Stravinsky's The Rite of Spring",
+    "excerpt": "Opening bassoon solo / Augurs of Spring",
+    "year": 1913,
+    "year_lo": 1911,
+    "year_hi": 1913,
+    "year_label": "1911–1913",
+    "premiere_or_publication": "Premiered at the Théâtre des Champs-Élysées, Paris, 29 May 1913",
+    "dating_note": "Composed 1911–13 (Wikipedia).",
+    "recording": {
+      "performers": "Any well-reviewed recording",
+      "conductor": null,
+      "label": null,
+      "year": null,
+      "why": "Any strong orchestral recording."
+    },
+    "trivia": "At the 1913 premiere the audience shouted, whistled and argued loudly, a scene since retold as a 'riot'. The shock was caused by Stravinsky's pulsing rhythms and Nijinsky's unconventional choreography together.",
+    "tags": [
+      "late-romantic",
+      "ballet",
+      "ballet",
+      "modernism",
+      "scandal"
+    ],
+    "track": {
+      "query": "Stravinsky The Rite of Spring Augurs of Spring",
+      "album": null,
+      "duration": "~3:00",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Rite_of_Spring"
+    ],
+    "notes": "Premiere date per Wikipedia."
+  }
+]

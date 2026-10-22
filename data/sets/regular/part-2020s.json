@@ -1,0 +1,469 @@
+[
+  {
+    "id": "reg-bts-dynamite",
+    "artist": "BTS",
+    "title": "Dynamite",
+    "year": 2020,
+    "year_lo": 2020,
+    "year_hi": 2020,
+    "year_label": "2020",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "Their first all-English single, it made BTS the first South Korean act to top the US Hot 100. Its upbeat disco-pop landed in the middle of the 2020 lockdowns.",
+    "tags": [
+      "2020s",
+      "k-pop",
+      "pop",
+      "kr"
+    ],
+    "track": {
+      "artist": "BTS",
+      "title": "Dynamite",
+      "album": "BE",
+      "duration": "3:19",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Single Aug 21 2020, album BE Nov 2020. Not on the Hitster NL list; seen on the Hitster Canada edition list."
+  },
+  {
+    "id": "reg-drake-toosie-slide",
+    "artist": "Drake",
+    "title": "Toosie Slide",
+    "year": 2020,
+    "year_lo": 2020,
+    "year_hi": 2020,
+    "year_label": "2020",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "It came with a dance routine and arrived in the early weeks of the 2020 lockdowns. It debuted at number one on the US Hot 100.",
+    "tags": [
+      "2020s",
+      "hip-hop",
+      "pop-rap",
+      "ca"
+    ],
+    "track": {
+      "artist": "Drake",
+      "title": "Toosie Slide",
+      "album": "Dark Lane Demo Tapes",
+      "duration": "4:07",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Single 3 Apr 2020; later on the mixtape Dark Lane Demo Tapes (May 2020)."
+  },
+  {
+    "id": "reg-dua-lipa-break-my-heart",
+    "artist": "Dua Lipa",
+    "title": "Break My Heart",
+    "year": 2020,
+    "year_lo": 2020,
+    "year_hi": 2020,
+    "year_label": "2020",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "Its bass line interpolates a 1980s Australian rock hit. It was one of several singles from an album that mixed disco, synth-pop and modern dance sounds.",
+    "tags": [
+      "2020s",
+      "dance-pop",
+      "disco-pop",
+      "uk"
+    ],
+    "track": {
+      "artist": "Dua Lipa",
+      "title": "Break My Heart",
+      "album": "Future Nostalgia",
+      "duration": "3:41",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Single Mar 25 2020, album Mar 27 2020."
+  },
+  {
+    "id": "reg-dua-lipa-levitating",
+    "artist": "Dua Lipa",
+    "title": "Levitating",
+    "year": 2020,
+    "year_lo": 2020,
+    "year_hi": 2020,
+    "year_label": "2020",
+    "region": "intl",
+    "in_original_hitster": false,
+    "trivia": "It was released as a single months after the album it comes from, and later was remixed with several guest artists. The funky bass line is the star of the track.",
+    "tags": [
+      "2020s",
+      "disco-pop",
+      "dance-pop",
+      "uk"
+    ],
+    "track": {
+      "artist": "Dua Lipa",
+      "title": "Levitating",
+      "album": "Future Nostalgia",
+      "duration": "3:23",
+      "isrc": null,
+      "notes": "Original album version, not the remixes."
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Album Mar 27 2020, single Oct 1 2020. Album-first year (same year either way). Original version, not the remixes. Not seen on any consulted Hitster edition list (NL, DE, FR, CA, Nordics); added for recognisability and decade balance."
+  },
+  {
+    "id": "reg-glass-animals-heat-waves",
+    "artist": "Glass Animals",
+    "title": "Heat Waves",
+    "year": 2020,
+    "year_lo": 2020,
+    "year_hi": 2020,
+    "year_label": "2020",
+    "region": "intl",
+    "in_original_hitster": false,
+    "trivia": "It climbed for more than a year before reaching number one in the US in 2022, helped along by social-media videos. Its slow-burn rise was fuelled by social-media videos.",
+    "tags": [
+      "2020s",
+      "indie-pop",
+      "psychedelic-pop",
+      "uk"
+    ],
+    "track": {
+      "artist": "Glass Animals",
+      "title": "Heat Waves",
+      "album": "Dreamland",
+      "duration": "3:58",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Single Jun 29 2020, album Dreamland Aug 2020. Not seen on any consulted Hitster edition list (NL, DE, FR, CA, Nordics); added for recognisability and decade balance."
+  },
+  {
+    "id": "reg-ed-sheeran-bad-habits",
+    "artist": "Ed Sheeran",
+    "title": "Bad Habits",
+    "year": 2021,
+    "year_lo": 2021,
+    "year_hi": 2021,
+    "year_label": "2021",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "It was the first single from his fifth album, titled with an equals sign. In the video Sheeran plays a vampire.",
+    "tags": [
+      "2020s",
+      "pop",
+      "synth-pop",
+      "uk"
+    ],
+    "track": {
+      "artist": "Ed Sheeran",
+      "title": "Bad Habits",
+      "album": "=",
+      "duration": "3:51",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Single Jun 25 2021, album Oct 2021."
+  },
+  {
+    "id": "reg-justin-bieber-anyone",
+    "artist": "Justin Bieber",
+    "title": "Anyone",
+    "year": 2021,
+    "year_lo": 2021,
+    "year_hi": 2021,
+    "year_label": "2021",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "It was released on New Year's Day 2021, a day after he performed it live for the first time at a New Year's Eve concert. It was the third single from Justice.",
+    "tags": [
+      "2020s",
+      "pop",
+      "ballad",
+      "ca"
+    ],
+    "track": {
+      "artist": "Justin Bieber",
+      "title": "Anyone",
+      "album": "Justice",
+      "duration": "3:10",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Anyone_(Justin_Bieber_song)"
+    ],
+    "notes": "Single Jan 1 2021, album Mar 19 2021. Hitster NL lists 2021."
+  },
+  {
+    "id": "reg-olivia-rodrigo-drivers-license",
+    "artist": "Olivia Rodrigo",
+    "title": "drivers license",
+    "year": 2021,
+    "year_lo": 2021,
+    "year_hi": 2021,
+    "year_label": "2021",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "Rodrigo's debut single broke Spotify's record for first-day streams. It is a ballad about heartbreak and driving.",
+    "tags": [
+      "2020s",
+      "pop",
+      "ballad",
+      "us"
+    ],
+    "track": {
+      "artist": "Olivia Rodrigo",
+      "title": "drivers license",
+      "album": "SOUR",
+      "duration": "4:02",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Single Jan 8 2021, album May 2021."
+  },
+  {
+    "id": "reg-olivia-rodrigo-good-4-u",
+    "artist": "Olivia Rodrigo",
+    "title": "good 4 u",
+    "year": 2021,
+    "year_lo": 2021,
+    "year_hi": 2021,
+    "year_label": "2021",
+    "region": "intl",
+    "in_original_hitster": false,
+    "trivia": "Its pop-punk sound is so close to a Paramore song that Paramore's Hayley Williams and Josh Farro were added as songwriters. It is a brisk, snarling contrast to the singer's ballads.",
+    "tags": [
+      "2020s",
+      "pop-punk",
+      "us"
+    ],
+    "track": {
+      "artist": "Olivia Rodrigo",
+      "title": "good 4 u",
+      "album": "SOUR",
+      "duration": "2:58",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Single May 14 2021, album May 21 2021. Not seen on any consulted Hitster edition list (NL, DE, FR, CA, Nordics); added for recognisability and decade balance."
+  },
+  {
+    "id": "reg-the-kid-laroi-and-justin-bieber-stay",
+    "artist": "The Kid Laroi & Justin Bieber",
+    "title": "Stay",
+    "year": 2021,
+    "year_lo": 2021,
+    "year_hi": 2021,
+    "year_label": "2021",
+    "region": "intl",
+    "in_original_hitster": false,
+    "trivia": "The Kid Laroi was only 17 when it came out. It spent weeks at number one on the UK and US charts in a package barely over two minutes long.",
+    "tags": [
+      "2020s",
+      "pop",
+      "hip-hop",
+      "au"
+    ],
+    "track": {
+      "artist": "The Kid Laroi & Justin Bieber",
+      "title": "Stay",
+      "album": null,
+      "duration": "2:21",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Standalone single Jul 9 2021. Not seen on any consulted Hitster edition list (NL, DE, FR, CA, Nordics); added for recognisability and decade balance."
+  },
+  {
+    "id": "reg-harry-styles-as-it-was",
+    "artist": "Harry Styles",
+    "title": "As It Was",
+    "year": 2022,
+    "year_lo": 2022,
+    "year_hi": 2022,
+    "year_label": "2022",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "It was one of the biggest hits of 2022, written by Styles with Kid Harpoon and Tyler Johnson. The video features him on a rotating set.",
+    "tags": [
+      "2020s",
+      "synth-pop",
+      "pop",
+      "uk"
+    ],
+    "track": {
+      "artist": "Harry Styles",
+      "title": "As It Was",
+      "album": "Harry's House",
+      "duration": "2:37",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Single Mar 31 2022, album May 2022. Not on the Hitster NL list; seen on the Hitster Canada edition list."
+  },
+  {
+    "id": "reg-rema-and-selena-gomez-calm-down",
+    "artist": "Rema & Selena Gomez",
+    "title": "Calm Down",
+    "year": 2022,
+    "year_lo": 2022,
+    "year_hi": 2022,
+    "year_label": "2022",
+    "region": "intl",
+    "in_original_hitster": false,
+    "trivia": "The afrobeats track by Nigerian singer Rema became the first song by an African artist to pass a billion Spotify streams. The version with Selena Gomez is the global hit.",
+    "tags": [
+      "2020s",
+      "afrobeats",
+      "pop",
+      "ng"
+    ],
+    "track": {
+      "artist": "Rema & Selena Gomez",
+      "title": "Calm Down",
+      "album": "Rave and Roses",
+      "duration": "3:59",
+      "isrc": null,
+      "notes": "Rema and Selena Gomez remix; the solo version is a fallback."
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Calm_Down_(Rema_song)"
+    ],
+    "notes": "Original solo Rema version Feb 11 2022; the remix with Selena Gomez (the version credited here and the global hit) 25 or 26 Aug 2022. Both 2022. Album is Rema's Rave and Roses (Mar 2022). Not seen on any consulted Hitster edition list (NL, DE, FR, CA, Nordics); added for recognisability and decade balance."
+  },
+  {
+    "id": "reg-taylor-swift-anti-hero",
+    "artist": "Taylor Swift",
+    "title": "Anti-Hero",
+    "year": 2022,
+    "year_lo": 2022,
+    "year_hi": 2022,
+    "year_label": "2022",
+    "region": "intl",
+    "in_original_hitster": false,
+    "trivia": "It was part of the album release week in which Swift held all ten places in the US top ten, a first for any artist. The song tackles self-doubt with a wry hook.",
+    "tags": [
+      "2020s",
+      "synth-pop",
+      "pop",
+      "us"
+    ],
+    "track": {
+      "artist": "Taylor Swift",
+      "title": "Anti-Hero",
+      "album": "Midnights",
+      "duration": "3:20",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Single and album Oct 21 2022. Not seen on any consulted Hitster edition list (NL, DE, FR, CA, Nordics); added for recognisability and decade balance."
+  },
+  {
+    "id": "reg-miley-cyrus-flowers",
+    "artist": "Miley Cyrus",
+    "title": "Flowers",
+    "year": 2023,
+    "year_lo": 2023,
+    "year_hi": 2023,
+    "year_label": "2023",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "It won the Grammy for Record of the Year in 2024. Cyrus released it on January 13 2023 and it soon topped charts across the world.",
+    "tags": [
+      "2020s",
+      "pop",
+      "disco-pop",
+      "us"
+    ],
+    "track": {
+      "artist": "Miley Cyrus",
+      "title": "Flowers",
+      "album": "Endless Summer Vacation",
+      "duration": "3:20",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Single Jan 13 2023, album Mar 2023. Not on the Hitster NL list; seen on the Hitster Canada edition list."
+  },
+  {
+    "id": "reg-lady-gaga-and-bruno-mars-die-with-a-smile",
+    "artist": "Lady Gaga & Bruno Mars",
+    "title": "Die with a Smile",
+    "year": 2024,
+    "year_lo": 2024,
+    "year_hi": 2024,
+    "year_label": "2024",
+    "region": "intl",
+    "in_original_hitster": false,
+    "trivia": "It won the Grammy for Best Pop Duo/Group Performance in 2025. The soft-rock duet arrived in August 2024 and quickly topped charts around the world.",
+    "tags": [
+      "2020s",
+      "pop",
+      "soft-rock",
+      "us"
+    ],
+    "track": {
+      "artist": "Lady Gaga & Bruno Mars",
+      "title": "Die with a Smile",
+      "album": null,
+      "duration": "4:11",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "medium",
+    "sources": [],
+    "notes": "Standalone single Aug 16 2024. Hitster NL does not list it; added for recency. Not seen on any consulted Hitster edition list (NL, DE, FR, CA, Nordics); added for recognisability and decade balance."
+  },
+  {
+    "id": "reg-sabrina-carpenter-espresso",
+    "artist": "Sabrina Carpenter",
+    "title": "Espresso",
+    "year": 2024,
+    "year_lo": 2024,
+    "year_hi": 2024,
+    "year_label": "2024",
+    "region": "intl",
+    "in_original_hitster": false,
+    "trivia": "Co-written with Amy Allen and Steph Jones and produced by Julian Bunetta, it was her breakthrough on the charts. The coffee-themed title became a cultural moment in 2024.",
+    "tags": [
+      "2020s",
+      "pop",
+      "synth-pop",
+      "us"
+    ],
+    "track": {
+      "artist": "Sabrina Carpenter",
+      "title": "Espresso",
+      "album": "Short n' Sweet",
+      "duration": "2:55",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Single Apr 11 2024, album Aug 2024. Not seen on any consulted Hitster edition list (NL, DE, FR, CA, Nordics); added for recognisability and decade balance."
+  }
+]

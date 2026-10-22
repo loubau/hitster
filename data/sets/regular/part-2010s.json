@@ -1,0 +1,1235 @@
+[
+  {
+    "id": "reg-adele-rolling-in-the-deep",
+    "artist": "Adele",
+    "title": "Rolling in the Deep",
+    "year": 2010,
+    "year_lo": 2010,
+    "year_hi": 2010,
+    "year_label": "2010",
+    "region": "intl",
+    "in_original_hitster": false,
+    "trivia": "Adele co-wrote it with producer Paul Epworth in the aftermath of a break-up. It spent seven weeks at number one on the US Hot 100.",
+    "tags": [
+      "2010s",
+      "soul",
+      "pop",
+      "uk"
+    ],
+    "track": {
+      "artist": "Adele",
+      "title": "Rolling in the Deep",
+      "album": "21",
+      "duration": "3:48",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Single Nov 29 2010, album 21 Jan 2011. Single-first year. Not seen on any consulted Hitster edition list (NL, DE, FR, CA, Nordics); added for recognisability and decade balance."
+  },
+  {
+    "id": "reg-bruno-mars-the-lazy-song",
+    "artist": "Bruno Mars",
+    "title": "The Lazy Song",
+    "year": 2010,
+    "year_lo": 2010,
+    "year_hi": 2010,
+    "year_label": "2010",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "Mars wrote it with his team The Smeezingtons as an ode to doing absolutely nothing. A breezy ukulele-led beat kept it light.",
+    "tags": [
+      "2010s",
+      "pop",
+      "reggae-pop",
+      "us"
+    ],
+    "track": {
+      "artist": "Bruno Mars",
+      "title": "The Lazy Song",
+      "album": "Doo-Wops and Hooligans",
+      "duration": "3:09",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Album Oct 2010, single Jan 2011. Album-first year; Hitster NL lists 2011. Hitster NL list shows 2011; card uses 2010."
+  },
+  {
+    "id": "reg-duck-sauce-barbra-streisand",
+    "artist": "Duck Sauce",
+    "title": "Barbra Streisand",
+    "year": 2010,
+    "year_lo": 2010,
+    "year_hi": 2010,
+    "year_label": "2010",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "The duo of A-Trak and Armand van Helden built it on a sample of a 1979 disco track by a German-Caribbean group. The title name is repeated like a mantra and became an earworm.",
+    "tags": [
+      "2010s",
+      "house",
+      "dance",
+      "us"
+    ],
+    "track": {
+      "artist": "Duck Sauce",
+      "title": "Barbra Streisand",
+      "album": null,
+      "duration": "3:20",
+      "isrc": null,
+      "notes": "Original 2010 single version."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Barbra_Streisand_(song)"
+    ],
+    "notes": "Single Sept 2010; later on the album Quack (2014)."
+  },
+  {
+    "id": "reg-katy-perry-firework",
+    "artist": "Katy Perry",
+    "title": "Firework",
+    "year": 2010,
+    "year_lo": 2010,
+    "year_hi": 2010,
+    "year_label": "2010",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "A self-empowerment anthem, its video shows fireworks bursting from Perry's chest. It was one of several number-one singles from Teenage Dream.",
+    "tags": [
+      "2010s",
+      "pop",
+      "dance-pop",
+      "us"
+    ],
+    "track": {
+      "artist": "Katy Perry",
+      "title": "Firework",
+      "album": "Teenage Dream",
+      "duration": "3:48",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Album Aug 2010, single Oct 2010. Album-first year (same year either way)."
+  },
+  {
+    "id": "reg-shakira-waka-waka-this-time-for-africa",
+    "artist": "Shakira",
+    "title": "Waka Waka (This Time for Africa)",
+    "year": 2010,
+    "year_lo": 2010,
+    "year_hi": 2010,
+    "year_label": "2010",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "It was the official song of the 2010 World Cup in South Africa and is built on a soldiers' song by the Cameroonian group Golden Sounds. The video mixes footage of football stars with Shakira dancing.",
+    "tags": [
+      "2010s",
+      "pop",
+      "latin-pop",
+      "co"
+    ],
+    "track": {
+      "artist": "Shakira",
+      "title": "Waka Waka (This Time for Africa)",
+      "album": "Listen Up! The Official 2010 FIFA World Cup Album",
+      "duration": "3:22",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Single May 2010; also on her Sale el Sol (Oct 2010). Hitster NL lists title with brackets."
+  },
+  {
+    "id": "reg-adele-set-fire-to-the-rain",
+    "artist": "Adele",
+    "title": "Set Fire To The Rain",
+    "year": 2011,
+    "year_lo": 2011,
+    "year_hi": 2011,
+    "year_label": "2011",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "Adele co-wrote it with Fraser T Smith. A live recording from the Royal Albert Hall won a Grammy.",
+    "tags": [
+      "2010s",
+      "soul",
+      "pop",
+      "uk"
+    ],
+    "track": {
+      "artist": "Adele",
+      "title": "Set Fire To The Rain",
+      "album": "21",
+      "duration": "4:01",
+      "isrc": null,
+      "notes": "Studio version, not the live version."
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Album 21 Jan 2011, single Nov 2011. Album-first year."
+  },
+  {
+    "id": "reg-gotye-somebody-that-i-used-to-know",
+    "artist": "Gotye feat. Kimbra",
+    "title": "Somebody That I Used To Know",
+    "year": 2011,
+    "year_lo": 2011,
+    "year_hi": 2011,
+    "year_label": "2011",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "The xylophone-like riff is a sample of a 1967 track by Brazilian guitarist Luiz Bonfá. The video, in which the two singers are slowly painted into a wall, went viral.",
+    "tags": [
+      "2010s",
+      "indie-pop",
+      "au"
+    ],
+    "track": {
+      "artist": "Gotye feat. Kimbra",
+      "title": "Somebody That I Used To Know",
+      "album": "Making Mirrors",
+      "duration": "4:04",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Somebody_That_I_Used_to_Know"
+    ],
+    "notes": "Australian single 5 Jul 2011, album Making Mirrors 19 Aug 2011. Belgian-born Australian artist with New Zealand singer Kimbra."
+  },
+  {
+    "id": "reg-jessie-j-price-tag",
+    "artist": "Jessie J feat. B.o.B",
+    "title": "Price Tag",
+    "year": 2011,
+    "year_lo": 2011,
+    "year_hi": 2011,
+    "year_label": "2011",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "It reached number one in the UK in early 2011. The lyrics argue that a party is about the people, not the cost.",
+    "tags": [
+      "2010s",
+      "pop",
+      "uk"
+    ],
+    "track": {
+      "artist": "Jessie J feat. B.o.B",
+      "title": "Price Tag",
+      "album": "Who You Are",
+      "duration": "3:42",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Single Jan 2011, album Feb 2011."
+  },
+  {
+    "id": "reg-lmfao-party-rock-anthem",
+    "artist": "LMFAO feat. Lauren Bennett & GoonRock",
+    "title": "Party Rock Anthem",
+    "year": 2011,
+    "year_lo": 2011,
+    "year_hi": 2011,
+    "year_label": "2011",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "Redfoo and SkyBlu are uncle and nephew, and Redfoo is the son of Motown founder Berry Gordy. It was one of the best-selling singles of 2011.",
+    "tags": [
+      "2010s",
+      "electro-house",
+      "dance",
+      "us"
+    ],
+    "track": {
+      "artist": "LMFAO feat. Lauren Bennett & GoonRock",
+      "title": "Party Rock Anthem",
+      "album": "Sorry for Party Rocking",
+      "duration": "4:23",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Single Mar 2011, album Jun 2011. Hitster NL credits LMFAO feat. Lauren Bennett and GoonRock. Not on the Hitster NL list; seen on the Hitster Canada edition list."
+  },
+  {
+    "id": "reg-maroon-5-moves-like-jagger",
+    "artist": "Maroon 5 feat. Christina Aguilera",
+    "title": "Moves Like Jagger",
+    "year": 2011,
+    "year_lo": 2011,
+    "year_hi": 2011,
+    "year_label": "2011",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "Adam Levine and Christina Aguilera, both coaches on a TV singing contest at the time, performed it before it was even a single. The title nods to Mick Jagger's stage moves.",
+    "tags": [
+      "2010s",
+      "pop-rock",
+      "us"
+    ],
+    "track": {
+      "artist": "Maroon 5 feat. Christina Aguilera",
+      "title": "Moves Like Jagger",
+      "album": "Hands All Over (reissue)",
+      "duration": "3:21",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Hands_All_Over_(album)"
+    ],
+    "notes": "Single Jun 21 2011; added to the Hands All Over reissue Jul 2011. Hitster NL lists 2010, which is the year of the original album without this track. Hitster NL list shows 2010; card uses 2011."
+  },
+  {
+    "id": "reg-taio-cruz-hangover",
+    "artist": "Taio Cruz feat. Flo Rida",
+    "title": "Hangover",
+    "year": 2011,
+    "year_lo": 2011,
+    "year_hi": 2011,
+    "year_label": "2011",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "The London-born singer wrote and produced much of his own material. This party track about forgetting the night before was a worldwide hit with rapper Flo Rida on board.",
+    "tags": [
+      "2010s",
+      "dance-pop",
+      "uk"
+    ],
+    "track": {
+      "artist": "Taio Cruz feat. Flo Rida",
+      "title": "Hangover",
+      "album": "TY.O",
+      "duration": "4:04",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Hangover_(Taio_Cruz_song)"
+    ],
+    "notes": "US/German single Oct 2011, album TY.O Dec 2011, UK single Mar 2012. Hitster NL credits Taio Cruz alone."
+  },
+  {
+    "id": "reg-icona-pop-i-love-it",
+    "artist": "Icona Pop feat. Charli XCX",
+    "title": "I Love It",
+    "year": 2012,
+    "year_lo": 2012,
+    "year_hi": 2012,
+    "year_label": "2012",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "Charli XCX co-wrote it and also sings on the track. It came out in Sweden in 2012 but only became a US hit the following year.",
+    "tags": [
+      "2010s",
+      "electropop",
+      "se"
+    ],
+    "track": {
+      "artist": "Icona Pop feat. Charli XCX",
+      "title": "I Love It",
+      "album": "Icona Pop",
+      "duration": "2:37",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/I_Love_It_(Icona_Pop_song)"
+    ],
+    "notes": "Swedish single May 2012, album Nov 2012. Year follows first release."
+  },
+  {
+    "id": "reg-lorde-royals",
+    "artist": "Lorde",
+    "title": "Royals",
+    "year": 2012,
+    "year_lo": 2012,
+    "year_hi": 2012,
+    "year_label": "2012",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "Ella Yelich-O'Connor, who performs as Lorde, was 16 when she wrote it. She was inspired by a photo of a baseball star signing autographs in a magazine.",
+    "tags": [
+      "2010s",
+      "art-pop",
+      "electropop",
+      "nz"
+    ],
+    "track": {
+      "artist": "Lorde",
+      "title": "Royals",
+      "album": "The Love Club EP",
+      "duration": "3:10",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Royals_(song)"
+    ],
+    "notes": "First released 22 Nov 2012 as a free download with The Love Club EP; official single 3 Jun 2013 and Pure Heroine Sept 2013. Wikipedia infobox uses 2013 for the single; card uses first release 2012 (Hitster NL also 2012)."
+  },
+  {
+    "id": "reg-loreen-euphoria",
+    "artist": "Loreen",
+    "title": "Euphoria",
+    "year": 2012,
+    "year_lo": 2012,
+    "year_hi": 2012,
+    "year_label": "2012",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "It won the 2012 Eurovision Song Contest for Sweden. Loreen performed it barefoot with dramatic light-and-smoke staging.",
+    "tags": [
+      "2010s",
+      "dance-pop",
+      "electronic",
+      "se"
+    ],
+    "track": {
+      "artist": "Loreen",
+      "title": "Euphoria",
+      "album": "Heal",
+      "duration": "3:00",
+      "isrc": null,
+      "notes": "Original studio or Eurovision version."
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Single Mar 2012, album Heal Oct 2012. Eurovision version about 3:00."
+  },
+  {
+    "id": "reg-p-nk-just-give-me-a-reason",
+    "artist": "P!nk feat. Nate Ruess",
+    "title": "Just Give Me A Reason",
+    "year": 2012,
+    "year_lo": 2012,
+    "year_hi": 2012,
+    "year_label": "2012",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "It is a duet about a couple trying to work through trouble instead of splitting up. It went to number one in the US in 2013.",
+    "tags": [
+      "2010s",
+      "pop",
+      "us"
+    ],
+    "track": {
+      "artist": "P!nk feat. Nate Ruess",
+      "title": "Just Give Me A Reason",
+      "album": "The Truth About Love",
+      "duration": "4:02",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Album Sept 2012, single Feb 2013. Album-first year; Hitster NL lists 2012."
+  },
+  {
+    "id": "reg-daft-punk-get-lucky",
+    "artist": "Daft Punk feat. Pharrell Williams & Nile Rodgers",
+    "title": "Get Lucky",
+    "year": 2013,
+    "year_lo": 2013,
+    "year_hi": 2013,
+    "year_label": "2013",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "Chic's Nile Rodgers plays the signature guitar. Its first teaser appeared as a short ad during a US sketch show.",
+    "tags": [
+      "2010s",
+      "disco",
+      "funk",
+      "fr"
+    ],
+    "track": {
+      "artist": "Daft Punk feat. Pharrell Williams & Nile Rodgers",
+      "title": "Get Lucky",
+      "album": "Random Access Memories",
+      "duration": "6:09",
+      "isrc": null,
+      "notes": "Album version or radio edit."
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Single Apr 2013, album May 2013. Album version is 6:09, radio edit about 4:08. Not on the Hitster NL list; seen on the Hitster France edition list."
+  },
+  {
+    "id": "reg-john-legend-all-of-me",
+    "artist": "John Legend",
+    "title": "All Of Me",
+    "year": 2013,
+    "year_lo": 2013,
+    "year_hi": 2013,
+    "year_label": "2013",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "He wrote it for model Chrissy Teigen, whom he married in 2013. It is one of the biggest piano ballads of the decade.",
+    "tags": [
+      "2010s",
+      "soul",
+      "ballad",
+      "us"
+    ],
+    "track": {
+      "artist": "John Legend",
+      "title": "All Of Me",
+      "album": "Love in the Future",
+      "duration": "4:29",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Album Aug 2013, single Aug 2013."
+  },
+  {
+    "id": "reg-miley-cyrus-wrecking-ball",
+    "artist": "Miley Cyrus",
+    "title": "Wrecking Ball",
+    "year": 2013,
+    "year_lo": 2013,
+    "year_hi": 2013,
+    "year_label": "2013",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "It gave Cyrus her first number one on the US Hot 100. The video with her swinging on a demolition ball made her a headline name again.",
+    "tags": [
+      "2010s",
+      "pop",
+      "ballad",
+      "us"
+    ],
+    "track": {
+      "artist": "Miley Cyrus",
+      "title": "Wrecking Ball",
+      "album": "Bangerz",
+      "duration": "3:41",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Single Aug 2013, album Oct 2013."
+  },
+  {
+    "id": "reg-onerepublic-counting-stars",
+    "artist": "OneRepublic",
+    "title": "Counting Stars",
+    "year": 2013,
+    "year_lo": 2013,
+    "year_hi": 2013,
+    "year_label": "2013",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "Frontman Ryan Tedder is also one of pop's busiest songwriters for other artists. This stomping folk-pop turn was a big success across Europe.",
+    "tags": [
+      "2010s",
+      "pop-rock",
+      "us"
+    ],
+    "track": {
+      "artist": "OneRepublic",
+      "title": "Counting Stars",
+      "album": "Native",
+      "duration": "4:17",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Album Native Mar 2013, single Jun 2013. Album-first year (same year either way)."
+  },
+  {
+    "id": "reg-pharrell-williams-happy",
+    "artist": "Pharrell Williams",
+    "title": "Happy",
+    "year": 2013,
+    "year_lo": 2013,
+    "year_hi": 2013,
+    "year_label": "2013",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "It came from an animated film and sold millions. The 24-hour music video, with people dancing continuously, was a stunt in itself.",
+    "tags": [
+      "2010s",
+      "pop",
+      "soul",
+      "us"
+    ],
+    "track": {
+      "artist": "Pharrell Williams",
+      "title": "Happy",
+      "album": "Despicable Me 2 (soundtrack)",
+      "duration": "3:53",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "First public in May 2013, soundtrack 18 Jun 2013, single Nov 2013. Hitster NL lists 2013."
+  },
+  {
+    "id": "reg-robin-thicke-blurred-lines",
+    "artist": "Robin Thicke feat. T.I. & Pharrell",
+    "title": "Blurred Lines",
+    "year": 2013,
+    "year_lo": 2013,
+    "year_hi": 2013,
+    "year_label": "2013",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "Pharrell produced it, and it became the subject of a copyright case brought by the estate of Marvin Gaye. A US jury ruled in the estate's favour in 2015.",
+    "tags": [
+      "2010s",
+      "r&b",
+      "pop",
+      "us"
+    ],
+    "track": {
+      "artist": "Robin Thicke feat. T.I. & Pharrell",
+      "title": "Blurred Lines",
+      "album": "Blurred Lines",
+      "duration": "4:23",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Single Mar 2013, album Jul 2013."
+  },
+  {
+    "id": "reg-mark-ronson-uptown-funk",
+    "artist": "Mark Ronson feat. Bruno Mars",
+    "title": "Uptown Funk",
+    "year": 2014,
+    "year_lo": 2014,
+    "year_hi": 2014,
+    "year_label": "2014",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "It spent fourteen weeks at number one on the US Hot 100. It borrows heavily from 1980s funk and led to extra songwriting credits after copyright claims.",
+    "tags": [
+      "2010s",
+      "funk",
+      "pop",
+      "uk"
+    ],
+    "track": {
+      "artist": "Mark Ronson feat. Bruno Mars",
+      "title": "Uptown Funk",
+      "album": "Uptown Special",
+      "duration": "4:30",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Single Nov 2014, album Jan 2015. Not on the Hitster NL list; seen on the Hitster Canada edition list."
+  },
+  {
+    "id": "reg-meghan-trainor-all-about-that-bass",
+    "artist": "Meghan Trainor",
+    "title": "All About That Bass",
+    "year": 2014,
+    "year_lo": 2014,
+    "year_hi": 2014,
+    "year_label": "2014",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "A body-positive doo-wop-flavoured track that Trainor co-wrote with Kevin Kadish. It went to number one in the US and the UK in 2014.",
+    "tags": [
+      "2010s",
+      "pop",
+      "doo-wop-pop",
+      "us"
+    ],
+    "track": {
+      "artist": "Meghan Trainor",
+      "title": "All About That Bass",
+      "album": "Title",
+      "duration": "3:08",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Single Jun 2014, album Jan 2015."
+  },
+  {
+    "id": "reg-alessia-cara-scars-to-your-beautiful",
+    "artist": "Alessia Cara",
+    "title": "Scars To Your Beautiful",
+    "year": 2015,
+    "year_lo": 2015,
+    "year_hi": 2015,
+    "year_label": "2015",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "The Canadian singer was barely out of her teens when she recorded it. It is a message about self-acceptance and looks.",
+    "tags": [
+      "2010s",
+      "pop",
+      "singer-songwriter",
+      "ca"
+    ],
+    "track": {
+      "artist": "Alessia Cara",
+      "title": "Scars To Your Beautiful",
+      "album": "Know-It-All",
+      "duration": "3:50",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Scars_to_Your_Beautiful"
+    ],
+    "notes": "Album Know-It-All 13 Nov 2015; single only released in 2016 (radio Jul 2016). Album-first year; Hitster NL lists 2016. Hitster NL list shows 2016; card uses 2015."
+  },
+  {
+    "id": "reg-lukas-graham-7-years",
+    "artist": "Lukas Graham",
+    "title": "7 Years",
+    "year": 2015,
+    "year_lo": 2015,
+    "year_hi": 2015,
+    "year_label": "2015",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "The Danish band's biggest hit follows a person's life from childhood to old age. It topped the Danish chart before going worldwide.",
+    "tags": [
+      "2010s",
+      "pop",
+      "soul",
+      "dk"
+    ],
+    "track": {
+      "artist": "Lukas Graham",
+      "title": "7 Years",
+      "album": "Lukas Graham (Blue Album)",
+      "duration": "3:57",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/7_Years_(Lukas_Graham_song)"
+    ],
+    "notes": "Danish album Jun 2015, single Sept 2015. Album-first year; international release Apr 2016."
+  },
+  {
+    "id": "reg-major-lazer-lean-on",
+    "artist": "Major Lazer feat. DJ Snake & MØ",
+    "title": "Lean On",
+    "year": 2015,
+    "year_lo": 2015,
+    "year_hi": 2015,
+    "year_label": "2015",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "Major Lazer is the project of US producer Diplo, and this track pairs the French DJ DJ Snake with Danish singer MØ. It became one of the most streamed songs of the 2010s.",
+    "tags": [
+      "2010s",
+      "electropop",
+      "moombahton",
+      "us"
+    ],
+    "track": {
+      "artist": "Major Lazer feat. DJ Snake & MØ",
+      "title": "Lean On",
+      "album": "Peace Is the Mission",
+      "duration": "2:56",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Single Mar 2015, album Jun 2015. Hitster NL credits Major Lazer feat. DJ Snake and MØ."
+  },
+  {
+    "id": "reg-sia-cheap-thrills",
+    "artist": "Sia",
+    "title": "Cheap Thrills",
+    "year": 2015,
+    "year_lo": 2015,
+    "year_hi": 2015,
+    "year_label": "2015",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "Sia wrote it with Greg Kurstin and reportedly it was first intended for another singer. The album it comes from is made up of songs that were written for other artists.",
+    "tags": [
+      "2010s",
+      "pop",
+      "dance-pop",
+      "au"
+    ],
+    "track": {
+      "artist": "Sia",
+      "title": "Cheap Thrills",
+      "album": "This Is Acting",
+      "duration": "3:44",
+      "isrc": null,
+      "notes": "Sia solo version, not the Sean Paul feature."
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/This_Is_Acting"
+    ],
+    "notes": "Card means the original solo album version. First shared 17 Dec 2015; album 29 Jan 2016; official single 11 Feb 2016, and the Sean Paul version (the big hit) is 2016. Year follows the first public release and matches Hitster NL (2015)."
+  },
+  {
+    "id": "reg-twenty-one-pilots-stressed-out",
+    "artist": "Twenty One Pilots",
+    "title": "Stressed Out",
+    "year": 2015,
+    "year_lo": 2015,
+    "year_hi": 2015,
+    "year_label": "2015",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "The duo Tyler Joseph and Josh Dun are from Columbus, Ohio. In the video they ride tricycles through a house as grown men.",
+    "tags": [
+      "2010s",
+      "alt-pop",
+      "rap-rock",
+      "us"
+    ],
+    "track": {
+      "artist": "Twenty One Pilots",
+      "title": "Stressed Out",
+      "album": "Blurryface",
+      "duration": "3:22",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Single Apr 2015, album May 2015."
+  },
+  {
+    "id": "reg-avicii-without-you",
+    "artist": "Avicii feat. Sandro Cavazza",
+    "title": "Without You",
+    "year": 2017,
+    "year_lo": 2017,
+    "year_hi": 2017,
+    "year_label": "2017",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "It comes from the 2017 EP AVICI (01) by Tim Bergling, who recorded as Avicii. Swedish singer Sandro Cavazza gives it a soulful lead vocal.",
+    "tags": [
+      "2010s",
+      "edm",
+      "pop",
+      "se"
+    ],
+    "track": {
+      "artist": "Avicii feat. Sandro Cavazza",
+      "title": "Without You",
+      "album": "AVICI (01)",
+      "duration": "3:01",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Single and EP Aug 2017. Hitster NL credits Avicii feat. Sandro Cavazza."
+  },
+  {
+    "id": "reg-ed-sheeran-shape-of-you",
+    "artist": "Ed Sheeran",
+    "title": "Shape of You",
+    "year": 2017,
+    "year_lo": 2017,
+    "year_hi": 2017,
+    "year_label": "2017",
+    "region": "intl",
+    "in_original_hitster": false,
+    "trivia": "Sheeran wrote it with Steve Mac and Johnny McDaid, and initially had another singer in mind for it. It became one of the longest-running number ones in UK chart history.",
+    "tags": [
+      "2010s",
+      "pop",
+      "tropical-house",
+      "uk"
+    ],
+    "track": {
+      "artist": "Ed Sheeran",
+      "title": "Shape of You",
+      "album": "÷",
+      "duration": "3:53",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Single Jan 2017, album Mar 2017. Not seen on any consulted Hitster edition list (NL, DE, FR, CA, Nordics); added for recognisability and decade balance."
+  },
+  {
+    "id": "reg-imagine-dragons-thunder",
+    "artist": "Imagine Dragons",
+    "title": "Thunder",
+    "year": 2017,
+    "year_lo": 2017,
+    "year_hi": 2017,
+    "year_label": "2017",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "The band comes from Las Vegas, and this track pairs a stomping beat with a falsetto hook. It reached the top five in the US in 2017.",
+    "tags": [
+      "2010s",
+      "pop-rock",
+      "electropop",
+      "us"
+    ],
+    "track": {
+      "artist": "Imagine Dragons",
+      "title": "Thunder",
+      "album": "Evolve",
+      "duration": "3:07",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Single Apr 2017, album Jun 2017."
+  },
+  {
+    "id": "reg-portugal-the-man-feel-it-still",
+    "artist": "Portugal. The Man",
+    "title": "Feel It Still",
+    "year": 2017,
+    "year_lo": 2017,
+    "year_hi": 2017,
+    "year_label": "2017",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "The band started out in Wasilla, Alaska, and had put out albums for more than a decade before this surprise hit. It won the 2018 Grammy for Best Pop Duo/Group Performance.",
+    "tags": [
+      "2010s",
+      "indie-pop",
+      "funk-pop",
+      "us"
+    ],
+    "track": {
+      "artist": "Portugal. The Man",
+      "title": "Feel It Still",
+      "album": "Woodstock",
+      "duration": "2:43",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Feel_It_Still"
+    ],
+    "notes": "Single Mar 3 2017, album Jun 2017."
+  },
+  {
+    "id": "reg-alvaro-soler-la-cintura",
+    "artist": "Álvaro Soler",
+    "title": "La Cintura",
+    "year": 2018,
+    "year_lo": 2018,
+    "year_hi": 2018,
+    "year_label": "2018",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "The Barcelona-born singer has a Spanish father and a German mother and sings in several languages. The title means the waist and ties to the dance-floor hook.",
+    "tags": [
+      "2010s",
+      "latin-pop",
+      "es"
+    ],
+    "track": {
+      "artist": "Álvaro Soler",
+      "title": "La Cintura",
+      "album": "Mar de colores",
+      "duration": "3:03",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/La_cintura_(song)"
+    ],
+    "notes": "Single 29 Mar 2018, album 7 Sept 2018."
+  },
+  {
+    "id": "reg-lady-gaga-and-bradley-cooper-shallow",
+    "artist": "Lady Gaga & Bradley Cooper",
+    "title": "Shallow",
+    "year": 2018,
+    "year_lo": 2018,
+    "year_hi": 2018,
+    "year_label": "2018",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "The scene in which they sing it was filmed in front of a real festival crowd. It won the Oscar for Best Original Song in 2019.",
+    "tags": [
+      "2010s",
+      "pop",
+      "country-rock",
+      "us"
+    ],
+    "track": {
+      "artist": "Lady Gaga & Bradley Cooper",
+      "title": "Shallow",
+      "album": "A Star Is Born (soundtrack)",
+      "duration": "3:35",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Single Sept 2018, soundtrack Oct 2018."
+  },
+  {
+    "id": "reg-lewis-capaldi-someone-you-loved",
+    "artist": "Lewis Capaldi",
+    "title": "Someone You Loved",
+    "year": 2018,
+    "year_lo": 2018,
+    "year_hi": 2018,
+    "year_label": "2018",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "The Scottish singer's breakthrough hit, it gave him his first UK number one. A raw, piano-led performance made the song stand out.",
+    "tags": [
+      "2010s",
+      "pop",
+      "ballad",
+      "uk"
+    ],
+    "track": {
+      "artist": "Lewis Capaldi",
+      "title": "Someone You Loved",
+      "album": "Divinely Uninspired to a Hellish Extent",
+      "duration": "3:02",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Single 8 Nov 2018, album Mar 2019. Single-first year."
+  },
+  {
+    "id": "reg-billie-eilish-bad-guy",
+    "artist": "Billie Eilish",
+    "title": "Bad Guy",
+    "year": 2019,
+    "year_lo": 2019,
+    "year_hi": 2019,
+    "year_label": "2019",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "Eilish wrote and recorded it with her brother Finneas in his bedroom studio. When it reached number one in the US it ended a record 19-week run at the top by another song.",
+    "tags": [
+      "2010s",
+      "electropop",
+      "alt-pop",
+      "us"
+    ],
+    "track": {
+      "artist": "Billie Eilish",
+      "title": "Bad Guy",
+      "album": "When We All Fall Asleep, Where Do We Go?",
+      "duration": "3:14",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Single and album Mar 29 2019."
+  },
+  {
+    "id": "reg-harry-styles-adore-you",
+    "artist": "Harry Styles",
+    "title": "Adore You",
+    "year": 2019,
+    "year_lo": 2019,
+    "year_hi": 2019,
+    "year_label": "2019",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "The video is set on a fictional island called Eroda. Styles wrote the song with Tyler Johnson and Amy Allen.",
+    "tags": [
+      "2010s",
+      "pop",
+      "pop-rock",
+      "uk"
+    ],
+    "track": {
+      "artist": "Harry Styles",
+      "title": "Adore You",
+      "album": "Fine Line",
+      "duration": "3:27",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Single Dec 6 2019, album Dec 13 2019."
+  },
+  {
+    "id": "reg-harry-styles-watermelon-sugar",
+    "artist": "Harry Styles",
+    "title": "Watermelon Sugar",
+    "year": 2019,
+    "year_lo": 2019,
+    "year_hi": 2019,
+    "year_label": "2019",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "It topped the US chart in 2020 and its beach video carried the dedication to touching. The track makes summery, sun-drenched pop of an ordinary feeling.",
+    "tags": [
+      "2010s",
+      "pop",
+      "soft-rock",
+      "uk"
+    ],
+    "track": {
+      "artist": "Harry Styles",
+      "title": "Watermelon Sugar",
+      "album": "Fine Line",
+      "duration": "2:54",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Album Dec 13 2019, single May 2020. Album-first year. Not on the Hitster NL list; seen on the Hitster Canada edition list."
+  },
+  {
+    "id": "reg-mabel-dont-call-me-up",
+    "artist": "Mabel",
+    "title": "Don't Call Me Up",
+    "year": 2019,
+    "year_lo": 2019,
+    "year_hi": 2019,
+    "year_label": "2019",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "Mabel is the daughter of singer Neneh Cherry and producer Cameron McVey. The song reached number three in the UK.",
+    "tags": [
+      "2010s",
+      "pop",
+      "r&b",
+      "uk"
+    ],
+    "track": {
+      "artist": "Mabel",
+      "title": "Don't Call Me Up",
+      "album": null,
+      "duration": "3:00",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Don%27t_Call_Me_Up"
+    ],
+    "notes": "Single 18 Jan 2019, album High Expectations Aug 2019."
+  },
+  {
+    "id": "reg-shawn-mendes-and-camila-cabello-senorita",
+    "artist": "Shawn Mendes & Camila Cabello",
+    "title": "Señorita",
+    "year": 2019,
+    "year_lo": 2019,
+    "year_hi": 2019,
+    "year_label": "2019",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "It went straight to number one on the US Hot 100, which was Mendes' first chart topper there. The pair's duet combined a Latin-flavoured guitar groove with pop vocals.",
+    "tags": [
+      "2010s",
+      "latin-pop",
+      "us"
+    ],
+    "track": {
+      "artist": "Shawn Mendes & Camila Cabello",
+      "title": "Señorita",
+      "album": null,
+      "duration": "3:10",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Standalone single Jun 2019."
+  },
+  {
+    "id": "reg-the-weeknd-blinding-lights",
+    "artist": "The Weeknd",
+    "title": "Blinding Lights",
+    "year": 2019,
+    "year_lo": 2019,
+    "year_hi": 2019,
+    "year_label": "2019",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "It set a record at the time for the most weeks on the US Hot 100. Its pulsing synths and 1980s polish helped make it a streaming juggernaut.",
+    "tags": [
+      "2010s",
+      "synth-pop",
+      "r&b",
+      "ca"
+    ],
+    "track": {
+      "artist": "The Weeknd",
+      "title": "Blinding Lights",
+      "album": "After Hours",
+      "duration": "3:20",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Single Nov 29 2019, album After Hours Mar 2020. Single-first year; Hitster NL lists 2020. Hitster NL list shows 2020; card uses 2019."
+  },
+  {
+    "id": "reg-tones-and-i-dance-monkey",
+    "artist": "Tones And I",
+    "title": "Dance Monkey",
+    "year": 2019,
+    "year_lo": 2019,
+    "year_hi": 2019,
+    "year_label": "2019",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "Toni Watson was a street busker in Byron Bay before this became one of the longest-charting hits ever. A piano-led hook and her distinctive voice made it a streaming giant.",
+    "tags": [
+      "2010s",
+      "pop",
+      "electropop",
+      "au"
+    ],
+    "track": {
+      "artist": "Tones And I",
+      "title": "Dance Monkey",
+      "album": "The Kids Are Coming",
+      "duration": "3:29",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Single May 2019, EP Aug 2019."
+  }
+]

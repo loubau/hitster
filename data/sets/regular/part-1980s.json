@@ -1,0 +1,1530 @@
+[
+  {
+    "id": "reg-diana-ross-upside-down",
+    "artist": "Diana Ross",
+    "title": "Upside Down",
+    "year": 1980,
+    "year_lo": 1980,
+    "year_hi": 1980,
+    "year_label": "1980",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "Nile Rodgers and Bernard Edwards of Chic wrote and produced it, but Diana Ross disliked their mix and had it remixed, which soured the collaboration.",
+    "tags": [
+      "1980s",
+      "disco",
+      "soul",
+      "us"
+    ],
+    "track": {
+      "artist": "Diana Ross",
+      "title": "Upside Down",
+      "album": "Diana",
+      "duration": "4:05",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Single Jul 1980; album Diana (May 1980)."
+  },
+  {
+    "id": "reg-kool-and-the-gang-celebration",
+    "artist": "Kool & The Gang",
+    "title": "Celebration",
+    "year": 1980,
+    "year_lo": 1980,
+    "year_hi": 1980,
+    "year_label": "1980",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "The song became an anthem of the early-1981 return of the American hostages from Iran, soon after its release.",
+    "tags": [
+      "1980s",
+      "funk",
+      "disco",
+      "us"
+    ],
+    "track": {
+      "artist": "Kool & The Gang",
+      "title": "Celebration",
+      "album": "Celebrate!",
+      "duration": "3:45",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": null
+  },
+  {
+    "id": "reg-journey-dont-stop-believin",
+    "artist": "Journey",
+    "title": "Don't Stop Believin'",
+    "year": 1981,
+    "year_lo": 1981,
+    "year_hi": 1981,
+    "year_label": "1981",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "The title line does not arrive until the final minute of the song, which is unusual for a chorus-driven hit.",
+    "tags": [
+      "1980s",
+      "rock",
+      "arena-rock",
+      "us"
+    ],
+    "track": {
+      "artist": "Journey",
+      "title": "Don't Stop Believin'",
+      "album": "Escape",
+      "duration": "4:10",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Album Jul 1981; single Oct 1981."
+  },
+  {
+    "id": "reg-queen-and-david-bowie-under-pressure",
+    "artist": "Queen & David Bowie",
+    "title": "Under Pressure",
+    "year": 1981,
+    "year_lo": 1981,
+    "year_hi": 1981,
+    "year_label": "1981",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "Bowie dropped in on a Queen session in Switzerland and the two acts built the song on the spot. The bass line, by John Deacon, is the hook.",
+    "tags": [
+      "1980s",
+      "rock",
+      "pop",
+      "uk"
+    ],
+    "track": {
+      "artist": "Queen & David Bowie",
+      "title": "Under Pressure",
+      "album": null,
+      "duration": "4:04",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Single Oct 1981; the album Hot Space came out in May 1982."
+  },
+  {
+    "id": "reg-rick-james-super-freak",
+    "artist": "Rick James",
+    "title": "Super Freak",
+    "year": 1981,
+    "year_lo": 1981,
+    "year_hi": 1981,
+    "year_label": "1981",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "Its bass riff was sampled for a worldwide rap hit in 1990.",
+    "tags": [
+      "1980s",
+      "funk",
+      "us"
+    ],
+    "track": {
+      "artist": "Rick James",
+      "title": "Super Freak",
+      "album": "Street Songs",
+      "duration": "3:24",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Album Apr 1981; single Jul 1981."
+  },
+  {
+    "id": "reg-the-human-league-dont-you-want-me",
+    "artist": "The Human League",
+    "title": "Don't You Want Me",
+    "year": 1981,
+    "year_lo": 1981,
+    "year_hi": 1981,
+    "year_label": "1981",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "Phil Oakey drew the story from a photo-strip in a teen magazine. The band doubted it was single material, but their label pushed for it.",
+    "tags": [
+      "1980s",
+      "synth-pop",
+      "uk"
+    ],
+    "track": {
+      "artist": "The Human League",
+      "title": "Don't You Want Me",
+      "album": "Dare",
+      "duration": "3:57",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Album Oct 1981; single Nov 1981."
+  },
+  {
+    "id": "reg-the-rolling-stones-start-me-up",
+    "artist": "The Rolling Stones",
+    "title": "Start Me Up",
+    "year": 1981,
+    "year_lo": 1981,
+    "year_hi": 1981,
+    "year_label": "1981",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "It began in the late 1970s as a reggae-tinged outtake and was reworked into a riff-driven rock song for Tattoo You.",
+    "tags": [
+      "1980s",
+      "rock",
+      "uk"
+    ],
+    "track": {
+      "artist": "The Rolling Stones",
+      "title": "Start Me Up",
+      "album": "Tattoo You",
+      "duration": "3:33",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": null
+  },
+  {
+    "id": "reg-daryl-hall-and-john-oates-maneater",
+    "artist": "Daryl Hall & John Oates",
+    "title": "Maneater",
+    "year": 1982,
+    "year_lo": 1982,
+    "year_hi": 1982,
+    "year_label": "1982",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "The saxophone riff, played by the duo's longtime sax man Charlie DeChant, is the hook of the song.",
+    "tags": [
+      "1980s",
+      "pop",
+      "soul",
+      "us"
+    ],
+    "track": {
+      "artist": "Daryl Hall & John Oates",
+      "title": "Maneater",
+      "album": "H2O",
+      "duration": "4:34",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": null
+  },
+  {
+    "id": "reg-kc-and-the-sunshine-band-give-it-up",
+    "artist": "KC and the Sunshine Band",
+    "title": "Give It Up",
+    "year": 1982,
+    "year_lo": 1982,
+    "year_hi": 1982,
+    "year_label": "1982",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "The single flopped on first release, but after a re-release it went to number one in the UK in 1983.",
+    "tags": [
+      "1980s",
+      "disco",
+      "pop",
+      "us"
+    ],
+    "track": {
+      "artist": "KC and the Sunshine Band",
+      "title": "Give It Up",
+      "album": "All in a Night's Work",
+      "duration": "3:45",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "medium",
+    "sources": [],
+    "notes": "First UK single 1982 (Epic) per Discogs; Wikipedia's infobox says 1983. UK chart-topper came in Aug 1983 after the KC Ten re-release. Hitster NL lists 1982."
+  },
+  {
+    "id": "reg-michael-jackson-billie-jean",
+    "artist": "Michael Jackson",
+    "title": "Billie Jean",
+    "year": 1982,
+    "year_lo": 1982,
+    "year_hi": 1982,
+    "year_label": "1982",
+    "region": "intl",
+    "in_original_hitster": false,
+    "trivia": "Michael Jackson first performed the moonwalk to this song on a 1983 TV special.",
+    "tags": [
+      "1980s",
+      "pop",
+      "funk",
+      "us"
+    ],
+    "track": {
+      "artist": "Michael Jackson",
+      "title": "Billie Jean",
+      "album": "Thriller",
+      "duration": "4:54",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Album Nov 1982; single Jan 1983. Not seen on any consulted Hitster edition list (NL, DE, FR, CA, Nordics); added for recognisability and decade balance."
+  },
+  {
+    "id": "reg-toto-africa",
+    "artist": "Toto",
+    "title": "Africa",
+    "year": 1982,
+    "year_lo": 1982,
+    "year_hi": 1982,
+    "year_label": "1982",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "David Paich wrote it after watching a documentary about the continent, and none of the band had ever been there.",
+    "tags": [
+      "1980s",
+      "rock",
+      "us"
+    ],
+    "track": {
+      "artist": "Toto",
+      "title": "Africa",
+      "album": "Toto IV",
+      "duration": "4:55",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Album Apr 1982; single Sept 1982."
+  },
+  {
+    "id": "reg-yazoo-dont-go",
+    "artist": "Yazoo",
+    "title": "Don't Go",
+    "year": 1982,
+    "year_lo": 1982,
+    "year_hi": 1982,
+    "year_label": "1982",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "Yazoo paired Vince Clarke, who had left Depeche Mode, with Alison Moyet, a powerful blues-influenced singer from Essex.",
+    "tags": [
+      "1980s",
+      "synth-pop",
+      "uk"
+    ],
+    "track": {
+      "artist": "Yazoo",
+      "title": "Don't Go",
+      "album": "Upstairs at Eric's",
+      "duration": "3:05",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Single Jul 1982; album Aug 1982."
+  },
+  {
+    "id": "reg-bryan-adams-heaven",
+    "artist": "Bryan Adams",
+    "title": "Heaven",
+    "year": 1983,
+    "year_lo": 1983,
+    "year_hi": 1983,
+    "year_label": "1983",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "Bryan Adams wrote it with Jim Vallance for a film, and it stayed soundtrack-only until it was included on his next album. It reached number one in the US in 1985.",
+    "tags": [
+      "1980s",
+      "rock",
+      "ballad",
+      "ca"
+    ],
+    "track": {
+      "artist": "Bryan Adams",
+      "title": "Heaven",
+      "album": "A Night in Heaven (Original Motion Picture Soundtrack)",
+      "duration": "4:04",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Heaven_(Bryan_Adams_song)"
+    ],
+    "notes": "First released on the 1983 soundtrack of the film A Night in Heaven; same recording was on Reckless (Nov 1984) and issued as a single Apr 1985. Hitster NL lists 1984. Album-first rule gives 1983. Hitster NL list shows 1984; card uses 1983."
+  },
+  {
+    "id": "reg-culture-club-karma-chameleon",
+    "artist": "Culture Club",
+    "title": "Karma Chameleon",
+    "year": 1983,
+    "year_lo": 1983,
+    "year_hi": 1983,
+    "year_label": "1983",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "It spent six weeks at number one in the UK and was Culture Club's biggest-selling single.",
+    "tags": [
+      "1980s",
+      "pop",
+      "new-romantic",
+      "uk"
+    ],
+    "track": {
+      "artist": "Culture Club",
+      "title": "Karma Chameleon",
+      "album": "Colour by Numbers",
+      "duration": "4:03",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Single Sept 1983; album Oct 1983. Not on the Hitster NL list; seen on the Hitster Germany edition list."
+  },
+  {
+    "id": "reg-eurythmics-sweet-dreams-are-made-of-this",
+    "artist": "Eurythmics",
+    "title": "Sweet Dreams (Are Made of This)",
+    "year": 1983,
+    "year_lo": 1983,
+    "year_hi": 1983,
+    "year_label": "1983",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "Dave Stewart built the pulsing synth riff in a cramped studio above a picture framer's in north London. Annie Lennox's cropped orange hair became part of the look.",
+    "tags": [
+      "1980s",
+      "synth-pop",
+      "uk"
+    ],
+    "track": {
+      "artist": "Eurythmics",
+      "title": "Sweet Dreams (Are Made of This)",
+      "album": "Sweet Dreams (Are Made of This)",
+      "duration": "3:36",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Single Jan 1983; album Mar 1983."
+  },
+  {
+    "id": "reg-rufus-and-chaka-khan-aint-nobody",
+    "artist": "Rufus & Chaka Khan",
+    "title": "Ain't Nobody",
+    "year": 1983,
+    "year_lo": 1983,
+    "year_hi": 1983,
+    "year_label": "1983",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "It is a studio track added to Rufus and Chaka Khan's live album. It won a Grammy for best R&B performance by a duo or group.",
+    "tags": [
+      "1980s",
+      "funk",
+      "soul",
+      "us"
+    ],
+    "track": {
+      "artist": "Rufus & Chaka Khan",
+      "title": "Ain't Nobody",
+      "album": "Stompin' at the Savoy",
+      "duration": "4:40",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "First released on the live album Stompin' at the Savoy (1983) as a new studio recording."
+  },
+  {
+    "id": "reg-the-police-every-breath-you-take",
+    "artist": "The Police",
+    "title": "Every Breath You Take",
+    "year": 1983,
+    "year_lo": 1983,
+    "year_hi": 1983,
+    "year_label": "1983",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "Sting wrote it at Ian Fleming's former home in Jamaica. He has said the song is much darker than its gentle sound suggests, being about jealousy and surveillance.",
+    "tags": [
+      "1980s",
+      "rock",
+      "pop",
+      "uk"
+    ],
+    "track": {
+      "artist": "The Police",
+      "title": "Every Breath You Take",
+      "album": "Synchronicity",
+      "duration": "4:13",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": null
+  },
+  {
+    "id": "reg-bronski-beat-smalltown-boy",
+    "artist": "Bronski Beat",
+    "title": "Smalltown Boy",
+    "year": 1984,
+    "year_lo": 1984,
+    "year_hi": 1984,
+    "year_label": "1984",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "Jimmy Somerville's falsetto carries the story of a gay teenager who leaves home for the city.",
+    "tags": [
+      "1980s",
+      "synth-pop",
+      "uk"
+    ],
+    "track": {
+      "artist": "Bronski Beat",
+      "title": "Smalltown Boy",
+      "album": "The Age of Consent",
+      "duration": "4:58",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Single May 1984; album Oct 1984."
+  },
+  {
+    "id": "reg-bruce-springsteen-dancing-in-the-dark",
+    "artist": "Bruce Springsteen",
+    "title": "Dancing in the Dark",
+    "year": 1984,
+    "year_lo": 1984,
+    "year_hi": 1984,
+    "year_label": "1984",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "Springsteen wrote it in one night after his manager said the album still lacked a strong single.",
+    "tags": [
+      "1980s",
+      "rock",
+      "us"
+    ],
+    "track": {
+      "artist": "Bruce Springsteen",
+      "title": "Dancing in the Dark",
+      "album": "Born in the U.S.A.",
+      "duration": "4:01",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Single May 1984; album Jun 1984."
+  },
+  {
+    "id": "reg-laura-branigan-self-control",
+    "artist": "Laura Branigan",
+    "title": "Self Control",
+    "year": 1984,
+    "year_lo": 1984,
+    "year_hi": 1984,
+    "year_label": "1984",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "The song was first recorded in Italian by Raf. Laura Branigan's English version became an international hit.",
+    "tags": [
+      "1980s",
+      "pop",
+      "synth-pop",
+      "us"
+    ],
+    "track": {
+      "artist": "Laura Branigan",
+      "title": "Self Control",
+      "album": "Self Control",
+      "duration": "4:08",
+      "isrc": null,
+      "notes": "Laura Branigan version, not Raf."
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Cover of Raf (1984), but Branigan's is the famous version. Single Apr 1984; album Jun 1984."
+  },
+  {
+    "id": "reg-limahl-the-neverending-story",
+    "artist": "Limahl",
+    "title": "The NeverEnding Story",
+    "year": 1984,
+    "year_lo": 1984,
+    "year_hi": 1984,
+    "year_label": "1984",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "Giorgio Moroder and Keith Forsey wrote the film theme, and Limahl, formerly of Kajagoogoo, sang it.",
+    "tags": [
+      "1980s",
+      "pop",
+      "synth-pop",
+      "uk"
+    ],
+    "track": {
+      "artist": "Limahl",
+      "title": "The NeverEnding Story",
+      "album": "The NeverEnding Story (Original Motion Picture Soundtrack)",
+      "duration": "3:30",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Credited to Limahl. A duet version with Beth Anderson appears on the soundtrack."
+  },
+  {
+    "id": "reg-prince-purple-rain",
+    "artist": "Prince",
+    "title": "Purple Rain",
+    "year": 1984,
+    "year_lo": 1984,
+    "year_hi": 1984,
+    "year_label": "1984",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "The basic track was recorded live at a benefit concert at First Avenue in Minneapolis, then reworked in the studio.",
+    "tags": [
+      "1980s",
+      "rock",
+      "pop",
+      "us"
+    ],
+    "track": {
+      "artist": "Prince",
+      "title": "Purple Rain",
+      "album": "Purple Rain",
+      "duration": "8:41",
+      "isrc": null,
+      "notes": "Prefer the 8:41 album version."
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Album Jun 1984; single (edit) Sept 1984. Album version preferred."
+  },
+  {
+    "id": "reg-tears-for-fears-shout",
+    "artist": "Tears for Fears",
+    "title": "Shout",
+    "year": 1984,
+    "year_lo": 1984,
+    "year_hi": 1984,
+    "year_label": "1984",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "Roland Orzabal has said the lyric is about protest. The band took its name from the primal-scream therapy that influenced him.",
+    "tags": [
+      "1980s",
+      "new-wave",
+      "uk"
+    ],
+    "track": {
+      "artist": "Tears for Fears",
+      "title": "Shout",
+      "album": "Songs from the Big Chair",
+      "duration": "6:32",
+      "isrc": null,
+      "notes": "Album version (about 6:32)."
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Single Nov 1984; album Feb 1985. Album version is longer than the 7-inch."
+  },
+  {
+    "id": "reg-a-ha-take-on-me",
+    "artist": "a-ha",
+    "title": "Take On Me",
+    "year": 1985,
+    "year_lo": 1985,
+    "year_hi": 1985,
+    "year_label": "1985",
+    "region": "intl",
+    "in_original_hitster": false,
+    "trivia": "The song's pencil-sketch animated video is as famous as the tune. A first version recorded in 1984 flopped before the band re-recorded it.",
+    "tags": [
+      "1980s",
+      "synth-pop",
+      "no"
+    ],
+    "track": {
+      "artist": "a-ha",
+      "title": "Take On Me",
+      "album": "Hunting High and Low",
+      "duration": "3:46",
+      "isrc": null,
+      "notes": "The 1985 version, not the 1984 original recording."
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "The famous recording is the 1985 re-recorded version; an earlier 1984 recording was a flop. Not seen on any consulted Hitster edition list (NL, DE, FR, CA, Nordics); added for recognisability and decade balance."
+  },
+  {
+    "id": "reg-dire-straits-walk-of-life",
+    "artist": "Dire Straits",
+    "title": "Walk of Life",
+    "year": 1985,
+    "year_lo": 1985,
+    "year_hi": 1985,
+    "year_label": "1985",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "Its organ-driven rockabilly shuffle name-checks old rock and roll heroes in the lyric.",
+    "tags": [
+      "1980s",
+      "rock",
+      "uk"
+    ],
+    "track": {
+      "artist": "Dire Straits",
+      "title": "Walk of Life",
+      "album": "Brothers in Arms",
+      "duration": "4:12",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Album May 1985; single Nov 1985."
+  },
+  {
+    "id": "reg-simply-red-holding-back-the-years",
+    "artist": "Simply Red",
+    "title": "Holding Back the Years",
+    "year": 1985,
+    "year_lo": 1985,
+    "year_hi": 1985,
+    "year_label": "1985",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "Mick Hucknall wrote it as a teenager, drawing on his mother leaving the family when he was three.",
+    "tags": [
+      "1980s",
+      "soul",
+      "pop",
+      "uk"
+    ],
+    "track": {
+      "artist": "Simply Red",
+      "title": "Holding Back the Years",
+      "album": "Picture Book",
+      "duration": "4:36",
+      "isrc": null,
+      "notes": "Prefer the Picture Book recording."
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Original 1985 recording; a re-recorded version was issued in 1986. Hitster NL lists 1985."
+  },
+  {
+    "id": "reg-the-waterboys-the-whole-of-the-moon",
+    "artist": "The Waterboys",
+    "title": "The Whole of the Moon",
+    "year": 1985,
+    "year_lo": 1985,
+    "year_hi": 1985,
+    "year_label": "1985",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "It charted only modestly on first release, but a re-release in 1991 made it a UK top-five hit.",
+    "tags": [
+      "1980s",
+      "rock",
+      "folk-rock",
+      "uk"
+    ],
+    "track": {
+      "artist": "The Waterboys",
+      "title": "The Whole of the Moon",
+      "album": "This Is the Sea",
+      "duration": "4:19",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": null
+  },
+  {
+    "id": "reg-bon-jovi-livin-on-a-prayer",
+    "artist": "Bon Jovi",
+    "title": "Livin' on a Prayer",
+    "year": 1986,
+    "year_lo": 1986,
+    "year_hi": 1986,
+    "year_label": "1986",
+    "region": "intl",
+    "in_original_hitster": false,
+    "trivia": "The song's talk-box guitar effect is one of its signature sounds.",
+    "tags": [
+      "1980s",
+      "rock",
+      "us"
+    ],
+    "track": {
+      "artist": "Bon Jovi",
+      "title": "Livin' on a Prayer",
+      "album": "Slippery When Wet",
+      "duration": "4:09",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Album Aug 1986; single Oct 1986. Not seen on any consulted Hitster edition list (NL, DE, FR, CA, Nordics); added for recognisability and decade balance."
+  },
+  {
+    "id": "reg-crowded-house-dont-dream-its-over",
+    "artist": "Crowded House",
+    "title": "Don't Dream It's Over",
+    "year": 1986,
+    "year_lo": 1986,
+    "year_hi": 1986,
+    "year_label": "1986",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "Neil Finn's ballad was the band's biggest US hit, helped by producer Mitchell Froom's organ.",
+    "tags": [
+      "1980s",
+      "pop",
+      "rock",
+      "au"
+    ],
+    "track": {
+      "artist": "Crowded House",
+      "title": "Don't Dream It's Over",
+      "album": "Crowded House",
+      "duration": "3:58",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Album Aug 1986; single Oct 1986."
+  },
+  {
+    "id": "reg-cyndi-lauper-true-colors",
+    "artist": "Cyndi Lauper",
+    "title": "True Colors",
+    "year": 1986,
+    "year_lo": 1986,
+    "year_hi": 1986,
+    "year_label": "1986",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "Billy Steinberg and Tom Kelly wrote it. Cyndi Lauper rewrote part of the lyric and slowed the song down to make it her own.",
+    "tags": [
+      "1980s",
+      "pop",
+      "ballad",
+      "us"
+    ],
+    "track": {
+      "artist": "Cyndi Lauper",
+      "title": "True Colors",
+      "album": "True Colors",
+      "duration": "3:46",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": null
+  },
+  {
+    "id": "reg-europe-the-final-countdown",
+    "artist": "Europe",
+    "title": "The Final Countdown",
+    "year": 1986,
+    "year_lo": 1986,
+    "year_hi": 1986,
+    "year_label": "1986",
+    "region": "intl",
+    "in_original_hitster": false,
+    "trivia": "Joey Tempest has said David Bowie's space-travel song inspired the idea, and the synthesizer fanfare is what everyone remembers.",
+    "tags": [
+      "1980s",
+      "rock",
+      "hard-rock",
+      "se"
+    ],
+    "track": {
+      "artist": "Europe",
+      "title": "The Final Countdown",
+      "album": "The Final Countdown",
+      "duration": "5:10",
+      "isrc": null,
+      "notes": "Album version."
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Single and album both 1986. Album version preferred (the single edit is shorter). Not seen on any consulted Hitster edition list (NL, DE, FR, CA, Nordics); added for recognisability and decade balance."
+  },
+  {
+    "id": "reg-george-michael-and-aretha-franklin-i-knew-you-were-waiting-for-me",
+    "artist": "George Michael & Aretha Franklin",
+    "title": "I Knew You Were Waiting (For Me)",
+    "year": 1986,
+    "year_lo": 1986,
+    "year_hi": 1986,
+    "year_label": "1986",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "Aretha Franklin and George Michael recorded it as a duet. It was her only UK number one.",
+    "tags": [
+      "1980s",
+      "pop",
+      "soul",
+      "uk"
+    ],
+    "track": {
+      "artist": "George Michael & Aretha Franklin",
+      "title": "I Knew You Were Waiting (For Me)",
+      "album": "Aretha",
+      "duration": "4:01",
+      "isrc": null,
+      "notes": "Original duet version."
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/I_Knew_You_Were_Waiting_(For_Me)"
+    ],
+    "notes": "On Franklin's album Aretha (1986), single Jan 1987. Album-first rule gives 1986; Hitster NL lists 1987. Hitster NL list shows 1987; card uses 1986."
+  },
+  {
+    "id": "reg-lionel-richie-dancing-on-the-ceiling",
+    "artist": "Lionel Richie",
+    "title": "Dancing on the Ceiling",
+    "year": 1986,
+    "year_lo": 1986,
+    "year_hi": 1986,
+    "year_label": "1986",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "The video, with Lionel Richie dancing around a room, was inspired by a classic Fred Astaire film routine.",
+    "tags": [
+      "1980s",
+      "pop",
+      "us"
+    ],
+    "track": {
+      "artist": "Lionel Richie",
+      "title": "Dancing on the Ceiling",
+      "album": "Dancing on the Ceiling",
+      "duration": "4:20",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": null
+  },
+  {
+    "id": "reg-paul-simon-you-can-call-me-al",
+    "artist": "Paul Simon",
+    "title": "You Can Call Me Al",
+    "year": 1986,
+    "year_lo": 1986,
+    "year_hi": 1986,
+    "year_label": "1986",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "Simon has said the title came from a party where the composer Pierre Boulez mistakenly called him Al.",
+    "tags": [
+      "1980s",
+      "pop",
+      "world",
+      "us"
+    ],
+    "track": {
+      "artist": "Paul Simon",
+      "title": "You Can Call Me Al",
+      "album": "Graceland",
+      "duration": "4:40",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": null
+  },
+  {
+    "id": "reg-the-bangles-manic-monday",
+    "artist": "The Bangles",
+    "title": "Manic Monday",
+    "year": 1986,
+    "year_lo": 1986,
+    "year_hi": 1986,
+    "year_label": "1986",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "Prince wrote it under the pseudonym Christopher and gave it to the Bangles.",
+    "tags": [
+      "1980s",
+      "pop",
+      "rock",
+      "us"
+    ],
+    "track": {
+      "artist": "The Bangles",
+      "title": "Manic Monday",
+      "album": "Different Light",
+      "duration": "3:05",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Manic_Monday"
+    ],
+    "notes": "Wikipedia infobox gives a single release of 23 Dec 1985; the album and most other sources say Jan 1986. Card uses 1986, so treat as a year-boundary case."
+  },
+  {
+    "id": "reg-bill-medley-and-jennifer-warnes-ive-had-the-time-of-my-life",
+    "artist": "Bill Medley & Jennifer Warnes",
+    "title": "(I've Had) the Time of My Life",
+    "year": 1987,
+    "year_lo": 1987,
+    "year_hi": 1987,
+    "year_label": "1987",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "It won both an Oscar and a Grammy and became inseparable from the final dance scene of Dirty Dancing.",
+    "tags": [
+      "1980s",
+      "pop",
+      "soundtrack",
+      "us"
+    ],
+    "track": {
+      "artist": "Bill Medley & Jennifer Warnes",
+      "title": "(I've Had) the Time of My Life",
+      "album": "Dirty Dancing (Original Motion Picture Soundtrack)",
+      "duration": "4:47",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": null
+  },
+  {
+    "id": "reg-fleetwood-mac-everywhere",
+    "artist": "Fleetwood Mac",
+    "title": "Everywhere",
+    "year": 1987,
+    "year_lo": 1987,
+    "year_hi": 1987,
+    "year_label": "1987",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "Christine McVie wrote and sang it, and it became one of the band's biggest 1980s hits in the UK.",
+    "tags": [
+      "1980s",
+      "pop",
+      "rock",
+      "uk"
+    ],
+    "track": {
+      "artist": "Fleetwood Mac",
+      "title": "Everywhere",
+      "album": "Tango in the Night",
+      "duration": "3:41",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": null
+  },
+  {
+    "id": "reg-george-michael-faith",
+    "artist": "George Michael",
+    "title": "Faith",
+    "year": 1987,
+    "year_lo": 1987,
+    "year_hi": 1987,
+    "year_label": "1987",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "The track opens with a church organ and then rolls into a Bo Diddley-style beat. It was the biggest-selling US single of 1988.",
+    "tags": [
+      "1980s",
+      "pop",
+      "uk"
+    ],
+    "track": {
+      "artist": "George Michael",
+      "title": "Faith",
+      "album": "Faith",
+      "duration": "3:13",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Not on the Hitster NL list; seen on the Hitster Canada edition list."
+  },
+  {
+    "id": "reg-guns-n-roses-sweet-child-o-mine",
+    "artist": "Guns N' Roses",
+    "title": "Sweet Child o' Mine",
+    "year": 1987,
+    "year_lo": 1987,
+    "year_hi": 1987,
+    "year_label": "1987",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "Slash's riff started life as a finger exercise, and Axl Rose wrote the lyrics about his girlfriend of the time.",
+    "tags": [
+      "1980s",
+      "hard-rock",
+      "us"
+    ],
+    "track": {
+      "artist": "Guns N' Roses",
+      "title": "Sweet Child o' Mine",
+      "album": "Appetite for Destruction",
+      "duration": "5:56",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Album Jul 1987; single Aug 1988."
+  },
+  {
+    "id": "reg-rick-astley-never-gonna-give-you-up",
+    "artist": "Rick Astley",
+    "title": "Never Gonna Give You Up",
+    "year": 1987,
+    "year_lo": 1987,
+    "year_hi": 1987,
+    "year_label": "1987",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "It was written and produced by Stock Aitken Waterman, and decades later became a famous internet prank.",
+    "tags": [
+      "1980s",
+      "pop",
+      "dance-pop",
+      "uk"
+    ],
+    "track": {
+      "artist": "Rick Astley",
+      "title": "Never Gonna Give You Up",
+      "album": "Whenever You Need Somebody",
+      "duration": "3:32",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": null
+  },
+  {
+    "id": "reg-tpau-china-in-your-hand",
+    "artist": "T'Pau",
+    "title": "China in Your Hand",
+    "year": 1987,
+    "year_lo": 1987,
+    "year_hi": 1987,
+    "year_label": "1987",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "The lyric draws on Mary Shelley's Frankenstein, and the single spent five weeks at number one in the UK.",
+    "tags": [
+      "1980s",
+      "pop",
+      "rock",
+      "uk"
+    ],
+    "track": {
+      "artist": "T'Pau",
+      "title": "China in Your Hand",
+      "album": "Bridge of Spies",
+      "duration": "4:35",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": null
+  },
+  {
+    "id": "reg-u2-with-or-without-you",
+    "artist": "U2",
+    "title": "With or Without You",
+    "year": 1987,
+    "year_lo": 1987,
+    "year_hi": 1987,
+    "year_label": "1987",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "The shimmering guitar sound was made with the Infinite Guitar, a gadget created by Michael Brook.",
+    "tags": [
+      "1980s",
+      "rock",
+      "ie"
+    ],
+    "track": {
+      "artist": "U2",
+      "title": "With or Without You",
+      "album": "The Joshua Tree",
+      "duration": "4:56",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Not on the Hitster NL list; seen on the Hitster Canada edition list."
+  },
+  {
+    "id": "reg-whitney-houston-i-wanna-dance-with-somebody-who-loves-me",
+    "artist": "Whitney Houston",
+    "title": "I Wanna Dance with Somebody (Who Loves Me)",
+    "year": 1987,
+    "year_lo": 1987,
+    "year_hi": 1987,
+    "year_label": "1987",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "Written by George Merrill and Shannon Rubicam, it gave Whitney Houston her first UK number one.",
+    "tags": [
+      "1980s",
+      "pop",
+      "dance-pop",
+      "us"
+    ],
+    "track": {
+      "artist": "Whitney Houston",
+      "title": "I Wanna Dance with Somebody (Who Loves Me)",
+      "album": "Whitney",
+      "duration": "4:52",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": null
+  },
+  {
+    "id": "reg-eddy-grant-gimme-hope-joanna",
+    "artist": "Eddy Grant",
+    "title": "Gimme Hope Jo'anna",
+    "year": 1988,
+    "year_lo": 1988,
+    "year_hi": 1988,
+    "year_label": "1988",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "It is an anti-apartheid protest song disguised as a pop tune, with Jo'anna standing for Johannesburg. It was banned in South Africa.",
+    "tags": [
+      "1980s",
+      "reggae",
+      "pop",
+      "uk"
+    ],
+    "track": {
+      "artist": "Eddy Grant",
+      "title": "Gimme Hope Jo'anna",
+      "album": "File Under Rock",
+      "duration": "3:25",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": null
+  },
+  {
+    "id": "reg-enya-orinoco-flow-sail-away",
+    "artist": "Enya",
+    "title": "Orinoco Flow (Sail Away)",
+    "year": 1988,
+    "year_lo": 1988,
+    "year_hi": 1988,
+    "year_label": "1988",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "Enya's layered, choir-like vocals made this a surprise UK number one.",
+    "tags": [
+      "1980s",
+      "new-age",
+      "pop",
+      "ie"
+    ],
+    "track": {
+      "artist": "Enya",
+      "title": "Orinoco Flow (Sail Away)",
+      "album": "Watermark",
+      "duration": "4:26",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Single Oct 1988; album Sept 1988."
+  },
+  {
+    "id": "reg-neneh-cherry-buffalo-stance",
+    "artist": "Neneh Cherry",
+    "title": "Buffalo Stance",
+    "year": 1988,
+    "year_lo": 1988,
+    "year_hi": 1988,
+    "year_label": "1988",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "Neneh Cherry performed it on Top of the Pops while seriously pregnant.",
+    "tags": [
+      "1980s",
+      "hip-hop",
+      "pop",
+      "uk"
+    ],
+    "track": {
+      "artist": "Neneh Cherry",
+      "title": "Buffalo Stance",
+      "album": null,
+      "duration": "4:38",
+      "isrc": null,
+      "notes": "The 1988 Bomb the Bass-produced version."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Buffalo_Stance"
+    ],
+    "notes": "Single 28 Nov 1988; album Raw Like Sushi came in 1989. A different 1986 version was a B-side that went unnoticed."
+  },
+  {
+    "id": "reg-roxette-the-look",
+    "artist": "Roxette",
+    "title": "The Look",
+    "year": 1988,
+    "year_lo": 1988,
+    "year_hi": 1988,
+    "year_label": "1988",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "Its US breakthrough began when a Swedish exchange student took the album to a Minneapolis radio station.",
+    "tags": [
+      "1980s",
+      "pop",
+      "rock",
+      "se"
+    ],
+    "track": {
+      "artist": "Roxette",
+      "title": "The Look",
+      "album": "Look Sharp!",
+      "duration": "3:56",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": null
+  },
+  {
+    "id": "reg-tracy-chapman-fast-car",
+    "artist": "Tracy Chapman",
+    "title": "Fast Car",
+    "year": 1988,
+    "year_lo": 1988,
+    "year_hi": 1988,
+    "year_label": "1988",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "Chapman's star rose after a fill-in set at the 1988 Nelson Mandela tribute concert at Wembley.",
+    "tags": [
+      "1980s",
+      "folk",
+      "singer-songwriter",
+      "us"
+    ],
+    "track": {
+      "artist": "Tracy Chapman",
+      "title": "Fast Car",
+      "album": "Tracy Chapman",
+      "duration": "4:57",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": null
+  },
+  {
+    "id": "reg-gipsy-kings-volare-nel-blu-dipinto-di-blu",
+    "artist": "Gipsy Kings",
+    "title": "Volare (Nel blu dipinto di blu)",
+    "year": 1989,
+    "year_lo": 1989,
+    "year_hi": 1989,
+    "year_label": "1989",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "The Gipsy Kings gave Domenico Modugno's 1958 Italian hit a flamenco-rumba makeover.",
+    "tags": [
+      "1980s",
+      "flamenco",
+      "rumba",
+      "fr"
+    ],
+    "track": {
+      "artist": "Gipsy Kings",
+      "title": "Volare (Nel blu dipinto di blu)",
+      "album": "Mosaïque",
+      "duration": "3:30",
+      "isrc": null,
+      "notes": "Gipsy Kings version, not Modugno."
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Cover of Domenico Modugno (1958), but this version is the one on the card."
+  },
+  {
+    "id": "reg-kaoma-lambada",
+    "artist": "Kaoma",
+    "title": "Lambada",
+    "year": 1989,
+    "year_lo": 1989,
+    "year_hi": 1989,
+    "year_label": "1989",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "The melody was lifted from a Bolivian song, which led to legal action. The song then sparked a worldwide dance craze.",
+    "tags": [
+      "1980s",
+      "world",
+      "latin",
+      "fr"
+    ],
+    "track": {
+      "artist": "Kaoma",
+      "title": "Lambada",
+      "album": "World Beat",
+      "duration": "3:27",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Single Jul 1989."
+  },
+  {
+    "id": "reg-richard-marx-right-here-waiting",
+    "artist": "Richard Marx",
+    "title": "Right Here Waiting",
+    "year": 1989,
+    "year_lo": 1989,
+    "year_hi": 1989,
+    "year_label": "1989",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "Richard Marx wrote it for his wife, the actress Cynthia Rhodes, while she was away filming in Indonesia.",
+    "tags": [
+      "1980s",
+      "pop",
+      "ballad",
+      "us"
+    ],
+    "track": {
+      "artist": "Richard Marx",
+      "title": "Right Here Waiting",
+      "album": "Repeat Offender",
+      "duration": "4:23",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": null
+  },
+  {
+    "id": "reg-simple-minds-belfast-child",
+    "artist": "Simple Minds",
+    "title": "Belfast Child",
+    "year": 1989,
+    "year_lo": 1989,
+    "year_hi": 1989,
+    "year_label": "1989",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "The song was inspired by the 1987 Enniskillen bombing and is built on a traditional Irish melody.",
+    "tags": [
+      "1980s",
+      "rock",
+      "uk"
+    ],
+    "track": {
+      "artist": "Simple Minds",
+      "title": "Belfast Child",
+      "album": null,
+      "duration": "6:40",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Single Jan 1989; album appearances are later compilations."
+  },
+  {
+    "id": "reg-tina-turner-the-best",
+    "artist": "Tina Turner",
+    "title": "The Best",
+    "year": 1989,
+    "year_lo": 1989,
+    "year_hi": 1989,
+    "year_label": "1989",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "Written by Mike Chapman and Holly Knight. Bonnie Tyler had recorded it first, but Tina Turner's version became the hit.",
+    "tags": [
+      "1980s",
+      "rock",
+      "pop",
+      "us"
+    ],
+    "track": {
+      "artist": "Tina Turner",
+      "title": "The Best",
+      "album": "Foreign Affair",
+      "duration": "4:33",
+      "isrc": null,
+      "notes": "Tina Turner version, not Bonnie Tyler."
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Cover of Bonnie Tyler (1988), but Turner's is the famous version."
+  }
+]

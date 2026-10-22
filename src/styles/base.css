@@ -1,0 +1,350 @@
+:root {
+  --ui: 'Bricolage Grotesque Variable', 'Trebuchet MS', sans-serif;
+  --pop: 'Bungee', 'Bricolage Grotesque Variable', sans-serif;
+  --deco: 'Big Shoulders Display', 'Bricolage Grotesque Variable', sans-serif;
+  --serif: 'Cormorant Garamond', Georgia, serif;
+
+  --ink: #17130e;
+  --paper: #f6efdf;
+  --paper-jazz: #f1e5c8;
+  --ivory: #f8f2e2;
+  --coin: #d6393b;
+
+  --noise: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='180' height='180'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.85' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='.55'/%3E%3C/svg%3E");
+  --shadow-card: 0 1px 0 rgba(0, 0, 0, 0.3), 0 4px 8px rgba(0, 0, 0, 0.28), 0 14px 22px -10px rgba(0, 0, 0, 0.55);
+  --shadow-card-lg: 0 2px 0 rgba(0, 0, 0, 0.3), 0 10px 18px rgba(0, 0, 0, 0.35), 0 30px 40px -16px rgba(0, 0, 0, 0.6);
+}
+
+/* Per-set table themes: felt colour, accent for primary actions, alarm colour for challenges. */
+.theme-regular {
+  --felt-1: #157553;
+  --felt-2: #0b4a35;
+  --felt-3: #03231a;
+  --accent: #ffe14d;
+  --accent-ink: #231c00;
+  --accent-deep: #a88a0e;
+  --alarm: #ff3d8b;
+  --alarm-ink: #fff;
+  --alarm-deep: #9c1654;
+  --display: var(--pop);
+  --chrome: rgba(255, 255, 255, 0.88);
+  --muted: rgba(255, 255, 255, 0.62);
+  --slot: rgba(255, 255, 255, 0.3);
+}
+.theme-jazz {
+  --felt-1: #22355c;
+  --felt-2: #121c35;
+  --felt-3: #04060d;
+  --accent: #dcaa4f;
+  --accent-ink: #1c1405;
+  --accent-deep: #7e5a1a;
+  --alarm: #c4303b;
+  --alarm-ink: #fff3e0;
+  --alarm-deep: #66111a;
+  --display: var(--deco);
+  --chrome: rgba(255, 245, 225, 0.9);
+  --muted: rgba(255, 240, 210, 0.6);
+  --slot: rgba(220, 170, 79, 0.38);
+}
+.theme-classical {
+  --felt-1: #6a4428;
+  --felt-2: #3d2615;
+  --felt-3: #180d06;
+  --accent: #dcb75c;
+  --accent-ink: #2a1d05;
+  --accent-deep: #7f611d;
+  --alarm: #8e1f33;
+  --alarm-ink: #f8e9c8;
+  --alarm-deep: #440b16;
+  --display: var(--serif);
+  --chrome: rgba(255, 244, 220, 0.9);
+  --muted: rgba(255, 236, 200, 0.62);
+  --slot: rgba(220, 183, 92, 0.4);
+}
+
+* {
+  box-sizing: border-box;
+}
+html,
+body,
+#root {
+  height: 100%;
+  margin: 0;
+}
+body {
+  font-family: var(--ui);
+  color: #fff;
+  background: #03231a;
+  -webkit-font-smoothing: antialiased;
+  -webkit-tap-highlight-color: transparent;
+  overscroll-behavior: none;
+}
+button {
+  font: inherit;
+  color: inherit;
+  background: none;
+  border: 0;
+  padding: 0;
+  cursor: pointer;
+  touch-action: manipulation;
+}
+button:focus-visible,
+input:focus-visible {
+  outline: 3px solid var(--accent);
+  outline-offset: 3px;
+}
+
+/* ---------- the table surface ---------- */
+.table {
+  position: relative;
+  isolation: isolate;
+  background: radial-gradient(130% 85% at 50% 28%, var(--felt-1), var(--felt-2) 60%, var(--felt-3));
+  transition: background 0.6s;
+}
+.table::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  background-image: var(--noise);
+  mix-blend-mode: overlay;
+  opacity: 0.5;
+  pointer-events: none;
+}
+/* Walnut grain under the classical cards. */
+.theme-classical.table {
+  background:
+    repeating-linear-gradient(91deg, rgba(0, 0, 0, 0.1) 0 2px, transparent 2px 11px),
+    repeating-linear-gradient(89deg, rgba(255, 210, 160, 0.05) 0 1px, transparent 1px 27px),
+    radial-gradient(130% 85% at 50% 28%, var(--felt-1), var(--felt-2) 60%, var(--felt-3));
+}
+/* Cigarette-smoke haze drifting over the jazz club. */
+.theme-jazz.table::after {
+  content: '';
+  position: absolute;
+  inset: -20%;
+  z-index: -1;
+  pointer-events: none;
+  background:
+    radial-gradient(35% 25% at 30% 30%, rgba(200, 210, 255, 0.09), transparent 70%),
+    radial-gradient(30% 22% at 70% 65%, rgba(255, 220, 170, 0.07), transparent 70%);
+  animation: smoke 18s ease-in-out infinite alternate;
+}
+
+/* ---------- tokens, coins, buttons ---------- */
+.token {
+  display: inline-grid;
+  place-items: center;
+  flex: none;
+  border-radius: 50%;
+  background: var(--token);
+  color: #111;
+  font-weight: 900;
+  line-height: 1;
+  border: 2.5px dashed rgba(255, 255, 255, 0.9);
+  box-shadow: 0 0 0 1.5px rgba(0, 0, 0, 0.55), 0 2px 4px rgba(0, 0, 0, 0.4);
+  transition: transform 0.15s;
+}
+.coin {
+  display: inline-block;
+  width: 14px;
+  height: 14px;
+  flex: none;
+  border-radius: 50%;
+  vertical-align: middle;
+  background: radial-gradient(circle, var(--coin) 0 36%, #fff 36% 46%, var(--coin) 46%);
+  border: 2px dashed rgba(255, 255, 255, 0.92);
+  box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.5);
+}
+.coin + .coin {
+  margin-left: -6px;
+}
+
+.slab {
+  position: relative;
+  flex: 1;
+  min-height: 60px;
+  padding: 0 16px;
+  overflow: hidden;
+  font-family: var(--display);
+  font-size: 24px;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--accent-ink);
+  background: var(--accent);
+  border: 2.5px solid rgba(0, 0, 0, 0.65);
+  box-shadow:
+    0 6px 0 var(--accent-deep),
+    0 6px 0 2.5px rgba(0, 0, 0, 0.55),
+    0 16px 26px rgba(0, 0, 0, 0.45);
+  transition:
+    transform 0.07s,
+    box-shadow 0.07s,
+    filter 0.25s;
+}
+.theme-jazz .slab {
+  font-weight: 900;
+  font-size: 29px;
+}
+.theme-classical .slab {
+  font-weight: 700;
+  font-style: italic;
+  text-transform: none;
+  font-size: 29px;
+  letter-spacing: 0.01em;
+}
+.slab::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: -45%;
+  width: 30%;
+  background: linear-gradient(100deg, transparent, rgba(255, 255, 255, 0.7), transparent);
+  transform: skewX(-20deg);
+  animation: sheen 3.4s ease-in-out 1s infinite;
+  pointer-events: none;
+}
+.slab::after {
+  content: '';
+  position: absolute;
+  inset: 3px 3px auto;
+  height: 40%;
+  border-top: 2px solid rgba(255, 255, 255, 0.5);
+  pointer-events: none;
+}
+.slab:active {
+  transform: translateY(6px);
+  box-shadow:
+    0 0 0 var(--accent-deep),
+    0 0 0 2.5px rgba(0, 0, 0, 0.55),
+    0 4px 10px rgba(0, 0, 0, 0.4);
+}
+.slab.is-waiting {
+  filter: saturate(0.3) brightness(0.78);
+}
+.slab.is-waiting::before {
+  animation: none;
+  opacity: 0;
+}
+.slab.is-nudged {
+  animation: nudge 0.4s;
+}
+
+.chip-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 8px 11px;
+  font-size: 12.5px;
+  font-weight: 750;
+  white-space: nowrap;
+  color: #fff;
+  background: rgba(0, 0, 0, 0.35);
+  border: 1.5px solid rgba(255, 255, 255, 0.32);
+}
+.chip-btn:active {
+  transform: scale(0.96);
+}
+.ghost-btn {
+  padding: 10px 14px;
+  font-weight: 700;
+  color: var(--chrome);
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+/* ---------- shared keyframes ---------- */
+@keyframes sheen {
+  0%,
+  55% {
+    left: -45%;
+  }
+  100% {
+    left: 140%;
+  }
+}
+@keyframes nudge {
+  0%,
+  100% {
+    translate: 0;
+  }
+  20% {
+    translate: -9px;
+  }
+  40% {
+    translate: 8px;
+  }
+  60% {
+    translate: -5px;
+  }
+  80% {
+    translate: 3px;
+  }
+}
+@keyframes spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+@keyframes smoke {
+  from {
+    transform: translate(-4%, 2%) scale(1);
+  }
+  to {
+    transform: translate(5%, -3%) scale(1.15);
+  }
+}
+@keyframes fade {
+  from {
+    opacity: 0;
+  }
+}
+@keyframes drop-in {
+  from {
+    opacity: 0;
+    transform: translateY(-14px) scale(1.06) rotate(-3deg);
+  }
+}
+@keyframes slam {
+  from {
+    opacity: 0;
+    transform: scale(2.6) rotate(-14deg);
+  }
+}
+@keyframes pop {
+  50% {
+    transform: scale(1.08);
+  }
+}
+@keyframes shake {
+  0%,
+  100% {
+    translate: 0;
+  }
+  15% {
+    translate: -10px 2px;
+  }
+  30% {
+    translate: 9px -2px;
+  }
+  45% {
+    translate: -7px 1px;
+  }
+  60% {
+    translate: 5px 0;
+  }
+  80% {
+    translate: -2px 0;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}

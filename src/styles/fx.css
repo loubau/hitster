@@ -1,0 +1,789 @@
+/* ---------- reveal effects: one overlay per hit, steal or miss ---------- */
+.fx {
+  position: fixed;
+  inset: 0;
+  z-index: 50;
+  display: grid;
+  place-items: center;
+  overflow: hidden;
+  cursor: pointer;
+  animation: fx-life var(--fx-ms) ease forwards;
+}
+.fx-hit {
+  background: radial-gradient(circle at 50% 45%, rgba(255, 255, 255, 0.14), transparent 60%);
+}
+.fx-steal {
+  background: rgba(4, 4, 10, 0.66);
+}
+.fx-steal.fx-classical {
+  background: radial-gradient(circle, rgba(70, 0, 14, 0.55), rgba(0, 0, 0, 0.82));
+}
+.fx-miss {
+  background: rgba(0, 0, 0, 0.4);
+}
+@keyframes fx-life {
+  0% {
+    opacity: 0;
+  }
+  6%,
+  86% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+    visibility: hidden;
+  }
+}
+
+.fx-caption {
+  position: absolute;
+  left: 50%;
+  bottom: 17%;
+  max-width: calc(100vw - 32px);
+  margin: 0;
+  padding: 9px 16px;
+  overflow: hidden;
+  font-weight: 800;
+  font-size: 18px;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  color: var(--ink);
+  background: var(--noise), var(--paper);
+  background-blend-mode: multiply;
+  box-shadow: var(--shadow-card-lg);
+  translate: -50% 0;
+  rotate: -2deg;
+  animation: caption-in 0.45s cubic-bezier(0.2, 1.5, 0.4, 1) 0.35s backwards;
+}
+.fx-caption-late {
+  animation-delay: 1s;
+}
+.fx-jazz .fx-caption {
+  font-family: var(--deco);
+  font-weight: 800;
+  font-size: 24px;
+  text-transform: uppercase;
+  background-color: var(--paper-jazz);
+}
+.fx-classical .fx-caption {
+  font-family: var(--serif);
+  font-weight: 700;
+  font-style: italic;
+  font-size: 23px;
+  background-color: var(--ivory);
+}
+@keyframes caption-in {
+  from {
+    opacity: 0;
+    transform: translateY(30px) scale(0.8);
+  }
+}
+
+/* ---------- stickers ---------- */
+.sticker {
+  position: relative;
+  isolation: isolate;
+  display: grid;
+  place-items: center;
+  text-align: center;
+  animation:
+    slam 0.5s cubic-bezier(0.2, 1.6, 0.4, 1) both,
+    wiggle 1.4s ease-in-out 0.5s infinite;
+}
+.sticker span,
+.sticker small {
+  position: relative;
+  z-index: 1;
+  display: block;
+}
+@keyframes wiggle {
+  0%,
+  100% {
+    rotate: 0deg;
+  }
+  50% {
+    rotate: 3deg;
+  }
+}
+
+/* Regular hit: a pop-art starburst. */
+.sticker-burst,
+.sticker-yoink {
+  width: min(72vw, 300px);
+  aspect-ratio: 1;
+  filter: drop-shadow(3px 0 0 #111) drop-shadow(-3px 0 0 #111) drop-shadow(0 3px 0 #111) drop-shadow(0 -3px 0 #111)
+    drop-shadow(8px 10px 0 rgba(0, 0, 0, 0.35));
+}
+.sticker-burst::before,
+.sticker-burst::after,
+.sticker-yoink::before,
+.sticker-yoink::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  clip-path: polygon(
+    50% 0%, 59.83% 13.29%, 75% 6.7%, 76.87% 23.13%, 93.3% 25%, 86.71% 40.17%, 100% 50%, 86.71% 59.83%, 93.3% 75%,
+    76.87% 76.87%, 75% 93.3%, 59.83% 86.71%, 50% 100%, 40.17% 86.71%, 25% 93.3%, 23.13% 76.87%, 6.7% 75%,
+    13.29% 59.83%, 0% 50%, 13.29% 40.17%, 6.7% 25%, 23.13% 23.13%, 25% 6.7%, 40.17% 13.29%
+  );
+}
+.sticker-burst::before {
+  background: #ffe14d;
+  animation: spin 9s linear infinite;
+}
+.sticker-burst::after {
+  z-index: -1;
+  background: #ff3d8b;
+  scale: 1.14;
+  rotate: 15deg;
+  animation: spin 12s linear infinite reverse;
+}
+.sticker-burst span {
+  font-family: var(--pop);
+  font-size: min(20vw, 84px);
+  line-height: 1;
+  color: #111;
+  text-shadow: 4px 4px 0 #ff3d8b;
+  rotate: -8deg;
+}
+
+/* Regular steal: a hot-pink YOINK under the glove. */
+.sticker-yoink {
+  position: absolute;
+  top: 46%;
+  width: min(66vw, 270px);
+  animation:
+    slam 0.45s cubic-bezier(0.2, 1.6, 0.4, 1) 1.15s both,
+    wiggle 1.2s ease-in-out 1.6s infinite;
+}
+.sticker-yoink::before {
+  background: #ff3d8b;
+}
+.sticker-yoink::after {
+  z-index: -1;
+  background: #fff;
+  scale: 1.12;
+  rotate: 15deg;
+}
+.sticker-yoink span {
+  font-family: var(--pop);
+  font-size: min(15vw, 60px);
+  line-height: 1;
+  color: #fff;
+  text-shadow: 4px 4px 0 #111;
+  rotate: -10deg;
+}
+
+/* Regular miss. */
+.sticker-scratch {
+  position: absolute;
+  top: 15%;
+  padding: 10px 20px;
+  background: #111;
+  box-shadow: 7px 7px 0 #ff3d8b;
+  rotate: 7deg;
+  animation:
+    slam 0.4s cubic-bezier(0.2, 1.6, 0.4, 1) 0.25s both,
+    jitter 0.12s steps(2) 0.7s 8;
+}
+.sticker-scratch span {
+  font-family: var(--pop);
+  font-size: min(11vw, 46px);
+  color: #ffe14d;
+}
+@keyframes jitter {
+  50% {
+    translate: 3px -2px;
+  }
+}
+
+/* Jazz hit: an admission ticket. */
+.sticker-ticket {
+  gap: 6px;
+  width: min(80vw, 330px);
+  padding: 26px 30px 22px;
+  color: #8c1c24;
+  filter: drop-shadow(0 14px 18px rgba(0, 0, 0, 0.55));
+  rotate: -6deg;
+}
+.sticker-ticket::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  background: var(--noise), var(--paper-jazz);
+  background-blend-mode: multiply;
+  box-shadow:
+    inset 0 0 0 7px var(--paper-jazz),
+    inset 0 0 0 9px #8c1c24,
+    inset 0 0 0 12px var(--paper-jazz),
+    inset 0 0 0 13px #8c1c24;
+  -webkit-mask:
+    radial-gradient(circle 17px at 0 50%, #0000 97%, #000) left / 51% 100% no-repeat,
+    radial-gradient(circle 17px at 100% 50%, #0000 97%, #000) right / 51% 100% no-repeat;
+  mask:
+    radial-gradient(circle 17px at 0 50%, #0000 97%, #000) left / 51% 100% no-repeat,
+    radial-gradient(circle 17px at 100% 50%, #0000 97%, #000) right / 51% 100% no-repeat;
+}
+.sticker-ticket::after {
+  content: 'Admit one · Front row';
+  position: relative;
+  z-index: 1;
+  order: -1;
+  font-size: 10px;
+  font-weight: 800;
+  letter-spacing: 0.32em;
+  text-transform: uppercase;
+  color: var(--ink);
+  opacity: 0.7;
+}
+.sticker-ticket span {
+  font-family: var(--deco);
+  font-weight: 900;
+  font-size: min(18vw, 74px);
+  line-height: 0.9;
+  text-transform: uppercase;
+}
+.sticker-ticket small {
+  font-size: 13px;
+  font-weight: 800;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--ink);
+}
+
+/* Classical hit: a ribbon banner, unfurled. */
+.sticker-ribbon {
+  gap: 2px;
+  min-width: min(84vw, 360px);
+  padding: 16px 48px 18px;
+  color: #f3d98b;
+  filter: drop-shadow(0 14px 18px rgba(0, 0, 0, 0.6));
+  rotate: -3deg;
+  animation:
+    unfurl 0.6s cubic-bezier(0.2, 1.3, 0.4, 1) both,
+    wiggle 1.8s ease-in-out 0.6s infinite;
+}
+.sticker-ribbon::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  background:
+    linear-gradient(rgba(255, 255, 255, 0.14), transparent 40%, rgba(0, 0, 0, 0.25)),
+    #8e1f33;
+  clip-path: polygon(0 0, 100% 0, 92% 50%, 100% 100%, 0 100%, 8% 50%);
+}
+.sticker-ribbon::after {
+  content: '';
+  position: absolute;
+  inset: 6px 9%;
+  z-index: -1;
+  border-top: 1.5px solid #dcb75c;
+  border-bottom: 1.5px solid #dcb75c;
+}
+.sticker-ribbon span {
+  font-family: var(--serif);
+  font-weight: 700;
+  font-style: italic;
+  font-size: min(17vw, 72px);
+  line-height: 1;
+  text-shadow: 0 3px 0 #4a0c18;
+}
+.sticker-ribbon small {
+  font-family: var(--serif);
+  font-weight: 600;
+  font-style: italic;
+  font-size: 18px;
+  color: var(--ivory);
+}
+@keyframes unfurl {
+  from {
+    opacity: 0;
+    transform: scaleX(0.1) scaleY(0.6);
+  }
+}
+
+/* ---------- jazz steal: the cat in the fedora ---------- */
+.spotlight {
+  position: absolute;
+  inset: 0;
+  background:
+    radial-gradient(ellipse min(46vw, 230px) 46px at 50% 81%, rgba(255, 236, 190, 0.45), transparent 70%),
+    conic-gradient(from 169deg at 50% -6%, transparent 0deg, rgba(255, 236, 190, 0.2) 6deg, rgba(255, 236, 190, 0.2) 16deg, transparent 22deg);
+  animation: follow var(--fx-ms) forwards;
+}
+.walker {
+  position: absolute;
+  left: 50%;
+  bottom: 17%;
+  width: min(84vw, 380px);
+  margin-left: calc(min(84vw, 380px) / -2);
+  animation: strut var(--fx-ms) forwards;
+}
+.fx-jazz .fx-caption {
+  bottom: auto;
+  top: 18%;
+}
+.cat {
+  display: block;
+  width: 100%;
+  height: auto;
+  overflow: visible;
+  /* Brass rim light so the black cat reads against the navy club. */
+  filter: drop-shadow(0 -1px 0 rgba(255, 220, 150, 0.7)) drop-shadow(0 10px 6px rgba(0, 0, 0, 0.55));
+}
+.leg {
+  transform-box: fill-box;
+  transform-origin: 50% 0;
+  animation: leg 0.3s ease-in-out infinite alternate;
+}
+.leg-b {
+  animation-direction: alternate-reverse;
+}
+.cat-tail {
+  transform-box: fill-box;
+  transform-origin: 100% 90%;
+  animation: tail 0.9s ease-in-out infinite alternate;
+}
+.cat-head {
+  animation: bob 0.3s ease-in-out infinite alternate;
+}
+.cat-hat {
+  transform-box: fill-box;
+  transform-origin: 15% 100%;
+  animation: hat-tip var(--fx-ms) both;
+}
+.cat-loot {
+  transform-box: fill-box;
+  transform-origin: 0 50%;
+  animation: loot-swing 0.6s ease-in-out infinite alternate;
+}
+@keyframes strut {
+  0% {
+    transform: translateX(-110vw);
+    animation-timing-function: cubic-bezier(0.2, 0.7, 0.5, 1);
+  }
+  36% {
+    transform: translateX(-5vw);
+    animation-timing-function: linear;
+  }
+  64% {
+    transform: translateX(5vw);
+    animation-timing-function: cubic-bezier(0.6, 0, 0.9, 0.4);
+  }
+  100% {
+    transform: translateX(115vw);
+  }
+}
+@keyframes follow {
+  0% {
+    transform: translateX(-70vw);
+    animation-timing-function: cubic-bezier(0.2, 0.7, 0.5, 1);
+  }
+  36% {
+    transform: translateX(-4vw);
+    animation-timing-function: linear;
+  }
+  64% {
+    transform: translateX(4vw);
+    animation-timing-function: cubic-bezier(0.6, 0, 0.9, 0.4);
+  }
+  100% {
+    transform: translateX(80vw);
+  }
+}
+@keyframes leg {
+  from {
+    transform: rotate(-22deg);
+  }
+  to {
+    transform: rotate(22deg);
+  }
+}
+@keyframes tail {
+  from {
+    transform: rotate(-12deg);
+  }
+  to {
+    transform: rotate(10deg);
+  }
+}
+@keyframes bob {
+  to {
+    transform: translateY(3px);
+  }
+}
+@keyframes hat-tip {
+  0%,
+  38%,
+  66%,
+  100% {
+    transform: none;
+  }
+  45%,
+  58% {
+    transform: translate(-6px, -16px) rotate(-24deg);
+  }
+}
+@keyframes loot-swing {
+  to {
+    transform: rotate(6deg);
+  }
+}
+
+/* ---------- classical steal: the phantom's cape ---------- */
+.fx-steal.fx-classical::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: #fff;
+  opacity: 0;
+  animation: lightning 0.7s 0.15s;
+}
+.sweeper {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: min(128vw, 680px);
+  margin: calc(min(128vw, 680px) * -0.36) 0 0 calc(min(128vw, 680px) / -2);
+  animation: sweep var(--fx-ms) forwards;
+}
+.phantom {
+  display: block;
+  width: 100%;
+  height: auto;
+  filter: drop-shadow(0 24px 30px rgba(0, 0, 0, 0.75));
+}
+.phantom-mask {
+  animation: glint 0.9s ease-in-out 1.1s 2 alternate;
+}
+.phantom-loot {
+  transform-box: fill-box;
+  transform-origin: center;
+  animation: loot-float 0.8s ease-in-out infinite alternate;
+}
+.fx-classical .fx-caption {
+  bottom: 13%;
+}
+@keyframes sweep {
+  0% {
+    transform: translateX(105vw) rotate(10deg) scale(0.85);
+    animation-timing-function: cubic-bezier(0.2, 0.8, 0.4, 1);
+  }
+  38% {
+    transform: translateX(3vw) rotate(-2deg) scale(1.05);
+    animation-timing-function: linear;
+  }
+  62% {
+    transform: translateX(-3vw) rotate(1deg) scale(1.05);
+    animation-timing-function: cubic-bezier(0.7, 0, 0.9, 0.5);
+  }
+  100% {
+    transform: translateX(-140vw) rotate(-12deg) scale(0.9);
+  }
+}
+@keyframes lightning {
+  0%,
+  100% {
+    opacity: 0;
+  }
+  10% {
+    opacity: 0.55;
+  }
+  25% {
+    opacity: 0.05;
+  }
+  40% {
+    opacity: 0.35;
+  }
+}
+@keyframes glint {
+  to {
+    filter: drop-shadow(0 0 10px #fff);
+  }
+}
+@keyframes loot-float {
+  to {
+    transform: translateY(-8px) rotate(4deg);
+  }
+}
+
+/* ---------- regular steal: the grabby glove ---------- */
+.dropper {
+  position: absolute;
+  top: 0;
+  left: 50%;
+  width: min(34vw, 150px);
+  margin-left: calc(min(34vw, 150px) / -2);
+  animation: grab var(--fx-ms) forwards;
+}
+.glove {
+  display: block;
+  width: 100%;
+  height: auto;
+  filter: drop-shadow(6px 10px 0 rgba(0, 0, 0, 0.35));
+}
+.glove-fingers {
+  transform-box: fill-box;
+  transform-origin: 50% 0;
+  animation: clench var(--fx-ms) forwards;
+}
+.glove-loot {
+  transform-box: fill-box;
+  transform-origin: 50% 0;
+  animation: loot-in var(--fx-ms) forwards;
+}
+@keyframes grab {
+  0% {
+    transform: translateY(-105%);
+    animation-timing-function: cubic-bezier(0.3, 1.5, 0.5, 1);
+  }
+  22% {
+    transform: translateY(-8%);
+  }
+  34% {
+    transform: translateY(-8%);
+    animation-timing-function: ease-in;
+  }
+  40% {
+    transform: translateY(-4%);
+    animation-timing-function: ease-out;
+  }
+  66% {
+    transform: translateY(-10%);
+    animation-timing-function: cubic-bezier(0.6, -0.4, 0.8, 0.3);
+  }
+  86%,
+  100% {
+    transform: translateY(-115%);
+  }
+}
+@keyframes clench {
+  0%,
+  33% {
+    transform: none;
+  }
+  40%,
+  100% {
+    transform: scaleY(0.62);
+  }
+}
+@keyframes loot-in {
+  0%,
+  36% {
+    opacity: 0;
+    transform: scale(0.4);
+  }
+  42%,
+  100% {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+/* ---------- misses ---------- */
+.wahwah {
+  display: flex;
+  align-items: flex-start;
+  gap: 12px;
+  margin-bottom: 12vh;
+  font-family: var(--deco);
+  font-weight: 900;
+  font-size: min(15vw, 62px);
+  text-transform: uppercase;
+  color: #dcaa4f;
+  text-shadow:
+    3px 3px 0 #000,
+    0 0 24px rgba(220, 170, 79, 0.4);
+}
+.wahwah span {
+  display: inline-block;
+  opacity: 0;
+  animation: wah 0.6s cubic-bezier(0.3, 1.4, 0.5, 1) forwards;
+}
+.wahwah span:nth-child(1) {
+  --droop: 4deg;
+  --dy: 0px;
+  --sy: 1;
+  animation-delay: 0.1s;
+}
+.wahwah span:nth-child(2) {
+  --droop: 12deg;
+  --dy: 22px;
+  --sy: 0.9;
+  animation-delay: 0.6s;
+}
+.wahwah span:nth-child(3) {
+  --droop: 24deg;
+  --dy: 56px;
+  --sy: 0.7;
+  transform-origin: 0 0;
+  animation:
+    wah 0.6s cubic-bezier(0.3, 1.4, 0.5, 1) 1.1s forwards,
+    melt 0.9s ease-in 1.7s forwards;
+}
+@keyframes wah {
+  0% {
+    opacity: 0;
+    transform: scale(0.3);
+  }
+  60% {
+    opacity: 1;
+    transform: scale(1.2);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(var(--dy)) rotate(var(--droop)) scaleY(var(--sy));
+  }
+}
+@keyframes melt {
+  from {
+    opacity: 1;
+    transform: translateY(var(--dy)) rotate(var(--droop)) scaleY(var(--sy));
+  }
+  to {
+    opacity: 1;
+    transform: translateY(calc(var(--dy) + 20px)) rotate(34deg) scaleY(0.45) scaleX(1.2);
+  }
+}
+
+/* Classical miss: a gut string winds too tight and snaps. */
+.string {
+  position: absolute;
+  top: 44%;
+  left: 0;
+  right: 0;
+  height: 0;
+}
+.string i {
+  position: absolute;
+  top: -1.5px;
+  width: 50%;
+  height: 3px;
+  background: linear-gradient(#fff3c6, #b8913a);
+  box-shadow: 0 0 8px rgba(243, 217, 139, 0.8);
+}
+.string i:first-child {
+  left: 0;
+  transform-origin: 0 50%;
+  animation: snap-l 1.7s forwards;
+}
+.string i:last-child {
+  right: 0;
+  transform-origin: 100% 50%;
+  animation: snap-r 1.7s forwards;
+}
+.string::after {
+  content: '';
+  position: absolute;
+  left: 50%;
+  top: -30px;
+  width: 60px;
+  height: 60px;
+  margin-left: -30px;
+  background: radial-gradient(#fff, rgba(243, 217, 139, 0.7) 35%, transparent 70%);
+  opacity: 0;
+  animation: spark 0.5s 0.78s;
+}
+@keyframes snap-l {
+  0% {
+    transform: translateY(0);
+  }
+  6%,
+  18%,
+  30% {
+    transform: translateY(-3px);
+  }
+  12%,
+  24%,
+  36% {
+    transform: translateY(3px);
+  }
+  44% {
+    transform: none;
+    animation-timing-function: cubic-bezier(0.3, 1.6, 0.6, 1);
+  }
+  60% {
+    transform: rotate(38deg) scaleX(0.8);
+    opacity: 1;
+  }
+  100% {
+    transform: rotate(80deg) scaleX(0.55);
+    opacity: 0;
+  }
+}
+@keyframes snap-r {
+  0% {
+    transform: translateY(0);
+  }
+  6%,
+  18%,
+  30% {
+    transform: translateY(3px);
+  }
+  12%,
+  24%,
+  36% {
+    transform: translateY(-3px);
+  }
+  44% {
+    transform: none;
+    animation-timing-function: cubic-bezier(0.3, 1.6, 0.6, 1);
+  }
+  60% {
+    transform: rotate(-42deg) scaleX(0.8);
+    opacity: 1;
+  }
+  100% {
+    transform: rotate(-84deg) scaleX(0.5);
+    opacity: 0;
+  }
+}
+@keyframes spark {
+  0% {
+    opacity: 0;
+    transform: scale(0.2);
+  }
+  30% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+    transform: scale(2.4);
+  }
+}
+
+/* Regular miss: the record gets scratched. */
+.scratcher {
+  width: min(56vw, 240px);
+  animation: slam 0.4s cubic-bezier(0.2, 1.5, 0.4, 1) backwards;
+}
+.vinyl {
+  display: block;
+  width: 100%;
+  height: auto;
+  filter: drop-shadow(0 14px 18px rgba(0, 0, 0, 0.6));
+  animation: scratch 1s ease-in-out 0.3s 2;
+}
+@keyframes scratch {
+  0%,
+  100% {
+    transform: rotate(0);
+  }
+  18% {
+    transform: rotate(-55deg);
+  }
+  34% {
+    transform: rotate(30deg);
+  }
+  52% {
+    transform: rotate(-80deg);
+  }
+  70% {
+    transform: rotate(15deg);
+  }
+  84% {
+    transform: rotate(-25deg);
+  }
+}

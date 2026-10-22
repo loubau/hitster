@@ -1,0 +1,7 @@
+node_modules
+dist
+*.log
+.env*
+__pycache__/
+# Third-party chart lists the curators read locally; not ours to republish.
+data/reference/

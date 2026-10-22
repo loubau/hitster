@@ -1,0 +1,1436 @@
+[
+  {
+    "id": "reg-sinead-oconnor-nothing-compares-2-u",
+    "artist": "Sinéad O'Connor",
+    "title": "Nothing Compares 2 U",
+    "year": 1990,
+    "year_lo": 1990,
+    "year_hi": 1990,
+    "year_label": "1990",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "Prince wrote it for his side project The Family, but O'Connor's stark reading made it a worldwide number one. The video, a near-unbroken close-up of her face with a single tear, became as famous as the song.",
+    "tags": [
+      "1990s",
+      "pop",
+      "ballad",
+      "ie"
+    ],
+    "track": {
+      "artist": "Sinéad O'Connor",
+      "title": "Nothing Compares 2 U",
+      "album": "I Do Not Want What I Haven't Got",
+      "duration": "5:10",
+      "isrc": null,
+      "notes": "O'Connor 1990 version, not The Family or Prince."
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Cover of The Family (1985, written by Prince), but O'Connor's is the famous recording. Single Jan 1990, album Mar 1990."
+  },
+  {
+    "id": "reg-vanilla-ice-ice-ice-baby",
+    "artist": "Vanilla Ice",
+    "title": "Ice Ice Baby",
+    "year": 1990,
+    "year_lo": 1990,
+    "year_hi": 1990,
+    "year_label": "1990",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "It borrows its bass riff from a Queen and David Bowie single, and it was the first hip-hop single to top the US Hot 100.",
+    "tags": [
+      "1990s",
+      "hip-hop",
+      "pop-rap",
+      "us"
+    ],
+    "track": {
+      "artist": "Vanilla Ice",
+      "title": "Ice Ice Baby",
+      "album": "To the Extreme",
+      "duration": "4:32",
+      "isrc": null,
+      "notes": "SBK 1990 To the Extreme version, not the 1989 Ichiban version."
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Ice_Ice_Baby"
+    ],
+    "notes": "An earlier 1989 Ichiban version was a B-side and was partly re-recorded for the SBK release; the 1990 SBK recording is the hit and the card year. Single Aug 1990, album Sept 1990."
+  },
+  {
+    "id": "reg-genesis-no-son-of-mine",
+    "artist": "Genesis",
+    "title": "No Son of Mine",
+    "year": 1991,
+    "year_lo": 1991,
+    "year_hi": 1991,
+    "year_label": "1991",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "It tells of a son estranged from his father and was the lead single from We Can't Dance. At more than six minutes it is one of the longer hits the band ever had.",
+    "tags": [
+      "1990s",
+      "rock",
+      "pop-rock",
+      "uk"
+    ],
+    "track": {
+      "artist": "Genesis",
+      "title": "No Son of Mine",
+      "album": "We Can't Dance",
+      "duration": "6:38",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Single and album both Nov 1991. Single edit is shorter than the album cut."
+  },
+  {
+    "id": "reg-nirvana-smells-like-teen-spirit",
+    "artist": "Nirvana",
+    "title": "Smells Like Teen Spirit",
+    "year": 1991,
+    "year_lo": 1991,
+    "year_hi": 1991,
+    "year_label": "1991",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "The title came from a deodorant brand that a friend had scrawled on Kurt Cobain's wall, a product he did not know existed. The song pulled grunge out of Seattle and into the mainstream.",
+    "tags": [
+      "1990s",
+      "grunge",
+      "rock",
+      "us"
+    ],
+    "track": {
+      "artist": "Nirvana",
+      "title": "Smells Like Teen Spirit",
+      "album": "Nevermind",
+      "duration": "5:01",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Single Sept 1991, album Nevermind Sept 1991."
+  },
+  {
+    "id": "reg-pearl-jam-alive",
+    "artist": "Pearl Jam",
+    "title": "Alive",
+    "year": 1991,
+    "year_lo": 1991,
+    "year_hi": 1991,
+    "year_label": "1991",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "Eddie Vedder wrote the lyrics over an instrumental demo by guitarist Stone Gossard. Vedder has said the story was loosely drawn from his own family history.",
+    "tags": [
+      "1990s",
+      "grunge",
+      "rock",
+      "us"
+    ],
+    "track": {
+      "artist": "Pearl Jam",
+      "title": "Alive",
+      "album": "Ten",
+      "duration": "5:40",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Album Aug 1991, single followed (promo Jul 1991)."
+  },
+  {
+    "id": "reg-red-hot-chili-peppers-under-the-bridge",
+    "artist": "Red Hot Chili Peppers",
+    "title": "Under the Bridge",
+    "year": 1991,
+    "year_lo": 1991,
+    "year_hi": 1991,
+    "year_label": "1991",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "Anthony Kiedis wrote it as a poem about loneliness and addiction, and producer Rick Rubin talked him into showing it to the band. It was a softer turn for a group known for funk-rock energy.",
+    "tags": [
+      "1990s",
+      "alt-rock",
+      "funk-rock",
+      "us"
+    ],
+    "track": {
+      "artist": "Red Hot Chili Peppers",
+      "title": "Under the Bridge",
+      "album": "Blood Sugar Sex Magik",
+      "duration": "4:24",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Album Sept 1991, single Mar 1992. Hitster NL also lists 1991."
+  },
+  {
+    "id": "reg-ace-of-base-all-that-she-wants",
+    "artist": "Ace of Base",
+    "title": "All That She Wants",
+    "year": 1992,
+    "year_lo": 1992,
+    "year_hi": 1992,
+    "year_label": "1992",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "The Swedish group built its sound on a reggae-tinged pop lilt, and this was the breakout. The lyrics are about a woman who wants a baby and then moves on.",
+    "tags": [
+      "1990s",
+      "eurodance",
+      "pop",
+      "se"
+    ],
+    "track": {
+      "artist": "Ace of Base",
+      "title": "All That She Wants",
+      "album": "Happy Nation",
+      "duration": "3:31",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Album Happy Nation (Europe) is the same material as the US album The Sign. First released late 1992 in Scandinavia."
+  },
+  {
+    "id": "reg-annie-lennox-why",
+    "artist": "Annie Lennox",
+    "title": "Why",
+    "year": 1992,
+    "year_lo": 1992,
+    "year_hi": 1992,
+    "year_label": "1992",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "Lennox's first solo single after the end of Eurythmics. It opened her debut album Diva, which went straight to number one in the UK.",
+    "tags": [
+      "1990s",
+      "pop",
+      "ballad",
+      "uk"
+    ],
+    "track": {
+      "artist": "Annie Lennox",
+      "title": "Why",
+      "album": "Diva",
+      "duration": "4:51",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Single Feb 1992, album Apr 1992."
+  },
+  {
+    "id": "reg-dr-alban-sing-hallelujah",
+    "artist": "Dr. Alban",
+    "title": "Sing Hallelujah!",
+    "year": 1992,
+    "year_lo": 1992,
+    "year_hi": 1992,
+    "year_label": "1992",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "Nigerian-born Swedish artist Alban Nwapa really is a trained dentist, which is where the stage name comes from. The song became a big dance hit across Europe.",
+    "tags": [
+      "1990s",
+      "eurodance",
+      "sv"
+    ],
+    "track": {
+      "artist": "Dr. Alban",
+      "title": "Sing Hallelujah!",
+      "album": "One Love",
+      "duration": "3:31",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Sing_Hallelujah!_(Dr._Alban_song)"
+    ],
+    "notes": "Album One Love Nov 1992 includes the track; the single came Feb 1993 and charted in 1993 (Hitster NL shows 1993). Card follows the strict first-release rule and uses 1992. Hitster NL list shows 1993; card uses 1992."
+  },
+  {
+    "id": "reg-r-e-m-everybody-hurts",
+    "artist": "R.E.M.",
+    "title": "Everybody Hurts",
+    "year": 1992,
+    "year_lo": 1992,
+    "year_hi": 1992,
+    "year_label": "1992",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "Drummer Bill Berry came up with the music and Michael Stipe wrote the words with teenagers in mind. The strings were arranged by John Paul Jones of Led Zeppelin.",
+    "tags": [
+      "1990s",
+      "alt-rock",
+      "ballad",
+      "us"
+    ],
+    "track": {
+      "artist": "R.E.M.",
+      "title": "Everybody Hurts",
+      "album": "Automatic for the People",
+      "duration": "5:17",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Album Oct 1992, single Mar 1993. Album-first year."
+  },
+  {
+    "id": "reg-radiohead-creep",
+    "artist": "Radiohead",
+    "title": "Creep",
+    "year": 1992,
+    "year_lo": 1992,
+    "year_hi": 1992,
+    "year_label": "1992",
+    "region": "intl",
+    "in_original_hitster": false,
+    "trivia": "The loud guitar crunches before the chorus were Jonny Greenwood's attempt to spoil a song he did not like, and they became its hook. The band later grew weary of being known for it.",
+    "tags": [
+      "1990s",
+      "alt-rock",
+      "britpop",
+      "uk"
+    ],
+    "track": {
+      "artist": "Radiohead",
+      "title": "Creep",
+      "album": "Pablo Honey",
+      "duration": "3:58",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Single Sept 1992 (a hit only on re-release in 1993), album Feb 1993. Album-first/single-first year 1992. Not seen on any consulted Hitster edition list (NL, DE, FR, CA, Nordics); added for recognisability and decade balance."
+  },
+  {
+    "id": "reg-snow-informer",
+    "artist": "Snow",
+    "title": "Informer",
+    "year": 1992,
+    "year_lo": 1992,
+    "year_hi": 1992,
+    "year_label": "1992",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "The Toronto artist rapped in a Jamaican-flavoured style, and it spent seven weeks at number one on the US Billboard Hot 100 in early 1993.",
+    "tags": [
+      "1990s",
+      "reggae-fusion",
+      "hip-hop",
+      "ca"
+    ],
+    "track": {
+      "artist": "Snow",
+      "title": "Informer",
+      "album": "12 Inches of Snow",
+      "duration": "4:28",
+      "isrc": null,
+      "notes": "Original 1992 single/album version."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Informer_(song)"
+    ],
+    "notes": "Single Aug 1992 (Canada), album Jan 1993; US chart peak came in 1993. Year follows first release."
+  },
+  {
+    "id": "reg-corona-the-rhythm-of-the-night",
+    "artist": "Corona",
+    "title": "The Rhythm of the Night",
+    "year": 1993,
+    "year_lo": 1993,
+    "year_hi": 1993,
+    "year_label": "1993",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "Brazilian-born singer Olga Souza fronted this Italian dance project. It broke through in Europe first and only reached the US charts well over a year later.",
+    "tags": [
+      "1990s",
+      "eurodance",
+      "italo-dance",
+      "it"
+    ],
+    "track": {
+      "artist": "Corona",
+      "title": "The Rhythm of the Night",
+      "album": "The Rhythm of the Night",
+      "duration": "3:30",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Rhythm_of_the_Night"
+    ],
+    "notes": "Italian single Nov 1993, international 1994, album Apr 1995."
+  },
+  {
+    "id": "reg-culture-beat-mr-vain",
+    "artist": "Culture Beat",
+    "title": "Mr. Vain",
+    "year": 1993,
+    "year_lo": 1993,
+    "year_hi": 1993,
+    "year_label": "1993",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "The song is a swipe at a conceited man, and it climbed to number one in Germany, the UK and many other countries in 1993. Tania Evans sings the hook against Jay Supreme's rap.",
+    "tags": [
+      "1990s",
+      "eurodance",
+      "de"
+    ],
+    "track": {
+      "artist": "Culture Beat",
+      "title": "Mr. Vain",
+      "album": "Serenity",
+      "duration": "3:54",
+      "isrc": null,
+      "notes": "Radio edit about 3:54; album mix longer."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Mr._Vain"
+    ],
+    "notes": "Single Apr 1993 (Dance Pool), album Serenity 1993."
+  },
+  {
+    "id": "reg-haddaway-what-is-love",
+    "artist": "Haddaway",
+    "title": "What Is Love",
+    "year": 1993,
+    "year_lo": 1993,
+    "year_hi": 1993,
+    "year_label": "1993",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "The Trinidad-born, German-based singer found a second life for the track when it became the head-bobbing soundtrack of a 1998 comedy film.",
+    "tags": [
+      "1990s",
+      "eurodance",
+      "de"
+    ],
+    "track": {
+      "artist": "Haddaway",
+      "title": "What Is Love",
+      "album": "The Album",
+      "duration": "4:28",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/What_Is_Love_(Haddaway_song)"
+    ],
+    "notes": "Wikipedia gives single 18 Jan 1993; Discogs lists a German CD maxi dated Dec 1992. Card uses 1993 (the widely cited release, matches Hitster)."
+  },
+  {
+    "id": "reg-reel-2-real-i-like-to-move-it",
+    "artist": "Reel 2 Real feat. The Mad Stuntman",
+    "title": "I Like to Move It",
+    "year": 1993,
+    "year_lo": 1993,
+    "year_hi": 1993,
+    "year_label": "1993",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "Erick Morillo produced it with The Mad Stuntman on the mic. The song got a second life when a singing lemur performed it in the 2005 animated film Madagascar.",
+    "tags": [
+      "1990s",
+      "dance",
+      "house",
+      "us"
+    ],
+    "track": {
+      "artist": "Reel 2 Real feat. The Mad Stuntman",
+      "title": "I Like to Move It",
+      "album": "Move It!",
+      "duration": "3:37",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/I_Like_to_Move_It"
+    ],
+    "notes": "Single Oct 1993 (Strictly Rhythm), album Move It! Oct 1994."
+  },
+  {
+    "id": "reg-rednex-cotton-eye-joe",
+    "artist": "Rednex",
+    "title": "Cotton Eye Joe",
+    "year": 1994,
+    "year_lo": 1994,
+    "year_hi": 1994,
+    "year_label": "1994",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "The folk song Cotton-Eye Joe is older than the American Civil War. Swedish group Rednex gave it a fast dance makeover with banjo and fiddle samples.",
+    "tags": [
+      "1990s",
+      "eurodance",
+      "country-dance",
+      "se"
+    ],
+    "track": {
+      "artist": "Rednex",
+      "title": "Cotton Eye Joe",
+      "album": null,
+      "duration": "3:13",
+      "isrc": null,
+      "notes": "Rednex 1994 version."
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Arrangement of a traditional folk song; Rednex's is the famous recording. Single 1994, album Sex and Violins 1995."
+  },
+  {
+    "id": "reg-the-cranberries-zombie",
+    "artist": "The Cranberries",
+    "title": "Zombie",
+    "year": 1994,
+    "year_lo": 1994,
+    "year_hi": 1994,
+    "year_label": "1994",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "Dolores O'Riordan wrote it as a protest after an IRA bomb in Warrington, England, killed two children in 1993. The distorted guitar and her keening vocal made it the band's best-known song.",
+    "tags": [
+      "1990s",
+      "alt-rock",
+      "ie"
+    ],
+    "track": {
+      "artist": "The Cranberries",
+      "title": "Zombie",
+      "album": "No Need to Argue",
+      "duration": "5:06",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Single Sept 1994, album Oct 1994."
+  },
+  {
+    "id": "reg-the-offspring-self-esteem",
+    "artist": "The Offspring",
+    "title": "Self Esteem",
+    "year": 1994,
+    "year_lo": 1994,
+    "year_hi": 1994,
+    "year_label": "1994",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "The narrator knows he is being walked all over and does nothing about it. The album Smash became one of the best-selling independent-label albums ever.",
+    "tags": [
+      "1990s",
+      "punk-rock",
+      "us"
+    ],
+    "track": {
+      "artist": "The Offspring",
+      "title": "Self Esteem",
+      "album": "Smash",
+      "duration": "4:17",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Album Apr 1994, single followed."
+  },
+  {
+    "id": "reg-tlc-waterfalls",
+    "artist": "TLC",
+    "title": "Waterfalls",
+    "year": 1994,
+    "year_lo": 1994,
+    "year_hi": 1994,
+    "year_label": "1994",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "Organized Noize wrote and produced it, and Left Eye added her own rap verse. The lyrics deal with drug dealing and HIV/AIDS, unusual subjects for a pop hit.",
+    "tags": [
+      "1990s",
+      "r&b",
+      "hip-hop-soul",
+      "us"
+    ],
+    "track": {
+      "artist": "TLC",
+      "title": "Waterfalls",
+      "album": "CrazySexyCool",
+      "duration": "4:39",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Album CrazySexyCool Nov 1994, single May 1995. Album-first year; Hitster NL lists 1995. Hitster NL list shows 1995; card uses 1994."
+  },
+  {
+    "id": "reg-wet-wet-wet-love-is-all-around",
+    "artist": "Wet Wet Wet",
+    "title": "Love Is All Around",
+    "year": 1994,
+    "year_lo": 1994,
+    "year_hi": 1994,
+    "year_label": "1994",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "The Scottish band's version of a 1967 hit spent fifteen weeks at number one in the UK, one of the longest runs ever. It came from the soundtrack of a romantic comedy.",
+    "tags": [
+      "1990s",
+      "pop",
+      "ballad",
+      "uk"
+    ],
+    "track": {
+      "artist": "Wet Wet Wet",
+      "title": "Love Is All Around",
+      "album": "Four Weddings and a Funeral (soundtrack)",
+      "duration": "3:57",
+      "isrc": null,
+      "notes": "Wet Wet Wet 1994 version, not The Troggs."
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Cover of The Troggs (1967), but Wet Wet Wet's is the famous recording. Single May 1994."
+  },
+  {
+    "id": "reg-alanis-morissette-ironic",
+    "artist": "Alanis Morissette",
+    "title": "Ironic",
+    "year": 1995,
+    "year_lo": 1995,
+    "year_hi": 1995,
+    "year_label": "1995",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "The lyrics list a run of unlucky situations, and listeners have argued ever since about whether any of them are actually ironic.",
+    "tags": [
+      "1990s",
+      "alt-rock",
+      "pop-rock",
+      "ca"
+    ],
+    "track": {
+      "artist": "Alanis Morissette",
+      "title": "Ironic",
+      "album": "Jagged Little Pill",
+      "duration": "3:49",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Album Jun 1995, single early 1996. Album-first year. Not on the Hitster NL list; seen on the Hitster Canada edition list."
+  },
+  {
+    "id": "reg-captain-jack-captain-jack",
+    "artist": "Captain Jack",
+    "title": "Captain Jack",
+    "year": 1995,
+    "year_lo": 1995,
+    "year_hi": 1995,
+    "year_label": "1995",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "A marching, military-flavoured dance track that was the debut single of the German act of the same name. It reached the UK top ten on re-release in 1996.",
+    "tags": [
+      "1990s",
+      "eurodance",
+      "de"
+    ],
+    "track": {
+      "artist": "Captain Jack",
+      "title": "Captain Jack",
+      "album": null,
+      "duration": "3:30",
+      "isrc": null,
+      "notes": "Original radio mix."
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Hitster NL lists 1995. Radio mix ~3:30. First released 1995 in Germany."
+  },
+  {
+    "id": "reg-coolio-gangstas-paradise",
+    "artist": "Coolio feat. L.V.",
+    "title": "Gangsta's Paradise",
+    "year": 1995,
+    "year_lo": 1995,
+    "year_hi": 1995,
+    "year_label": "1995",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "The track is built on Stevie Wonder's Pastime Paradise. Wonder reportedly agreed to the sample on condition that the lyrics stay free of profanity.",
+    "tags": [
+      "1990s",
+      "hip-hop",
+      "us"
+    ],
+    "track": {
+      "artist": "Coolio feat. L.V.",
+      "title": "Gangsta's Paradise",
+      "album": "Gangsta's Paradise",
+      "duration": "4:00",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Single Aug 1995 (from Dangerous Minds soundtrack), album Nov 1995."
+  },
+  {
+    "id": "reg-no-doubt-dont-speak",
+    "artist": "No Doubt",
+    "title": "Don't Speak",
+    "year": 1995,
+    "year_lo": 1995,
+    "year_hi": 1995,
+    "year_label": "1995",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "Gwen Stefani wrote it with her brother Eric about the end of her relationship with bandmate Tony Kanal. It was a ballad from a band known for ska energy.",
+    "tags": [
+      "1990s",
+      "ska-punk",
+      "pop-rock",
+      "us"
+    ],
+    "track": {
+      "artist": "No Doubt",
+      "title": "Don't Speak",
+      "album": "Tragic Kingdom",
+      "duration": "4:23",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Album Oct 1995, single Apr 1996. Album-first year; Hitster NL lists 1996. Hitster NL list shows 1996; card uses 1995."
+  },
+  {
+    "id": "reg-oasis-wonderwall",
+    "artist": "Oasis",
+    "title": "Wonderwall",
+    "year": 1995,
+    "year_lo": 1995,
+    "year_hi": 1995,
+    "year_label": "1995",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "Noel Gallagher has said it is about an imaginary friend who will save you from yourself, though most listeners took it as a love song.",
+    "tags": [
+      "1990s",
+      "britpop",
+      "rock",
+      "uk"
+    ],
+    "track": {
+      "artist": "Oasis",
+      "title": "Wonderwall",
+      "album": "(What's the Story) Morning Glory?",
+      "duration": "4:18",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Album Oct 2 1995, single Oct 30 1995. Album-first year (same year either way)."
+  },
+  {
+    "id": "reg-technohead-i-wanna-be-a-hippy",
+    "artist": "Technohead",
+    "title": "I Wanna Be a Hippy",
+    "year": 1995,
+    "year_lo": 1995,
+    "year_hi": 1995,
+    "year_label": "1995",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "The vocal hook was lifted from a David Peel song about marijuana and put over fast hardcore techno. It topped the charts in several European countries.",
+    "tags": [
+      "1990s",
+      "hardcore",
+      "novelty",
+      "uk"
+    ],
+    "track": {
+      "artist": "Technohead",
+      "title": "I Wanna Be a Hippy",
+      "album": "Headsex",
+      "duration": "3:51",
+      "isrc": null,
+      "notes": "Original or Flamman and Abraxas radio mix."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/I_Wanna_Be_a_Hippy"
+    ],
+    "notes": "English duo (Greater Than One) on the Dutch label Mokum. Debut as B-side of Mary Jane EP, lead single Jun 1995. Best-known release is the Flamman and Abraxas radio mix."
+  },
+  {
+    "id": "reg-eros-ramazzotti-piu-bella-cosa",
+    "artist": "Eros Ramazzotti",
+    "title": "Più bella cosa",
+    "year": 1996,
+    "year_lo": 1996,
+    "year_hi": 1996,
+    "year_label": "1996",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "The title means the most beautiful thing. It was a big hit across continental Europe for one of Italy's best-selling singers.",
+    "tags": [
+      "1990s",
+      "pop",
+      "italian",
+      "it"
+    ],
+    "track": {
+      "artist": "Eros Ramazzotti",
+      "title": "Più bella cosa",
+      "album": "Dove c'è musica",
+      "duration": "4:10",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "medium",
+    "sources": [],
+    "notes": "Single and album both 1996; exact order not verified."
+  },
+  {
+    "id": "reg-mark-morrison-return-of-the-mack",
+    "artist": "Mark Morrison",
+    "title": "Return of the Mack",
+    "year": 1996,
+    "year_lo": 1996,
+    "year_hi": 1996,
+    "year_label": "1996",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "A UK number one in April 1996. The title uses mack, slang for a smooth-talking ladies' man, and the lyrics are about coming back after a break-up.",
+    "tags": [
+      "1990s",
+      "r&b",
+      "new-jack-swing",
+      "uk"
+    ],
+    "track": {
+      "artist": "Mark Morrison",
+      "title": "Return of the Mack",
+      "album": "Return of the Mack",
+      "duration": "3:36",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Return_of_the_Mack"
+    ],
+    "notes": "Single Mar 1996 (WEA), album Apr 1996."
+  },
+  {
+    "id": "reg-spice-girls-wannabe",
+    "artist": "Spice Girls",
+    "title": "Wannabe",
+    "year": 1996,
+    "year_lo": 1996,
+    "year_hi": 1996,
+    "year_label": "1996",
+    "region": "intl",
+    "in_original_hitster": false,
+    "trivia": "It reached number one in more than 30 countries and made the Spice Girls a global phenomenon. The spoken-word rap in the middle is one of pop's best-known bridges.",
+    "tags": [
+      "1990s",
+      "pop",
+      "girl-group",
+      "uk"
+    ],
+    "track": {
+      "artist": "Spice Girls",
+      "title": "Wannabe",
+      "album": "Spice",
+      "duration": "2:53",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Single Jul 1996 (UK), album Nov 1996. Not seen on any consulted Hitster edition list (NL, DE, FR, CA, Nordics); added for recognisability and decade balance."
+  },
+  {
+    "id": "reg-aqua-barbie-girl",
+    "artist": "Aqua",
+    "title": "Barbie Girl",
+    "year": 1997,
+    "year_lo": 1997,
+    "year_hi": 1997,
+    "year_label": "1997",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "Barbie's maker Mattel sued the group's label, and the appeals judge ended his ruling by advising both sides to chill.",
+    "tags": [
+      "1990s",
+      "eurodance",
+      "pop",
+      "dk"
+    ],
+    "track": {
+      "artist": "Aqua",
+      "title": "Barbie Girl",
+      "album": "Aquarium",
+      "duration": "3:17",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Album Mar 1997, single May 1997. Danish-Norwegian group."
+  },
+  {
+    "id": "reg-celine-dion-my-heart-will-go-on",
+    "artist": "Céline Dion",
+    "title": "My Heart Will Go On",
+    "year": 1997,
+    "year_lo": 1997,
+    "year_hi": 1997,
+    "year_label": "1997",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "James Horner wrote the music for the film Titanic, and Dion was reportedly reluctant at first to record a pop song for it. The song won the Oscar for Best Original Song.",
+    "tags": [
+      "1990s",
+      "pop",
+      "ballad",
+      "ca"
+    ],
+    "track": {
+      "artist": "Céline Dion",
+      "title": "My Heart Will Go On",
+      "album": "Let's Talk About Love",
+      "duration": "4:40",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Appears on both Let's Talk About Love and the Titanic soundtrack (both Nov 1997). Single Dec 1997."
+  },
+  {
+    "id": "reg-chumbawamba-tubthumping",
+    "artist": "Chumbawamba",
+    "title": "Tubthumping",
+    "year": 1997,
+    "year_lo": 1997,
+    "year_hi": 1997,
+    "year_label": "1997",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "The Leeds band began as anarchist punks. At the 1998 Brit Awards, a member poured water over the deputy prime minister on stage.",
+    "tags": [
+      "1990s",
+      "pop-rock",
+      "anarcho-punk",
+      "uk"
+    ],
+    "track": {
+      "artist": "Chumbawamba",
+      "title": "Tubthumping",
+      "album": "Tubthumper",
+      "duration": "4:37",
+      "isrc": null,
+      "notes": "Album version."
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Often listed as Tubthumping (I Get Knocked Down). Album and single Aug 1997."
+  },
+  {
+    "id": "reg-eagle-eye-cherry-save-tonight",
+    "artist": "Eagle-Eye Cherry",
+    "title": "Save Tonight",
+    "year": 1997,
+    "year_lo": 1997,
+    "year_hi": 1997,
+    "year_label": "1997",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "Cherry is the son of jazz trumpeter Don Cherry and the half-brother of Neneh Cherry. The song was an international hit in 1998.",
+    "tags": [
+      "1990s",
+      "pop-rock",
+      "se"
+    ],
+    "track": {
+      "artist": "Eagle-Eye Cherry",
+      "title": "Save Tonight",
+      "album": "Desireless",
+      "duration": "3:59",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "medium",
+    "sources": [],
+    "notes": "Swedish release 1997; the international rollout and chart peaks came in 1998. Card uses first-release year 1997 (matches Hitster)."
+  },
+  {
+    "id": "reg-natalie-imbruglia-torn",
+    "artist": "Natalie Imbruglia",
+    "title": "Torn",
+    "year": 1997,
+    "year_lo": 1997,
+    "year_hi": 1997,
+    "year_label": "1997",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "The Australian singer and former soap actress topped the charts across much of the world with it, and it became the biggest hit of her career.",
+    "tags": [
+      "1990s",
+      "pop",
+      "pop-rock",
+      "au"
+    ],
+    "track": {
+      "artist": "Natalie Imbruglia",
+      "title": "Torn",
+      "album": "Left of the Middle",
+      "duration": "4:04",
+      "isrc": null,
+      "notes": "Imbruglia 1997 version, not Ednaswap."
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Cover of Ednaswap (1995) and Lis Soerensen (1993), but Imbruglia's is the famous recording. Single Sept 1997, album Nov 1997."
+  },
+  {
+    "id": "reg-spice-girls-stop",
+    "artist": "Spice Girls",
+    "title": "Stop",
+    "year": 1997,
+    "year_lo": 1997,
+    "year_hi": 1997,
+    "year_label": "1997",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "The track has a Motown-flavoured bounce that nods to 1960s girl groups. It came from the group's second album.",
+    "tags": [
+      "1990s",
+      "pop",
+      "girl-group",
+      "uk"
+    ],
+    "track": {
+      "artist": "Spice Girls",
+      "title": "Stop",
+      "album": "Spiceworld",
+      "duration": "3:23",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Album Spiceworld Nov 1997, single Feb 1998. Album-first year; Hitster NL lists 1998. Hitster NL list shows 1998; card uses 1997."
+  },
+  {
+    "id": "reg-the-verve-bitter-sweet-symphony",
+    "artist": "The Verve",
+    "title": "Bitter Sweet Symphony",
+    "year": 1997,
+    "year_lo": 1997,
+    "year_hi": 1997,
+    "year_label": "1997",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "A legal fight over the string sample, taken from an orchestral version of a Rolling Stones song, cost the band the royalties until Jagger and Richards gave up their share in 2019.",
+    "tags": [
+      "1990s",
+      "britpop",
+      "rock",
+      "uk"
+    ],
+    "track": {
+      "artist": "The Verve",
+      "title": "Bitter Sweet Symphony",
+      "album": "Urban Hymns",
+      "duration": "5:57",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Single Jun 1997, album Sept 1997."
+  },
+  {
+    "id": "reg-will-smith-gettin-jiggy-wit-it",
+    "artist": "Will Smith",
+    "title": "Gettin' Jiggy wit It",
+    "year": 1997,
+    "year_lo": 1997,
+    "year_hi": 1997,
+    "year_label": "1997",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "Built on a sample of Sister Sledge's He's the Greatest Dancer, it won Smith the Grammy for Best Rap Solo Performance.",
+    "tags": [
+      "1990s",
+      "hip-hop",
+      "pop-rap",
+      "us"
+    ],
+    "track": {
+      "artist": "Will Smith",
+      "title": "Gettin' Jiggy wit It",
+      "album": "Big Willie Style",
+      "duration": "3:47",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Gettin%27_Jiggy_wit_It"
+    ],
+    "notes": "Album Nov 25 1997, single Jan 1998. Album-first year; Hitster NL lists 1998. Hitster NL list shows 1998; card uses 1997."
+  },
+  {
+    "id": "reg-britney-spears-baby-one-more-time",
+    "artist": "Britney Spears",
+    "title": "...Baby One More Time",
+    "year": 1998,
+    "year_lo": 1998,
+    "year_hi": 1998,
+    "year_label": "1998",
+    "region": "intl",
+    "in_original_hitster": false,
+    "trivia": "Swedish songwriter Max Martin wrote it, and it reached number one in more than 20 countries.",
+    "tags": [
+      "1990s",
+      "pop",
+      "teen-pop",
+      "us"
+    ],
+    "track": {
+      "artist": "Britney Spears",
+      "title": "...Baby One More Time",
+      "album": "...Baby One More Time",
+      "duration": "3:30",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Single 23 Oct 1998, album Jan 1999. Not seen on any consulted Hitster edition list (NL, DE, FR, CA, Nordics); added for recognisability and decade balance."
+  },
+  {
+    "id": "reg-cher-believe",
+    "artist": "Cher",
+    "title": "Believe",
+    "year": 1998,
+    "year_lo": 1998,
+    "year_hi": 1998,
+    "year_label": "1998",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "The producers long said the warped vocal was a vocoder, but it was actually pitch-correction software pushed to an extreme. The effect was soon nicknamed after the singer.",
+    "tags": [
+      "1990s",
+      "pop",
+      "dance-pop",
+      "us"
+    ],
+    "track": {
+      "artist": "Cher",
+      "title": "Believe",
+      "album": "Believe",
+      "duration": "3:59",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Single Oct 1998, album Nov 1998. Not on the Hitster NL list; seen on the Hitster Germany edition list."
+  },
+  {
+    "id": "reg-eiffel-65-blue-da-ba-dee",
+    "artist": "Eiffel 65",
+    "title": "Blue (Da Ba Dee)",
+    "year": 1998,
+    "year_lo": 1998,
+    "year_hi": 1998,
+    "year_label": "1998",
+    "region": "intl",
+    "in_original_hitster": false,
+    "trivia": "The lyrics describe a character whose whole world is blue, and the hook is mostly nonsense syllables. The Italian trio turned it into a global hit in 1999.",
+    "tags": [
+      "1990s",
+      "eurodance",
+      "it"
+    ],
+    "track": {
+      "artist": "Eiffel 65",
+      "title": "Blue (Da Ba Dee)",
+      "album": "Europop",
+      "duration": "3:40",
+      "isrc": null,
+      "notes": "Radio edit about 3:40."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Blue_(Da_Ba_Dee)"
+    ],
+    "notes": "Italian single Oct 1998 (Skooby), album Europop Nov 1999. Sources vary on the month, not the year. Not seen on any consulted Hitster edition list (NL, DE, FR, CA, Nordics); added for recognisability and decade balance."
+  },
+  {
+    "id": "reg-faithless-god-is-a-dj",
+    "artist": "Faithless",
+    "title": "God Is a DJ",
+    "year": 1998,
+    "year_lo": 1998,
+    "year_hi": 1998,
+    "year_label": "1998",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "The title treats club culture as a kind of church, and Maxi Jazz's low, spoken delivery became the band's signature.",
+    "tags": [
+      "1990s",
+      "dance",
+      "house",
+      "uk"
+    ],
+    "track": {
+      "artist": "Faithless",
+      "title": "God Is a DJ",
+      "album": "Sunday 8PM",
+      "duration": "4:34",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Album Sunday 8PM and single both 1998."
+  },
+  {
+    "id": "reg-fatboy-slim-praise-you",
+    "artist": "Fatboy Slim",
+    "title": "Praise You",
+    "year": 1998,
+    "year_lo": 1998,
+    "year_hi": 1998,
+    "year_label": "1998",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "It samples a spoken-word track by Camille Yarbrough. The video was shot without permission outside a cinema, with director Spike Jonze posing as the leader of a fake dance troupe.",
+    "tags": [
+      "1990s",
+      "big-beat",
+      "electronic",
+      "uk"
+    ],
+    "track": {
+      "artist": "Fatboy Slim",
+      "title": "Praise You",
+      "album": "You've Come a Long Way, Baby",
+      "duration": "5:23",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Album Oct 1998, UK single Jan 1999. Album-first year."
+  },
+  {
+    "id": "reg-lenny-kravitz-fly-away",
+    "artist": "Lenny Kravitz",
+    "title": "Fly Away",
+    "year": 1998,
+    "year_lo": 1998,
+    "year_hi": 1998,
+    "year_label": "1998",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "It earned Kravitz the first of four consecutive Grammys for Best Male Rock Vocal Performance. Its soaring chorus made it one of his most recognised songs.",
+    "tags": [
+      "1990s",
+      "rock",
+      "funk-rock",
+      "us"
+    ],
+    "track": {
+      "artist": "Lenny Kravitz",
+      "title": "Fly Away",
+      "album": "5",
+      "duration": "3:41",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Album 5 May 1998; single followed in late 1998 or early 1999. Album-first year."
+  },
+  {
+    "id": "reg-backstreet-boys-i-want-it-that-way",
+    "artist": "Backstreet Boys",
+    "title": "I Want It That Way",
+    "year": 1999,
+    "year_lo": 1999,
+    "year_hi": 1999,
+    "year_label": "1999",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "Max Martin and Andreas Carlsson wrote it in Sweden. Critics and fans have long debated what its lyrics are actually saying.",
+    "tags": [
+      "1990s",
+      "pop",
+      "boy-band",
+      "us"
+    ],
+    "track": {
+      "artist": "Backstreet Boys",
+      "title": "I Want It That Way",
+      "album": "Millennium",
+      "duration": "3:33",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Single Apr 1999, album May 1999. Not on the Hitster NL list; seen on the Hitster Canada edition list."
+  },
+  {
+    "id": "reg-christina-aguilera-genie-in-a-bottle",
+    "artist": "Christina Aguilera",
+    "title": "Genie in a Bottle",
+    "year": 1999,
+    "year_lo": 1999,
+    "year_hi": 1999,
+    "year_label": "1999",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "Her debut single, it spent five weeks at number one in the US in 1999.",
+    "tags": [
+      "1990s",
+      "pop",
+      "teen-pop",
+      "us"
+    ],
+    "track": {
+      "artist": "Christina Aguilera",
+      "title": "Genie in a Bottle",
+      "album": "Christina Aguilera",
+      "duration": "3:36",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Single Jun 1999, album Aug 1999."
+  },
+  {
+    "id": "reg-jennifer-lopez-if-you-had-my-love",
+    "artist": "Jennifer Lopez",
+    "title": "If You Had My Love",
+    "year": 1999,
+    "year_lo": 1999,
+    "year_hi": 1999,
+    "year_label": "1999",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "Her debut single came before an album named after the New York subway line she rode from the Bronx to Manhattan.",
+    "tags": [
+      "1990s",
+      "pop",
+      "dance-pop",
+      "us"
+    ],
+    "track": {
+      "artist": "Jennifer Lopez",
+      "title": "If You Had My Love",
+      "album": "On the 6",
+      "duration": "4:25",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Single May 1999, album Jun 1999."
+  },
+  {
+    "id": "reg-lou-bega-mambo-no-5-a-little-bit-of",
+    "artist": "Lou Bega",
+    "title": "Mambo No. 5 (A Little Bit of...)",
+    "year": 1999,
+    "year_lo": 1999,
+    "year_hi": 1999,
+    "year_label": "1999",
+    "region": "intl",
+    "in_original_hitster": false,
+    "trivia": "The German singer added a list of girls' names to Dámaso Pérez Prado's 1949 mambo instrumental. The result became a summer 1999 smash across Europe.",
+    "tags": [
+      "1990s",
+      "latin-pop",
+      "mambo",
+      "de"
+    ],
+    "track": {
+      "artist": "Lou Bega",
+      "title": "Mambo No. 5 (A Little Bit of...)",
+      "album": "A Little Bit of Mambo",
+      "duration": "3:41",
+      "isrc": null,
+      "notes": "Lou Bega 1999 version, not Perez Prado."
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Reworking of Perez Prado (1949); Bega's version is the famous recording. Not seen on any consulted Hitster edition list (NL, DE, FR, CA, Nordics); added for recognisability and decade balance."
+  },
+  {
+    "id": "reg-moby-porcelain",
+    "artist": "Moby",
+    "title": "Porcelain",
+    "year": 1999,
+    "year_lo": 1999,
+    "year_hi": 1999,
+    "year_label": "1999",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "Nearly every track on the album Play was licensed for film, TV or advertising, which helped it become a worldwide hit.",
+    "tags": [
+      "1990s",
+      "downtempo",
+      "electronic",
+      "us"
+    ],
+    "track": {
+      "artist": "Moby",
+      "title": "Porcelain",
+      "album": "Play",
+      "duration": "4:01",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Album 17 May 1999, single Jan 2000. Album-first year."
+  }
+]

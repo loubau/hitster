@@ -1,0 +1,1408 @@
+[
+  {
+    "id": "cls-clarke-prince-of-denmarks-march",
+    "composer": "Jeremiah Clarke",
+    "composer_short": "Clarke",
+    "work": "The Prince of Denmark's March ('Trumpet Voluntary')",
+    "nickname": "Trumpet Voluntary",
+    "catalogue_only": false,
+    "form": "orchestral",
+    "accept_work": "Clarke's Trumpet Voluntary (Prince of Denmark's March)",
+    "excerpt": "Complete march",
+    "year": 1700,
+    "year_lo": 1698,
+    "year_hi": 1700,
+    "year_label": "c. 1700",
+    "premiere_or_publication": "Printed in A Choice Collection of Ayres for the Harpsichord, 1700",
+    "dating_note": "Written around 1700; the oldest source is a 1700 keyboard collection.",
+    "recording": {
+      "performers": "Maurice André (trumpet) with orchestra",
+      "conductor": null,
+      "label": "EMI",
+      "year": null,
+      "why": "Brilliant trumpet account of the wedding favourite"
+    },
+    "trivia": "For generations it was credited to Henry Purcell, but the real composer was his younger colleague Jeremiah Clarke. It began life as a keyboard march and became a standard at British weddings.",
+    "tags": [
+      "baroque",
+      "orchestral",
+      "baroque",
+      "trumpet",
+      "english",
+      "wedding"
+    ],
+    "track": {
+      "query": "Clarke Prince of Denmark's March Trumpet Voluntary",
+      "album": null,
+      "duration": "~3:00",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Prince_of_Denmark's_March"
+    ],
+    "notes": "Recording unspecified; resolver should choose a trumpet-and-organ or orchestral version."
+  },
+  {
+    "id": "cls-bach-toccata-and-fugue-bwv-565",
+    "composer": "Johann Sebastian Bach",
+    "composer_short": "Bach",
+    "work": "Toccata and Fugue in D minor, BWV 565",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "organ",
+    "accept_work": "Bach's Toccata and Fugue in D minor",
+    "excerpt": "Toccata (opening)",
+    "year": 1707,
+    "year_lo": 1704,
+    "year_hi": 1707,
+    "year_label": "c. 1704–1707",
+    "premiere_or_publication": "Earliest surviving copies are mid-18th-century; first published 1833",
+    "dating_note": "Traditionally dated to Bach's Arnstadt years (c. 1704–1707); because no autograph survives, a minority of scholars date it later or doubt Bach's authorship.",
+    "recording": {
+      "performers": "Helmut Walcha (organ)",
+      "conductor": null,
+      "label": "Archiv Produktion",
+      "year": null,
+      "why": "Classic Bach organ cycle on historic instruments"
+    },
+    "trivia": "The opening flourish became the sound of 'spooky organ music' and was orchestrated by Stokowski for Disney's Fantasia (1940). Since 1981 a minority of scholars have even questioned whether Bach wrote it.",
+    "tags": [
+      "baroque",
+      "organ",
+      "organ",
+      "baroque"
+    ],
+    "track": {
+      "query": "Bach Toccata and Fugue in D minor BWV 565 organ",
+      "album": null,
+      "duration": "~3:00",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "low",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Toccata_and_Fugue_in_D_minor,_BWV_565"
+    ],
+    "notes": "Date and attribution genuinely uncertain (Wikipedia: written between 1704 and the 1750s). Carded with the traditional early date. Recording year not verified."
+  },
+  {
+    "id": "cls-handel-rinaldo-lascia-chio-pianga",
+    "composer": "George Frideric Handel",
+    "composer_short": "Handel",
+    "work": "Rinaldo, HWV 7: 'Lascia ch'io pianga'",
+    "nickname": "Let me weep",
+    "catalogue_only": false,
+    "form": "opera",
+    "accept_work": "Handel's Lascia ch'io pianga (from Rinaldo)",
+    "excerpt": "'Lascia ch'io pianga'",
+    "year": 1711,
+    "year_lo": 1711,
+    "year_hi": 1711,
+    "year_label": "1711",
+    "premiere_or_publication": "Premiered Queen's Theatre, London, 24 Feb 1711",
+    "dating_note": "The aria as known is from Rinaldo (1711); Handel had used the melody in earlier Italian-period works.",
+    "recording": {
+      "performers": "Soprano with orchestra (e.g. Cecilia Bartoli)",
+      "conductor": null,
+      "label": "Decca",
+      "year": null,
+      "why": "No single canonical recording; resolver should pick a strong classical version"
+    },
+    "trivia": "Handel's first opera for London was a hit, and he recycled this melody from earlier works. The aria has been used in films such as Farinelli (1994).",
+    "tags": [
+      "baroque",
+      "opera",
+      "baroque",
+      "opera",
+      "aria"
+    ],
+    "track": {
+      "query": "Handel Rinaldo Lascia ch'io pianga",
+      "album": null,
+      "duration": "~5:00",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Lascia_ch'io_pianga"
+    ],
+    "notes": "Recording unspecified. Premiere date and Farinelli use from memory."
+  },
+  {
+    "id": "cls-vivaldi-estro-armonico-op3-no10",
+    "composer": "Antonio Vivaldi",
+    "composer_short": "Vivaldi",
+    "work": "Concerto for Four Violins in B minor, RV 580 (L'estro armonico, Op. 3 No. 10)",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "concerto",
+    "accept_work": "Vivaldi's Concerto for Four Violins (L'estro armonico Op. 3 No. 10)",
+    "excerpt": "I. Allegro",
+    "year": 1711,
+    "year_lo": 1708,
+    "year_hi": 1711,
+    "year_label": "c. 1711",
+    "premiere_or_publication": "Published Amsterdam, 1711 (L'estro armonico, Op. 3)",
+    "dating_note": "Published in 1711; the concertos were probably written in the preceding years.",
+    "recording": {
+      "performers": "I Musici",
+      "conductor": null,
+      "label": "Philips",
+      "year": null,
+      "why": "Smooth modern-instrument tradition; period option: Il Giardino Armonico"
+    },
+    "trivia": "Four solo violins trade brilliant passages in this concerto from the collection that made Vivaldi famous across Europe. Bach liked it so much he rewrote it for four harpsichords.",
+    "tags": [
+      "baroque",
+      "concerto",
+      "baroque",
+      "violin"
+    ],
+    "track": {
+      "query": "Vivaldi Concerto for four violins RV 580 Allegro",
+      "album": null,
+      "duration": "~3:30",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/L'estro_armonico"
+    ],
+    "notes": "Publication date firm; composition range assumed. Recording attribution is a loose suggestion."
+  },
+  {
+    "id": "cls-vivaldi-gloria-rv-589",
+    "composer": "Antonio Vivaldi",
+    "composer_short": "Vivaldi",
+    "work": "Gloria in D major, RV 589",
+    "nickname": "Gloria",
+    "catalogue_only": false,
+    "form": "choral",
+    "accept_work": "Vivaldi's Gloria (RV 589)",
+    "excerpt": "Gloria in excelsis Deo (opening chorus)",
+    "year": 1715,
+    "year_lo": 1713,
+    "year_hi": 1717,
+    "year_label": "c. 1715",
+    "premiere_or_publication": "Probably for the Ospedale della Pietà, Venice; revived in the 20th century",
+    "dating_note": "Probably written around 1715; no firm date survives.",
+    "recording": {
+      "performers": "Period-instrument choir and orchestra (e.g. The Sixteen)",
+      "conductor": "Harry Christophers",
+      "label": null,
+      "year": null,
+      "why": "Bright period-instrument choral account; no single canonical recording"
+    },
+    "trivia": "Vivaldi wrote it for the girls' orchestra and choir of a Venetian orphanage, where he taught. The piece was forgotten for about two centuries and revived in the 20th century.",
+    "tags": [
+      "baroque",
+      "choral",
+      "baroque",
+      "sacred",
+      "venetian"
+    ],
+    "track": {
+      "query": "Vivaldi Gloria RV 589 Gloria in excelsis Deo",
+      "album": null,
+      "duration": "~2:30",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Gloria_(Vivaldi)"
+    ],
+    "notes": "Dated 'possibly 1715' on Wikipedia. Recording unspecified; flag for resolver."
+  },
+  {
+    "id": "cls-couperin-les-barricades-mysterieuses",
+    "composer": "François Couperin",
+    "composer_short": "Couperin",
+    "work": "Les barricades mystérieuses (Pièces de clavecin, 6e ordre)",
+    "nickname": "Les barricades mystérieuses",
+    "catalogue_only": false,
+    "form": "solo-piano",
+    "accept_work": "Couperin's Les barricades mystérieuses",
+    "excerpt": "Complete piece",
+    "year": 1717,
+    "year_lo": 1717,
+    "year_hi": 1717,
+    "year_label": "1717",
+    "premiere_or_publication": "Published Paris, 1717 (Second livre de pièces de clavecin)",
+    "dating_note": "Composed in 1717 for harpsichord.",
+    "recording": {
+      "performers": "Blandine Verlet (harpsichord)",
+      "conductor": null,
+      "label": "Astrée",
+      "year": null,
+      "why": "Elegant French harpsichord style"
+    },
+    "trivia": "Its title has never been satisfactorily explained: barricades might be the overlapping broken chords or the barriers of a lady's modesty. Debussy and Ravel venerated Couperin.",
+    "tags": [
+      "baroque",
+      "solo-piano",
+      "baroque",
+      "harpsichord",
+      "french"
+    ],
+    "track": {
+      "query": "Couperin Les barricades mystérieuses harpsichord",
+      "album": null,
+      "duration": "~3:00",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Les_barricades_myst%C3%A9rieuses"
+    ],
+    "notes": "Recording attribution from memory."
+  },
+  {
+    "id": "cls-handel-water-music",
+    "composer": "George Frideric Handel",
+    "composer_short": "Handel",
+    "work": "Water Music, HWV 348–350",
+    "nickname": "Water Music",
+    "catalogue_only": false,
+    "form": "orchestral",
+    "accept_work": "Handel's Water Music",
+    "excerpt": "Suite in D major: Alla Hornpipe",
+    "year": 1717,
+    "year_lo": 1715,
+    "year_hi": 1717,
+    "year_label": "1715–1717",
+    "premiere_or_publication": "Premiered on the River Thames, 17 July 1717",
+    "dating_note": "Premiered 17 July 1717; Chrysander's edition also preserves an earlier version of two D-major movements from 1715.",
+    "recording": {
+      "performers": "The English Concert",
+      "conductor": "Trevor Pinnock",
+      "label": "Archiv Produktion",
+      "year": null,
+      "why": "Lively period-instrument performance"
+    },
+    "trivia": "Written for a royal boat party on the Thames in 1717: King George I's barge was followed by a barge full of musicians. The king reportedly liked it so much that it was played several times that evening.",
+    "tags": [
+      "baroque",
+      "orchestral",
+      "baroque",
+      "orchestral",
+      "royal"
+    ],
+    "track": {
+      "query": "Handel Water Music Alla Hornpipe Pinnock",
+      "album": null,
+      "duration": "~3:00",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Water_Music"
+    ],
+    "notes": "'Played several times' is reportage from a contemporary newspaper (from memory). Recording year not verified."
+  },
+  {
+    "id": "cls-stolzel-bist-du-bei-mir",
+    "composer": "Gottfried Heinrich Stölzel",
+    "composer_short": "Stölzel",
+    "work": "'Bist du bei mir, geh ich mit Freuden' (aria from Diomedes; BWV 508)",
+    "nickname": "Bist du bei mir",
+    "catalogue_only": false,
+    "form": "song",
+    "accept_work": "Bist du bei mir (long credited to Bach, actually Stölzel)",
+    "excerpt": "Complete aria",
+    "year": 1718,
+    "year_lo": 1718,
+    "year_hi": 1718,
+    "year_label": "1718",
+    "premiere_or_publication": "Opera Diomedes staged in Bayreuth, 16 Nov 1718; copied into the 1725 Notebook for Anna Magdalena Bach",
+    "dating_note": "Composed by Stölzel for his opera Diomedes (1718); the version with voice and continuo in Anna Magdalena's 1725 notebook (as BWV 508) led to a Bach attribution.",
+    "recording": {
+      "performers": "Soprano or mezzo with piano or continuo (e.g. Barbara Bonney)",
+      "conductor": null,
+      "label": null,
+      "year": null,
+      "why": "Wedding and recital favourite; no single canonical recording"
+    },
+    "trivia": "For years it was published as a Bach song because it is in his wife's notebook. It actually comes from an opera by Gottfried Heinrich Stölzel, a colleague whose music Bach admired.",
+    "tags": [
+      "baroque",
+      "song",
+      "baroque",
+      "misattribution",
+      "aria",
+      "wedding"
+    ],
+    "track": {
+      "query": "Bist du bei mir Stölzel BWV 508 aria",
+      "album": null,
+      "duration": "~3:00",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Bist_du_bei_mir"
+    ],
+    "notes": "Misattribution card: carded under Stölzel (1718 opera). The 'colleague whose music Bach admired' is supported by Bach performing/copying Stolzel works."
+  },
+  {
+    "id": "cls-bach-cello-suite-1",
+    "composer": "Johann Sebastian Bach",
+    "composer_short": "Bach",
+    "work": "Cello Suite No. 1 in G major, BWV 1007",
+    "nickname": null,
+    "catalogue_only": true,
+    "form": "chamber",
+    "accept_work": "Bach's Cello Suite No. 1 (Prelude)",
+    "excerpt": "Prélude",
+    "year": 1720,
+    "year_lo": 1717,
+    "year_hi": 1723,
+    "year_label": "c. 1717–1723",
+    "premiere_or_publication": "Survives in a copy by Anna Magdalena Bach; first printed in the 1820s",
+    "dating_note": "Most likely composed during Bach's Köthen years, 1717–1723; no autograph survives.",
+    "recording": {
+      "performers": "Pablo Casals (cello)",
+      "conductor": null,
+      "label": "EMI (now Warner)",
+      "year": null,
+      "why": "Recorded 1936–39; the pioneering complete set that rescued the suites from obscurity"
+    },
+    "trivia": "Bach's own manuscript is lost; we know the suites from copies, mainly by his wife Anna Magdalena. Casals found them in a Barcelona shop at 13 and practised them for years before ever performing one in public.",
+    "tags": [
+      "baroque",
+      "chamber",
+      "baroque",
+      "solo-cello"
+    ],
+    "track": {
+      "query": "Bach Cello Suite No. 1 Prelude Casals",
+      "album": null,
+      "duration": "~2:30",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Cello_Suites_(Bach)"
+    ],
+    "notes": "First-publication year (1825) and Casals recording years from memory/Wikipedia. Alternatives: Rostropovich, Yo-Yo Ma (1983/1997), Fournier."
+  },
+  {
+    "id": "cls-petzold-minuet-in-g",
+    "composer": "Christian Petzold",
+    "composer_short": "Petzold",
+    "work": "Minuet in G major, BWV Anh. 114 (formerly attributed to Bach)",
+    "nickname": "Minuet in G",
+    "catalogue_only": false,
+    "form": "solo-piano",
+    "accept_work": "The Minuet in G (formerly credited to Bach, actually Petzold)",
+    "excerpt": "Complete minuet",
+    "year": 1720,
+    "year_lo": 1720,
+    "year_hi": 1720,
+    "year_label": "1720",
+    "premiere_or_publication": "Copied into the 1725 Notebook for Anna Magdalena Bach; published by the Bach-Gesellschaft in 1894",
+    "dating_note": "Composed by Christian Petzold c. 1720 as part of a harpsichord suite; the copy in Anna Magdalena's 1725 notebook led to centuries of misattribution to Bach.",
+    "recording": {
+      "performers": "Harpsichord or piano (any good recording)",
+      "conductor": null,
+      "label": null,
+      "year": null,
+      "why": "Beginner favourite; no single canonical recording"
+    },
+    "trivia": "Beginner pianists play it as 'Bach's Minuet in G', but Bach did not write it; the Dresden composer Christian Petzold did. The Toys' 1965 hit 'A Lover's Concerto' borrows its tune.",
+    "tags": [
+      "baroque",
+      "solo-piano",
+      "baroque",
+      "misattribution",
+      "keyboard"
+    ],
+    "track": {
+      "query": "Minuet in G major Petzold BWV Anh. 114",
+      "album": null,
+      "duration": "~1:30",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Minuet_in_G_major,_BWV_Anh._114"
+    ],
+    "notes": "Misattribution card: carded under Petzold, original date c. 1720 per Wikipedia; the 1725 notebook is a terminus ante quem. 'A Lover's Concerto' link from memory."
+  },
+  {
+    "id": "cls-vivaldi-four-seasons-spring",
+    "composer": "Antonio Vivaldi",
+    "composer_short": "Vivaldi",
+    "work": "The Four Seasons: Violin Concerto No. 1 in E major, 'Spring', RV 269",
+    "nickname": "Spring (La primavera)",
+    "catalogue_only": false,
+    "form": "concerto",
+    "accept_work": "Vivaldi's Four Seasons (Spring)",
+    "excerpt": "I. Allegro",
+    "year": 1720,
+    "year_lo": 1718,
+    "year_hi": 1723,
+    "year_label": "c. 1718–1723",
+    "premiere_or_publication": "Published Amsterdam, 1725 (Il cimento dell'armonia e dell'inventione, Op. 8)",
+    "dating_note": "Composed around 1718–1723 while Vivaldi was in Mantua (possibly as early as 1716–17); published in 1725.",
+    "recording": {
+      "performers": "Nigel Kennedy; English Chamber Orchestra",
+      "conductor": "Nigel Kennedy",
+      "label": "EMI Classics",
+      "year": 1989,
+      "why": "The huge best-selling recording that made Vivaldi a pop-chart name; period-instrument alternative: Carmignola or Biondi"
+    },
+    "trivia": "Each concerto comes with a sonnet describing scenes such as birdsong, storms and shivering. Spring includes musical bird calls, a murmuring stream and thunder.",
+    "tags": [
+      "baroque",
+      "concerto",
+      "baroque",
+      "violin",
+      "programme-music"
+    ],
+    "track": {
+      "query": "Vivaldi Four Seasons Spring Allegro Kennedy",
+      "album": null,
+      "duration": "~3:20",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Four_Seasons_(Vivaldi)"
+    ],
+    "notes": "Range per Wikipedia (c. 1718–1723). Kennedy year/label from memory."
+  },
+  {
+    "id": "cls-bach-brandenburg-concerto-3",
+    "composer": "Johann Sebastian Bach",
+    "composer_short": "Bach",
+    "work": "Brandenburg Concerto No. 3 in G major, BWV 1048",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "concerto",
+    "accept_work": "a Brandenburg Concerto (any number); this one is No. 3",
+    "excerpt": "I. (Allegro)",
+    "year": 1721,
+    "year_lo": 1718,
+    "year_hi": 1721,
+    "year_label": "c. 1718–1721",
+    "premiere_or_publication": "Presented to the Margrave of Brandenburg-Schwedt, 1721; first published 1850",
+    "dating_note": "The six concertos were presented in 1721 but were probably composed earlier, during Bach's years at Köthen.",
+    "recording": {
+      "performers": "The English Concert",
+      "conductor": "Trevor Pinnock",
+      "label": "Archiv Produktion",
+      "year": 1982,
+      "why": "Lively, crisp period-instrument cycle; a long-time library choice"
+    },
+    "trivia": "No. 3 is scored for three violins, three violas and three cellos, three of everything, and its slow movement is just two chords that invite improvisation. The Margrave seems never to have had the set played.",
+    "tags": [
+      "baroque",
+      "concerto",
+      "baroque",
+      "concerto-grosso"
+    ],
+    "track": {
+      "query": "Bach Brandenburg Concerto No. 3 Pinnock Allegro",
+      "album": null,
+      "duration": "~6:00",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Brandenburg_Concertos"
+    ],
+    "notes": "Brandenburg collection title counts as a title, so catalogue_only is false; a 'Brandenburg (any number)' answer is the fair chip answer. Pinnock year from memory."
+  },
+  {
+    "id": "cls-albinoni-oboe-concerto-op-9-no-2",
+    "composer": "Tomaso Albinoni",
+    "composer_short": "Albinoni",
+    "work": "Oboe Concerto in D minor, Op. 9 No. 2",
+    "nickname": null,
+    "catalogue_only": true,
+    "form": "concerto",
+    "accept_work": "Albinoni's Oboe Concerto in D minor (Op. 9 No. 2)",
+    "excerpt": "II. Adagio",
+    "year": 1722,
+    "year_lo": 1715,
+    "year_hi": 1722,
+    "year_label": "c. 1715–1722",
+    "premiere_or_publication": "Published Amsterdam, 1722 (Concerti a cinque, Op. 9)",
+    "dating_note": "Published as part of Op. 9 in 1722; Albinoni wrote most of his oboe concertos in the years before.",
+    "recording": {
+      "performers": "Heinz Holliger (oboe); I Musici",
+      "conductor": null,
+      "label": "Philips",
+      "year": null,
+      "why": "Silky-toned classic oboe interpretation"
+    },
+    "trivia": "Albinoni's actual oboe music, and a highlight for any oboist. The far more famous 'Albinoni Adagio' is nothing to do with this: it was composed by Remo Giazotto in the 20th century.",
+    "tags": [
+      "baroque",
+      "concerto",
+      "baroque",
+      "oboe",
+      "venetian"
+    ],
+    "track": {
+      "query": "Albinoni Oboe Concerto in D minor Op. 9 No. 2 Adagio Holliger",
+      "album": null,
+      "duration": "~4:30",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Tomaso_Albinoni"
+    ],
+    "notes": "Op. 9 date (1722) from memory; Wikipedia page confirms Albinoni's oboe-writing period only. Recording attribution unverified."
+  },
+  {
+    "id": "cls-bach-prelude-in-c-wtc1",
+    "composer": "Johann Sebastian Bach",
+    "composer_short": "Bach",
+    "work": "The Well-Tempered Clavier, Book 1: Prelude No. 1 in C major, BWV 846",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "solo-piano",
+    "accept_work": "Bach's Prelude in C (Well-Tempered Clavier)",
+    "excerpt": "Prelude No. 1 in C major",
+    "year": 1722,
+    "year_lo": 1722,
+    "year_hi": 1722,
+    "year_label": "1722",
+    "premiere_or_publication": "Autograph dated 1722; published 1801",
+    "dating_note": "Bach's own title page for Book 1 is dated 1722, written at Köthen.",
+    "recording": {
+      "performers": "Glenn Gould (piano)",
+      "conductor": null,
+      "label": "Sony Classical (CBS)",
+      "year": null,
+      "why": "Famous, idiosyncratic, crystal-clear Bach; many pianists and harpsichordists also excellent"
+    },
+    "trivia": "A hypnotic stream of broken chords, played on harpsichord or piano. In 1853 Gounod wrote a melody over it that became the Ave Maria.",
+    "tags": [
+      "baroque",
+      "solo-piano",
+      "baroque",
+      "keyboard"
+    ],
+    "track": {
+      "query": "Bach Well-Tempered Clavier Prelude in C major BWV 846",
+      "album": null,
+      "duration": "~2:20",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Well-Tempered_Clavier"
+    ],
+    "notes": "Collection title treated as a title (catalogue_only false); a bare 'Prelude in C' answer is ambiguous. Publication year (1801) from memory. Gounod's Ave Maria is carded separately in the romantic part."
+  },
+  {
+    "id": "cls-bach-jesu-joy-of-mans-desiring",
+    "composer": "Johann Sebastian Bach",
+    "composer_short": "Bach",
+    "work": "Herz und Mund und Tat und Leben, BWV 147: Chorale 'Jesu, Joy of Man's Desiring'",
+    "nickname": "Jesu, Joy of Man's Desiring",
+    "catalogue_only": false,
+    "form": "choral",
+    "accept_work": "Bach's Jesu, Joy of Man's Desiring (Cantata 147)",
+    "excerpt": "Chorale 'Jesus bleibet meine Freude'",
+    "year": 1723,
+    "year_lo": 1723,
+    "year_hi": 1723,
+    "year_label": "1723",
+    "premiere_or_publication": "Leipzig, 2 July 1723 (Feast of the Visitation); expanded from a 1716 Weimar cantata",
+    "dating_note": "The famous chorale belongs to the expanded Leipzig version of 1723, built on an earlier cantata from Weimar.",
+    "recording": {
+      "performers": "Bach Collegium Japan",
+      "conductor": "Masaaki Suzuki",
+      "label": "BIS",
+      "year": null,
+      "why": "Warm, polished period-instrument cantata series"
+    },
+    "trivia": "The flowing triplets are a famously calm accompaniment to a simple hymn tune. The English title came from a 1908 publication, and Myra Hess's 1926 piano arrangement made the piece a worldwide favourite.",
+    "tags": [
+      "baroque",
+      "choral",
+      "baroque",
+      "cantata",
+      "sacred",
+      "wedding"
+    ],
+    "track": {
+      "query": "Bach Cantata BWV 147 Jesus bleibet meine Freude Suzuki",
+      "album": null,
+      "duration": "~3:30",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Jesu,_Joy_of_Man's_Desiring"
+    ],
+    "notes": "Recording attribution from memory (Suzuki has recorded the full cantata cycle). Piano versions by Myra Hess are the other common form."
+  },
+  {
+    "id": "cls-marais-sonnerie-de-sainte-genevieve",
+    "composer": "Marin Marais",
+    "composer_short": "Marais",
+    "work": "Sonnerie de Sainte-Geneviève du Mont de Paris",
+    "nickname": "The Bells of St Genevieve",
+    "catalogue_only": false,
+    "form": "chamber",
+    "accept_work": "Marais's Sonnerie de Sainte-Geneviève (Bells of St Genevieve)",
+    "excerpt": "Complete piece",
+    "year": 1723,
+    "year_lo": 1723,
+    "year_hi": 1723,
+    "year_label": "1723",
+    "premiere_or_publication": "Published Paris, 1723",
+    "dating_note": "Written in 1723 for viol, violin and harpsichord with continuo.",
+    "recording": {
+      "performers": "Hespèrion XX",
+      "conductor": "Jordi Savall",
+      "label": "Auvidis Valois / Alia Vox",
+      "year": null,
+      "why": "The famous Tous les matins du monde soundtrack performance"
+    },
+    "trivia": "A passacaglia over a repeating three-note bass, imitating the bells of a Paris church. Marais's viol music reached a new audience in the 1991 film Tous les matins du monde.",
+    "tags": [
+      "baroque",
+      "chamber",
+      "baroque",
+      "viol",
+      "french"
+    ],
+    "track": {
+      "query": "Marais Sonnerie de Sainte-Geneviève du Mont de Paris Savall",
+      "album": null,
+      "duration": "~5:00",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Sonnerie_de_Sainte-Genevi%C3%A8ve_du_Mont_de_Paris"
+    ],
+    "notes": "Savall recording is the soundtrack to Tous les matins du monde (1991); label/year from memory."
+  },
+  {
+    "id": "cls-bach-orchestral-suite-3-air",
+    "composer": "Johann Sebastian Bach",
+    "composer_short": "Bach",
+    "work": "Orchestral Suite No. 3 in D major, BWV 1068 ('Air on the G string')",
+    "nickname": "Air on the G string",
+    "catalogue_only": false,
+    "form": "orchestral",
+    "accept_work": "Bach's Air on the G string (Orchestral Suite No. 3)",
+    "excerpt": "II. Air",
+    "year": 1727,
+    "year_lo": 1724,
+    "year_hi": 1731,
+    "year_label": "c. 1724–1731",
+    "premiere_or_publication": "Leipzig, for the Collegium Musicum; earliest surviving parts c. 1730–31",
+    "dating_note": "The four orchestral suites date from 1724–1731; some scholars argue earlier Köthen origins for No. 3.",
+    "recording": {
+      "performers": "The English Concert",
+      "conductor": "Trevor Pinnock",
+      "label": "Archiv Produktion",
+      "year": null,
+      "why": "Elegant period-instrument suites"
+    },
+    "trivia": "The nickname comes from August Wilhelmj's 1871 arrangement, which put the melody on the violin's lowest string. Bach's original Air is for strings and continuo only, with no trumpets.",
+    "tags": [
+      "baroque",
+      "orchestral",
+      "baroque",
+      "orchestral-suite"
+    ],
+    "track": {
+      "query": "Bach Orchestral Suite No. 3 Air on the G string",
+      "album": null,
+      "duration": "~5:30",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Orchestral_Suite_No._3_(Bach)"
+    ],
+    "notes": "Range reflects the 1724–1731 estimate for the suites; midpoint used. Wilhelmj arrangement detail from memory. Recording not verified."
+  },
+  {
+    "id": "cls-bach-st-matthew-passion",
+    "composer": "Johann Sebastian Bach",
+    "composer_short": "Bach",
+    "work": "St Matthew Passion, BWV 244",
+    "nickname": "Matthäus-Passion",
+    "catalogue_only": false,
+    "form": "choral",
+    "accept_work": "Bach's St Matthew Passion",
+    "excerpt": "Aria 'Erbarme dich, mein Gott'",
+    "year": 1727,
+    "year_lo": 1727,
+    "year_hi": 1727,
+    "year_label": "1727",
+    "premiere_or_publication": "Leipzig, Good Friday, 1727 (revised in the 1730s and 1740s)",
+    "dating_note": "Written in 1727; the text by Picander was published in 1729, and Bach revised the score several times in the 1730s.",
+    "recording": {
+      "performers": "Monteverdi Choir; English Baroque Soloists; Anne Sofie von Otter (alto)",
+      "conductor": "John Eliot Gardiner",
+      "label": "Archiv Produktion",
+      "year": 1988,
+      "why": "Period-instrument benchmark; von Otter sings 'Erbarme dich'"
+    },
+    "trivia": "'Erbarme dich' is the alto aria sung right after Peter denies Jesus, with a solo violin weeping above it. Mendelssohn's 1829 Berlin performance, nearly a century after Bach's last, helped revive Bach's reputation.",
+    "tags": [
+      "baroque",
+      "choral",
+      "baroque",
+      "passion",
+      "sacred"
+    ],
+    "track": {
+      "query": "Bach St Matthew Passion Erbarme dich Gardiner von Otter",
+      "album": null,
+      "duration": "~7:00",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/St_Matthew_Passion"
+    ],
+    "notes": "Dated to the original 1727 version, not the 1829 revival. Gardiner year from memory. Mendelssohn 1829 revival detail from memory."
+  },
+  {
+    "id": "cls-handel-zadok-the-priest",
+    "composer": "George Frideric Handel",
+    "composer_short": "Handel",
+    "work": "Zadok the Priest, HWV 258",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "choral",
+    "accept_work": "Handel's Zadok the Priest (the Champions League tune)",
+    "excerpt": "Complete anthem",
+    "year": 1727,
+    "year_lo": 1727,
+    "year_hi": 1727,
+    "year_label": "1727",
+    "premiere_or_publication": "Sung at the coronation of George II, Westminster Abbey, 11 Oct 1727",
+    "dating_note": "Written for the coronation of George II in 1727.",
+    "recording": {
+      "performers": "The English Concert and Choir",
+      "conductor": "Trevor Pinnock",
+      "label": "Archiv Produktion",
+      "year": null,
+      "why": "Majestic period-instrument coronation anthems"
+    },
+    "trivia": "Sung at every British coronation since 1727, always during the anointing. The UEFA Champions League anthem is an adaptation of it.",
+    "tags": [
+      "baroque",
+      "choral",
+      "baroque",
+      "coronation",
+      "anthem"
+    ],
+    "track": {
+      "query": "Handel Zadok the Priest Coronation Anthem",
+      "album": null,
+      "duration": "~5:30",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Zadok_the_Priest"
+    ],
+    "notes": "Recording attribution from memory. Champions League link is well documented (Tony Britten, 1992)."
+  },
+  {
+    "id": "cls-mouret-rondeau-suite-de-symphonies",
+    "composer": "Jean-Joseph Mouret",
+    "composer_short": "Mouret",
+    "work": "Suite de symphonies: Fanfare-Rondeau (Masterpiece theme)",
+    "nickname": "Rondeau (Masterpiece theme)",
+    "catalogue_only": false,
+    "form": "orchestral",
+    "accept_work": "Mouret's Rondeau (the Masterpiece Theatre theme)",
+    "excerpt": "Rondeau",
+    "year": 1729,
+    "year_lo": 1729,
+    "year_hi": 1729,
+    "year_label": "1729",
+    "premiere_or_publication": "Published Paris, 1729 (Suites de symphonies)",
+    "dating_note": "Part of the Suites de symphonies published in 1729.",
+    "recording": {
+      "performers": "Period-instrument ensemble or the PBS Masterpiece recording",
+      "conductor": null,
+      "label": null,
+      "year": null,
+      "why": "No canonical classical recording; resolver should pick any Mouret Rondeau"
+    },
+    "trivia": "These fanfares were written to accompany the king's table or court events in the French royal court. The Rondeau became the theme of PBS's Masterpiece Theatre, introducing British drama to US viewers.",
+    "tags": [
+      "baroque",
+      "orchestral",
+      "baroque",
+      "french",
+      "fanfare",
+      "tv-theme"
+    ],
+    "track": {
+      "query": "Mouret Fanfare Rondeau Suite de symphonies",
+      "album": null,
+      "duration": "~2:00",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Jean-Joseph_Mouret"
+    ],
+    "notes": "Composer page confirms the 1729 Suites de symphonies. Masterpiece-theme link from memory."
+  },
+  {
+    "id": "cls-telemann-tafelmusik",
+    "composer": "Georg Philipp Telemann",
+    "composer_short": "Telemann",
+    "work": "Musique de table (Tafelmusik), Production I: Overture-Suite in E minor, TWV 55:e1",
+    "nickname": "Tafelmusik",
+    "catalogue_only": false,
+    "form": "orchestral",
+    "accept_work": "Telemann's Tafelmusik",
+    "excerpt": "Overture (Production I)",
+    "year": 1733,
+    "year_lo": 1733,
+    "year_hi": 1733,
+    "year_label": "1733",
+    "premiere_or_publication": "Published Hamburg, 1733, by subscription",
+    "dating_note": "Published in 1733; compiled just before.",
+    "recording": {
+      "performers": "Concentus Musicus Wien",
+      "conductor": "Nikolaus Harnoncourt",
+      "label": "Teldec",
+      "year": null,
+      "why": "Pioneering period-instrument Telemann"
+    },
+    "trivia": "A three-part collection of 'table music' for banquets, with overtures, concertos and sonatas, sold across Europe by subscription. Telemann was among the most prolific composers in history.",
+    "tags": [
+      "baroque",
+      "orchestral",
+      "baroque",
+      "orchestral"
+    ],
+    "track": {
+      "query": "Telemann Tafelmusik Production I Overture Harnoncourt",
+      "album": null,
+      "duration": "~10:00",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Tafelmusik_(Telemann)"
+    ],
+    "notes": "Recording attribution from memory."
+  },
+  {
+    "id": "cls-daquin-le-coucou",
+    "composer": "Louis-Claude Daquin",
+    "composer_short": "Daquin",
+    "work": "Le Coucou (Premier livre de pièces de clavecin)",
+    "nickname": "Le Coucou",
+    "catalogue_only": false,
+    "form": "solo-piano",
+    "accept_work": "Daquin's Le Coucou (The Cuckoo)",
+    "excerpt": "Complete piece",
+    "year": 1735,
+    "year_lo": 1735,
+    "year_hi": 1735,
+    "year_label": "1735",
+    "premiere_or_publication": "Published Paris, 1735 (Premier livre de pièces de clavecin)",
+    "dating_note": "From Daquin's only harpsichord book, published in 1735.",
+    "recording": {
+      "performers": "Harpsichordist (e.g. Blandine Verlet or Scott Ross)",
+      "conductor": null,
+      "label": null,
+      "year": null,
+      "why": "No single canonical recording"
+    },
+    "trivia": "A cheerful rondo in which the harpsichord imitates the cuckoo's call with a falling third. Daquin was a child prodigy organist who played for Louis XIV at six.",
+    "tags": [
+      "baroque",
+      "solo-piano",
+      "baroque",
+      "harpsichord",
+      "french"
+    ],
+    "track": {
+      "query": "Daquin Le Coucou harpsichord",
+      "album": null,
+      "duration": "~4:00",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Louis-Claude_Daquin"
+    ],
+    "notes": "Date from memory (1735 first book); composer page does not list it. Child-prodigy detail from memory."
+  },
+  {
+    "id": "cls-pergolesi-stabat-mater",
+    "composer": "Giovanni Battista Pergolesi",
+    "composer_short": "Pergolesi",
+    "work": "Stabat Mater, P. 77",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "choral",
+    "accept_work": "Pergolesi's Stabat Mater",
+    "excerpt": "Opening duet 'Stabat Mater dolorosa'",
+    "year": 1736,
+    "year_lo": 1736,
+    "year_hi": 1736,
+    "year_label": "1736",
+    "premiere_or_publication": "Composed for the Confraternity of San Luigi di Palazzo, Naples; later widely printed",
+    "dating_note": "Composed in the final weeks of Pergolesi's life; he died in March 1736.",
+    "recording": {
+      "performers": "Margaret Marshall; Lucia Valentini Terrani; London Symphony Orchestra",
+      "conductor": "Claudio Abbado",
+      "label": "Deutsche Grammophon",
+      "year": null,
+      "why": "Warm, stylish modern-instrument account"
+    },
+    "trivia": "Pergolesi wrote it as a dying man of 26, and it became one of the most reprinted pieces of the 18th century. The two voices intertwine in sorrowing suspensions.",
+    "tags": [
+      "baroque",
+      "choral",
+      "baroque",
+      "sacred",
+      "neapolitan"
+    ],
+    "track": {
+      "query": "Pergolesi Stabat Mater Stabat Mater dolorosa Abbado",
+      "album": null,
+      "duration": "~4:30",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Stabat_Mater_(Pergolesi)"
+    ],
+    "notes": "Recording attribution from memory."
+  },
+  {
+    "id": "cls-rameau-les-indes-galantes",
+    "composer": "Jean-Philippe Rameau",
+    "composer_short": "Rameau",
+    "work": "Les Indes galantes: entrée 'Les Sauvages'",
+    "nickname": "Les Indes galantes",
+    "catalogue_only": false,
+    "form": "opera",
+    "accept_work": "Rameau's Les Indes galantes (Danse des Sauvages)",
+    "excerpt": "'Air des Sauvages' / Danse du Grand Calumet de la Paix",
+    "year": 1736,
+    "year_lo": 1735,
+    "year_hi": 1736,
+    "year_label": "1735–1736",
+    "premiere_or_publication": "Opera premiered Paris, 23 Aug 1735; the Sauvages entrée was added in 1736",
+    "dating_note": "The opera-ballet dates from 1735; the 'Les Sauvages' entrée was added in 1736, reusing an air Rameau first wrote in 1725.",
+    "recording": {
+      "performers": "Les Arts Florissants",
+      "conductor": "William Christie",
+      "label": "Harmonia Mundi",
+      "year": null,
+      "why": "The standard modern recording of the opera-ballet"
+    },
+    "trivia": "Rameau recycled a harpsichord piece he wrote in 1725, 'Les Sauvages', as the finale of the revised 1736 version. The opera-ballet takes the audience on a tour of exotic locations.",
+    "tags": [
+      "baroque",
+      "opera",
+      "baroque",
+      "opera-ballet",
+      "french"
+    ],
+    "track": {
+      "query": "Rameau Les Indes galantes Danse des Sauvages Christie",
+      "album": null,
+      "duration": "~3:00",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Les_Indes_galantes"
+    ],
+    "notes": "Excerpt dates to the 1736 added entrée; the tune is from 1725. Recording attribution from memory."
+  },
+  {
+    "id": "cls-handel-serse-ombra-mai-fu",
+    "composer": "George Frideric Handel",
+    "composer_short": "Handel",
+    "work": "Serse, HWV 40: 'Ombra mai fu' (Largo)",
+    "nickname": "Handel's Largo",
+    "catalogue_only": false,
+    "form": "opera",
+    "accept_work": "Handel's Largo (Ombra mai fu, from Serse)",
+    "excerpt": "'Ombra mai fu'",
+    "year": 1738,
+    "year_lo": 1737,
+    "year_hi": 1738,
+    "year_label": "1737–1738",
+    "premiere_or_publication": "Premiered King's Theatre, London, April 1738",
+    "dating_note": "Composed over the winter of 1737–38 for the London season.",
+    "recording": {
+      "performers": "Andreas Scholl (countertenor) or similar",
+      "conductor": null,
+      "label": null,
+      "year": null,
+      "why": "The aria suits countertenor, mezzo or tenor; no single canonical recording"
+    },
+    "trivia": "The opera was a flop lasting only five performances, yet its opening aria, in praise of a plane tree's shade, is now one of Handel's best-known tunes. It was originally written for a castrato.",
+    "tags": [
+      "baroque",
+      "opera",
+      "baroque",
+      "opera",
+      "aria"
+    ],
+    "track": {
+      "query": "Handel Serse Ombra mai fu Largo",
+      "album": null,
+      "duration": "~3:00",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Ombra_mai_f%C3%B9"
+    ],
+    "notes": "Recording unspecified; resolver should pick any strong 'Ombra mai fu'. 'Written for a castrato' (Caffarelli) from memory."
+  },
+  {
+    "id": "cls-arne-rule-britannia",
+    "composer": "Thomas Arne",
+    "composer_short": "Arne",
+    "work": "Rule, Britannia! (from the masque Alfred)",
+    "nickname": "Rule, Britannia!",
+    "catalogue_only": false,
+    "form": "song",
+    "accept_work": "Arne's Rule, Britannia!",
+    "excerpt": "Complete song",
+    "year": 1740,
+    "year_lo": 1740,
+    "year_hi": 1740,
+    "year_label": "1740",
+    "premiere_or_publication": "First performed in the masque Alfred, Cliveden, 1 Aug 1740",
+    "dating_note": "Set to James Thomson's 1740 poem in the same year for the masque Alfred.",
+    "recording": {
+      "performers": "BBC Symphony Orchestra and Chorus (Last Night of the Proms)",
+      "conductor": null,
+      "label": null,
+      "year": null,
+      "why": "The traditional Proms version; resolver should pick a Proms or concert recording"
+    },
+    "trivia": "The song ended a masque about King Alfred, staged for Prince Frederick at Cliveden. It became a fixture of the Last Night of the Proms, and Wagner wrote a concert overture on its theme in 1837.",
+    "tags": [
+      "baroque",
+      "song",
+      "baroque",
+      "english",
+      "patriotic"
+    ],
+    "track": {
+      "query": "Arne Rule Britannia Last Night of the Proms",
+      "album": null,
+      "duration": "~3:30",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Rule,_Britannia!"
+    ],
+    "notes": "Recording unspecified."
+  },
+  {
+    "id": "cls-bach-goldberg-variations",
+    "composer": "Johann Sebastian Bach",
+    "composer_short": "Bach",
+    "work": "Goldberg Variations, BWV 988",
+    "nickname": "Goldberg Variations",
+    "catalogue_only": false,
+    "form": "solo-piano",
+    "accept_work": "Bach's Goldberg Variations",
+    "excerpt": "Aria",
+    "year": 1741,
+    "year_lo": 1740,
+    "year_hi": 1741,
+    "year_label": "c. 1741",
+    "premiere_or_publication": "Published Nuremberg, 1741 (Clavier-Übung IV)",
+    "dating_note": "Published in 1741 in Bach's lifetime; composed in the preceding year or so. An aria in the 1725 Notebook for Anna Magdalena may be the earlier source of the theme.",
+    "recording": {
+      "performers": "Glenn Gould (piano)",
+      "conductor": null,
+      "label": "CBS/Sony Classical",
+      "year": 1955,
+      "why": "Gould's 1955 debut album; a landmark of piano recording"
+    },
+    "trivia": "Thirty variations on a bass line that return to the opening Aria. A legend says they were written to soothe an insomniac count, but the story comes from a biography written 60 years later and is doubted. Gould recorded it first in 1955 and again in 1981.",
+    "tags": [
+      "baroque",
+      "solo-piano",
+      "baroque",
+      "keyboard",
+      "variations"
+    ],
+    "track": {
+      "query": "Bach Goldberg Variations Aria Glenn Gould 1955",
+      "album": "A State of Wonder / Bach: The Goldberg Variations (1955 recording)",
+      "duration": "~3:10",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Goldberg_Variations"
+    ],
+    "notes": "The 1955 recording is the one to prefer for the Aria; Gould's 1981 version is slower and also acclaimed."
+  },
+  {
+    "id": "cls-handel-messiah",
+    "composer": "George Frideric Handel",
+    "composer_short": "Handel",
+    "work": "Messiah, HWV 56",
+    "nickname": "Messiah",
+    "catalogue_only": false,
+    "form": "choral",
+    "accept_work": "Handel's Messiah (Hallelujah chorus)",
+    "excerpt": "Hallelujah chorus",
+    "year": 1741,
+    "year_lo": 1741,
+    "year_hi": 1741,
+    "year_label": "1741",
+    "premiere_or_publication": "Premiered Dublin, 13 April 1742",
+    "dating_note": "Composed in the summer of 1741; first performed in Dublin the following spring.",
+    "recording": {
+      "performers": "Academy of Ancient Music and Chorus",
+      "conductor": "Christopher Hogwood",
+      "label": "L'Oiseau-Lyre",
+      "year": null,
+      "why": "A pioneering period-instrument Messiah"
+    },
+    "trivia": "Handel wrote the oratorio in about three weeks, and it was premiered as a charity concert in Dublin. Audiences traditionally stand for the Hallelujah chorus, a custom said to date from King George II rising at the first London performance.",
+    "tags": [
+      "baroque",
+      "choral",
+      "baroque",
+      "oratorio",
+      "sacred",
+      "christmas"
+    ],
+    "track": {
+      "query": "Handel Messiah Hallelujah chorus Hogwood",
+      "album": null,
+      "duration": "~4:00",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Messiah_(Handel)"
+    ],
+    "notes": "The 'George II stood' story is tradition only. Hogwood year/label from memory."
+  },
+  {
+    "id": "cls-scarlatti-sonata-k-141",
+    "composer": "Domenico Scarlatti",
+    "composer_short": "Scarlatti",
+    "work": "Keyboard Sonata in D minor, K. 141 (L. 422)",
+    "nickname": null,
+    "catalogue_only": true,
+    "form": "solo-piano",
+    "accept_work": "a Scarlatti keyboard sonata (this one: K. 141, with repeated notes)",
+    "excerpt": "Presto",
+    "year": 1747,
+    "year_lo": 1738,
+    "year_hi": 1757,
+    "year_label": "1738–1757",
+    "premiere_or_publication": "Preserved in 18th-century manuscript copies (Venice/Parma); first modern editions 19th–20th century",
+    "dating_note": "Most of Scarlatti's c. 555 sonatas were written for his Spanish/Portuguese royal pupil in Madrid; precise dates are unknown and only the manuscript copies are dated.",
+    "recording": {
+      "performers": "Scott Ross (harpsichord)",
+      "conductor": null,
+      "label": "Erato",
+      "year": 1985,
+      "why": "The first complete harpsichord recording of all 555 sonatas"
+    },
+    "trivia": "Famous for its blistering repeated notes, imitating guitar strumming and Spanish folk music. Scarlatti spent his last 28 years in Spain and wrote the sonatas for Princess Maria Barbara.",
+    "tags": [
+      "baroque",
+      "solo-piano",
+      "baroque",
+      "keyboard",
+      "spanish"
+    ],
+    "track": {
+      "query": "Scarlatti Sonata K 141 D minor Scott Ross",
+      "album": null,
+      "duration": "~3:00",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "low",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Domenico_Scarlatti"
+    ],
+    "notes": "Date range is a broad estimate for the Madrid-era sonatas; K. 141 specifically is uncertain. Recording year (1985, Ross complete set) from memory."
+  },
+  {
+    "id": "cls-handel-solomon-queen-of-sheba",
+    "composer": "George Frideric Handel",
+    "composer_short": "Handel",
+    "work": "Solomon, HWV 67: Sinfonia 'The Arrival of the Queen of Sheba'",
+    "nickname": "Arrival of the Queen of Sheba",
+    "catalogue_only": false,
+    "form": "orchestral",
+    "accept_work": "Handel's Arrival of the Queen of Sheba (from Solomon)",
+    "excerpt": "Sinfonia (Act III)",
+    "year": 1748,
+    "year_lo": 1748,
+    "year_hi": 1748,
+    "year_label": "1748",
+    "premiere_or_publication": "Premiered Covent Garden, London, 17 March 1749",
+    "dating_note": "The oratorio was composed between 5 May and 13 June 1748.",
+    "recording": {
+      "performers": "Monteverdi Choir; English Baroque Soloists",
+      "conductor": "John Eliot Gardiner",
+      "label": "Philips",
+      "year": 1984,
+      "why": "Energetic account of the whole oratorio"
+    },
+    "trivia": "The Sinfonia opens Act III as the Queen of Sheba arrives and is one of Handel's most played orchestral movements. It was used in the 2012 London Olympics opening ceremony.",
+    "tags": [
+      "baroque",
+      "orchestral",
+      "baroque",
+      "oratorio"
+    ],
+    "track": {
+      "query": "Handel Solomon Arrival of the Queen of Sheba Gardiner",
+      "album": null,
+      "duration": "~3:00",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Solomon_(oratorio)"
+    ],
+    "notes": "Gardiner year from memory; premiere date from memory. Olympics link from memory."
+  },
+  {
+    "id": "cls-handel-music-for-the-royal-fireworks",
+    "composer": "George Frideric Handel",
+    "composer_short": "Handel",
+    "work": "Music for the Royal Fireworks, HWV 351",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "orchestral",
+    "accept_work": "Handel's Music for the Royal Fireworks",
+    "excerpt": "Overture",
+    "year": 1749,
+    "year_lo": 1749,
+    "year_hi": 1749,
+    "year_label": "1749",
+    "premiere_or_publication": "First performed in Green Park, London, 27 April 1749 (Old Style)",
+    "dating_note": "Composed in 1749 under contract for the celebrations of the Peace of Aix-la-Chapelle.",
+    "recording": {
+      "performers": "The English Concert",
+      "conductor": "Trevor Pinnock",
+      "label": "Archiv Produktion",
+      "year": null,
+      "why": "Brilliant period-instrument brass and winds"
+    },
+    "trivia": "George II wanted a band of winds and drums with no violins, and Handel reportedly argued for strings before giving in. The fireworks themselves went badly, and part of the pavilion caught fire.",
+    "tags": [
+      "baroque",
+      "orchestral",
+      "baroque",
+      "orchestral",
+      "royal"
+    ],
+    "track": {
+      "query": "Handel Music for the Royal Fireworks Overture Pinnock",
+      "album": null,
+      "duration": "~9:00",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Music_for_the_Royal_Fireworks"
+    ],
+    "notes": "Handel/strings argument and pavilion fire from memory of standard accounts. Mackerras (1959) is the historic wind-band version."
+  },
+  {
+    "id": "cls-boyce-heart-of-oak",
+    "composer": "William Boyce",
+    "composer_short": "Boyce",
+    "work": "Heart of Oak",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "song",
+    "accept_work": "Boyce's Heart of Oak (Royal Navy march)",
+    "excerpt": "Complete march-song",
+    "year": 1759,
+    "year_lo": 1759,
+    "year_hi": 1759,
+    "year_label": "1759",
+    "premiere_or_publication": "Written for the pantomime Harlequin's Invasion, Drury Lane, 1759",
+    "dating_note": "Music written in 1759 with words by David Garrick.",
+    "recording": {
+      "performers": "Band of Her Majesty's Royal Marines",
+      "conductor": null,
+      "label": null,
+      "year": null,
+      "why": "Official-march version"
+    },
+    "trivia": "Written to celebrate a year of British naval victories, it became the official march of the Royal Navy. The words were by the actor David Garrick.",
+    "tags": [
+      "baroque",
+      "song",
+      "baroque",
+      "english",
+      "patriotic",
+      "march"
+    ],
+    "track": {
+      "query": "Boyce Heart of Oak Royal Navy march",
+      "album": null,
+      "duration": "~3:00",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Heart_of_Oak"
+    ],
+    "notes": "Recording unspecified."
+  }
+]

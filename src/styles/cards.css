@@ -1,0 +1,445 @@
+/* ---------- big card face (Hitster-style square card) ---------- */
+.face {
+  position: absolute;
+  inset: 0;
+  display: grid;
+  /* minmax(0, 1fr): long unbreakable lines must ellipsize, not widen the column past the card. */
+  grid-template-columns: minmax(0, 1fr);
+  grid-template-rows: auto 1fr auto;
+  padding: 10% 9%;
+  overflow: hidden;
+  text-align: center;
+  color: var(--ink);
+  /* Sized against the card's container (.deck, .set-card) so four Bungee digits always fit. */
+  --face-year: 26cqi;
+}
+.face-top {
+  font-weight: 800;
+  font-size: max(13px, 7cqi);
+  line-height: 1.15;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+.face-year {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  line-height: 0.9;
+  font-size: var(--face-year);
+}
+.face-year small {
+  margin-top: 0.12em;
+  font-family: var(--ui);
+  font-size: 0.26em;
+  font-weight: 800;
+  letter-spacing: 0.06em;
+  opacity: 0.7;
+}
+.face-bottom {
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+}
+.face-title {
+  font-weight: 750;
+  font-size: max(14px, 7cqi);
+  line-height: 1.15;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+.face-excerpt {
+  overflow: hidden;
+  font-size: max(11px, 5.5cqi);
+  font-weight: 600;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  opacity: 0.7;
+}
+
+/* Regular: neon card per decade, pop-art halftone in the corner. */
+.face.card-regular {
+  background:
+    radial-gradient(circle, rgba(0, 0, 0, 0.16) 1.4px, transparent 1.8px) 0 0 / 9px 9px,
+    var(--card-color);
+  background-clip: padding-box;
+}
+.face.card-regular::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(135deg, var(--card-color) 55%, transparent 80%);
+  pointer-events: none;
+}
+.face.card-regular > * {
+  position: relative;
+}
+.face.card-regular .face-year {
+  font-family: var(--pop);
+  text-shadow: 3px 3px 0 rgba(255, 255, 255, 0.55);
+}
+
+/* Jazz: cream sleeve with a Blue Note-style colour band. */
+.face.card-jazz {
+  grid-template-rows: minmax(32%, auto) minmax(0, 1fr) auto;
+  padding: 0 0 9%;
+  background: var(--noise), var(--paper-jazz);
+  background-blend-mode: multiply;
+}
+.face-band {
+  display: flex;
+  align-items: flex-end;
+  padding: 8px 11px;
+  overflow: hidden;
+  font-family: var(--deco);
+  font-weight: 700;
+  font-size: max(13px, 10cqi);
+  line-height: 0.95;
+  text-transform: uppercase;
+  text-align: left;
+  color: #fff;
+  background: var(--card-color);
+  border-bottom: 4px solid var(--ink);
+}
+/* line-height must stay >= 1: the clamp's overflow clips cap tops on tighter lines. */
+.face-band span {
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  line-height: 1.04;
+  padding-top: 1px;
+}
+.face.card-jazz .face-year {
+  font-family: var(--deco);
+  font-weight: 900;
+  font-size: calc(var(--face-year) * 1.18);
+  letter-spacing: -0.01em;
+}
+.face.card-jazz .face-bottom {
+  padding: 0 10%;
+}
+
+/* Classical: engraved ivory with a double rule. */
+.face.card-classical {
+  background: var(--noise), var(--ivory);
+  background-blend-mode: multiply;
+  box-shadow:
+    inset 0 0 0 7px var(--ivory),
+    inset 0 0 0 8px var(--card-color),
+    inset 0 0 0 11px var(--ivory),
+    inset 0 0 0 12px var(--card-color);
+}
+.face.card-classical .face-top {
+  font-family: var(--serif);
+  font-weight: 700;
+  font-size: max(15px, 8cqi);
+  font-variant: small-caps;
+  text-transform: none;
+  letter-spacing: 0.03em;
+  color: var(--card-color);
+}
+.face.card-classical .face-year {
+  font-family: var(--serif);
+  font-weight: 700;
+  font-variant-numeric: oldstyle-nums;
+  color: var(--card-color);
+}
+.face.card-classical .face-title {
+  font-family: var(--serif);
+  font-style: italic;
+  font-weight: 600;
+  font-size: max(14px, 7.5cqi);
+  line-height: 1.05;
+}
+
+/* ---------- card backs ---------- */
+.back {
+  position: absolute;
+  inset: 0;
+  display: grid;
+  place-items: center;
+  overflow: hidden;
+}
+.back-art {
+  position: absolute;
+}
+.back-mark {
+  position: relative;
+  z-index: 2;
+  display: grid;
+  place-items: center;
+  font-family: var(--display);
+  line-height: 1;
+}
+
+.back-regular {
+  background: var(--noise), #121212;
+  background-blend-mode: overlay;
+}
+.back-regular .back-art {
+  width: 90%;
+  aspect-ratio: 1;
+  border-radius: 50%;
+  background:
+    radial-gradient(circle, #ff4f9a 0 17%, #0b0b0b 17.5% 19%, transparent 19.5%),
+    repeating-radial-gradient(circle, #1d1d1d 0 1.4px, #0a0a0a 1.4px 3.4px);
+  box-shadow:
+    0 0 0 2px #000,
+    0 6px 14px rgba(0, 0, 0, 0.6);
+}
+.back-regular::after {
+  content: '';
+  position: absolute;
+  inset: 5%;
+  border-radius: 50%;
+  background: conic-gradient(from 20deg, transparent 0 30deg, rgba(255, 255, 255, 0.13) 55deg, transparent 80deg 210deg, rgba(255, 255, 255, 0.09) 235deg, transparent 260deg);
+  pointer-events: none;
+}
+.back-regular .back-mark {
+  font-family: var(--pop);
+  font-size: clamp(22px, 6.5vw, 32px);
+  color: #111;
+}
+.back-regular.is-spinning .back-art {
+  animation: spin 1.8s linear infinite;
+}
+
+.back-jazz {
+  background: #142140;
+}
+.back-jazz .back-art {
+  inset: -40%;
+  background: repeating-conic-gradient(from 0deg, rgba(220, 170, 79, 0.6) 0 3deg, transparent 3deg 12deg);
+  -webkit-mask: radial-gradient(circle, #000 0 22%, transparent 62%);
+  mask: radial-gradient(circle, #000 0 22%, transparent 62%);
+}
+.back-jazz::before {
+  content: '';
+  position: absolute;
+  inset: 8px;
+  z-index: 1;
+  border: 2px solid #dcaa4f;
+  outline: 1px solid #dcaa4f;
+  outline-offset: 3px;
+}
+.back-jazz .back-mark {
+  width: 40%;
+  aspect-ratio: 1;
+  border-radius: 50%;
+  font-family: var(--deco);
+  font-weight: 900;
+  font-size: clamp(30px, 9vw, 46px);
+  color: #dcaa4f;
+  background: #142140;
+  border: 3px solid #dcaa4f;
+  box-shadow: 0 0 0 5px #142140, 0 0 0 6px #dcaa4f;
+}
+.back-jazz.is-spinning .back-art {
+  animation: spin 16s linear infinite;
+}
+
+.back-classical {
+  background: #5c1323;
+}
+.back-classical .back-art {
+  inset: 0;
+  background:
+    repeating-radial-gradient(circle at 28% 28%, rgba(220, 183, 92, 0.3) 0 1px, transparent 1px 7px),
+    repeating-radial-gradient(circle at 72% 72%, rgba(220, 183, 92, 0.3) 0 1px, transparent 1px 7px);
+}
+.back-classical::before {
+  content: '';
+  position: absolute;
+  inset: 9px;
+  z-index: 1;
+  border: 4px double #dcb75c;
+}
+.back-classical .back-mark {
+  width: 42%;
+  aspect-ratio: 3 / 4;
+  border-radius: 50%;
+  font-family: var(--serif);
+  font-style: italic;
+  font-weight: 700;
+  font-size: clamp(34px, 10vw, 52px);
+  color: #5c1323;
+  background: var(--ivory);
+  border: 3px solid #dcb75c;
+}
+.back-classical.is-spinning .back-art {
+  animation: shimmer 2.4s ease-in-out infinite alternate;
+}
+@keyframes shimmer {
+  to {
+    opacity: 0.45;
+    transform: scale(1.04);
+  }
+}
+
+/* ---------- timeline strips ---------- */
+.strip {
+  position: relative;
+  display: grid;
+  grid-template-columns: 84px minmax(0, 1fr);
+  width: 100%;
+  min-height: 58px;
+  text-align: left;
+  color: var(--ink);
+  box-shadow: var(--shadow-card);
+  transform: rotate(var(--tilt, 0deg));
+}
+.strip.is-fresh {
+  animation: drop-in 0.4s cubic-bezier(0.2, 1.4, 0.4, 1);
+}
+.strip-year {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 4px;
+  font-size: 23px;
+  line-height: 1;
+  text-align: center;
+}
+.strip-year small {
+  margin-top: 3px;
+  font-family: var(--ui);
+  font-size: 11px;
+  font-weight: 800;
+  opacity: 0.8;
+}
+.strip-body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 1px;
+  min-width: 0;
+  padding: 7px 12px;
+}
+.strip-body b,
+.strip-body span {
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+.strip-body b {
+  font-size: 14px;
+  font-weight: 800;
+}
+.strip-body span {
+  font-size: 13px;
+  opacity: 0.8;
+}
+
+.strip.card-regular {
+  background: var(--card-color);
+}
+.strip.card-regular .strip-year {
+  font-family: var(--pop);
+  background: rgba(0, 0, 0, 0.12);
+}
+.strip.card-jazz {
+  background: var(--noise), var(--paper-jazz);
+  background-blend-mode: multiply;
+}
+.strip.card-jazz .strip-year {
+  font-family: var(--deco);
+  font-weight: 900;
+  font-size: 29px;
+  color: #fff;
+  background: var(--card-color);
+}
+.strip.card-classical {
+  background: var(--noise), var(--ivory);
+  background-blend-mode: multiply;
+  box-shadow:
+    var(--shadow-card),
+    inset 0 0 0 3px var(--ivory),
+    inset 0 0 0 4px color-mix(in srgb, var(--card-color) 55%, transparent);
+}
+.strip.card-classical .strip-year {
+  font-family: var(--serif);
+  font-weight: 700;
+  font-size: 25px;
+  font-variant-numeric: oldstyle-nums;
+  color: var(--card-color);
+  border-right: 1px solid color-mix(in srgb, var(--card-color) 40%, transparent);
+  margin: 6px 0;
+}
+.strip.card-classical .strip-body span {
+  font-family: var(--serif);
+  font-style: italic;
+  font-weight: 600;
+  font-size: 15px;
+}
+
+/* The face-down card while it sits in a slot. */
+.strip-mystery {
+  color: #fff;
+  outline: 3px solid var(--token);
+  outline-offset: 2px;
+}
+.strip-mystery .strip-year {
+  font-family: var(--display);
+  font-size: 30px;
+}
+.strip-mystery.back-regular {
+  background: repeating-radial-gradient(circle at 42px 50%, #1d1d1d 0 1.4px, #0a0a0a 1.4px 3.4px);
+}
+.strip-mystery.back-regular .strip-year {
+  color: #ff4f9a;
+}
+.strip-mystery.back-jazz {
+  background: repeating-linear-gradient(115deg, #142140 0 10px, #1b2b52 10px 20px);
+}
+.strip-mystery.back-jazz .strip-year {
+  color: #dcaa4f;
+  font-weight: 900;
+}
+.strip-mystery.back-classical {
+  background:
+    repeating-radial-gradient(circle at 20% 50%, rgba(220, 183, 92, 0.3) 0 1px, transparent 1px 6px),
+    #5c1323;
+}
+.strip-mystery.back-classical .strip-year {
+  color: #dcb75c;
+  font-style: italic;
+}
+.strip-mystery::before,
+.strip-mystery::after {
+  display: none;
+}
+
+.stamp {
+  position: absolute;
+  right: 12px;
+  top: 50%;
+  display: grid;
+  place-items: center;
+  width: 44px;
+  height: 44px;
+  border-radius: 50%;
+  border: 3px solid currentColor;
+  background: rgba(255, 255, 255, 0.88);
+  transform: translateY(-50%) rotate(-12deg);
+  animation: stamp 0.45s cubic-bezier(0.2, 1.6, 0.4, 1) 0.55s backwards;
+}
+.stamp-hit {
+  color: #0d7a3b;
+}
+.stamp-miss {
+  color: #c0121f;
+}
+@keyframes stamp {
+  from {
+    opacity: 0;
+    transform: translateY(-50%) scale(2.6) rotate(-32deg);
+  }
+}

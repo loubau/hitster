@@ -1,0 +1,727 @@
+[
+  {
+    "id": "reg-enrico-caruso-la-donna-e-mobile",
+    "artist": "Enrico Caruso",
+    "title": "La donna è mobile",
+    "year": 1908,
+    "year_lo": 1908,
+    "year_hi": 1908,
+    "year_label": "1908",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "Caruso became one of the first worldwide recording stars. He cut this Verdi aria with orchestra for Victor in Camden, New Jersey, in March 1908, after an earlier take with piano in 1904.",
+    "tags": [
+      "1900s",
+      "classical",
+      "opera",
+      "it"
+    ],
+    "track": {
+      "artist": "Enrico Caruso",
+      "title": "La donna è mobile",
+      "album": null,
+      "duration": "2:20",
+      "isrc": null,
+      "notes": "Orchestral 1908 Victor recording, not the 1904 piano-accompanied one."
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://adp.library.ucsb.edu/index.php/mastertalent/detail/102018/Caruso_Enrico"
+    ],
+    "notes": "Two distinct Victor recordings exist (1904 piano, 1908 orchestra). Hitster lists 1908, so the card means the orchestral take (Victor 87017). Historical 78rpm, no album."
+  },
+  {
+    "id": "reg-joseito-fernandez-guajira-guantanamera",
+    "artist": "Joseíto Fernández",
+    "title": "Guajira Guantanamera",
+    "year": 1929,
+    "year_lo": 1929,
+    "year_hi": 1929,
+    "year_label": "1929",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "Joseíto Fernández used the tune on Cuban radio to sing improvised, newspaper-style verses about local events. The José Martí lines now tied to the melody were added to it later.",
+    "tags": [
+      "1920s",
+      "latin",
+      "folk",
+      "cu"
+    ],
+    "track": {
+      "artist": "Joseíto Fernández",
+      "title": "Guajira Guantanamera",
+      "album": null,
+      "duration": "2:40",
+      "isrc": null,
+      "notes": "Joseíto Fernández original, not the Sandpipers or Seeger version."
+    },
+    "confidence": "low",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Guantanamera"
+    ],
+    "notes": "Year 1929 is the conventional date of origin (en.wikipedia: popularised on radio around 1929, first record release date unclear). Hitster lists 1929. If a hard first-record year is needed, treat this card with caution. The Sandpipers 1966 hit version is the well-documented alternative recording."
+  },
+  {
+    "id": "reg-glenn-miller-in-the-mood",
+    "artist": "Glenn Miller",
+    "title": "In the Mood",
+    "year": 1939,
+    "year_lo": 1939,
+    "year_hi": 1939,
+    "year_label": "1939",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "The riff in this tune was already floating around swing circles before Glenn Miller's band recorded it on 1 August 1939. Miller's arrangement made it the signature sound of the big-band era.",
+    "tags": [
+      "1930s",
+      "swing",
+      "jazz",
+      "us"
+    ],
+    "track": {
+      "artist": "Glenn Miller",
+      "title": "In the Mood",
+      "album": null,
+      "duration": "3:30",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Bluebird single, recorded Aug 1939."
+  },
+  {
+    "id": "reg-nat-king-cole-unforgettable",
+    "artist": "Nat King Cole",
+    "title": "Unforgettable",
+    "year": 1951,
+    "year_lo": 1951,
+    "year_hi": 1951,
+    "year_label": "1951",
+    "region": "intl",
+    "in_original_hitster": false,
+    "trivia": "Irving Gordon wrote the song in the late 1940s. Nat King Cole's 1951 recording, with a lush string arrangement by Nelson Riddle, turned it into a standard.",
+    "tags": [
+      "1950s",
+      "pop",
+      "vocal-jazz",
+      "us"
+    ],
+    "track": {
+      "artist": "Nat King Cole",
+      "title": "Unforgettable",
+      "album": null,
+      "duration": "3:23",
+      "isrc": null,
+      "notes": "Cole's 1951 original, not Natalie Cole's later duet version."
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Single (Capitol, 1951). Album appearances are later compilations. Not seen on any consulted Hitster edition list (NL, DE, FR, CA, Nordics); added for recognisability and decade balance."
+  },
+  {
+    "id": "reg-dean-martin-thats-amore-thats-love",
+    "artist": "Dean Martin",
+    "title": "That's Amore (That's Love)",
+    "year": 1953,
+    "year_lo": 1953,
+    "year_hi": 1953,
+    "year_label": "1953",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "Written by Harry Warren and Jack Brooks for the Martin and Lewis film The Caddy. It was nominated for the Oscar for Best Original Song and became Dean Martin's calling card.",
+    "tags": [
+      "1950s",
+      "pop",
+      "vocal",
+      "us"
+    ],
+    "track": {
+      "artist": "Dean Martin",
+      "title": "That's Amore (That's Love)",
+      "album": null,
+      "duration": "2:53",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": null
+  },
+  {
+    "id": "reg-bill-haley-and-his-comets-were-gonna-rock-around-the-clock",
+    "artist": "Bill Haley & His Comets",
+    "title": "(We're Gonna) Rock Around the Clock",
+    "year": 1954,
+    "year_lo": 1954,
+    "year_hi": 1954,
+    "year_label": "1954",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "Recorded in April 1954, it sold modestly at first. It exploded a year later when it played over the opening credits of the film Blackboard Jungle.",
+    "tags": [
+      "1950s",
+      "rock-n-roll",
+      "us"
+    ],
+    "track": {
+      "artist": "Bill Haley & His Comets",
+      "title": "(We're Gonna) Rock Around the Clock",
+      "album": null,
+      "duration": "2:10",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": null
+  },
+  {
+    "id": "reg-fats-domino-aint-that-a-shame",
+    "artist": "Fats Domino",
+    "title": "Ain't That a Shame",
+    "year": 1955,
+    "year_lo": 1955,
+    "year_hi": 1955,
+    "year_label": "1955",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "Fats Domino's grammar-bending title did not stop it from becoming his first big crossover hit. It topped the R&B chart and brought his rolling New Orleans piano to white audiences.",
+    "tags": [
+      "1950s",
+      "rock-n-roll",
+      "r&b",
+      "us"
+    ],
+    "track": {
+      "artist": "Fats Domino",
+      "title": "Ain't That a Shame",
+      "album": null,
+      "duration": "2:27",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Album appearance: Rock and Rollin' with Fats Domino (1956)."
+  },
+  {
+    "id": "reg-little-richard-tutti-frutti",
+    "artist": "Little Richard",
+    "title": "Tutti Frutti",
+    "year": 1955,
+    "year_lo": 1955,
+    "year_hi": 1955,
+    "year_label": "1955",
+    "region": "intl",
+    "in_original_hitster": false,
+    "trivia": "Little Richard's raunchy club lyrics were too wild for radio, so songwriter Dorothy LaBostrie wrote cleaner lines before the 1955 session. The opening scat shout stayed.",
+    "tags": [
+      "1950s",
+      "rock-n-roll",
+      "r&b",
+      "us"
+    ],
+    "track": {
+      "artist": "Little Richard",
+      "title": "Tutti Frutti",
+      "album": null,
+      "duration": "2:25",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Not seen on any consulted Hitster edition list (NL, DE, FR, CA, Nordics); added for recognisability and decade balance."
+  },
+  {
+    "id": "reg-bill-haley-and-his-comets-see-you-later-alligator",
+    "artist": "Bill Haley & His Comets",
+    "title": "See You Later, Alligator",
+    "year": 1956,
+    "year_lo": 1956,
+    "year_hi": 1956,
+    "year_label": "1956",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "Written by Louisiana teenager Bobby Charles, who recorded it first. The Comets cut their version in December 1955 and it reached the US top 10.",
+    "tags": [
+      "1950s",
+      "rock-n-roll",
+      "us"
+    ],
+    "track": {
+      "artist": "Bill Haley & His Comets",
+      "title": "See You Later, Alligator",
+      "album": null,
+      "duration": "2:53",
+      "isrc": null,
+      "notes": "Bill Haley version, not Bobby Charles."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/See_You_Later,_Alligator"
+    ],
+    "notes": "Haley's Decca recording was released Jan 1956 (some sources give 1 Feb 1956); recorded Dec 1955. Technically a cover of Bobby Charles (Chess, Nov 1955), but Haley's is the famous recording."
+  },
+  {
+    "id": "reg-doris-day-que-sera-sera-whatever-will-be-will-be",
+    "artist": "Doris Day",
+    "title": "Que Sera, Sera (Whatever Will Be, Will Be)",
+    "year": 1956,
+    "year_lo": 1956,
+    "year_hi": 1956,
+    "year_label": "1956",
+    "region": "intl",
+    "in_original_hitster": false,
+    "trivia": "Jay Livingston and Ray Evans wrote it for Hitchcock's The Man Who Knew Too Much, and it won the Oscar for Best Original Song. Day has said she initially thought it was just a children's song.",
+    "tags": [
+      "1950s",
+      "pop",
+      "vocal",
+      "us"
+    ],
+    "track": {
+      "artist": "Doris Day",
+      "title": "Que Sera, Sera (Whatever Will Be, Will Be)",
+      "album": null,
+      "duration": "2:03",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Not seen on any consulted Hitster edition list (NL, DE, FR, CA, Nordics); added for recognisability and decade balance."
+  },
+  {
+    "id": "reg-elvis-presley-hound-dog",
+    "artist": "Elvis Presley",
+    "title": "Hound Dog",
+    "year": 1956,
+    "year_lo": 1956,
+    "year_hi": 1956,
+    "year_label": "1956",
+    "region": "intl",
+    "in_original_hitster": false,
+    "trivia": "Leiber and Stoller wrote it for Big Mama Thornton. Elvis built his faster, rowdier version after seeing a lounge act perform it in Las Vegas.",
+    "tags": [
+      "1950s",
+      "rock-n-roll",
+      "us"
+    ],
+    "track": {
+      "artist": "Elvis Presley",
+      "title": "Hound Dog",
+      "album": null,
+      "duration": "2:15",
+      "isrc": null,
+      "notes": "Elvis Presley RCA version, not Big Mama Thornton."
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Technically a cover of Big Mama Thornton (1953), but Elvis's is the famous recording. Not seen on any consulted Hitster edition list (NL, DE, FR, CA, Nordics); added for recognisability and decade balance."
+  },
+  {
+    "id": "reg-gene-vincent-and-his-blue-caps-be-bop-a-lula",
+    "artist": "Gene Vincent & His Blue Caps",
+    "title": "Be-Bop-A-Lula",
+    "year": 1956,
+    "year_lo": 1956,
+    "year_hi": 1956,
+    "year_label": "1956",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "Capitol signed Gene Vincent to rival Elvis Presley, and this slinky rockabilly track was the result. It remained his only big hit.",
+    "tags": [
+      "1950s",
+      "rock-n-roll",
+      "rockabilly",
+      "us"
+    ],
+    "track": {
+      "artist": "Gene Vincent & His Blue Caps",
+      "title": "Be-Bop-A-Lula",
+      "album": null,
+      "duration": "2:35",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Not on the Hitster NL list; seen on the Hitster Canada edition list."
+  },
+  {
+    "id": "reg-harry-belafonte-day-o-the-banana-boat-song",
+    "artist": "Harry Belafonte",
+    "title": "Day-O (The Banana Boat Song)",
+    "year": 1956,
+    "year_lo": 1956,
+    "year_hi": 1956,
+    "year_label": "1956",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "A Jamaican work song about banana loaders waiting for the tally man to count their night's work. The Calypso album it appeared on is often cited as the first LP to sell a million copies.",
+    "tags": [
+      "1950s",
+      "calypso",
+      "folk",
+      "jm"
+    ],
+    "track": {
+      "artist": "Harry Belafonte",
+      "title": "Day-O (The Banana Boat Song)",
+      "album": null,
+      "duration": "3:03",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Album: Calypso (1956). Hitster lists the title as Day-O (The Banana Boat Song)."
+  },
+  {
+    "id": "reg-buddy-holly-and-the-crickets-thatll-be-the-day",
+    "artist": "Buddy Holly and the Crickets",
+    "title": "That'll Be the Day",
+    "year": 1957,
+    "year_lo": 1957,
+    "year_hi": 1957,
+    "year_label": "1957",
+    "region": "intl",
+    "in_original_hitster": false,
+    "trivia": "Holly took the title from a line John Wayne says in the film The Searchers. A first version recorded for Decca in Nashville went nowhere; this is the re-recording made in Clovis, New Mexico.",
+    "tags": [
+      "1950s",
+      "rock-n-roll",
+      "rockabilly",
+      "us"
+    ],
+    "track": {
+      "artist": "Buddy Holly and the Crickets",
+      "title": "That'll Be the Day",
+      "album": null,
+      "duration": "2:17",
+      "isrc": null,
+      "notes": "1957 Brunswick/Clovis version."
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "The 1956 Decca Nashville version was issued later; the card means the 1957 Crickets version. Not seen on any consulted Hitster edition list (NL, DE, FR, CA, Nordics); added for recognisability and decade balance."
+  },
+  {
+    "id": "reg-elvis-presley-jailhouse-rock",
+    "artist": "Elvis Presley",
+    "title": "Jailhouse Rock",
+    "year": 1957,
+    "year_lo": 1957,
+    "year_hi": 1957,
+    "year_label": "1957",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "Leiber and Stoller wrote it for Elvis's film of the same name. In Britain it became the first single ever to enter the chart at number one.",
+    "tags": [
+      "1950s",
+      "rock-n-roll",
+      "us"
+    ],
+    "track": {
+      "artist": "Elvis Presley",
+      "title": "Jailhouse Rock",
+      "album": null,
+      "duration": "2:27",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": null
+  },
+  {
+    "id": "reg-jerry-lee-lewis-great-balls-of-fire",
+    "artist": "Jerry Lee Lewis",
+    "title": "Great Balls of Fire",
+    "year": 1957,
+    "year_lo": 1957,
+    "year_hi": 1957,
+    "year_label": "1957",
+    "region": "intl",
+    "in_original_hitster": false,
+    "trivia": "Raised in a devout Pentecostal home, Jerry Lee Lewis argued with Sun's Sam Phillips about whether a rock and roll song could be sinful before nailing this one in a single take.",
+    "tags": [
+      "1950s",
+      "rock-n-roll",
+      "us"
+    ],
+    "track": {
+      "artist": "Jerry Lee Lewis",
+      "title": "Great Balls of Fire",
+      "album": null,
+      "duration": "1:53",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Not seen on any consulted Hitster edition list (NL, DE, FR, CA, Nordics); added for recognisability and decade balance."
+  },
+  {
+    "id": "reg-chuck-berry-johnny-b-goode",
+    "artist": "Chuck Berry",
+    "title": "Johnny B. Goode",
+    "year": 1958,
+    "year_lo": 1958,
+    "year_hi": 1958,
+    "year_label": "1958",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "Chuck Berry reworked the lyric from a colored boy to a country boy, partly to help radio play. The song was later included on the Voyager space probe's golden record.",
+    "tags": [
+      "1950s",
+      "rock-n-roll",
+      "us"
+    ],
+    "track": {
+      "artist": "Chuck Berry",
+      "title": "Johnny B. Goode",
+      "album": null,
+      "duration": "2:41",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Album appearance: Chuck Berry Is on Top (1959)."
+  },
+  {
+    "id": "reg-eddie-cochran-summertime-blues",
+    "artist": "Eddie Cochran",
+    "title": "Summertime Blues",
+    "year": 1958,
+    "year_lo": 1958,
+    "year_hi": 1958,
+    "year_label": "1958",
+    "region": "intl",
+    "in_original_hitster": false,
+    "trivia": "Eddie Cochran sang every vocal part himself, including the gruff voice of the boss, by overdubbing. The song's grumbling teenager became a template for rock rebellion.",
+    "tags": [
+      "1950s",
+      "rock-n-roll",
+      "rockabilly",
+      "us"
+    ],
+    "track": {
+      "artist": "Eddie Cochran",
+      "title": "Summertime Blues",
+      "album": null,
+      "duration": "1:55",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Not seen on any consulted Hitster edition list (NL, DE, FR, CA, Nordics); added for recognisability and decade balance."
+  },
+  {
+    "id": "reg-ritchie-valens-la-bamba",
+    "artist": "Ritchie Valens",
+    "title": "La Bamba",
+    "year": 1958,
+    "year_lo": 1958,
+    "year_hi": 1958,
+    "year_label": "1958",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "Ritchie Valens electrified a traditional Mexican wedding song from Veracruz. It was released as the flip side of his ballad Donna.",
+    "tags": [
+      "1950s",
+      "rock-n-roll",
+      "latin",
+      "us"
+    ],
+    "track": {
+      "artist": "Ritchie Valens",
+      "title": "La Bamba",
+      "album": null,
+      "duration": "2:05",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": null
+  },
+  {
+    "id": "reg-the-champs-tequila",
+    "artist": "The Champs",
+    "title": "Tequila",
+    "year": 1958,
+    "year_lo": 1958,
+    "year_hi": 1958,
+    "year_label": "1958",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "The only word sung is Tequila, shouted by saxophonist Danny Flores. It started life as the B-side of a single that nobody remembers.",
+    "tags": [
+      "1950s",
+      "rock-n-roll",
+      "instrumental",
+      "us"
+    ],
+    "track": {
+      "artist": "The Champs",
+      "title": "Tequila",
+      "album": null,
+      "duration": "2:17",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Recorded Dec 1957, released 15 Jan 1958."
+  },
+  {
+    "id": "reg-the-chordettes-lollipop",
+    "artist": "The Chordettes",
+    "title": "Lollipop",
+    "year": 1958,
+    "year_lo": 1958,
+    "year_hi": 1958,
+    "year_label": "1958",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "A female barbershop quartet from Wisconsin, the Chordettes made the lip-popping sound in the chorus with their own mouths. The song was a top-five hit in the US and UK.",
+    "tags": [
+      "1950s",
+      "pop",
+      "doo-wop",
+      "us"
+    ],
+    "track": {
+      "artist": "The Chordettes",
+      "title": "Lollipop",
+      "album": null,
+      "duration": "2:08",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": null
+  },
+  {
+    "id": "reg-the-everly-brothers-all-i-have-to-do-is-dream",
+    "artist": "The Everly Brothers",
+    "title": "All I Have to Do Is Dream",
+    "year": 1958,
+    "year_lo": 1958,
+    "year_hi": 1958,
+    "year_label": "1958",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "Boudleaux Bryant reportedly wrote this ballad in about fifteen minutes. It topped the pop, country and R&B charts at the same time.",
+    "tags": [
+      "1950s",
+      "rock-n-roll",
+      "pop",
+      "us"
+    ],
+    "track": {
+      "artist": "The Everly Brothers",
+      "title": "All I Have to Do Is Dream",
+      "album": null,
+      "duration": "2:21",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": null
+  },
+  {
+    "id": "reg-the-platters-smoke-gets-in-your-eyes",
+    "artist": "The Platters",
+    "title": "Smoke Gets in Your Eyes",
+    "year": 1958,
+    "year_lo": 1958,
+    "year_hi": 1958,
+    "year_label": "1958",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "Jerome Kern wrote the song for the 1933 musical Roberta. The Platters' doo-wop reading became an American number one.",
+    "tags": [
+      "1950s",
+      "doo-wop",
+      "pop",
+      "us"
+    ],
+    "track": {
+      "artist": "The Platters",
+      "title": "Smoke Gets in Your Eyes",
+      "album": null,
+      "duration": "2:41",
+      "isrc": null,
+      "notes": "Platters 1958 Mercury recording."
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Song dates from 1933; the card means the Platters' 1958 recording."
+  },
+  {
+    "id": "reg-bobby-darin-mack-the-knife",
+    "artist": "Bobby Darin",
+    "title": "Mack the Knife",
+    "year": 1959,
+    "year_lo": 1959,
+    "year_hi": 1959,
+    "year_label": "1959",
+    "region": "intl",
+    "in_original_hitster": false,
+    "trivia": "The tune comes from Kurt Weill and Bertolt Brecht's The Threepenny Opera. Bobby Darin's swinging version won Record of the Year at the first Grammy Awards.",
+    "tags": [
+      "1950s",
+      "swing",
+      "pop",
+      "us"
+    ],
+    "track": {
+      "artist": "Bobby Darin",
+      "title": "Mack the Knife",
+      "album": null,
+      "duration": "3:04",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Not seen on any consulted Hitster edition list (NL, DE, FR, CA, Nordics); added for recognisability and decade balance."
+  },
+  {
+    "id": "reg-ray-charles-whatd-i-say",
+    "artist": "Ray Charles",
+    "title": "What'd I Say",
+    "year": 1959,
+    "year_lo": 1959,
+    "year_hi": 1959,
+    "year_label": "1959",
+    "region": "intl",
+    "in_original_hitster": false,
+    "trivia": "Ray Charles reportedly improvised it at the end of a concert to fill time. The suggestive call-and-response with his backing singers got it banned on some radio stations.",
+    "tags": [
+      "1950s",
+      "r&b",
+      "soul",
+      "us"
+    ],
+    "track": {
+      "artist": "Ray Charles",
+      "title": "What'd I Say",
+      "album": null,
+      "duration": "6:30",
+      "isrc": null,
+      "notes": "Prefer the full-length album version."
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "The single was split in two parts; the full-length version is about 6:30. Not seen on any consulted Hitster edition list (NL, DE, FR, CA, Nordics); added for recognisability and decade balance."
+  }
+]

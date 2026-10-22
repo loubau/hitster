@@ -1,0 +1,1757 @@
+[
+  {
+    "id": "cls-vaughan-williams-the-lark-ascending",
+    "composer": "Ralph Vaughan Williams",
+    "composer_short": "Vaughan Williams",
+    "work": "The Lark Ascending (romance for violin and orchestra)",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "orchestral",
+    "accept_work": "Vaughan Williams's The Lark Ascending",
+    "excerpt": "Opening solo violin cadenza",
+    "year": 1914,
+    "year_lo": 1914,
+    "year_hi": 1920,
+    "year_label": "1914 (orchestrated 1920)",
+    "premiere_or_publication": "Violin and piano version first performed 15 December 1920 at Shirehampton Public Hall; orchestral version premiered 1921",
+    "dating_note": "Completed in 1914 for violin and piano but not performed until 1920, when Vaughan Williams also reworked it for orchestra (Wikipedia).",
+    "recording": {
+      "performers": "Any well-reviewed recording",
+      "conductor": null,
+      "label": null,
+      "year": null,
+      "why": "Any violinist with a sweet, floating tone and orchestra."
+    },
+    "trivia": "Inspired by a George Meredith poem about a skylark's song, it was finished just before the First World War but stayed unheard for six years. It regularly tops listener polls of the most loved British classical pieces.",
+    "tags": [
+      "20th-century",
+      "orchestral",
+      "violin",
+      "pastoral",
+      "english"
+    ],
+    "track": {
+      "query": "Vaughan Williams The Lark Ascending",
+      "album": null,
+      "duration": "~15:00",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Lark_Ascending_(Vaughan_Williams)"
+    ],
+    "notes": "Version issue: dated 1914 (completion); the orchestral version is 1920. Polls claim is general knowledge (Classic FM Hall of Fame)."
+  },
+  {
+    "id": "cls-bartok-romanian-folk-dances",
+    "composer": "Béla Bartók",
+    "composer_short": "Bartók",
+    "work": "Romanian Folk Dances, Sz. 56",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "solo-piano",
+    "accept_work": "Bartók's Romanian Folk Dances",
+    "excerpt": "The first dance (Stick Dance)",
+    "year": 1915,
+    "year_lo": 1915,
+    "year_hi": 1915,
+    "year_label": "1915",
+    "premiere_or_publication": "Piano original 1915; orchestrated in 1917",
+    "dating_note": "Composed in 1915 from folk tunes collected in Transylvania (Wikipedia).",
+    "recording": {
+      "performers": "Any well-reviewed recording",
+      "conductor": null,
+      "label": null,
+      "year": null,
+      "why": "Piano original or violin transcription (Székely) are both fine."
+    },
+    "trivia": "Bartók collected folk tunes in the countryside with an early phonograph and then arranged six of them for piano in 1915. He said the old village melodies freed him from the clichés of Romantic music.",
+    "tags": [
+      "20th-century",
+      "solo-piano",
+      "folk",
+      "dances",
+      "less-familiar"
+    ],
+    "track": {
+      "query": "Bartok Romanian Folk Dances Sz. 56",
+      "album": null,
+      "duration": "~6:00",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Romanian_Folk_Dances_(Bart%C3%B3k)"
+    ],
+    "notes": "Less-familiar pick. Details to be confirmed on page."
+  },
+  {
+    "id": "cls-falla-el-amor-brujo-ritual-fire-dance",
+    "composer": "Manuel de Falla",
+    "composer_short": "Falla",
+    "work": "El amor brujo: Ritual Fire Dance",
+    "nickname": "Ritual Fire Dance",
+    "catalogue_only": false,
+    "form": "ballet",
+    "accept_work": "Falla's Ritual Fire Dance (El amor brujo)",
+    "excerpt": "Ritual Fire Dance",
+    "year": 1915,
+    "year_lo": 1915,
+    "year_hi": 1916,
+    "year_label": "1915–1916",
+    "premiere_or_publication": "Premiered in Madrid, 15 April 1915; revised in 1916 and 1925",
+    "dating_note": "Composed in 1915 and revised in 1916 and 1925; the Ritual Fire Dance is from the early versions.",
+    "recording": {
+      "performers": "Any well-reviewed recording",
+      "conductor": null,
+      "label": null,
+      "year": null,
+      "why": "Orchestral or piano version; both are well known."
+    },
+    "trivia": "El amor brujo ('Love, the Magician') was written for the flamenco dancer Pastora Imperio as a 'gypsy sketch' with song, and it later became a ballet. The Ritual Fire Dance is a spell to drive away a ghost.",
+    "tags": [
+      "20th-century",
+      "ballet",
+      "ballet",
+      "spanish",
+      "flamenco"
+    ],
+    "track": {
+      "query": "Falla El amor brujo Ritual Fire Dance",
+      "album": null,
+      "duration": "~4:00",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/El_amor_brujo"
+    ],
+    "notes": "Details to be confirmed on page."
+  },
+  {
+    "id": "cls-sibelius-symphony-5",
+    "composer": "Jean Sibelius",
+    "composer_short": "Sibelius",
+    "work": "Symphony No. 5 in E-flat major, Op. 82",
+    "nickname": null,
+    "catalogue_only": true,
+    "form": "symphony",
+    "accept_work": "Sibelius's Symphony No. 5",
+    "excerpt": "III. Allegro molto (the 'Swan Hymn')",
+    "year": 1915,
+    "year_lo": 1915,
+    "year_hi": 1919,
+    "year_label": "1915 (revised 1916, 1919)",
+    "premiere_or_publication": "First version premiered 8 December 1915 in Helsinki for his 50th birthday; final version 24 November 1919",
+    "dating_note": "Composed in 1915 and revised twice, in 1916 and 1919; the final 1919 version is the standard one.",
+    "recording": {
+      "performers": "Any well-reviewed recording",
+      "conductor": null,
+      "label": null,
+      "year": null,
+      "why": "Any strong recording of the final 1919 version."
+    },
+    "trivia": "Sibelius said he saw sixteen swans flying overhead one day, and the finale's majestic horn melody was inspired by that sight. He rewrote the symphony twice before the final version.",
+    "tags": [
+      "20th-century",
+      "symphony",
+      "symphony",
+      "swans",
+      "nordic"
+    ],
+    "track": {
+      "query": "Sibelius Symphony No. 5 finale Swan Hymn",
+      "album": null,
+      "duration": "~6:00",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Symphony_No._5_(Sibelius)"
+    ],
+    "notes": "Version issue: dated by first version; range covers revisions. Sibelius total across parts 6-7: 3."
+  },
+  {
+    "id": "cls-holst-the-planets",
+    "composer": "Gustav Holst",
+    "composer_short": "Holst",
+    "work": "The Planets, Op. 32 ('Jupiter, the Bringer of Jollity')",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "orchestral",
+    "accept_work": "Holst's The Planets (this card plays 'Jupiter')",
+    "excerpt": "IV. Jupiter, the Bringer of Jollity",
+    "year": 1916,
+    "year_lo": 1914,
+    "year_hi": 1917,
+    "year_label": "1914–1917",
+    "premiere_or_publication": "Premiered at the Queen's Hall, London, 29 September 1918, conducted by Adrian Boult before an invited audience",
+    "dating_note": "The seven-movement suite was written between 1914 and 1917 (Wikipedia).",
+    "recording": {
+      "performers": "Any well-reviewed recording",
+      "conductor": null,
+      "label": null,
+      "year": null,
+      "why": "Any complete recording; 'Jupiter' has the big central hymn tune."
+    },
+    "trivia": "Each of the seven movements is named after a planet and its astrological character, and in 'Neptune' a hidden wordless women's chorus fades into silence. The big tune in 'Jupiter' was later turned into the patriotic hymn 'I Vow to Thee, My Country'.",
+    "tags": [
+      "20th-century",
+      "orchestral",
+      "suite",
+      "astrology"
+    ],
+    "track": {
+      "query": "Holst The Planets Jupiter Bringer of Jollity",
+      "album": null,
+      "duration": "~8:00",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Planets"
+    ],
+    "notes": "Hymn adaptation from general knowledge (words by Cecil Spring Rice, set 1921)."
+  },
+  {
+    "id": "cls-prokofiev-symphony-1-classical",
+    "composer": "Sergei Prokofiev",
+    "composer_short": "Prokofiev",
+    "work": "Symphony No. 1 in D major, Op. 25 ('Classical')",
+    "nickname": "Classical Symphony",
+    "catalogue_only": false,
+    "form": "symphony",
+    "accept_work": "Prokofiev's Classical Symphony",
+    "excerpt": "I. Allegro",
+    "year": 1917,
+    "year_lo": 1916,
+    "year_hi": 1917,
+    "year_label": "1916–1917",
+    "premiere_or_publication": "Premiered in Petrograd, 21 April 1918, conducted by the composer",
+    "dating_note": "Composed 1916–17 (Wikipedia).",
+    "recording": {
+      "performers": "Any well-reviewed recording",
+      "conductor": null,
+      "label": null,
+      "year": null,
+      "why": "Any lively recording."
+    },
+    "trivia": "Prokofiev wrote it, he said, as Haydn might have if he had lived in the 20th century, and composed it away from the piano. It is brisk and short, and in places it sounds like a gentle joke at classical forms.",
+    "tags": [
+      "20th-century",
+      "symphony",
+      "neoclassical",
+      "symphony"
+    ],
+    "track": {
+      "query": "Prokofiev Classical Symphony Allegro",
+      "album": null,
+      "duration": "~4:00",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Symphony_No._1_(Prokofiev)"
+    ],
+    "notes": "Premiere date and 'Haydn' remark to be confirmed on page."
+  },
+  {
+    "id": "cls-boulanger-pie-jesu",
+    "composer": "Lili Boulanger",
+    "composer_short": "Boulanger",
+    "work": "Pie Jesu",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "choral",
+    "accept_work": "Lili Boulanger's Pie Jesu",
+    "excerpt": "The complete piece",
+    "year": 1918,
+    "year_lo": 1918,
+    "year_hi": 1918,
+    "year_label": "1918",
+    "premiere_or_publication": "Written in the last weeks of her life",
+    "dating_note": "Dictated to her sister Nadia in early 1918, shortly before Lili died aged 24.",
+    "recording": {
+      "performers": "Any well-reviewed recording",
+      "conductor": null,
+      "label": null,
+      "year": null,
+      "why": "Soprano with organ or small ensemble."
+    },
+    "trivia": "Lili Boulanger was the first woman to win the Prix de Rome for composition, and she died at 24 after years of ill health. She dictated this, her last work, to her sister Nadia when she was too weak to write.",
+    "tags": [
+      "20th-century",
+      "choral",
+      "women-composers",
+      "sacred",
+      "less-familiar"
+    ],
+    "track": {
+      "query": "Lili Boulanger Pie Jesu",
+      "album": null,
+      "duration": "~4:00",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Lili_Boulanger"
+    ],
+    "notes": "Less-familiar pick. 1918 dictation story from general knowledge; confirm on page."
+  },
+  {
+    "id": "cls-clarke-viola-sonata",
+    "composer": "Rebecca Clarke",
+    "composer_short": "Clarke",
+    "work": "Viola Sonata",
+    "nickname": null,
+    "catalogue_only": true,
+    "form": "chamber",
+    "accept_work": "Rebecca Clarke's Viola Sonata",
+    "excerpt": "I. Impetuoso",
+    "year": 1919,
+    "year_lo": 1919,
+    "year_hi": 1919,
+    "year_label": "1919",
+    "premiere_or_publication": "Entered in the 1919 Berkshire Festival competition and premiered there in October 1919",
+    "dating_note": "Composed in 1919 (Wikipedia).",
+    "recording": {
+      "performers": "Any well-reviewed recording",
+      "conductor": null,
+      "label": null,
+      "year": null,
+      "why": "Viola and piano; any strong violist."
+    },
+    "trivia": "Clarke was a professional violist, and her sonata tied for first place in a major American chamber-music competition in 1919 with a work by Ernest Bloch. Judges at first doubted it could be by a woman, and it was later forgotten until it was revived decades later.",
+    "tags": [
+      "20th-century",
+      "chamber",
+      "women-composers",
+      "less-familiar",
+      "chamber"
+    ],
+    "track": {
+      "query": "Rebecca Clarke Viola Sonata Impetuoso",
+      "album": null,
+      "duration": "~10:00",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Viola_Sonata_(Clarke)"
+    ],
+    "notes": "Less-familiar pick. Competition story to be confirmed on page."
+  },
+  {
+    "id": "cls-elgar-cello-concerto",
+    "composer": "Edward Elgar",
+    "composer_short": "Elgar",
+    "work": "Cello Concerto in E minor, Op. 85",
+    "nickname": null,
+    "catalogue_only": true,
+    "form": "concerto",
+    "accept_work": "Elgar's Cello Concerto in E minor",
+    "excerpt": "I. Adagio – Moderato (opening)",
+    "year": 1919,
+    "year_lo": 1919,
+    "year_hi": 1919,
+    "year_label": "1919",
+    "premiere_or_publication": "Premiered at the Queen's Hall, London, 27 October 1919, with Felix Salmond as soloist",
+    "dating_note": "Composed in 1919 (Wikipedia).",
+    "recording": {
+      "performers": "Any well-reviewed recording",
+      "conductor": null,
+      "label": null,
+      "year": null,
+      "why": "Any strong cellist; Jacqueline du Pré's 1965 recording is the best-known."
+    },
+    "trivia": "It is a sombre work written after the First World War, and its first performance in 1919 went badly because of too little rehearsal. Jacqueline du Pré's 1965 recording brought it back to wide public attention.",
+    "tags": [
+      "20th-century",
+      "concerto",
+      "cello",
+      "elegiac"
+    ],
+    "track": {
+      "query": "Elgar Cello Concerto E minor Adagio Moderato",
+      "album": null,
+      "duration": "~6:00",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Cello_Concerto_(Elgar)"
+    ],
+    "notes": "Details (soloist, rehearsal problems, du Pré 1965) to be confirmed on page. Elgar total across parts 6-7: 3."
+  },
+  {
+    "id": "cls-gershwin-rhapsody-in-blue",
+    "composer": "George Gershwin",
+    "composer_short": "Gershwin",
+    "work": "Rhapsody in Blue",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "concerto",
+    "accept_work": "Gershwin's Rhapsody in Blue",
+    "excerpt": "Opening clarinet glissando",
+    "year": 1924,
+    "year_lo": 1924,
+    "year_hi": 1924,
+    "year_label": "1924",
+    "premiere_or_publication": "Premiered at Aeolian Hall, New York, 12 February 1924, in Paul Whiteman's 'An Experiment in Modern Music' concert",
+    "dating_note": "Written in January and early February 1924 for Paul Whiteman's concert.",
+    "recording": {
+      "performers": "Any well-reviewed recording",
+      "conductor": null,
+      "label": null,
+      "year": null,
+      "why": "Piano with jazz band (Grofé 1924) or full orchestra (Grofé 1942) arrangements are both fine; Gershwin himself played piano at the premiere."
+    },
+    "trivia": "Gershwin had only a few weeks to write it and played the piano at the premiere. Ferde Grofé orchestrated it, and the opening clarinet glissando began as a player's joke that Gershwin liked and kept.",
+    "tags": [
+      "20th-century",
+      "concerto",
+      "jazz-classical",
+      "piano",
+      "american"
+    ],
+    "track": {
+      "query": "Gershwin Rhapsody in Blue",
+      "album": null,
+      "duration": "~16:00",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Rhapsody_in_Blue"
+    ],
+    "notes": "Details to be confirmed on page. Gershwin total: 3 cards (with American in Paris, Summertime)."
+  },
+  {
+    "id": "cls-puccini-turandot-nessun-dorma",
+    "composer": "Giacomo Puccini",
+    "composer_short": "Puccini",
+    "work": "Turandot: 'Nessun dorma' (completed by Franco Alfano)",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "opera",
+    "accept_work": "Puccini's Turandot ('Nessun dorma')",
+    "excerpt": "'Nessun dorma'",
+    "year": 1924,
+    "year_lo": 1920,
+    "year_hi": 1924,
+    "year_label": "1920–1924 (unfinished; completed by Alfano)",
+    "premiere_or_publication": "Premiered at La Scala, Milan, 25 April 1926, conducted by Arturo Toscanini",
+    "dating_note": "Puccini died in November 1924 leaving the last scene unfinished; Franco Alfano completed it from his sketches. Dated to Puccini's own composition, and 'Nessun dorma' is wholly Puccini's.",
+    "recording": {
+      "performers": "Any well-reviewed recording",
+      "conductor": null,
+      "label": null,
+      "year": null,
+      "why": "Any dramatic tenor; Pavarotti's 1972 Decca recording is a famous one."
+    },
+    "trivia": "At the premiere Toscanini stopped the performance at the point where Puccini's music ended and said that this was where the composer died. 'Nessun dorma' ('None shall sleep') became a global hit after the 1990 FIFA World Cup.",
+    "tags": [
+      "20th-century",
+      "opera",
+      "aria",
+      "tenor",
+      "posthumous-completion"
+    ],
+    "track": {
+      "query": "Puccini Turandot Nessun dorma",
+      "album": null,
+      "duration": "~3:00",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Turandot"
+    ],
+    "notes": "Completion by Alfano; Toscanini story and 1990 World Cup link to confirm on page. Puccini total: 4."
+  },
+  {
+    "id": "cls-respighi-pini-di-roma",
+    "composer": "Ottorino Respighi",
+    "composer_short": "Respighi",
+    "work": "Pini di Roma (Pines of Rome)",
+    "nickname": "Pines of Rome",
+    "catalogue_only": false,
+    "form": "orchestral",
+    "accept_work": "Respighi's Pines of Rome",
+    "excerpt": "IV. I pini della Via Appia (Pines of the Appian Way)",
+    "year": 1924,
+    "year_lo": 1924,
+    "year_hi": 1924,
+    "year_label": "1924",
+    "premiere_or_publication": "Premiered in Rome, 14 December 1924",
+    "dating_note": "Composed in 1924 (Wikipedia).",
+    "recording": {
+      "performers": "Any well-reviewed recording",
+      "conductor": null,
+      "label": null,
+      "year": null,
+      "why": "Any recording; the finale builds to a huge climax with organ and brass."
+    },
+    "trivia": "A tone poem in four parts depicting pine trees in different parts of Rome. The third movement calls for a recording of a nightingale played on a gramophone, one of the first uses of recorded sound in a concert work.",
+    "tags": [
+      "20th-century",
+      "orchestral",
+      "tone-poem",
+      "rome",
+      "italian"
+    ],
+    "track": {
+      "query": "Respighi Pines of Rome Pines of the Appian Way",
+      "album": null,
+      "duration": "~6:00",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Pines_of_Rome"
+    ],
+    "notes": "Details to be confirmed on page. Respighi total: 1."
+  },
+  {
+    "id": "cls-janacek-sinfonietta",
+    "composer": "Leoš Janáček",
+    "composer_short": "Janáček",
+    "work": "Sinfonietta",
+    "nickname": null,
+    "catalogue_only": true,
+    "form": "orchestral",
+    "accept_work": "Janáček's Sinfonietta",
+    "excerpt": "I. Fanfare",
+    "year": 1926,
+    "year_lo": 1926,
+    "year_hi": 1926,
+    "year_label": "1926",
+    "premiere_or_publication": "Premiered in Prague, 26 June 1926, conducted by Václav Talich",
+    "dating_note": "Composed in 1926 (Wikipedia).",
+    "recording": {
+      "performers": "Any well-reviewed recording",
+      "conductor": null,
+      "label": null,
+      "year": null,
+      "why": "Any recording with the full brass band that opens and closes the piece."
+    },
+    "trivia": "It opens with a fanfare for extra brass and was meant to celebrate the Czechoslovak Army and a gymnastics festival. Janáček dedicated it to the army, and it sounds more like open-air music than a conventional sinfonietta.",
+    "tags": [
+      "20th-century",
+      "orchestral",
+      "fanfare",
+      "czech",
+      "less-familiar"
+    ],
+    "track": {
+      "query": "Janacek Sinfonietta Fanfare",
+      "album": null,
+      "duration": "~2:00",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Sinfonietta_(Jan%C3%A1%C4%8Dek)"
+    ],
+    "notes": "Less-familiar pick. Details to be confirmed on page."
+  },
+  {
+    "id": "cls-kodaly-hary-janos-suite",
+    "composer": "Zoltán Kodály",
+    "composer_short": "Kodály",
+    "work": "Háry János Suite",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "orchestral",
+    "accept_work": "Kodály's Háry János Suite",
+    "excerpt": "II. Viennese Musical Clock",
+    "year": 1926,
+    "year_lo": 1926,
+    "year_hi": 1926,
+    "year_label": "1926 (suite 1927)",
+    "premiere_or_publication": "Opera premiered in Budapest, 16 October 1926; suite premiered in Barcelona in 1927",
+    "dating_note": "Composed in 1926 for the opera; the orchestral suite followed in 1927.",
+    "recording": {
+      "performers": "Any well-reviewed recording",
+      "conductor": null,
+      "label": null,
+      "year": null,
+      "why": "Any recording with the cimbalom; the 'Viennese Musical Clock' is a favourite."
+    },
+    "trivia": "The suite comes from a Hungarian folk opera about a boastful old soldier who claims to have defeated Napoleon. It uses a cimbalom, a Hungarian hammered dulcimer, in the orchestra.",
+    "tags": [
+      "20th-century",
+      "orchestral",
+      "suite",
+      "hungarian",
+      "less-familiar"
+    ],
+    "track": {
+      "query": "Kodaly Hary Janos Suite Viennese Musical Clock",
+      "album": null,
+      "duration": "~2:00",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/H%C3%A1ry_J%C3%A1nos_(opera)"
+    ],
+    "notes": "Less-familiar pick. Details to be confirmed on page."
+  },
+  {
+    "id": "cls-gershwin-an-american-in-paris",
+    "composer": "George Gershwin",
+    "composer_short": "Gershwin",
+    "work": "An American in Paris",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "orchestral",
+    "accept_work": "Gershwin's An American in Paris",
+    "excerpt": "Opening walking theme with taxi horns",
+    "year": 1928,
+    "year_lo": 1928,
+    "year_hi": 1928,
+    "year_label": "1928",
+    "premiere_or_publication": "Premiered at Carnegie Hall, New York, 13 December 1928, with Walter Damrosch conducting the New York Philharmonic",
+    "dating_note": "Composed in 1928 after a visit to Paris.",
+    "recording": {
+      "performers": "Any well-reviewed recording",
+      "conductor": null,
+      "label": null,
+      "year": null,
+      "why": "Any lively recording with the Paris taxi horns."
+    },
+    "trivia": "Gershwin brought real Paris taxi horns home to use in the score. It later inspired the 1951 Gene Kelly film musical of the same name.",
+    "tags": [
+      "20th-century",
+      "orchestral",
+      "tone-poem",
+      "american",
+      "taxi-horns"
+    ],
+    "track": {
+      "query": "Gershwin An American in Paris",
+      "album": null,
+      "duration": "~4:00",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/An_American_in_Paris"
+    ],
+    "notes": "Details to be confirmed on page."
+  },
+  {
+    "id": "cls-ravel-bolero",
+    "composer": "Maurice Ravel",
+    "composer_short": "Ravel",
+    "work": "Boléro, M. 81",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "orchestral",
+    "accept_work": "Ravel's Boléro",
+    "excerpt": "The opening (snare drum and flute)",
+    "year": 1928,
+    "year_lo": 1928,
+    "year_hi": 1928,
+    "year_label": "1928",
+    "premiere_or_publication": "Premiered at the Paris Opéra, 22 November 1928, as a ballet for Ida Rubinstein",
+    "dating_note": "Composed in 1928 as a commission for Ida Rubinstein's ballet company.",
+    "recording": {
+      "performers": "Any well-reviewed recording",
+      "conductor": null,
+      "label": null,
+      "year": null,
+      "why": "Any recording; the same theme repeated with growing orchestration."
+    },
+    "trivia": "A single melody is repeated over a never-changing snare-drum rhythm while the orchestration grows louder, and Ravel described it as an experiment in orchestration. It has been used in film and sport, notably by the ice dancers Torvill and Dean at the 1984 Winter Olympics.",
+    "tags": [
+      "20th-century",
+      "orchestral",
+      "ballet",
+      "crescendo",
+      "film-fame"
+    ],
+    "track": {
+      "query": "Ravel Boléro",
+      "album": null,
+      "duration": "~15:00",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Bol%C3%A9ro"
+    ],
+    "notes": "Premiere date and Torvill and Dean from general knowledge; confirm on page. Ravel total across parts 6-7: 4 with the G major concerto."
+  },
+  {
+    "id": "cls-ravel-piano-concerto-in-g",
+    "composer": "Maurice Ravel",
+    "composer_short": "Ravel",
+    "work": "Piano Concerto in G major, M. 83",
+    "nickname": null,
+    "catalogue_only": true,
+    "form": "concerto",
+    "accept_work": "Ravel's Piano Concerto in G major",
+    "excerpt": "II. Adagio assai",
+    "year": 1931,
+    "year_lo": 1929,
+    "year_hi": 1931,
+    "year_label": "1929–1931",
+    "premiere_or_publication": "Premiered in Paris, 14 January 1932, with Marguerite Long as soloist and Ravel conducting",
+    "dating_note": "Composed 1929–31 (Wikipedia).",
+    "recording": {
+      "performers": "Any well-reviewed recording",
+      "conductor": null,
+      "label": null,
+      "year": null,
+      "why": "Any strong pianist; the second movement features a long solo piano melody."
+    },
+    "trivia": "Ravel took inspiration from Mozart and Saint-Saëns as well as from American jazz, which he heard on his 1928 tour. The slow movement's long opening piano melody took him a long time to write.",
+    "tags": [
+      "20th-century",
+      "concerto",
+      "piano-concerto",
+      "jazz-influence"
+    ],
+    "track": {
+      "query": "Ravel Piano Concerto in G Adagio assai",
+      "album": null,
+      "duration": "~9:00",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Piano_Concerto_in_G_(Ravel)"
+    ],
+    "notes": "Details to be confirmed on page."
+  },
+  {
+    "id": "cls-price-symphony-1",
+    "composer": "Florence Price",
+    "composer_short": "Price",
+    "work": "Symphony No. 1 in E minor",
+    "nickname": null,
+    "catalogue_only": true,
+    "form": "symphony",
+    "accept_work": "Florence Price's Symphony No. 1 in E minor",
+    "excerpt": "III. Juba Dance",
+    "year": 1932,
+    "year_lo": 1931,
+    "year_hi": 1932,
+    "year_label": "1931–1932",
+    "premiere_or_publication": "Premiered by the Chicago Symphony Orchestra, 15 June 1933, conducted by Frederick Stock",
+    "dating_note": "Composed 1931-32 (Wikipedia).",
+    "recording": {
+      "performers": "Any well-reviewed recording",
+      "conductor": null,
+      "label": null,
+      "year": null,
+      "why": "No single reference named; any orchestral recording."
+    },
+    "trivia": "It won a prize in 1932, and its 1933 premiere by the Chicago Symphony made Price the first Black woman to have a symphony played by a major American orchestra. Her scores were thought lost until a cache was found in an abandoned Illinois house in 2009.",
+    "tags": [
+      "20th-century",
+      "symphony",
+      "women-composers",
+      "less-familiar",
+      "symphony",
+      "american"
+    ],
+    "track": {
+      "query": "Florence Price Symphony No. 1 Juba Dance",
+      "album": null,
+      "duration": "~5:00",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Symphony_No._1_(Price)"
+    ],
+    "notes": "Less-familiar pick. 2009 find and 'first' claim to be confirmed on page."
+  },
+  {
+    "id": "cls-rachmaninoff-rhapsody-on-a-theme-of-paganini",
+    "composer": "Sergei Rachmaninoff",
+    "composer_short": "Rachmaninoff",
+    "work": "Rhapsody on a Theme of Paganini, Op. 43",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "concerto",
+    "accept_work": "Rachmaninoff's Rhapsody on a Theme of Paganini",
+    "excerpt": "Variation 18",
+    "year": 1934,
+    "year_lo": 1934,
+    "year_hi": 1934,
+    "year_label": "1934",
+    "premiere_or_publication": "Premiered in Baltimore, 7 November 1934, with the composer as soloist and Stokowski conducting",
+    "dating_note": "Written from 3 July to 18 August 1934 (Wikipedia).",
+    "recording": {
+      "performers": "Any well-reviewed recording",
+      "conductor": null,
+      "label": null,
+      "year": null,
+      "why": "Any strong pianist; Variation 18 is the lush, romantic tune."
+    },
+    "trivia": "It was written in six weeks at his Swiss villa, on the theme of Paganini's 24th Caprice (a tune also used by Brahms and Liszt). Variation 18 turns that theme upside down into a famous love-song melody.",
+    "tags": [
+      "20th-century",
+      "concerto",
+      "piano",
+      "variations",
+      "paganini"
+    ],
+    "track": {
+      "query": "Rachmaninoff Rhapsody on a Theme of Paganini Variation 18",
+      "album": null,
+      "duration": "~3:00",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Rhapsody_on_a_Theme_of_Paganini"
+    ],
+    "notes": "Inversion detail is standard; Rachmaninoff total: 3."
+  },
+  {
+    "id": "cls-berg-violin-concerto",
+    "composer": "Alban Berg",
+    "composer_short": "Berg",
+    "work": "Violin Concerto ('To the memory of an angel')",
+    "nickname": "To the Memory of an Angel",
+    "catalogue_only": false,
+    "form": "concerto",
+    "accept_work": "Berg's Violin Concerto",
+    "excerpt": "Opening",
+    "year": 1935,
+    "year_lo": 1935,
+    "year_hi": 1935,
+    "year_label": "1935",
+    "premiere_or_publication": "Premiered in Barcelona, 19 April 1936, after Berg's death",
+    "dating_note": "Composed in 1935 for Louis Krasner (Wikipedia).",
+    "recording": {
+      "performers": "Any well-reviewed recording",
+      "conductor": null,
+      "label": null,
+      "year": null,
+      "why": "Any strong violinist."
+    },
+    "trivia": "Written in memory of Manon Gropius, the young daughter of Alma Mahler and Walter Gropius, who died in 1935. It uses a twelve-note row that contains traditional triads, and Berg died before it was ever performed.",
+    "tags": [
+      "20th-century",
+      "concerto",
+      "violin",
+      "twelve-tone",
+      "less-familiar"
+    ],
+    "track": {
+      "query": "Berg Violin Concerto To the memory of an angel",
+      "album": null,
+      "duration": "~10:00",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Violin_Concerto_(Berg)"
+    ],
+    "notes": "Less-familiar pick. Details to be confirmed on page."
+  },
+  {
+    "id": "cls-gershwin-summertime",
+    "composer": "George Gershwin",
+    "composer_short": "Gershwin",
+    "work": "Porgy and Bess: 'Summertime'",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "opera",
+    "accept_work": "Gershwin's 'Summertime' (Porgy and Bess)",
+    "excerpt": "'Summertime'",
+    "year": 1935,
+    "year_lo": 1935,
+    "year_hi": 1935,
+    "year_label": "1935",
+    "premiere_or_publication": "Porgy and Bess premiered in Boston, 30 September 1935",
+    "dating_note": "Composed in 1934–35 for the opera (Wikipedia).",
+    "recording": {
+      "performers": "Any well-reviewed recording",
+      "conductor": null,
+      "label": null,
+      "year": null,
+      "why": "Opera version for soprano; many jazz versions exist."
+    },
+    "trivia": "It is a lullaby sung at the start of Gershwin's folk opera set in Catfish Row, South Carolina. It has become one of the most recorded songs ever, by jazz and pop singers as well as opera singers.",
+    "tags": [
+      "20th-century",
+      "opera",
+      "aria",
+      "lullaby",
+      "american-opera"
+    ],
+    "track": {
+      "query": "Gershwin Porgy and Bess Summertime",
+      "album": null,
+      "duration": "~3:00",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Summertime_(song)",
+      "https://en.wikipedia.org/wiki/Porgy_and_Bess"
+    ],
+    "notes": "Details to be confirmed on page."
+  },
+  {
+    "id": "cls-barber-adagio-for-strings",
+    "composer": "Samuel Barber",
+    "composer_short": "Barber",
+    "work": "Adagio for Strings, Op. 11",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "orchestral",
+    "accept_work": "Barber's Adagio for Strings",
+    "excerpt": "The complete Adagio",
+    "year": 1936,
+    "year_lo": 1936,
+    "year_hi": 1938,
+    "year_label": "1936 (premiered 1938)",
+    "premiere_or_publication": "Premiered 5 November 1938 by Arturo Toscanini and the NBC Symphony Orchestra in a radio broadcast",
+    "dating_note": "Barber finished the arrangement in 1936, the same year he wrote the String Quartet it comes from (Wikipedia).",
+    "recording": {
+      "performers": "Any well-reviewed recording",
+      "conductor": null,
+      "label": null,
+      "year": null,
+      "why": "Strings alone; any slow, intense recording."
+    },
+    "trivia": "It began as the slow movement of Barber's 1936 String Quartet, and the string-orchestra arrangement was premiered by Toscanini in 1938. It has often been played at national mourning and was used on the soundtrack of Platoon (1986).",
+    "tags": [
+      "20th-century",
+      "orchestral",
+      "strings",
+      "elegy",
+      "american"
+    ],
+    "track": {
+      "query": "Barber Adagio for Strings",
+      "album": null,
+      "duration": "~8:00",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Adagio_for_Strings"
+    ],
+    "notes": "Platoon link from general knowledge. 1938 premiere verified."
+  },
+  {
+    "id": "cls-orff-carmina-burana",
+    "composer": "Carl Orff",
+    "composer_short": "Orff",
+    "work": "Carmina Burana (O Fortuna)",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "choral",
+    "accept_work": "Orff's Carmina Burana ('O Fortuna')",
+    "excerpt": "O Fortuna",
+    "year": 1936,
+    "year_lo": 1935,
+    "year_hi": 1936,
+    "year_label": "1935–1936",
+    "premiere_or_publication": "Premiered in Frankfurt, 8 June 1937",
+    "dating_note": "Composed 1935–36 (Wikipedia).",
+    "recording": {
+      "performers": "Any well-reviewed recording",
+      "conductor": null,
+      "label": null,
+      "year": null,
+      "why": "Any recording with full chorus; the opening and closing 'O Fortuna' are the same music."
+    },
+    "trivia": "The text comes from a medieval collection of Latin and German songs found in a Bavarian monastery, and 'O Fortuna' praises and curses the wheel of fortune. It became Orff's calling card, and he reportedly said his earlier work could be forgotten.",
+    "tags": [
+      "20th-century",
+      "choral",
+      "cantata",
+      "choral",
+      "medieval-text"
+    ],
+    "track": {
+      "query": "Orff Carmina Burana O Fortuna",
+      "album": null,
+      "duration": "~2:30",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Carmina_Burana_(Orff)"
+    ],
+    "notes": "Dates and details to be confirmed on page; 'earlier work could be forgotten' remark is traditionally attributed."
+  },
+  {
+    "id": "cls-prokofiev-peter-and-the-wolf",
+    "composer": "Sergei Prokofiev",
+    "composer_short": "Prokofiev",
+    "work": "Peter and the Wolf, Op. 67",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "orchestral",
+    "accept_work": "Prokofiev's Peter and the Wolf",
+    "excerpt": "Peter's theme and the wolf's horns",
+    "year": 1936,
+    "year_lo": 1936,
+    "year_hi": 1936,
+    "year_label": "1936",
+    "premiere_or_publication": "Premiered in Moscow, 2 May 1936",
+    "dating_note": "Composed in 1936 (Wikipedia).",
+    "recording": {
+      "performers": "Any well-reviewed recording",
+      "conductor": null,
+      "label": null,
+      "year": null,
+      "why": "Choose a version with a narrator; the instruments represent each character."
+    },
+    "trivia": "Commissioned by the Moscow Central Children's Theatre to teach children the instruments of the orchestra, with a different instrument for each character: strings for Peter, flute for the bird, oboe for the duck, clarinet for the cat, bassoon for the grandfather and three horns for the wolf.",
+    "tags": [
+      "20th-century",
+      "orchestral",
+      "children",
+      "narrator",
+      "orchestra-guide"
+    ],
+    "track": {
+      "query": "Prokofiev Peter and the Wolf",
+      "album": null,
+      "duration": "~3:00",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Peter_and_the_Wolf"
+    ],
+    "notes": "Premiere date and instrument assignments to be confirmed on page."
+  },
+  {
+    "id": "cls-prokofiev-romeo-and-juliet-dance-of-the-knights",
+    "composer": "Sergei Prokofiev",
+    "composer_short": "Prokofiev",
+    "work": "Romeo and Juliet, Op. 64: Montagues and Capulets (Dance of the Knights)",
+    "nickname": "Dance of the Knights",
+    "catalogue_only": false,
+    "form": "ballet",
+    "accept_work": "Prokofiev's Romeo and Juliet (Montagues and Capulets / Dance of the Knights)",
+    "excerpt": "Montagues and Capulets",
+    "year": 1936,
+    "year_lo": 1935,
+    "year_hi": 1936,
+    "year_label": "1935–1936",
+    "premiere_or_publication": "Premiered in Brno, 30 December 1938; Kirov production in Leningrad, 1940",
+    "dating_note": "Composed in 1935–36 (Wikipedia).",
+    "recording": {
+      "performers": "Any well-reviewed recording",
+      "conductor": null,
+      "label": null,
+      "year": null,
+      "why": "Any orchestral suite recording; heavy marching theme."
+    },
+    "trivia": "Prokofiev first gave the ballet a happy ending, with Romeo and Juliet surviving, then changed it after objections. Soviet theatres balked at the score as undanceable, so it premiered in Czechoslovakia in 1938.",
+    "tags": [
+      "20th-century",
+      "ballet",
+      "ballet",
+      "shakespeare"
+    ],
+    "track": {
+      "query": "Prokofiev Romeo and Juliet Montagues and Capulets Dance of the Knights",
+      "album": null,
+      "duration": "~5:00",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Romeo_and_Juliet_(Prokofiev)"
+    ],
+    "notes": "Happy-ending and 'undanceable' details to be confirmed. Prokofiev total: 3 cards."
+  },
+  {
+    "id": "cls-shostakovich-symphony-5",
+    "composer": "Dmitri Shostakovich",
+    "composer_short": "Shostakovich",
+    "work": "Symphony No. 5 in D minor, Op. 47",
+    "nickname": null,
+    "catalogue_only": true,
+    "form": "symphony",
+    "accept_work": "Shostakovich's Symphony No. 5",
+    "excerpt": "IV. Allegro non troppo (finale)",
+    "year": 1937,
+    "year_lo": 1937,
+    "year_hi": 1937,
+    "year_label": "1937",
+    "premiere_or_publication": "Premiered in Leningrad, 21 November 1937, conducted by Yevgeny Mravinsky",
+    "dating_note": "Composed April to July 1937 (Wikipedia).",
+    "recording": {
+      "performers": "Any well-reviewed recording",
+      "conductor": null,
+      "label": null,
+      "year": null,
+      "why": "Any strong recording; the finale's hammering D major is the point."
+    },
+    "trivia": "It came after Stalin's newspaper Pravda attacked his opera Lady Macbeth of Mtsensk in 1936 and put his career in danger. The symphony was a success at its premiere, and listeners still argue about whether its finale is real triumph or forced celebration.",
+    "tags": [
+      "20th-century",
+      "symphony",
+      "symphony",
+      "soviet"
+    ],
+    "track": {
+      "query": "Shostakovich Symphony No. 5 finale Allegro non troppo",
+      "album": null,
+      "duration": "~10:00",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Symphony_No._5_(Shostakovich)"
+    ],
+    "notes": "Premiere details to be confirmed on page. Shostakovich total: 2."
+  },
+  {
+    "id": "cls-walton-crown-imperial",
+    "composer": "William Walton",
+    "composer_short": "Walton",
+    "work": "Crown Imperial (Coronation March)",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "orchestral",
+    "accept_work": "Walton's Crown Imperial",
+    "excerpt": "Opening and main march theme",
+    "year": 1937,
+    "year_lo": 1937,
+    "year_hi": 1937,
+    "year_label": "1937",
+    "premiere_or_publication": "Performed at the coronation of King George VI, Westminster Abbey, 12 May 1937",
+    "dating_note": "Composed in 1937 for the coronation (Wikipedia).",
+    "recording": {
+      "performers": "Any well-reviewed recording",
+      "conductor": null,
+      "label": null,
+      "year": null,
+      "why": "Orchestra and organ; any ceremonial recording."
+    },
+    "trivia": "It was written for the coronation of George VI and was also used at the coronation of Elizabeth II in 1953. The title comes from a poem by William Dunbar.",
+    "tags": [
+      "20th-century",
+      "orchestral",
+      "march",
+      "coronation",
+      "english"
+    ],
+    "track": {
+      "query": "Walton Crown Imperial",
+      "album": null,
+      "duration": "~9:00",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Crown_Imperial"
+    ],
+    "notes": "Details to be confirmed on page."
+  },
+  {
+    "id": "cls-villa-lobos-bachianas-brasileiras-5",
+    "composer": "Heitor Villa-Lobos",
+    "composer_short": "Villa-Lobos",
+    "work": "Bachianas Brasileiras No. 5 (Ária: Cantilena)",
+    "nickname": null,
+    "catalogue_only": true,
+    "form": "orchestral",
+    "accept_work": "Villa-Lobos's Bachianas Brasileiras No. 5 (Aria)",
+    "excerpt": "Ária (Cantilena)",
+    "year": 1938,
+    "year_lo": 1938,
+    "year_hi": 1945,
+    "year_label": "1938 (second movement 1945)",
+    "premiere_or_publication": "Aria for soprano and eight cellos, 1938; second movement added in 1945",
+    "dating_note": "Wikipedia dates the work 1938/45: the Aria in 1938 and the Dança (Martelo) in 1945.",
+    "recording": {
+      "performers": "Any well-reviewed recording",
+      "conductor": null,
+      "label": null,
+      "year": null,
+      "why": "Soprano with eight cellos (or guitar); any lyrical recording."
+    },
+    "trivia": "Villa-Lobos blended Bach's contrapuntal manner with Brazilian melody in a series of nine suites, and this Aria for soprano and eight cellos is the best known of them. A wordless vocalise opens it before the poem begins.",
+    "tags": [
+      "20th-century",
+      "orchestral",
+      "aria",
+      "brazilian",
+      "less-familiar"
+    ],
+    "track": {
+      "query": "Villa-Lobos Bachianas Brasileiras No. 5 Aria Cantilena",
+      "album": null,
+      "duration": "~6:00",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Bachianas_Brasileiras"
+    ],
+    "notes": "Dated to the famous Aria (1938); the work as a whole is 1938/45. 'Best known' confirmed on Wikipedia."
+  },
+  {
+    "id": "cls-rodrigo-concierto-de-aranjuez",
+    "composer": "Joaquín Rodrigo",
+    "composer_short": "Rodrigo",
+    "work": "Concierto de Aranjuez",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "concerto",
+    "accept_work": "Rodrigo's Concierto de Aranjuez",
+    "excerpt": "II. Adagio",
+    "year": 1939,
+    "year_lo": 1939,
+    "year_hi": 1939,
+    "year_label": "1939",
+    "premiere_or_publication": "Premiered in Barcelona, 9 November 1940",
+    "dating_note": "Composed in early 1939 in Paris (Wikipedia).",
+    "recording": {
+      "performers": "Any well-reviewed recording",
+      "conductor": null,
+      "label": null,
+      "year": null,
+      "why": "Classical guitar with orchestra; the cor anglais solo in the Adagio is the best-known moment."
+    },
+    "trivia": "Rodrigo, who had been blind since early childhood, wrote it in Paris in 1939 at the end of the Spanish Civil War. The Adagio was reworked by Miles Davis and Gil Evans for the 1960 album Sketches of Spain.",
+    "tags": [
+      "20th-century",
+      "concerto",
+      "guitar",
+      "spanish",
+      "adagio"
+    ],
+    "track": {
+      "query": "Rodrigo Concierto de Aranjuez Adagio",
+      "album": null,
+      "duration": "~10:00",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Concierto_de_Aranjuez"
+    ],
+    "notes": "Premiere date and Miles Davis link to confirm on page."
+  },
+  {
+    "id": "cls-messiaen-quatuor-pour-la-fin-du-temps",
+    "composer": "Olivier Messiaen",
+    "composer_short": "Messiaen",
+    "work": "Quatuor pour la fin du temps (Quartet for the End of Time)",
+    "nickname": "Quartet for the End of Time",
+    "catalogue_only": false,
+    "form": "chamber",
+    "accept_work": "Messiaen's Quartet for the End of Time",
+    "excerpt": "I. Liturgie de cristal",
+    "year": 1941,
+    "year_lo": 1940,
+    "year_hi": 1941,
+    "year_label": "1940–1941",
+    "premiere_or_publication": "Premiered 15 January 1941 in Stalag VIII-A, a prisoner-of-war camp at Görlitz",
+    "dating_note": "Composed in 1940-41, mostly while Messiaen was a prisoner of war (Wikipedia).",
+    "recording": {
+      "performers": "Any well-reviewed recording",
+      "conductor": null,
+      "label": null,
+      "year": null,
+      "why": "Violin, clarinet, cello and piano; any good chamber ensemble."
+    },
+    "trivia": "Messiaen wrote it as a prisoner of war and it was first played in the camp by fellow prisoners for an audience of inmates and guards, on whatever instruments were to hand. The title refers to a passage in the Book of Revelation.",
+    "tags": [
+      "20th-century",
+      "chamber",
+      "chamber",
+      "wartime",
+      "less-familiar"
+    ],
+    "track": {
+      "query": "Messiaen Quatuor pour la fin du temps Liturgie de cristal",
+      "album": null,
+      "duration": "~7:00",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Quatuor_pour_la_fin_du_temps"
+    ],
+    "notes": "Less-familiar pick. Details to be confirmed on page."
+  },
+  {
+    "id": "cls-copland-fanfare-for-the-common-man",
+    "composer": "Aaron Copland",
+    "composer_short": "Copland",
+    "work": "Fanfare for the Common Man",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "orchestral",
+    "accept_work": "Copland's Fanfare for the Common Man",
+    "excerpt": "The complete fanfare",
+    "year": 1942,
+    "year_lo": 1942,
+    "year_hi": 1942,
+    "year_label": "1942",
+    "premiere_or_publication": "Premiered by the Cincinnati Symphony Orchestra, 12 March 1943, conducted by Eugene Goossens",
+    "dating_note": "Composed in 1942 on commission from Eugene Goossens.",
+    "recording": {
+      "performers": "Any well-reviewed recording",
+      "conductor": null,
+      "label": null,
+      "year": null,
+      "why": "Brass and percussion only; any strong ensemble."
+    },
+    "trivia": "Eugene Goossens asked a group of composers for patriotic fanfares during the Second World War. Copland's title came from a speech by US vice president Henry Wallace on the 'century of the common man', and he later reused the theme in his Third Symphony.",
+    "tags": [
+      "20th-century",
+      "orchestral",
+      "fanfare",
+      "american"
+    ],
+    "track": {
+      "query": "Copland Fanfare for the Common Man",
+      "album": null,
+      "duration": "~3:30",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Fanfare_for_the_Common_Man"
+    ],
+    "notes": "Details to be confirmed on page."
+  },
+  {
+    "id": "cls-khachaturian-gayane-sabre-dance",
+    "composer": "Aram Khachaturian",
+    "composer_short": "Khachaturian",
+    "work": "Gayane: Sabre Dance",
+    "nickname": "Sabre Dance",
+    "catalogue_only": false,
+    "form": "ballet",
+    "accept_work": "Khachaturian's Sabre Dance (Gayane)",
+    "excerpt": "Sabre Dance",
+    "year": 1942,
+    "year_lo": 1942,
+    "year_hi": 1942,
+    "year_label": "1942",
+    "premiere_or_publication": "Gayane premiered in Perm, 3 December 1942",
+    "dating_note": "Composed in 1942 (Wikipedia).",
+    "recording": {
+      "performers": "Any well-reviewed recording",
+      "conductor": null,
+      "label": null,
+      "year": null,
+      "why": "Fast orchestral performance with xylophone and brass."
+    },
+    "trivia": "Khachaturian reportedly wrote the dance in one night when the choreographer asked for a final number. It became his most famous piece and a staple of cartoons, comedy sketches and pop covers.",
+    "tags": [
+      "20th-century",
+      "ballet",
+      "ballet-music",
+      "soviet",
+      "dance"
+    ],
+    "track": {
+      "query": "Khachaturian Sabre Dance Gayane",
+      "album": null,
+      "duration": "~2:30",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Gayane"
+    ],
+    "notes": "'One night' story is traditional; to be confirmed on page. Khachaturian total: 2."
+  },
+  {
+    "id": "cls-bartok-concerto-for-orchestra",
+    "composer": "Béla Bartók",
+    "composer_short": "Bartók",
+    "work": "Concerto for Orchestra, Sz. 116",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "orchestral",
+    "accept_work": "Bartók's Concerto for Orchestra",
+    "excerpt": "IV. Intermezzo interrotto",
+    "year": 1943,
+    "year_lo": 1943,
+    "year_hi": 1943,
+    "year_label": "1943",
+    "premiere_or_publication": "Premiered in Boston, 1 December 1944, conducted by Serge Koussevitzky",
+    "dating_note": "Composed August to October 1943 (Wikipedia).",
+    "recording": {
+      "performers": "Any well-reviewed recording",
+      "conductor": null,
+      "label": null,
+      "year": null,
+      "why": "Any recording; fifth-movement fugue shows off the whole orchestra."
+    },
+    "trivia": "Bartók was ill and short of money in American exile when Koussevitzky commissioned it, and the work was among his most successful. Shostakovich's 'Leningrad' Symphony is parodied in its fourth movement.",
+    "tags": [
+      "20th-century",
+      "orchestral",
+      "orchestral",
+      "american-exile"
+    ],
+    "track": {
+      "query": "Bartok Concerto for Orchestra Intermezzo interrotto",
+      "album": null,
+      "duration": "~4:00",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Concerto_for_Orchestra_(Bart%C3%B3k)"
+    ],
+    "notes": "Details to be confirmed on page. Bartók total: 2."
+  },
+  {
+    "id": "cls-copland-appalachian-spring",
+    "composer": "Aaron Copland",
+    "composer_short": "Copland",
+    "work": "Appalachian Spring (ballet)",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "ballet",
+    "accept_work": "Copland's Appalachian Spring",
+    "excerpt": "Variations on the Shaker tune 'Simple Gifts'",
+    "year": 1944,
+    "year_lo": 1943,
+    "year_hi": 1944,
+    "year_label": "1943–1944",
+    "premiere_or_publication": "Premiered at the Library of Congress, Washington, 30 October 1944, with Martha Graham's company",
+    "dating_note": "Composed 1943–44 for Martha Graham.",
+    "recording": {
+      "performers": "Any well-reviewed recording",
+      "conductor": null,
+      "label": null,
+      "year": null,
+      "why": "Any full orchestra or ballet-suite recording."
+    },
+    "trivia": "Written for Martha Graham, the piece borrows the Shaker song 'Simple Gifts'. Copland did not give the ballet its title: Graham chose it late from a Hart Crane poem, and Copland called it 'Ballet for Martha' while writing.",
+    "tags": [
+      "20th-century",
+      "ballet",
+      "ballet",
+      "american",
+      "simple-gifts"
+    ],
+    "track": {
+      "query": "Copland Appalachian Spring Simple Gifts",
+      "album": null,
+      "duration": "~3:00",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Appalachian_Spring"
+    ],
+    "notes": "Details to be confirmed on page. Copland total: 2."
+  },
+  {
+    "id": "cls-britten-peter-grimes-sea-interludes",
+    "composer": "Benjamin Britten",
+    "composer_short": "Britten",
+    "work": "Peter Grimes: Four Sea Interludes, Op. 33a",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "opera",
+    "accept_work": "Britten's Peter Grimes (Four Sea Interludes)",
+    "excerpt": "I. Dawn",
+    "year": 1945,
+    "year_lo": 1944,
+    "year_hi": 1945,
+    "year_label": "1944–1945",
+    "premiere_or_publication": "Opera premiered at Sadler's Wells Theatre, London, 7 June 1945",
+    "dating_note": "Opera composed in 1944–45 (Wikipedia).",
+    "recording": {
+      "performers": "Any well-reviewed recording",
+      "conductor": null,
+      "label": null,
+      "year": null,
+      "why": "Any orchestral recording of the interludes."
+    },
+    "trivia": "The four orchestral interludes link scenes of Britten's opera set in a fishing village on the Suffolk coast, and they are often played as a concert piece. The opera re-opened Sadler's Wells after the Second World War and made Britten's name as an opera composer.",
+    "tags": [
+      "20th-century",
+      "opera",
+      "opera",
+      "sea",
+      "less-familiar"
+    ],
+    "track": {
+      "query": "Britten Peter Grimes Four Sea Interludes Dawn",
+      "album": null,
+      "duration": "~4:00",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Peter_Grimes"
+    ],
+    "notes": "Less-familiar pick. Composition span to be confirmed on page. Britten total: 2 (more in part 8: War Requiem)."
+  },
+  {
+    "id": "cls-britten-the-young-persons-guide-to-the-orchestra",
+    "composer": "Benjamin Britten",
+    "composer_short": "Britten",
+    "work": "The Young Person's Guide to the Orchestra, Op. 34",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "orchestral",
+    "accept_work": "Britten's The Young Person's Guide to the Orchestra",
+    "excerpt": "Purcell theme and variations",
+    "year": 1945,
+    "year_lo": 1945,
+    "year_hi": 1945,
+    "year_label": "1945",
+    "premiere_or_publication": "Written for the 1946 educational film Instruments of the Orchestra; premiered 15 October 1946 in Liverpool",
+    "dating_note": "Composed in 1945 (Wikipedia).",
+    "recording": {
+      "performers": "Any well-reviewed recording",
+      "conductor": null,
+      "label": null,
+      "year": null,
+      "why": "Orchestra alone or with narrator."
+    },
+    "trivia": "It presents a theme by Henry Purcell, from 1695, in variations that show off each family of instruments, ending in a fugue where they all return together.",
+    "tags": [
+      "20th-century",
+      "orchestral",
+      "variations",
+      "orchestra-guide",
+      "purcell"
+    ],
+    "track": {
+      "query": "Britten Young Person's Guide to the Orchestra Purcell",
+      "album": null,
+      "duration": "~17:00",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Young_Person's_Guide_to_the_Orchestra"
+    ],
+    "notes": "Details to be confirmed on page."
+  },
+  {
+    "id": "cls-richard-strauss-vier-letzte-lieder",
+    "composer": "Richard Strauss",
+    "composer_short": "Richard Strauss",
+    "work": "Vier letzte Lieder (Four Last Songs), TrV 296",
+    "nickname": "Four Last Songs",
+    "catalogue_only": false,
+    "form": "song",
+    "accept_work": "Richard Strauss's Four Last Songs (this card plays 'Im Abendrot')",
+    "excerpt": "No. 4, 'Im Abendrot'",
+    "year": 1948,
+    "year_lo": 1948,
+    "year_hi": 1948,
+    "year_label": "1948",
+    "premiere_or_publication": "Premiered posthumously on 22 May 1950 in London with Kirsten Flagstad and Wilhelm Furtwängler",
+    "dating_note": "Composed in 1948, the year before his death (Wikipedia).",
+    "recording": {
+      "performers": "Any well-reviewed recording",
+      "conductor": null,
+      "label": null,
+      "year": null,
+      "why": "Soprano with orchestra; any famous lyric soprano."
+    },
+    "trivia": "He wrote these songs in his eighties, a final farewell to the Romantic tradition, and did not live to hear them performed. The order of the four songs was fixed by a publisher after his death.",
+    "tags": [
+      "20th-century",
+      "song",
+      "lied",
+      "late-romantic",
+      "posthumous-premiere"
+    ],
+    "track": {
+      "query": "Richard Strauss Four Last Songs Im Abendrot",
+      "album": null,
+      "duration": "~7:00",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Four_Last_Songs"
+    ],
+    "notes": "Details to be confirmed on page."
+  },
+  {
+    "id": "cls-khachaturian-spartacus-adagio",
+    "composer": "Aram Khachaturian",
+    "composer_short": "Khachaturian",
+    "work": "Spartacus: Adagio of Spartacus and Phrygia",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "ballet",
+    "accept_work": "Khachaturian's Adagio from Spartacus (The Onedin Line theme)",
+    "excerpt": "Adagio of Spartacus and Phrygia",
+    "year": 1954,
+    "year_lo": 1954,
+    "year_hi": 1954,
+    "year_label": "1954",
+    "premiere_or_publication": "Premiered at the Kirov Theatre, Leningrad, 27 December 1956",
+    "dating_note": "Composed in 1954 (Wikipedia).",
+    "recording": {
+      "performers": "Any well-reviewed recording",
+      "conductor": null,
+      "label": null,
+      "year": null,
+      "why": "Orchestral recording."
+    },
+    "trivia": "The Adagio is a love scene between the slave-rebel Spartacus and his wife Phrygia. It became widely known in Britain as the theme for the BBC series The Onedin Line (1971).",
+    "tags": [
+      "20th-century",
+      "ballet",
+      "ballet-music",
+      "tv-theme",
+      "less-familiar"
+    ],
+    "track": {
+      "query": "Khachaturian Spartacus Adagio of Spartacus and Phrygia",
+      "album": null,
+      "duration": "~8:00",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Spartacus_(ballet)"
+    ],
+    "notes": "Less-familiar pick. Details (1954, The Onedin Line) to be confirmed on page."
+  },
+  {
+    "id": "cls-bernstein-candide-overture",
+    "composer": "Leonard Bernstein",
+    "composer_short": "Bernstein",
+    "work": "Candide: Overture",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "orchestral",
+    "accept_work": "Bernstein's Candide Overture",
+    "excerpt": "Overture",
+    "year": 1956,
+    "year_lo": 1956,
+    "year_hi": 1956,
+    "year_label": "1956",
+    "premiere_or_publication": "Candide premiered on Broadway, 1 December 1956; overture first played as a concert piece in January 1957",
+    "dating_note": "Composed in 1956 for the show (Wikipedia).",
+    "recording": {
+      "performers": "New York Philharmonic",
+      "conductor": "Leonard Bernstein",
+      "label": "Columbia",
+      "year": null,
+      "why": "The composer's own recording; exact year not checked"
+    },
+    "trivia": "The musical, based on Voltaire's satire, was only a modest success when it opened, but its overture became one of the most-played American concert openers. Bernstein conducted it all over the world.",
+    "tags": [
+      "20th-century",
+      "orchestral",
+      "overture",
+      "american",
+      "musical-theatre"
+    ],
+    "track": {
+      "query": "Bernstein Candide Overture",
+      "album": null,
+      "duration": "~4:30",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Candide_(operetta)"
+    ],
+    "notes": "Details to be confirmed on page; recording year from memory."
+  },
+  {
+    "id": "cls-shostakovich-suite-for-variety-orchestra-waltz-2",
+    "composer": "Dmitri Shostakovich",
+    "composer_short": "Shostakovich",
+    "work": "Suite for Variety Orchestra No. 1: Waltz II (often mislabelled 'Jazz Suite No. 2')",
+    "nickname": "Waltz No. 2",
+    "catalogue_only": false,
+    "form": "orchestral",
+    "accept_work": "Shostakovich's Waltz No. 2 (Suite for Variety Orchestra / 'Jazz Suite No. 2')",
+    "excerpt": "Waltz II",
+    "year": 1956,
+    "year_lo": 1955,
+    "year_hi": 1959,
+    "year_label": "c. 1956 (not 1938)",
+    "premiere_or_publication": "Suite arranged by Levon Atovmyan from film cues after 1956; first published under the correct title in 2001",
+    "dating_note": "DATE TRAP: it is widely labelled 'Jazz Suite No. 2' and dated 1938, but that is an editorial mistake from 1984. The suite is believed composed in the late 1950s, and Waltz II comes from a 1956 film score, The First Echelon.",
+    "recording": {
+      "performers": "Royal Concertgebouw Orchestra",
+      "conductor": "Riccardo Chailly",
+      "label": "Decca",
+      "year": 1991,
+      "why": "Recording used in Kubrick's Eyes Wide Shut, per Wikipedia"
+    },
+    "trivia": "For years this waltz was credited to a 1938 'Jazz Suite No. 2' because of an error in a 1984 edition. It was really arranged from music Shostakovich wrote for a 1956 film, and it reached a wide audience through Kubrick's Eyes Wide Shut.",
+    "tags": [
+      "20th-century",
+      "orchestral",
+      "waltz",
+      "misattribution",
+      "date-trap",
+      "film-fame"
+    ],
+    "track": {
+      "query": "Shostakovich Waltz No. 2 Suite for Variety Orchestra Chailly",
+      "album": null,
+      "duration": "~4:00",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Suite_for_Variety_Orchestra"
+    ],
+    "notes": "DATE TRAP card. Range 1955-1959 allows for the film cue (1956) and the suite arrangement 'some time after 1956'. Commonly mis-dated 1938; the user may want to keep 1956 as the answer."
+  }
+]

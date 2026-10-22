@@ -1,0 +1,1322 @@
+[
+  {
+    "id": "reg-creedence-clearwater-revival-have-you-ever-seen-the-rain",
+    "artist": "Creedence Clearwater Revival",
+    "title": "Have You Ever Seen the Rain?",
+    "year": 1970,
+    "year_lo": 1970,
+    "year_hi": 1970,
+    "year_label": "1970",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "John Fogerty wrote it as the band was coming apart, with his brother Tom about to quit. The sunny-day rain image is often read as a metaphor for trouble arriving when things look fine.",
+    "tags": [
+      "1970s",
+      "rock",
+      "roots-rock",
+      "us"
+    ],
+    "track": {
+      "artist": "Creedence Clearwater Revival",
+      "title": "Have You Ever Seen the Rain?",
+      "album": "Pendulum",
+      "duration": "2:40",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Album Dec 1970, single Jan 1971."
+  },
+  {
+    "id": "reg-elton-john-your-song",
+    "artist": "Elton John",
+    "title": "Your Song",
+    "year": 1970,
+    "year_lo": 1970,
+    "year_hi": 1970,
+    "year_label": "1970",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "Bernie Taupin scribbled the lyrics at a breakfast table, and Elton John reportedly set them to music within minutes.",
+    "tags": [
+      "1970s",
+      "pop",
+      "singer-songwriter",
+      "uk"
+    ],
+    "track": {
+      "artist": "Elton John",
+      "title": "Your Song",
+      "album": "Elton John",
+      "duration": "4:01",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Album Apr 1970; single followed in Oct 1970."
+  },
+  {
+    "id": "reg-jimmy-cliff-you-can-get-it-if-you-really-want",
+    "artist": "Jimmy Cliff",
+    "title": "You Can Get It If You Really Want",
+    "year": 1970,
+    "year_lo": 1970,
+    "year_hi": 1970,
+    "year_label": "1970",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "Jimmy Cliff's original later opened the film The Harder They Come. Desmond Dekker's version over the same backing track charted higher in the UK.",
+    "tags": [
+      "1970s",
+      "reggae",
+      "jm"
+    ],
+    "track": {
+      "artist": "Jimmy Cliff",
+      "title": "You Can Get It If You Really Want",
+      "album": null,
+      "duration": "3:00",
+      "isrc": null,
+      "notes": "Jimmy Cliff original, not Desmond Dekker."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/You_Can_Get_It_If_You_Really_Want"
+    ],
+    "notes": "Original UK single on Trojan, July 1970 (no album at the time)."
+  },
+  {
+    "id": "reg-mungo-jerry-in-the-summertime",
+    "artist": "Mungo Jerry",
+    "title": "In the Summertime",
+    "year": 1970,
+    "year_lo": 1970,
+    "year_hi": 1970,
+    "year_label": "1970",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "The jug-band stomp spent seven weeks at number one in the UK in the summer of 1970.",
+    "tags": [
+      "1970s",
+      "skiffle",
+      "rock",
+      "uk"
+    ],
+    "track": {
+      "artist": "Mungo Jerry",
+      "title": "In the Summertime",
+      "album": "Mungo Jerry",
+      "duration": "3:31",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": null
+  },
+  {
+    "id": "reg-stevie-wonder-signed-sealed-delivered-im-yours",
+    "artist": "Stevie Wonder",
+    "title": "Signed, Sealed, Delivered (I'm Yours)",
+    "year": 1970,
+    "year_lo": 1970,
+    "year_hi": 1970,
+    "year_label": "1970",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "Stevie Wonder co-wrote it with his mother Lula Mae Hardaway and others, and co-produced it, an early sign of his growing independence at Motown.",
+    "tags": [
+      "1970s",
+      "soul",
+      "motown",
+      "us"
+    ],
+    "track": {
+      "artist": "Stevie Wonder",
+      "title": "Signed, Sealed, Delivered (I'm Yours)",
+      "album": "Signed, Sealed & Delivered",
+      "duration": "2:39",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": null
+  },
+  {
+    "id": "reg-the-beatles-let-it-be",
+    "artist": "The Beatles",
+    "title": "Let It Be",
+    "year": 1970,
+    "year_lo": 1970,
+    "year_hi": 1970,
+    "year_label": "1970",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "Paul McCartney has said the title came to him from his late mother Mary, who appeared to him in a dream.",
+    "tags": [
+      "1970s",
+      "rock",
+      "pop",
+      "uk"
+    ],
+    "track": {
+      "artist": "The Beatles",
+      "title": "Let It Be",
+      "album": "Let It Be",
+      "duration": "3:50",
+      "isrc": null,
+      "notes": "Single or album version, both fine."
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Single Mar 1970 (3:50); the album version (May 1970) has a different guitar solo and runs longer."
+  },
+  {
+    "id": "reg-the-kinks-lola",
+    "artist": "The Kinks",
+    "title": "Lola",
+    "year": 1970,
+    "year_lo": 1970,
+    "year_hi": 1970,
+    "year_label": "1970",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "The BBC would not play a lyric naming Coca-Cola, so Ray Davies flew back from a US tour to re-record it with cherry cola.",
+    "tags": [
+      "1970s",
+      "rock",
+      "uk"
+    ],
+    "track": {
+      "artist": "The Kinks",
+      "title": "Lola",
+      "album": "Lola Versus Powerman and the Moneygoround, Part One",
+      "duration": "4:01",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": null
+  },
+  {
+    "id": "reg-david-bowie-life-on-mars",
+    "artist": "David Bowie",
+    "title": "Life on Mars?",
+    "year": 1971,
+    "year_lo": 1971,
+    "year_hi": 1971,
+    "year_label": "1971",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "Bowie wrote it as a playful answer to a song whose English lyrics he had been asked to write but which were turned down. It was only released as a single in 1973.",
+    "tags": [
+      "1970s",
+      "glam",
+      "rock",
+      "uk"
+    ],
+    "track": {
+      "artist": "David Bowie",
+      "title": "Life on Mars?",
+      "album": "Hunky Dory",
+      "duration": "3:53",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Album Dec 1971 (the single came in 1973)."
+  },
+  {
+    "id": "reg-don-mclean-american-pie",
+    "artist": "Don McLean",
+    "title": "American Pie",
+    "year": 1971,
+    "year_lo": 1971,
+    "year_hi": 1971,
+    "year_label": "1971",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "The song is about the 1959 plane crash that killed Buddy Holly, Ritchie Valens and the Big Bopper. The full 8:36 version was split over both sides of the single.",
+    "tags": [
+      "1970s",
+      "folk-rock",
+      "us"
+    ],
+    "track": {
+      "artist": "Don McLean",
+      "title": "American Pie",
+      "album": "American Pie",
+      "duration": "8:36",
+      "isrc": null,
+      "notes": "Prefer the full 8:36 album version."
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Album Oct 1971; the single (Nov 1971) was split in two parts. Not on the Hitster NL list; seen on the Hitster Canada edition list."
+  },
+  {
+    "id": "reg-les-poppys-non-non-rien-na-change",
+    "artist": "Les Poppys",
+    "title": "Non, non, rien n'a changé",
+    "year": 1971,
+    "year_lo": 1971,
+    "year_hi": 1971,
+    "year_label": "1971",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "Les Poppys were a French group of young singers. This French-language single also became a hit in the Netherlands.",
+    "tags": [
+      "1970s",
+      "pop",
+      "fr",
+      "french-language"
+    ],
+    "track": {
+      "artist": "Les Poppys",
+      "title": "Non, non, rien n'a changé",
+      "album": null,
+      "duration": "3:05",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "medium",
+    "sources": [],
+    "notes": "Hitster NL lists 1971. Not widely documented; conf medium. French children's vocal group, original French-language single."
+  },
+  {
+    "id": "reg-rod-stewart-maggie-may",
+    "artist": "Rod Stewart",
+    "title": "Maggie May",
+    "year": 1971,
+    "year_lo": 1971,
+    "year_hi": 1971,
+    "year_label": "1971",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "Radio DJs flipped the single over, making what was meant as the B-side of Reason to Believe the real hit. Ray Jackson of Lindisfarne played the mandolin part.",
+    "tags": [
+      "1970s",
+      "rock",
+      "uk"
+    ],
+    "track": {
+      "artist": "Rod Stewart",
+      "title": "Maggie May",
+      "album": "Every Picture Tells a Story",
+      "duration": "5:15",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Album May 1971; single Jul 1971. Not on the Hitster NL list; seen on the Hitster Canada edition list."
+  },
+  {
+    "id": "reg-carly-simon-youre-so-vain",
+    "artist": "Carly Simon",
+    "title": "You're So Vain",
+    "year": 1972,
+    "year_lo": 1972,
+    "year_hi": 1972,
+    "year_label": "1972",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "Mick Jagger sings uncredited backing vocals. Carly Simon has famously kept the target of the lyrics a mystery for decades.",
+    "tags": [
+      "1970s",
+      "singer-songwriter",
+      "pop",
+      "us"
+    ],
+    "track": {
+      "artist": "Carly Simon",
+      "title": "You're So Vain",
+      "album": "No Secrets",
+      "duration": "4:20",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": null
+  },
+  {
+    "id": "reg-the-osmonds-crazy-horses",
+    "artist": "The Osmonds",
+    "title": "Crazy Horses",
+    "year": 1972,
+    "year_lo": 1972,
+    "year_hi": 1972,
+    "year_label": "1972",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "The Osmonds' heavy-sounding single is really an environmental protest, with crazy horses standing in for polluting cars.",
+    "tags": [
+      "1970s",
+      "pop",
+      "rock",
+      "us"
+    ],
+    "track": {
+      "artist": "The Osmonds",
+      "title": "Crazy Horses",
+      "album": "Crazy Horses",
+      "duration": "2:36",
+      "isrc": null,
+      "notes": "Single version."
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Single Jul 1972; album Nov 1972 (album version runs longer)."
+  },
+  {
+    "id": "reg-billy-joel-piano-man",
+    "artist": "Billy Joel",
+    "title": "Piano Man",
+    "year": 1973,
+    "year_lo": 1973,
+    "year_hi": 1973,
+    "year_label": "1973",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "Billy Joel drew on his time as a lounge pianist in Los Angeles, where he played under a false name. The 5:38 album version is the one most people know.",
+    "tags": [
+      "1970s",
+      "singer-songwriter",
+      "pop",
+      "us"
+    ],
+    "track": {
+      "artist": "Billy Joel",
+      "title": "Piano Man",
+      "album": "Piano Man",
+      "duration": "5:38",
+      "isrc": null,
+      "notes": "Prefer the album version."
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Album and single both Nov 1973 (single edit is shorter)."
+  },
+  {
+    "id": "reg-dolly-parton-jolene",
+    "artist": "Dolly Parton",
+    "title": "Jolene",
+    "year": 1973,
+    "year_lo": 1973,
+    "year_hi": 1973,
+    "year_label": "1973",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "Dolly Parton has said she wrote this and I Will Always Love You on the same day. The title character was inspired by a red-haired bank clerk who flirted with her husband.",
+    "tags": [
+      "1970s",
+      "country",
+      "us"
+    ],
+    "track": {
+      "artist": "Dolly Parton",
+      "title": "Jolene",
+      "album": "Jolene",
+      "duration": "2:42",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Single Oct 1973; album Feb 1974."
+  },
+  {
+    "id": "reg-abba-waterloo",
+    "artist": "ABBA",
+    "title": "Waterloo",
+    "year": 1974,
+    "year_lo": 1974,
+    "year_hi": 1974,
+    "year_label": "1974",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "ABBA won the 1974 Eurovision Song Contest with it in Brighton, which kick-started their international career.",
+    "tags": [
+      "1970s",
+      "pop",
+      "eurovision",
+      "se"
+    ],
+    "track": {
+      "artist": "ABBA",
+      "title": "Waterloo",
+      "album": "Waterloo",
+      "duration": "2:46",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": null
+  },
+  {
+    "id": "reg-barry-white-youre-the-first-the-last-my-everything",
+    "artist": "Barry White",
+    "title": "You're the First, the Last, My Everything",
+    "year": 1974,
+    "year_lo": 1974,
+    "year_hi": 1974,
+    "year_label": "1974",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "Barry White opens with a spoken passage over swirling strings. In 1975 it gave him a UK number one.",
+    "tags": [
+      "1970s",
+      "soul",
+      "disco",
+      "us"
+    ],
+    "track": {
+      "artist": "Barry White",
+      "title": "You're the First, the Last, My Everything",
+      "album": "Can't Get Enough",
+      "duration": "4:34",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Album Aug 1974; single Nov 1974."
+  },
+  {
+    "id": "reg-billy-swan-i-can-help",
+    "artist": "Billy Swan",
+    "title": "I Can Help",
+    "year": 1974,
+    "year_lo": 1974,
+    "year_hi": 1974,
+    "year_label": "1974",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "Billy Swan, a former bass player for Kris Kristofferson, scored a US number one with this laid-back tune and its homemade-sounding organ.",
+    "tags": [
+      "1970s",
+      "country",
+      "pop",
+      "us"
+    ],
+    "track": {
+      "artist": "Billy Swan",
+      "title": "I Can Help",
+      "album": "I Can Help",
+      "duration": "3:05",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": null
+  },
+  {
+    "id": "reg-bob-marley-and-the-wailers-no-woman-no-cry",
+    "artist": "Bob Marley & The Wailers",
+    "title": "No Woman, No Cry",
+    "year": 1974,
+    "year_lo": 1974,
+    "year_hi": 1974,
+    "year_label": "1974",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "The song credits Vincent Ford, a friend who ran a soup kitchen in Trenchtown, so that he could collect royalties.",
+    "tags": [
+      "1970s",
+      "reggae",
+      "jm"
+    ],
+    "track": {
+      "artist": "Bob Marley & The Wailers",
+      "title": "No Woman, No Cry",
+      "album": "Natty Dread",
+      "duration": "3:55",
+      "isrc": null,
+      "notes": "Studio version from Natty Dread (1974), not the 1975 live version."
+    },
+    "confidence": "medium",
+    "sources": [],
+    "notes": "Studio version is on Natty Dread (1974). The version most people know (on Legend) is the live Lyceum recording from July 1975, released as a single in Sept 1975. Hitster lists 1974."
+  },
+  {
+    "id": "reg-lynyrd-skynyrd-sweet-home-alabama",
+    "artist": "Lynyrd Skynyrd",
+    "title": "Sweet Home Alabama",
+    "year": 1974,
+    "year_lo": 1974,
+    "year_hi": 1974,
+    "year_label": "1974",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "The band wrote it in part as an answer to Neil Young's songs about the American South. Its opening riff is among the best known in rock.",
+    "tags": [
+      "1970s",
+      "southern-rock",
+      "us"
+    ],
+    "track": {
+      "artist": "Lynyrd Skynyrd",
+      "title": "Sweet Home Alabama",
+      "album": "Second Helping",
+      "duration": "4:43",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": null
+  },
+  {
+    "id": "reg-frankie-valli-and-the-four-seasons-december-1963-oh-what-a-night",
+    "artist": "Frankie Valli & The Four Seasons",
+    "title": "December, 1963 (Oh, What a Night)",
+    "year": 1975,
+    "year_lo": 1975,
+    "year_hi": 1975,
+    "year_label": "1975",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "Early drafts were about the end of Prohibition in 1933, before the lyric was reworked into a story about a lost night in 1963. Drummer Gerry Polci sings the lead.",
+    "tags": [
+      "1970s",
+      "pop",
+      "disco",
+      "us"
+    ],
+    "track": {
+      "artist": "Frankie Valli & The Four Seasons",
+      "title": "December, 1963 (Oh, What a Night)",
+      "album": "Who Loves You",
+      "duration": "3:25",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": null
+  },
+  {
+    "id": "reg-queen-bohemian-rhapsody",
+    "artist": "Queen",
+    "title": "Bohemian Rhapsody",
+    "year": 1975,
+    "year_lo": 1975,
+    "year_hi": 1975,
+    "year_label": "1975",
+    "region": "intl",
+    "in_original_hitster": false,
+    "trivia": "Freddie Mercury's six-minute mini-opera has no chorus. The record company feared it was too long for radio, but a DJ who got hold of an advance copy played it repeatedly.",
+    "tags": [
+      "1970s",
+      "rock",
+      "prog",
+      "uk"
+    ],
+    "track": {
+      "artist": "Queen",
+      "title": "Bohemian Rhapsody",
+      "album": "A Night at the Opera",
+      "duration": "5:55",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Single Oct 1975; album Nov 1975. Not seen on any consulted Hitster edition list (NL, DE, FR, CA, Nordics); added for recognisability and decade balance."
+  },
+  {
+    "id": "reg-the-arrows-i-love-rock-n-roll",
+    "artist": "The Arrows",
+    "title": "I Love Rock 'n' Roll",
+    "year": 1975,
+    "year_lo": 1975,
+    "year_hi": 1975,
+    "year_label": "1975",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "Written by Alan Merrill and Jake Hooker of the Arrows. Joan Jett saw the band perform it on TV in Britain and later turned it into her own hit.",
+    "tags": [
+      "1970s",
+      "glam",
+      "rock",
+      "uk"
+    ],
+    "track": {
+      "artist": "The Arrows",
+      "title": "I Love Rock 'n' Roll",
+      "album": null,
+      "duration": "2:55",
+      "isrc": null,
+      "notes": "The Arrows original, not Joan Jett."
+    },
+    "confidence": "medium",
+    "sources": [],
+    "notes": "Original UK single by The Arrows (Rak, 1975), not the later Joan Jett cover; Hitster NL lists this version. Release date within 1975 not pinned down."
+  },
+  {
+    "id": "reg-van-mccoy-the-hustle",
+    "artist": "Van McCoy",
+    "title": "The Hustle",
+    "year": 1975,
+    "year_lo": 1975,
+    "year_hi": 1975,
+    "year_label": "1975",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "Van McCoy named the track after a New York dance. Its flute hook helped it top the US pop and R&B charts.",
+    "tags": [
+      "1970s",
+      "disco",
+      "us"
+    ],
+    "track": {
+      "artist": "Van McCoy",
+      "title": "The Hustle",
+      "album": "Disco Baby",
+      "duration": "3:16",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Credited on release to Van McCoy and the Soul City Symphony."
+  },
+  {
+    "id": "reg-abba-dancing-queen",
+    "artist": "ABBA",
+    "title": "Dancing Queen",
+    "year": 1976,
+    "year_lo": 1976,
+    "year_hi": 1976,
+    "year_label": "1976",
+    "region": "intl",
+    "in_original_hitster": false,
+    "trivia": "It was first performed on a Swedish TV gala held on the eve of the king's wedding. It is ABBA's only US number one.",
+    "tags": [
+      "1970s",
+      "pop",
+      "disco",
+      "se"
+    ],
+    "track": {
+      "artist": "ABBA",
+      "title": "Dancing Queen",
+      "album": "Arrival",
+      "duration": "3:51",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Single Aug 1976; album Oct 1976. Not seen on any consulted Hitster edition list (NL, DE, FR, CA, Nordics); added for recognisability and decade balance."
+  },
+  {
+    "id": "reg-boney-m-daddy-cool",
+    "artist": "Boney M.",
+    "title": "Daddy Cool",
+    "year": 1976,
+    "year_lo": 1976,
+    "year_hi": 1976,
+    "year_label": "1976",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "The group was put together by producer Frank Farian, who also sang the deep male vocals on their records, while the dancer on stage mimed along.",
+    "tags": [
+      "1970s",
+      "disco",
+      "de"
+    ],
+    "track": {
+      "artist": "Boney M.",
+      "title": "Daddy Cool",
+      "album": "Take the Heat Off Me",
+      "duration": "3:27",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": null
+  },
+  {
+    "id": "reg-boston-more-than-a-feeling",
+    "artist": "Boston",
+    "title": "More Than a Feeling",
+    "year": 1976,
+    "year_lo": 1976,
+    "year_hi": 1976,
+    "year_label": "1976",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "Tom Scholz, an MIT-trained engineer, recorded most of the band's debut in his home basement studio.",
+    "tags": [
+      "1970s",
+      "rock",
+      "us"
+    ],
+    "track": {
+      "artist": "Boston",
+      "title": "More Than a Feeling",
+      "album": "Boston",
+      "duration": "4:45",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Album Aug 1976; single Sept 1976."
+  },
+  {
+    "id": "reg-bryan-ferry-lets-stick-together",
+    "artist": "Bryan Ferry",
+    "title": "Let's Stick Together",
+    "year": 1976,
+    "year_lo": 1976,
+    "year_hi": 1976,
+    "year_label": "1976",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "Bryan Ferry gave an R&B tune a stylish makeover and took it into the UK top five. It was first recorded by Wilbert Harrison.",
+    "tags": [
+      "1970s",
+      "pop",
+      "r&b",
+      "uk"
+    ],
+    "track": {
+      "artist": "Bryan Ferry",
+      "title": "Let's Stick Together",
+      "album": null,
+      "duration": "3:50",
+      "isrc": null,
+      "notes": "Bryan Ferry 1976 version."
+    },
+    "confidence": "medium",
+    "sources": [],
+    "notes": "Cover of Wilbert Harrison's Let's Stick Together (1962). Hitster NL lists Ferry's version; kept for recognisability. Album: Let's Stick Together (Sept 1976)."
+  },
+  {
+    "id": "reg-chicago-if-you-leave-me-now",
+    "artist": "Chicago",
+    "title": "If You Leave Me Now",
+    "year": 1976,
+    "year_lo": 1976,
+    "year_hi": 1976,
+    "year_label": "1976",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "Peter Cetera wrote and sang it, and it gave Chicago their first number one in both the US and the UK.",
+    "tags": [
+      "1970s",
+      "pop",
+      "rock",
+      "us"
+    ],
+    "track": {
+      "artist": "Chicago",
+      "title": "If You Leave Me Now",
+      "album": "Chicago X",
+      "duration": "3:56",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": null
+  },
+  {
+    "id": "reg-eagles-hotel-california",
+    "artist": "Eagles",
+    "title": "Hotel California",
+    "year": 1976,
+    "year_lo": 1976,
+    "year_hi": 1976,
+    "year_label": "1976",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "Don Felder came up with the music on a demo, and the lyrics are widely read as a comment on the excesses of Californian life. The long twin-guitar outro is famous.",
+    "tags": [
+      "1970s",
+      "rock",
+      "us"
+    ],
+    "track": {
+      "artist": "Eagles",
+      "title": "Hotel California",
+      "album": "Hotel California",
+      "duration": "6:30",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Album Dec 1976; single Feb 1977. Not on the Hitster NL list; seen on the Hitster Canada edition list."
+  },
+  {
+    "id": "reg-leo-sayer-when-i-need-you",
+    "artist": "Leo Sayer",
+    "title": "When I Need You",
+    "year": 1976,
+    "year_lo": 1976,
+    "year_hi": 1976,
+    "year_label": "1976",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "The song was written by Albert Hammond and Carole Bayer Sager. Hammond released it first, but Leo Sayer's version went to number one in both the UK and the US.",
+    "tags": [
+      "1970s",
+      "pop",
+      "uk"
+    ],
+    "track": {
+      "artist": "Leo Sayer",
+      "title": "When I Need You",
+      "album": "Endless Flight",
+      "duration": "4:00",
+      "isrc": null,
+      "notes": "Leo Sayer version, not Albert Hammond."
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/When_I_Need_You"
+    ],
+    "notes": "Album Endless Flight came out 29 Oct 1976; the single followed in Feb 1977 (the hit year). Card uses 1976 per album-first rule; Hitster NL lists 1977. Cover of Albert Hammond's 1976 version. Hitster NL list shows 1977; card uses 1976."
+  },
+  {
+    "id": "reg-the-trammps-disco-inferno",
+    "artist": "The Trammps",
+    "title": "Disco Inferno",
+    "year": 1976,
+    "year_lo": 1976,
+    "year_hi": 1976,
+    "year_label": "1976",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "The track is a Philadelphia dance-floor classic that urges everyone to burn. It was added to a hit film soundtrack the following year.",
+    "tags": [
+      "1970s",
+      "disco",
+      "us"
+    ],
+    "track": {
+      "artist": "The Trammps",
+      "title": "Disco Inferno",
+      "album": "Disco Inferno",
+      "duration": "10:51",
+      "isrc": null,
+      "notes": "Album version (about 10:50), not the 7-inch edit."
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Original album Disco Inferno (1976). Single edit is shorter; the album version is preferred."
+  },
+  {
+    "id": "reg-thelma-houston-dont-leave-me-this-way",
+    "artist": "Thelma Houston",
+    "title": "Don't Leave Me This Way",
+    "year": 1976,
+    "year_lo": 1976,
+    "year_hi": 1976,
+    "year_label": "1976",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "Thelma Houston's disco take on a song first recorded by Harold Melvin and the Blue Notes won a Grammy.",
+    "tags": [
+      "1970s",
+      "disco",
+      "soul",
+      "us"
+    ],
+    "track": {
+      "artist": "Thelma Houston",
+      "title": "Don't Leave Me This Way",
+      "album": "Any Way You Like It",
+      "duration": "3:40",
+      "isrc": null,
+      "notes": "Thelma Houston version, not Harold Melvin."
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Cover of Harold Melvin & the Blue Notes (1975), but Houston's is the famous recording. An album version is longer."
+  },
+  {
+    "id": "reg-bee-gees-stayin-alive",
+    "artist": "Bee Gees",
+    "title": "Stayin' Alive",
+    "year": 1977,
+    "year_lo": 1977,
+    "year_hi": 1977,
+    "year_label": "1977",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "The Bee Gees wrote it for the film Saturday Night Fever. Its beat of about 103 per minute is often cited as a rhythm for teaching CPR.",
+    "tags": [
+      "1970s",
+      "disco",
+      "uk"
+    ],
+    "track": {
+      "artist": "Bee Gees",
+      "title": "Stayin' Alive",
+      "album": "Saturday Night Fever",
+      "duration": "4:45",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Album Nov 1977; single Dec 1977. Not on the Hitster NL list; seen on the Hitster Canada edition list."
+  },
+  {
+    "id": "reg-commodores-easy",
+    "artist": "Commodores",
+    "title": "Easy",
+    "year": 1977,
+    "year_lo": 1977,
+    "year_hi": 1977,
+    "year_label": "1977",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "Lionel Richie wrote this ballad about leaving a relationship, and it helped the Commodores move from funk towards softer songs.",
+    "tags": [
+      "1970s",
+      "soul",
+      "ballad",
+      "us"
+    ],
+    "track": {
+      "artist": "Commodores",
+      "title": "Easy",
+      "album": "Commodores",
+      "duration": "4:16",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": null
+  },
+  {
+    "id": "reg-linda-ronstadt-blue-bayou",
+    "artist": "Linda Ronstadt",
+    "title": "Blue Bayou",
+    "year": 1977,
+    "year_lo": 1977,
+    "year_hi": 1977,
+    "year_label": "1977",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "Ronstadt's cover of a Roy Orbison song reached the US top three. Orbison co-wrote and first recorded it in 1963.",
+    "tags": [
+      "1970s",
+      "country-rock",
+      "pop",
+      "us"
+    ],
+    "track": {
+      "artist": "Linda Ronstadt",
+      "title": "Blue Bayou",
+      "album": "Simple Dreams",
+      "duration": "3:55",
+      "isrc": null,
+      "notes": "Linda Ronstadt version, not Roy Orbison."
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Cover of Roy Orbison (1963), but Ronstadt's is the version most people know."
+  },
+  {
+    "id": "reg-meat-loaf-paradise-by-the-dashboard-light",
+    "artist": "Meat Loaf",
+    "title": "Paradise by the Dashboard Light",
+    "year": 1977,
+    "year_lo": 1977,
+    "year_hi": 1977,
+    "year_label": "1977",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "The spoken baseball commentary in the middle is delivered by Phil Rizzuto, a former New York Yankees shortstop and broadcaster.",
+    "tags": [
+      "1970s",
+      "rock",
+      "us"
+    ],
+    "track": {
+      "artist": "Meat Loaf",
+      "title": "Paradise by the Dashboard Light",
+      "album": "Bat Out of Hell",
+      "duration": "8:28",
+      "isrc": null,
+      "notes": "Album version (about 8:28)."
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Album Oct 1977; the edited single followed in early 1978. Album version preferred. Hitster NL lists 1978. Hitster NL list shows 1978; card uses 1977."
+  },
+  {
+    "id": "reg-amii-stewart-knock-on-wood",
+    "artist": "Amii Stewart",
+    "title": "Knock on Wood",
+    "year": 1978,
+    "year_lo": 1978,
+    "year_hi": 1978,
+    "year_label": "1978",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "Amii Stewart's disco remake of the 1966 soul hit by Eddie Floyd, co-written with Steve Cropper, reached number one in the US.",
+    "tags": [
+      "1970s",
+      "disco",
+      "us"
+    ],
+    "track": {
+      "artist": "Amii Stewart",
+      "title": "Knock on Wood",
+      "album": "Knock on Wood",
+      "duration": "3:55",
+      "isrc": null,
+      "notes": "Amii Stewart disco version, not Eddie Floyd."
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://www.discogs.com/release/1043568-Amii-Stewart-Knock-On-Wood"
+    ],
+    "notes": "Single released 1978 (Discogs; UK 7-inch), album Feb 1979. Hitster NL lists 1979. Cover of Eddie Floyd (1966). Hitster NL list shows 1979; card uses 1978."
+  },
+  {
+    "id": "reg-blondie-heart-of-glass",
+    "artist": "Blondie",
+    "title": "Heart of Glass",
+    "year": 1978,
+    "year_lo": 1978,
+    "year_hi": 1978,
+    "year_label": "1978",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "Blondie began it as a slower reggae-tinged demo and reworked it with a drum machine. Some punk fans disliked the move towards disco.",
+    "tags": [
+      "1970s",
+      "new-wave",
+      "disco",
+      "us"
+    ],
+    "track": {
+      "artist": "Blondie",
+      "title": "Heart of Glass",
+      "album": "Parallel Lines",
+      "duration": "3:54",
+      "isrc": null,
+      "notes": "Album version."
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Album Sept 1978; single Jan 1979. Album version preferred (the single edit is shorter). Not on the Hitster NL list; seen on the Hitster Canada edition list."
+  },
+  {
+    "id": "reg-chic-le-freak",
+    "artist": "Chic",
+    "title": "Le Freak",
+    "year": 1978,
+    "year_lo": 1978,
+    "year_hi": 1978,
+    "year_label": "1978",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "Nile Rodgers and Bernard Edwards wrote it after being turned away from Studio 54 on New Year's Eve. The famous shout in the chorus started out as a much ruder phrase.",
+    "tags": [
+      "1970s",
+      "disco",
+      "funk",
+      "us"
+    ],
+    "track": {
+      "artist": "Chic",
+      "title": "Le Freak",
+      "album": "C'est Chic",
+      "duration": "5:27",
+      "isrc": null,
+      "notes": "Album version."
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Single Aug 1978; album Oct 1978. Album version is longer than the single edit."
+  },
+  {
+    "id": "reg-earth-wind-and-fire-september",
+    "artist": "Earth, Wind & Fire",
+    "title": "September",
+    "year": 1978,
+    "year_lo": 1978,
+    "year_hi": 1978,
+    "year_label": "1978",
+    "region": "intl",
+    "in_original_hitster": false,
+    "trivia": "Co-writer Allee Willis disliked the nonsense ba-de-ya line, but bandleader Maurice White insisted it stay.",
+    "tags": [
+      "1970s",
+      "funk",
+      "disco",
+      "us"
+    ],
+    "track": {
+      "artist": "Earth, Wind & Fire",
+      "title": "September",
+      "album": "The Best of Earth, Wind & Fire, Vol. 1",
+      "duration": "3:35",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "First released on the compilation The Best of Earth, Wind & Fire Vol. 1 (Nov 1978) and as a single the same month. Not seen on any consulted Hitster edition list (NL, DE, FR, CA, Nordics); added for recognisability and decade balance."
+  },
+  {
+    "id": "reg-gloria-gaynor-i-will-survive",
+    "artist": "Gloria Gaynor",
+    "title": "I Will Survive",
+    "year": 1978,
+    "year_lo": 1978,
+    "year_hi": 1978,
+    "year_label": "1978",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "It started life as the B-side of another single, until DJs started playing the flip side.",
+    "tags": [
+      "1970s",
+      "disco",
+      "us"
+    ],
+    "track": {
+      "artist": "Gloria Gaynor",
+      "title": "I Will Survive",
+      "album": "Love Tracks",
+      "duration": "3:18",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Single Oct 1978; album Love Tracks Nov 1978. The 7-inch edit is about 3:18; the album version is longer. Not on the Hitster NL list; seen on the Hitster Canada edition list."
+  },
+  {
+    "id": "reg-patrick-hernandez-born-to-be-alive",
+    "artist": "Patrick Hernandez",
+    "title": "Born to Be Alive",
+    "year": 1978,
+    "year_lo": 1978,
+    "year_hi": 1978,
+    "year_label": "1978",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "Patrick Hernandez's French disco smash made him a star overseas. A young Madonna later worked as one of his backing dancers.",
+    "tags": [
+      "1970s",
+      "disco",
+      "fr"
+    ],
+    "track": {
+      "artist": "Patrick Hernandez",
+      "title": "Born to Be Alive",
+      "album": "Born to Be Alive",
+      "duration": "3:50",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Single released 1978 in France; international hit 1979; album 1979."
+  },
+  {
+    "id": "reg-sylvester-you-make-me-feel-mighty-real",
+    "artist": "Sylvester",
+    "title": "You Make Me Feel (Mighty Real)",
+    "year": 1978,
+    "year_lo": 1978,
+    "year_hi": 1978,
+    "year_label": "1978",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "Sylvester's soaring falsetto, backed by the group Two Tons o' Fun, made this the signature song of the self-styled Queen of Disco.",
+    "tags": [
+      "1970s",
+      "disco",
+      "us"
+    ],
+    "track": {
+      "artist": "Sylvester",
+      "title": "You Make Me Feel (Mighty Real)",
+      "album": "Step II",
+      "duration": "3:30",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "7-inch edit is about 3:30; longer 12-inch/album versions exist."
+  },
+  {
+    "id": "reg-rupert-holmes-escape-the-pina-colada-song",
+    "artist": "Rupert Holmes",
+    "title": "Escape (The Piña Colada Song)",
+    "year": 1979,
+    "year_lo": 1979,
+    "year_hi": 1979,
+    "year_label": "1979",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "The lyric ends with a twist: a man answers a personals ad for a fellow Piña Colada fan, only to find his own partner placed it.",
+    "tags": [
+      "1970s",
+      "soft-rock",
+      "us"
+    ],
+    "track": {
+      "artist": "Rupert Holmes",
+      "title": "Escape (The Piña Colada Song)",
+      "album": "Partners in Crime",
+      "duration": "4:35",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Album Sept 1979; single Dec 1979. Song was originally titled Escape."
+  },
+  {
+    "id": "reg-sister-sledge-we-are-family",
+    "artist": "Sister Sledge",
+    "title": "We Are Family",
+    "year": 1979,
+    "year_lo": 1979,
+    "year_hi": 1979,
+    "year_label": "1979",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "Written and produced by Nile Rodgers and Bernard Edwards for the Sledge sisters. It became the adopted anthem of the Pittsburgh Pirates in 1979.",
+    "tags": [
+      "1970s",
+      "disco",
+      "soul",
+      "us"
+    ],
+    "track": {
+      "artist": "Sister Sledge",
+      "title": "We Are Family",
+      "album": "We Are Family",
+      "duration": "3:36",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Single Apr 1979; the album version runs longer."
+  }
+]

@@ -1,0 +1,1424 @@
+[
+  {
+    "id": "jazz-davis-right-off",
+    "artist": "Miles Davis",
+    "title": "Right Off",
+    "composer": "Miles Davis",
+    "recording_date": "1970-04-07",
+    "recording_year": 1970,
+    "release_year": 1971,
+    "original_issue": "Columbia S 30455 (LP, Jack Johnson soundtrack, 24 Feb 1971); reissued as Columbia KC 30455 (A Tribute to Jack Johnson)",
+    "personnel": "Miles Davis (trumpet), Steve Grossman (soprano saxophone), John McLaughlin (electric guitar), Herbie Hancock (organ), Michael Henderson (electric bass), Billy Cobham (drums)",
+    "style": "fusion",
+    "year": 1970,
+    "year_lo": 1970,
+    "year_hi": 1970,
+    "year_label": "1970",
+    "trivia": "Producer Teo Macero stitched this side-long jam together from several takes, and it includes a riff borrowed from Sly and the Family Stone. It was written for a documentary about the boxer Jack Johnson and is a showcase for McLaughlin's guitar.",
+    "tags": [
+      "1970s",
+      "fusion",
+      "columbia"
+    ],
+    "track": {
+      "artist": "Miles Davis",
+      "title": "Right Off",
+      "album": "Jack Johnson (A Tribute to Jack Johnson)",
+      "duration": "26:53",
+      "isrc": null,
+      "query": "Miles Davis Right Off Jack Johnson 1971",
+      "notes": "full album track Right Off (about 26:53) from Jack Johnson, not the live or box-set versions"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://www.jazzdisco.org/davis/discography/",
+      "https://en.wikipedia.org/wiki/Jack_Johnson_(album)"
+    ],
+    "notes": "Date is the main session of 7 Apr 1970 (jazzdisco and Wikipedia agree). Wikipedia says the released track was edited from that session plus a Feb 1970 session and a Nov 1969 Davis solo, so the personnel line is for the April session only (Brock Peters narration is on the album, not on this track). Released Feb 1971, one year after recording, so no gap note needed."
+  },
+  {
+    "id": "jazz-hubbard-red-clay",
+    "artist": "Freddie Hubbard",
+    "title": "Red Clay",
+    "composer": "Freddie Hubbard",
+    "recording_date": "1970-01",
+    "recording_year": 1970,
+    "release_year": 1970,
+    "original_issue": "CTI CTI 6001 (LP, Red Clay, May 1970)",
+    "personnel": "Freddie Hubbard (trumpet), Joe Henderson (tenor saxophone), Herbie Hancock (electric piano), Ron Carter (bass), Lenny White (drums)",
+    "style": "fusion",
+    "year": 1970,
+    "year_lo": 1970,
+    "year_hi": 1970,
+    "year_label": "1970",
+    "trivia": "This was Hubbard's first album for Creed Taylor's CTI label and it pointed him toward the groove-heavy sound of his 1970s work. The title tune became his signature piece.",
+    "tags": [
+      "1970s",
+      "fusion",
+      "cti",
+      "soul-jazz",
+      "cti"
+    ],
+    "track": {
+      "artist": "Freddie Hubbard",
+      "title": "Red Clay",
+      "album": "Red Clay",
+      "duration": "12:11",
+      "isrc": null,
+      "query": "Freddie Hubbard Red Clay 1970 CTI",
+      "notes": "studio title track (12:11) from Red Clay, not the 1971 live version"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Red_Clay"
+    ],
+    "notes": "Session ran 27-29 Jan 1970 at Van Gelder Studio (Wikipedia); exact day of this track not given, so month used. Wikipedia lists Hancock on electric piano and Hammond organ for tracks 1-5 without saying which instrument is on the title track. Single source (Wikipedia); no jazzdisco file cached for Hubbard."
+  },
+  {
+    "id": "jazz-turrentine-sugar",
+    "artist": "Stanley Turrentine",
+    "title": "Sugar",
+    "composer": "Stanley Turrentine",
+    "recording_date": "1970-11",
+    "recording_year": 1970,
+    "release_year": 1971,
+    "original_issue": "CTI CTI 6005 (LP, Sugar; dated 1971 by jazzdisco, 22 Nov 1970 by Wikipedia)",
+    "personnel": "Stanley Turrentine (tenor saxophone), Freddie Hubbard (trumpet), Lonnie Liston Smith (electric piano), George Benson (guitar), Ron Carter (bass), Billy Kaye (drums)",
+    "style": "soul-jazz",
+    "year": 1970,
+    "year_lo": 1970,
+    "year_hi": 1970,
+    "year_label": "1970",
+    "trivia": "Turrentine's first album recorded for CTI after a long association with Blue Note, with Freddie Hubbard, George Benson and Ron Carter in the band. A live version from the July 1971 CTI concert was added to later CD reissues.",
+    "tags": [
+      "1970s",
+      "soul-jazz",
+      "cti",
+      "cti"
+    ],
+    "track": {
+      "artist": "Stanley Turrentine",
+      "title": "Sugar",
+      "album": "Sugar",
+      "duration": "10:03",
+      "isrc": null,
+      "query": "Stanley Turrentine Sugar 1970 CTI",
+      "notes": "studio title track (10:03) from Sugar, not the live Hollywood Palladium version"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://www.jazzdisco.org/stanley-turrentine/discography/",
+      "https://en.wikipedia.org/wiki/Sugar_(Stanley_Turrentine_album)"
+    ],
+    "notes": "CONFLICT on release: jazzdisco dates CTI 6005 as 1971, Wikipedia gives 22 Nov 1970; kept rel 1971 (discography preferred), either way the gap is at most one year. CONFLICT on personnel: jazzdisco lists organist Butch Cornell and conga player Pablo Landrum for the whole session, Wikipedia credits them only on other tracks and gives Lonnie Liston Smith on electric piano plus Billy Kaye on drums for the title track; the Wikipedia per-track split is used. Session month Nov 1970 (both sources); day not given."
+  },
+  {
+    "id": "jazz-alice-coltrane-journey-in-satchidananda",
+    "artist": "Alice Coltrane",
+    "title": "Journey in Satchidananda",
+    "composer": "Alice Coltrane",
+    "recording_date": "1970-11",
+    "recording_year": 1970,
+    "release_year": 1971,
+    "original_issue": "Impulse! (LP, Journey in Satchidananda, Feb 1971; catalogue number not verified)",
+    "personnel": "Alice Coltrane (harp), Pharoah Sanders (soprano saxophone, percussion), Cecil McBee (double bass), Rashied Ali (drums), Tulsi Sen Gupta (tanpura), Majid Shabazz (bells, tambourine)",
+    "style": "free",
+    "year": 1970,
+    "year_lo": 1970,
+    "year_hi": 1970,
+    "year_label": "1970",
+    "trivia": "The title honours Swami Satchidananda, a teacher Alice Coltrane had studied with and grown close to. Her harp is joined by a tanpura, reflecting her turn toward Indian spirituality.",
+    "tags": [
+      "1970s",
+      "free",
+      "impulse",
+      "spiritual"
+    ],
+    "track": {
+      "artist": "Alice Coltrane",
+      "title": "Journey in Satchidananda",
+      "album": "Journey in Satchidananda",
+      "duration": "6:36",
+      "isrc": null,
+      "query": "Alice Coltrane Journey in Satchidananda 1971 Impulse",
+      "notes": "studio title track (6:36) from the Impulse! album, not a later live or compilation version"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Journey_in_Satchidananda"
+    ],
+    "notes": "Wikipedia's infobox says the studio tracks were cut on 8 Nov 1970 at her Dix Hills home studio, while the lead says only November 1970; month used. Single source and no catalogue number verified, hence medium. Released Feb 1971."
+  },
+  {
+    "id": "jazz-mahavishnu-meeting-of-the-spirits",
+    "artist": "Mahavishnu Orchestra",
+    "title": "Meeting of the Spirits",
+    "composer": "John McLaughlin",
+    "recording_date": "1971-08",
+    "recording_year": 1971,
+    "release_year": 1971,
+    "original_issue": "Columbia (LP, The Inner Mounting Flame, 3 Nov 1971; catalogue number not verified)",
+    "personnel": "John McLaughlin (guitar), Jerry Goodman (violin), Jan Hammer (keyboards), Rick Laird (bass), Billy Cobham (drums)",
+    "style": "fusion",
+    "year": 1971,
+    "year_lo": 1971,
+    "year_hi": 1971,
+    "year_label": "1971",
+    "trivia": "The opener of the band's debut, which carried only new McLaughlin compositions written before the group went into the studio. A JazzTimes critic likened it to a classically inspired suite in miniature.",
+    "tags": [
+      "1970s",
+      "fusion",
+      "columbia"
+    ],
+    "track": {
+      "artist": "Mahavishnu Orchestra",
+      "title": "Meeting of the Spirits",
+      "album": "The Inner Mounting Flame",
+      "duration": "6:52",
+      "isrc": null,
+      "query": "Mahavishnu Orchestra Meeting of the Spirits Inner Mounting Flame 1971",
+      "notes": "studio album track (6:52) from The Inner Mounting Flame, not a live version"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Inner_Mounting_Flame"
+    ],
+    "notes": "Wikipedia gives recording as August 1971 (infobox day 14 Aug); month used. The album is credited jointly to Mahavishnu Orchestra and John McLaughlin. Released 3 Nov 1971 (Wikipedia)."
+  },
+  {
+    "id": "jazz-hubbard-first-light",
+    "artist": "Freddie Hubbard",
+    "title": "First Light",
+    "composer": "Freddie Hubbard",
+    "recording_date": "1971-09",
+    "recording_year": 1971,
+    "release_year": 1971,
+    "original_issue": "CTI (LP, First Light, 12 Oct 1971; catalogue number not verified)",
+    "personnel": "Freddie Hubbard (trumpet, flugelhorn), Richard Wyands (piano), George Benson (guitar), Ron Carter (bass), Jack DeJohnette (drums), Airto Moreira (percussion), Phil Kraus (vibraphone), Hubert Laws (flute), with woodwinds, harp and strings arranged and conducted by Don Sebesky",
+    "style": "post-bop",
+    "year": 1971,
+    "year_lo": 1971,
+    "year_hi": 1971,
+    "year_label": "1971",
+    "trivia": "A string-laden CTI session arranged by Don Sebesky that won the 1972 Grammy for Best Jazz Performance by a Group. It belongs to a loose trilogy with Red Clay and Straight Life.",
+    "tags": [
+      "1970s",
+      "post-bop",
+      "cti",
+      "cti",
+      "strings"
+    ],
+    "track": {
+      "artist": "Freddie Hubbard",
+      "title": "First Light",
+      "album": "First Light",
+      "duration": "11:05",
+      "isrc": null,
+      "query": "Freddie Hubbard First Light 1971 CTI",
+      "notes": "studio title track (11:05), not the 1973 Detroit live bonus track"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/First_Light_(Freddie_Hubbard_album)"
+    ],
+    "notes": "Session 14-16 Sep 1971 at Van Gelder Studio (Wikipedia). The Wikipedia lead also names Herbie Hancock and Eric Gale but neither appears in its personnel list; the personnel list is used. Per-track personnel not given. Single source."
+  },
+  {
+    "id": "jazz-grover-washington-inner-city-blues",
+    "artist": "Grover Washington Jr.",
+    "title": "Inner City Blues",
+    "composer": "Marvin Gaye, James Nyx Jr.",
+    "recording_date": "1971-09",
+    "recording_year": 1971,
+    "release_year": 1972,
+    "original_issue": "Kudu KU-03 (LP, Inner City Blues, 1972)",
+    "personnel": "Grover Washington Jr. (alto and tenor saxophones), Bob James (electric piano, arranger, conductor), Richard Tee (organ), Eric Gale (guitar), Ron Carter (bass), Idris Muhammad (drums), Airto Moreira (percussion), plus horns, vocal quartet and strings",
+    "style": "soul-jazz",
+    "year": 1971,
+    "year_lo": 1971,
+    "year_hi": 1971,
+    "year_label": "1971",
+    "trivia": "Washington's debut album as a leader opens with his take on Marvin Gaye's hit, which had come out only a few months earlier. AllMusic's Thom Jurek called the album a landmark and a turning point in jazz.",
+    "tags": [
+      "1970s",
+      "soul-jazz",
+      "kudu",
+      "kudu"
+    ],
+    "track": {
+      "artist": "Grover Washington Jr.",
+      "title": "Inner City Blues",
+      "album": "Inner City Blues",
+      "duration": "7:10",
+      "isrc": null,
+      "query": "Grover Washington Jr Inner City Blues 1971 Kudu",
+      "notes": "studio title track (7:10) from the Kudu album"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Inner_City_Blues_(Grover_Washington_Jr._album)"
+    ],
+    "notes": "Recorded Sep 1971 at Van Gelder Studio, released 1972 (Wikipedia); one-year gap, no gap note needed. Personnel given for the whole album, not per track, so horns, vocalists and strings are listed generally. Single source."
+  },
+  {
+    "id": "jazz-deodato-also-sprach-zarathustra-2001",
+    "artist": "Deodato",
+    "title": "Also Sprach Zarathustra (2001)",
+    "composer": "Richard Strauss; arr. Eumir Deodato",
+    "recording_date": "1972-09",
+    "recording_year": 1972,
+    "release_year": 1973,
+    "original_issue": "CTI (LP, Prelude, Jan 1973; also issued as a single in early 1973; catalogue numbers not verified)",
+    "personnel": "Eumir Deodato (piano, electric piano, arranger), Ron Carter (bass), Stanley Clarke (electric bass), Billy Cobham (drums), John Tropea (electric guitar), Airto Moreira (percussion), Ray Barretto (congas), plus uncredited brass and strings",
+    "style": "jazz-funk",
+    "year": 1972,
+    "year_lo": 1972,
+    "year_hi": 1972,
+    "year_label": "1972",
+    "trivia": "A funk reworking of the opening fanfare of Richard Strauss's tone poem, borrowed from the 2001: A Space Odyssey era. It reached No. 2 on the Billboard Hot 100 and won the 1974 Grammy for Best Pop Instrumental Performance.",
+    "tags": [
+      "1970s",
+      "jazz-funk",
+      "cti",
+      "cti"
+    ],
+    "track": {
+      "artist": "Eumir Deodato",
+      "title": "Also Sprach Zarathustra (2001)",
+      "album": "Prelude",
+      "duration": "9:00",
+      "isrc": null,
+      "query": "Deodato Also Sprach Zarathustra 2001 Prelude 1973 album version",
+      "notes": "album version (9:00), not the 5:06 single edit"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Prelude_(Deodato_album)",
+      "https://en.wikipedia.org/wiki/Also_Sprach_Zarathustra_(2001)"
+    ],
+    "notes": "Recorded 12-14 Sep 1972 at Van Gelder Studio (both Wikipedia pages); released Jan 1973, a one-year gap. Personnel is the lead-musician list from the song article; per-track attribution of Carter versus Clarke on bass is not given, and the brass and strings are uncredited. Album track time 9:00, single 5:06 (Wikipedia)."
+  },
+  {
+    "id": "jazz-corea-spain",
+    "artist": "Chick Corea and Return to Forever",
+    "title": "Spain",
+    "composer": "Chick Corea",
+    "recording_date": "1972-10-08",
+    "recording_year": 1972,
+    "release_year": 1973,
+    "original_issue": "Polydor PD 5525 (LP, Light as a Feather, Jan 1973)",
+    "personnel": "Chick Corea (Fender Rhodes electric piano), Joe Farrell (flute, soprano saxophone), Stanley Clarke (bass), Flora Purim (vocals, percussion), Airto Moreira (drums, percussion)",
+    "style": "fusion",
+    "year": 1972,
+    "year_lo": 1972,
+    "year_hi": 1972,
+    "year_label": "1972",
+    "trivia": "Corea opens with a quotation from the slow movement of Rodrigo's Concierto de Aranjuez before the band bursts into a fast, samba-flavoured theme. The recording earned two Grammy nominations and the tune became a jazz standard.",
+    "tags": [
+      "1970s",
+      "fusion",
+      "polydor",
+      "latin"
+    ],
+    "track": {
+      "artist": "Return to Forever",
+      "title": "Spain",
+      "album": "Light as a Feather",
+      "duration": "9:51",
+      "isrc": null,
+      "query": "Return to Forever Chick Corea Spain Light as a Feather 1973",
+      "notes": "studio master (9:51) from Light as a Feather, not the alternate or composite takes on the 1998 reissue"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://www.jazzdisco.org/chick-corea/discography/",
+      "https://en.wikipedia.org/wiki/Light_as_a_Feather",
+      "https://en.wikipedia.org/wiki/Spain_(instrumental)"
+    ],
+    "notes": "jazzdisco places Spain in the session of 8 Oct 1972 at IBC Studios, London (Wikipedia gives 8 and 15 Oct for the album); 8 Oct used. Released Jan 1973. Billing follows jazzdisco (Chick Corea and Return To Forever). Wikipedia says Clarke is on double bass while jazzdisco lists bass and electric bass; written as bass."
+  },
+  {
+    "id": "jazz-sun-ra-space-is-the-place",
+    "artist": "Sun Ra and His Astro Intergalactic Infinity Arkestra",
+    "title": "Space Is the Place",
+    "composer": "Sun Ra",
+    "recording_date": "1972-10",
+    "recording_year": 1972,
+    "release_year": 1973,
+    "original_issue": "Blue Thumb (LP, Space Is the Place, 1973; catalogue number not verified)",
+    "personnel": "Sun Ra (Farfisa organ), John Gilmore (vocals), Danny Thompson (baritone saxophone), Eloe Omoe (bass clarinet), Pat Patrick (bass guitar), Akh Tal Ebah (vocals), June Tyson, Ruth Wright, Cheryl Banks and Judith Holton (vocals)",
+    "style": "free",
+    "year": 1972,
+    "year_lo": 1972,
+    "year_hi": 1972,
+    "year_label": "1972",
+    "trivia": "BBC writer Stevie Chick called the title piece Sun Ra's ultimate anthem, fusing science-fiction imagery with ancient myth. AllMusic's Stephen Cook recommends the album as an excellent introduction to his catalogue.",
+    "tags": [
+      "1970s",
+      "free",
+      "blue-thumb",
+      "spiritual",
+      "afrofuturism"
+    ],
+    "track": {
+      "artist": "Sun Ra",
+      "title": "Space Is the Place",
+      "album": "Space Is the Place",
+      "duration": "21:14",
+      "isrc": null,
+      "query": "Sun Ra Space Is the Place 1972 Blue Thumb Arkestra",
+      "notes": "album title track (21:14) from the Blue Thumb LP, not a film soundtrack or later live version"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Space_Is_the_Place_(Sun_Ra_album)"
+    ],
+    "notes": "Recorded 19-20 Oct 1972 in Chicago (Wikipedia); month used. Personnel is the per-track assignment for track 1 from the album's liner-note credits as copied on Wikipedia; the horn and percussion players who are not tagged to track 1 are omitted. Catalogue number not verified and single source, hence medium. Released 1973, a one-year gap."
+  },
+  {
+    "id": "jazz-burton-corea-crystal-silence",
+    "artist": "Gary Burton and Chick Corea",
+    "title": "Crystal Silence",
+    "composer": "Chick Corea",
+    "recording_date": "1972-11-06",
+    "recording_year": 1972,
+    "release_year": 1973,
+    "original_issue": "ECM 1024 ST (LP, Crystal Silence, 16 Apr 1973)",
+    "personnel": "Gary Burton (vibraphone), Chick Corea (piano)",
+    "style": "ecm",
+    "year": 1972,
+    "year_lo": 1972,
+    "year_hi": 1972,
+    "year_label": "1972",
+    "trivia": "This was the duo debut of vibraphonist Gary Burton and pianist Chick Corea. It was recorded in a single session in Oslo and produced by Manfred Eicher for ECM.",
+    "tags": [
+      "1970s",
+      "ecm",
+      "ecm"
+    ],
+    "track": {
+      "artist": "Gary Burton & Chick Corea",
+      "title": "Crystal Silence",
+      "album": "Crystal Silence",
+      "duration": "9:05",
+      "isrc": null,
+      "query": "Gary Burton Chick Corea Crystal Silence 1972 ECM",
+      "notes": "studio title track (9:05) from the ECM LP"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://www.jazzdisco.org/chick-corea/discography/",
+      "https://en.wikipedia.org/wiki/Crystal_Silence"
+    ],
+    "notes": "Arne Bendiksen Studio, Oslo, 6 Nov 1972 (jazzdisco and Wikipedia agree). Released 16 Apr 1973 (Wikipedia), a one-year gap. Wikipedia describes it as recorded on that one date."
+  },
+  {
+    "id": "jazz-barbieri-last-tango-in-paris",
+    "artist": "Gato Barbieri",
+    "title": "Last Tango in Paris",
+    "composer": "Gato Barbieri",
+    "recording_date": "1972-11",
+    "recording_year": 1972,
+    "release_year": 1973,
+    "original_issue": "United Artists UA-LA-045-F (LP, Last Tango in Paris, 1973)",
+    "personnel": "Gato Barbieri (tenor saxophone), Franco D'Andrea (piano), Franco Goldani and Wolmer Beltrani (accordion), Jean-Francois Jenny-Clark and Giovanni Tommaso (bass), Pierino Munari (drums), Afonso Vieira and Ivanir do Nascimento (percussion), orchestra arranged and conducted by Oliver Nelson",
+    "style": "latin",
+    "year": 1972,
+    "year_lo": 1972,
+    "year_hi": 1972,
+    "year_label": "1972",
+    "trivia": "Barbieri's tenor saxophone leads the score to Bernardo Bertolucci's controversial 1972 film, with orchestral arrangements by Oliver Nelson. AllMusic's Richie Unterberger called the score an overall triumph.",
+    "tags": [
+      "1970s",
+      "latin",
+      "soundtrack",
+      "tango"
+    ],
+    "track": {
+      "artist": "Gato Barbieri",
+      "title": "Last Tango in Paris - Tango",
+      "album": "Last Tango in Paris (soundtrack)",
+      "duration": "3:23",
+      "isrc": null,
+      "query": "Gato Barbieri Last Tango in Paris Tango 1972 soundtrack",
+      "notes": "soundtrack album opening track Last Tango in Paris - Tango (3:23), not the Ballad or Jazz Waltz versions"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Last_Tango_in_Paris"
+    ],
+    "notes": "Wikipedia gives recording as 20-25 Nov 1972 in Rome, but the film premiered on 14 Oct 1972, so these dates may be the soundtrack-album sessions rather than the original film cues; month used. The album has three titles starting Last Tango in Paris (Tango 3:23, Ballad 3:43, Jazz Waltz 5:44); the Tango track is assumed to be the main theme people know. Personnel is album-wide, not per track. Released 1973."
+  },
+  {
+    "id": "jazz-hancock-chameleon",
+    "artist": "Herbie Hancock",
+    "title": "Chameleon",
+    "composer": "Herbie Hancock, Bennie Maupin, Paul Jackson, Harvey Mason",
+    "recording_date": "1973-09",
+    "recording_year": 1973,
+    "release_year": 1973,
+    "original_issue": "Columbia (LP, Head Hunters, 26 Oct 1973; catalogue number not verified)",
+    "personnel": "Herbie Hancock (ARP Odyssey synthesizer, Fender Rhodes electric piano), Bennie Maupin (reeds), Paul Jackson (bass guitar), Harvey Mason (drums)",
+    "style": "jazz-funk",
+    "year": 1973,
+    "year_lo": 1973,
+    "year_hi": 1973,
+    "year_label": "1973",
+    "trivia": "The famous twelve-note bass line was played by Hancock himself on an ARP Odyssey synthesizer, over a groove that stays on a two-chord vamp for most of its length. It opens Head Hunters and is now regarded as a fusion standard.",
+    "tags": [
+      "1970s",
+      "jazz-funk",
+      "columbia"
+    ],
+    "track": {
+      "artist": "Herbie Hancock",
+      "title": "Chameleon",
+      "album": "Head Hunters",
+      "duration": "15:41",
+      "isrc": null,
+      "query": "Herbie Hancock Chameleon Head Hunters 1973",
+      "notes": "full-length album version (about 15:41) from Head Hunters, not a shortened edit or a live version"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Head_Hunters",
+      "https://en.wikipedia.org/wiki/Chameleon_(composition)"
+    ],
+    "notes": "Recorded Sep 1973 at Wally Heider and Different Fur studios, San Francisco (Wikipedia); month used. Duration conflict inside Wikipedia: album track list 15:41, song article text 15:44; 15:41 used. Percussionist Bill Summers is credited on the album but his presence on this track is not confirmed, so left out. Hancock is the only Herbie Hancock card in this slice (cap 2 for whole set)."
+  },
+  {
+    "id": "jazz-cobham-stratus",
+    "artist": "Billy Cobham",
+    "title": "Stratus",
+    "composer": "Billy Cobham",
+    "recording_date": "1973-05",
+    "recording_year": 1973,
+    "release_year": 1973,
+    "original_issue": "Atlantic (LP, Spectrum, 1 Oct 1973; catalogue number not verified)",
+    "personnel": "Billy Cobham (drums), Jan Hammer (electric piano, Moog synthesizer), Tommy Bolin (guitar), Lee Sklar (electric bass)",
+    "style": "fusion",
+    "year": 1973,
+    "year_lo": 1973,
+    "year_hi": 1973,
+    "year_label": "1973",
+    "trivia": "Bassist Lee Sklar recalled the album being made in two or three days, mostly in first or second takes. The bass line was later sampled as the backbone of Massive Attack's Safe from Harm.",
+    "tags": [
+      "1970s",
+      "fusion",
+      "atlantic"
+    ],
+    "track": {
+      "artist": "Billy Cobham",
+      "title": "Stratus",
+      "album": "Spectrum",
+      "duration": "9:48",
+      "isrc": null,
+      "query": "Billy Cobham Stratus Spectrum 1973",
+      "notes": "studio album track (9:48) from Spectrum, not a live version"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Spectrum_(Billy_Cobham_album)"
+    ],
+    "notes": "Recorded 14-16 May 1973 at Electric Lady Studios, New York, mixed at Trident in London (Wikipedia); month used. Wikipedia states that Bolin and Sklar play on Stratus. The claim that Stratus is the main sample in Massive Attack's Safe from Harm is from the Wikipedia album article."
+  },
+  {
+    "id": "jazz-pass-night-and-day",
+    "artist": "Joe Pass",
+    "title": "Night and Day",
+    "composer": "Cole Porter",
+    "recording_date": "1973-08-28",
+    "recording_year": 1973,
+    "release_year": 1973,
+    "original_issue": "Pablo (LP, Virtuoso, Dec 1973; catalogue number not verified)",
+    "personnel": "Joe Pass (guitar)",
+    "style": "post-bop",
+    "year": 1973,
+    "year_lo": 1973,
+    "year_hi": 1973,
+    "year_label": "1973",
+    "trivia": "Pass plays melody, chords and bass line together on one unaccompanied guitar, which the Penguin Guide placed in its core collection. All About Jazz called Virtuoso the record that announced he had arrived.",
+    "tags": [
+      "1970s",
+      "post-bop",
+      "pablo",
+      "solo-guitar",
+      "standards"
+    ],
+    "track": {
+      "artist": "Joe Pass",
+      "title": "Night and Day",
+      "album": "Virtuoso",
+      "duration": "3:32",
+      "isrc": null,
+      "query": "Joe Pass Night and Day Virtuoso 1973",
+      "notes": "solo guitar studio track Night and Day (3:32) from Virtuoso"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Virtuoso_(Joe_Pass_album)"
+    ],
+    "notes": "Recorded 28 Aug 1973 at MGM Recording Studios, Los Angeles; released Dec 1973 (Wikipedia). Wikipedia's infobox gives that single date for the album, so it is used for this track. Single source; Pablo catalogue number not verified."
+  },
+  {
+    "id": "jazz-dollar-brand-mannenberg",
+    "artist": "Dollar Brand",
+    "title": "Mannenberg",
+    "composer": "Abdullah Ibrahim",
+    "recording_date": "1974-06",
+    "recording_year": 1974,
+    "release_year": 1974,
+    "original_issue": "As-Shams (LP, Mannenberg - Is Where It's Happening, 1974; catalogue number not verified)",
+    "personnel": "Dollar Brand [Abdullah Ibrahim] (piano), Basil Coetzee (tenor saxophone, flute), Robbie Jansen (alto saxophone), Morris Goldberg (alto saxophone), Monty Weber (drums)",
+    "style": "post-bop",
+    "year": 1974,
+    "year_lo": 1974,
+    "year_hi": 1974,
+    "year_label": "1974",
+    "trivia": "This improvised Cape jazz groove was named after the Cape Town township of Manenberg and became one of the anti-apartheid movement's most popular songs. Basil Coetzee's saxophone solo earned him the nickname Manenberg.",
+    "tags": [
+      "1970s",
+      "post-bop",
+      "cape-jazz",
+      "south-africa"
+    ],
+    "track": {
+      "artist": "Dollar Brand",
+      "title": "Mannenberg",
+      "album": "Mannenberg - Is Where It's Happening",
+      "duration": "13:37",
+      "isrc": null,
+      "query": "Dollar Brand Abdullah Ibrahim Mannenberg Is Where It's Happening 1974",
+      "notes": "original 1974 album recording (about 13:37) credited to Dollar Brand, not later Abdullah Ibrahim re-recordings or covers"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Mannenberg"
+    ],
+    "notes": "Recorded June 1974 in Cape Town (Wikipedia); no day given, no catalogue number verified, and the label is As-Shams per the article text. Personnel is copied from the Wikipedia credits (adapted from AllMusic); no bass player is credited there. Single source. Released the same year under Ibrahim's former name Dollar Brand."
+  },
+  {
+    "id": "jazz-regina-jobim-aguas-de-marco",
+    "artist": "Elis Regina and Antonio Carlos Jobim",
+    "title": "Aguas de Marco",
+    "composer": "Antonio Carlos Jobim",
+    "recording_date": null,
+    "recording_year": 1974,
+    "release_year": 1974,
+    "original_issue": "Philips (LP, Elis & Tom, 1974; catalogue number not verified)",
+    "personnel": "Elis Regina (vocals), Antonio Carlos Jobim (vocals), Cesar Camargo Mariano (piano, arranger), Helio Delmiro (guitar), Oscar Castro-Neves (guitar), Luizao Maia (bass), Paulo Braga (drums), Hubert Laws and Jerome Richardson (flutes, uncredited), strings conducted by Bill Hitchcock",
+    "style": "bossa-nova",
+    "year": 1974,
+    "year_lo": 1974,
+    "year_hi": 1974,
+    "year_label": "1974",
+    "trivia": "Elis Regina and the composer sing Jobim's cascade of images together, a version later called the definitive recording of the song. The album was cut in Los Angeles over about two weeks as a tenth-anniversary gift from Regina's label, Philips.",
+    "tags": [
+      "1970s",
+      "bossa-nova",
+      "philips"
+    ],
+    "track": {
+      "artist": "Elis Regina & Antonio Carlos Jobim",
+      "title": "Aguas de Marco",
+      "album": "Elis & Tom",
+      "duration": "3:32",
+      "isrc": null,
+      "query": "Elis Regina Tom Jobim Aguas de Marco Elis & Tom 1974",
+      "notes": "Elis and Tom duet from the 1974 LP, not Jobim's 1972 original or Elis Regina's 1972 solo version"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Elis_&_Tom",
+      "https://en.wikipedia.org/wiki/Waters_of_March"
+    ],
+    "notes": "Wikipedia gives the album sessions as 22 Feb - 9 Mar 1974 at MGM Studios, Los Angeles, which spans two months, so only the year is recorded; the exact day of this track is not stated. Per-track personnel for track 1 taken from the album credits (Jobim is listed as vocals only on this track). Single source; catalogue number not verified."
+  },
+  {
+    "id": "jazz-grover-washington-mister-magic",
+    "artist": "Grover Washington Jr.",
+    "title": "Mister Magic",
+    "composer": "Ralph MacDonald",
+    "recording_date": "1974-11",
+    "recording_year": 1974,
+    "release_year": 1975,
+    "original_issue": "Kudu (LP, Mister Magic, 7 Feb 1975; catalogue number not verified)",
+    "personnel": "Grover Washington Jr. (soprano, alto and tenor saxophones), Bob James (piano, Fender Rhodes, arranger, conductor), Eric Gale (guitar), Gary King (bass), Harvey Mason (drums), Ralph MacDonald (percussion), plus brass, reeds and strings",
+    "style": "jazz-funk",
+    "year": 1974,
+    "year_lo": 1974,
+    "year_hi": 1974,
+    "year_label": "1974",
+    "trivia": "The title track of the album that topped both the soul and jazz album charts and reached No. 10 on the pop chart. Its credited composer, Ralph MacDonald, also played percussion on the session, which Bob James arranged and conducted.",
+    "tags": [
+      "1970s",
+      "jazz-funk",
+      "kudu",
+      "kudu"
+    ],
+    "track": {
+      "artist": "Grover Washington Jr.",
+      "title": "Mister Magic",
+      "album": "Mister Magic",
+      "duration": "8:58",
+      "isrc": null,
+      "query": "Grover Washington Jr Mister Magic 1975 Kudu",
+      "notes": "album title track (8:58) from the Kudu LP"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Mister_Magic"
+    ],
+    "notes": "Recorded Nov 1974 at Van Gelder Studio, released 7 Feb 1975 (Wikipedia), a one-year gap so no gap note needed. Wikipedia lists Gary King on bass for tracks 2-4 and Phil Upchurch on track 1 only, so King is used for the title track (side two, first track). Personnel for brass and strings is album-wide. Mister Magic is track 3 (side two, first track). Wikipedia's personnel list gives Bob James on piano and Fender Rhodes album-wide."
+  },
+  {
+    "id": "jazz-lonnie-liston-smith-expansions",
+    "artist": "Lonnie Liston Smith and the Cosmic Echoes",
+    "title": "Expansions",
+    "composer": "Lonnie Liston Smith",
+    "recording_date": "1974-11",
+    "recording_year": 1974,
+    "release_year": 1975,
+    "original_issue": "Flying Dutchman BDL1-0934 (LP, Expansions, 1975; RCA/Flying Dutchman)",
+    "personnel": "Lonnie Liston Smith (piano, electric piano), Donald Smith (flute, vocals), Cecil McBee (bass), Art Gore (drums), Michael Carvin (percussion, clavinet, drums), Leopoldo Fleming (bongos, percussion), Lawrence Killian (congas, percussion)",
+    "style": "soul-jazz",
+    "year": 1974,
+    "year_lo": 1974,
+    "year_hi": 1974,
+    "year_label": "1974",
+    "trivia": "A buoyant, summery groove from Smith's Cosmic Echoes band, with Cecil McBee on bass. AllMusic's Thom Jurek noted that the album gave smooth-jazz players and sampling producers more raw material than Smith could have expected.",
+    "tags": [
+      "1970s",
+      "soul-jazz",
+      "rca",
+      "jazz-funk",
+      "spiritual"
+    ],
+    "track": {
+      "artist": "Lonnie Liston Smith & The Cosmic Echoes",
+      "title": "Expansions",
+      "album": "Expansions",
+      "duration": "6:04",
+      "isrc": null,
+      "query": "Lonnie Liston Smith Cosmic Echoes Expansions 1975",
+      "notes": "album title track (6:04) from the Flying Dutchman LP"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Expansions_(Lonnie_Liston_Smith_album)"
+    ],
+    "notes": "Recorded 25-26 Nov 1974 in New York, released 1975 (Wikipedia); month used. Wikipedia credits Dave Hubbard on tracks 2-4, 6 and 7 only, so he is omitted for the title track. One-year gap."
+  },
+  {
+    "id": "jazz-blackbyrds-walking-in-rhythm",
+    "artist": "The Blackbyrds",
+    "title": "Walking in Rhythm",
+    "composer": "Barney Perry",
+    "recording_date": "1974-09",
+    "recording_year": 1974,
+    "release_year": 1974,
+    "original_issue": "Fantasy (LP, Flying Start, Nov 1974; also a 1975 single; catalogue numbers not verified)",
+    "personnel": "Allan Barnes (saxophones, flute), Kevin Toney (keyboards), Barney Perry (guitar), Joe Hall (bass), Keith Killgo (drums), Perk Jacobs (percussion), with horns and vocals",
+    "style": "jazz-funk",
+    "year": 1974,
+    "year_lo": 1974,
+    "year_hi": 1974,
+    "year_label": "1974",
+    "trivia": "The group's biggest hit reached No. 6 on the Billboard Hot 100 in 1975. The band took its name from Donald Byrd's album Black Byrd, and Byrd produced this recording.",
+    "tags": [
+      "1970s",
+      "jazz-funk",
+      "fantasy",
+      "soul"
+    ],
+    "track": {
+      "artist": "The Blackbyrds",
+      "title": "Walking in Rhythm",
+      "album": "Flying Start",
+      "duration": "4:13",
+      "isrc": null,
+      "query": "The Blackbyrds Walking in Rhythm Flying Start 1974",
+      "notes": "album version (4:13) from Flying Start; the 1975 single runs about 4:11"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Walking_in_Rhythm",
+      "https://en.wikipedia.org/wiki/Flying_Start_(album)",
+      "https://en.wikipedia.org/wiki/Black_Byrd"
+    ],
+    "notes": "Wikipedia (song article) says it was recorded in Sep 1974 at The Sound Factory, Los Angeles; the album article gives Aug-Oct 1974 and release in Nov 1974 while the single charted in Mar 1975, so rel is 1974 for the album first issue. Album length 4:13, single 4:11. Horn and vocal credits are album-wide, so listed generally; the whole group sang backing vocals on tracks 4 and 5 per Wikipedia."
+  },
+  {
+    "id": "jazz-jarrett-the-koln-concert-part-i",
+    "artist": "Keith Jarrett",
+    "title": "The Koln Concert, Part I",
+    "composer": "Keith Jarrett",
+    "recording_date": "1975-01-24",
+    "recording_year": 1975,
+    "release_year": 1975,
+    "original_issue": "ECM 1064/65 ST (2-LP, The Koln Concert, 30 Nov 1975)",
+    "personnel": "Keith Jarrett (piano)",
+    "style": "ecm",
+    "year": 1975,
+    "year_lo": 1975,
+    "year_hi": 1975,
+    "year_label": "1975",
+    "trivia": "The concert went ahead on a small rehearsal piano in poor condition after the requested Bosendorfer concert grand was not delivered, and Jarrett nearly refused to play. The album became the best-selling solo album in jazz history.",
+    "tags": [
+      "1970s",
+      "ecm",
+      "ecm",
+      "solo-piano",
+      "live"
+    ],
+    "track": {
+      "artist": "Keith Jarrett",
+      "title": "The Koln Concert, Part I",
+      "album": "The Koln Concert",
+      "duration": "26:01",
+      "isrc": null,
+      "query": "Keith Jarrett The Koln Concert Part I 1975",
+      "notes": "live solo piano, Cologne Opera, 24 January 1975, Part I (26:01), not Part IIa, IIb or IIc"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://www.jazzdisco.org/keith-jarrett/discography/",
+      "https://en.wikipedia.org/wiki/The_K%C3%B6ln_Concert"
+    ],
+    "notes": "Live recording at the Oper Koln, 24 Jan 1975 (jazzdisco and Wikipedia agree). Released 30 Nov 1975 (Wikipedia). Part I is the 26:01 first side-and-a-half track; Parts IIa-IIc are separate tracks."
+  },
+  {
+    "id": "jazz-metheny-bright-size-life",
+    "artist": "Pat Metheny",
+    "title": "Bright Size Life",
+    "composer": "Pat Metheny",
+    "recording_date": "1975-12",
+    "recording_year": 1975,
+    "release_year": 1976,
+    "original_issue": "ECM 1073 (LP, Bright Size Life, March 1976)",
+    "personnel": "Pat Metheny (6- and 12-string electric guitar), Jaco Pastorius (bass guitar), Bob Moses (drums)",
+    "style": "ecm",
+    "year": 1975,
+    "year_lo": 1975,
+    "year_hi": 1975,
+    "year_label": "1975",
+    "trivia": "ECM producer Manfred Eicher at first resisted an electric bass on the date, but Jaco Pastorius ended up playing on this debut. Metheny has said the album sold only around 900 copies at first and won wider recognition 10 to 15 years later.",
+    "tags": [
+      "1970s",
+      "ecm",
+      "ecm"
+    ],
+    "track": {
+      "artist": "Pat Metheny",
+      "title": "Bright Size Life",
+      "album": "Bright Size Life",
+      "duration": "4:45",
+      "isrc": null,
+      "query": "Pat Metheny Bright Size Life 1976 ECM Jaco Pastorius",
+      "notes": "ECM studio version (4:45) from the 1976 debut, not the live trio versions from 1999-2000"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://www.jazzdisco.org/pat-metheny/discography/",
+      "https://en.wikipedia.org/wiki/Bright_Size_Life"
+    ],
+    "notes": "Recorded Dec 1975 at Tonstudio Bauer, Ludwigsburg, Germany (jazzdisco and Wikipedia agree); released March 1976, a one-year gap so no gap note needed."
+  },
+  {
+    "id": "jazz-pastorius-donna-lee",
+    "artist": "Jaco Pastorius",
+    "title": "Donna Lee",
+    "composer": "Charlie Parker or Miles Davis (attribution varies by source)",
+    "recording_date": "1975-10",
+    "recording_year": 1975,
+    "release_year": 1976,
+    "original_issue": "Epic (LP, Jaco Pastorius, late April 1976; catalogue number not verified)",
+    "personnel": "Jaco Pastorius (electric bass), Don Alias (congas)",
+    "style": "fusion",
+    "year": 1975,
+    "year_lo": 1975,
+    "year_hi": 1975,
+    "year_label": "1975",
+    "trivia": "A bebop head usually credited to Charlie Parker or Miles Davis, played here on electric bass with only congas for company. It is the opening track of Pastorius's debut solo album.",
+    "tags": [
+      "1970s",
+      "fusion",
+      "epic"
+    ],
+    "track": {
+      "artist": "Jaco Pastorius",
+      "title": "Donna Lee",
+      "album": "Jaco Pastorius",
+      "duration": "2:27",
+      "isrc": null,
+      "query": "Jaco Pastorius Donna Lee 1976 Epic",
+      "notes": "album opener Donna Lee (2:27) from the 1976 Epic LP, not a live version or a Charlie Parker original"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Jaco_Pastorius_(album)"
+    ],
+    "notes": "Wikipedia gives recording as Oct 1975 at Columbia studios and Camp Colomby in New York; released late April 1976 (one-year gap). The Wikipedia track list credits the tune as Charlie Parker or Miles Davis, so the composer line records both. Single source."
+  },
+  {
+    "id": "jazz-bennett-evans-young-and-foolish",
+    "artist": "Tony Bennett and Bill Evans",
+    "title": "Young and Foolish",
+    "composer": "Albert Hague, Arnold B. Horwitt",
+    "recording_date": "1975-06",
+    "recording_year": 1975,
+    "release_year": 1975,
+    "original_issue": "Fantasy F-9489 (LP, The Tony Bennett/Bill Evans Album, July 1975)",
+    "personnel": "Tony Bennett (vocals), Bill Evans (piano)",
+    "style": "vocal",
+    "year": 1975,
+    "year_lo": 1975,
+    "year_hi": 1975,
+    "year_label": "1975",
+    "trivia": "Singer Annie Ross suggested to Bennett that he record with the pianist Bill Evans, and this is from the first of their two albums together. It is just voice and piano; the second album, Together Again, followed in 1977.",
+    "tags": [
+      "1970s",
+      "vocal",
+      "fantasy"
+    ],
+    "track": {
+      "artist": "Tony Bennett & Bill Evans",
+      "title": "Young and Foolish",
+      "album": "The Tony Bennett/Bill Evans Album",
+      "duration": "3:54",
+      "isrc": null,
+      "query": "Tony Bennett Bill Evans Young and Foolish 1975 Fantasy",
+      "notes": "studio version (3:54) from the 1975 Fantasy LP, not the 1976 Together Again version or alternate takes"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Tony_Bennett/Bill_Evans_Album"
+    ],
+    "notes": "Sessions 10-13 Jun 1975 at Fantasy Studios, Berkeley (Wikipedia); month used. Single source."
+  },
+  {
+    "id": "jazz-laws-always-there",
+    "artist": "Ronnie Laws",
+    "title": "Always There",
+    "composer": "William Jeffrey, Ronnie Laws",
+    "recording_date": null,
+    "recording_year": 1975,
+    "release_year": 1975,
+    "original_issue": "Blue Note (LP, Pressure Sensitive, 1975; catalogue number not verified)",
+    "personnel": "Ronnie Laws (tenor saxophone, soprano saxophone, flute), Jerry Peters (electric piano, synthesizer), Mike Cavanaugh and Joe Sample (clavinet, electric piano), Roland Bautista (guitar), Clint Mosley (electric bass), Steve Guttierez (drums), Joe Clayton (conga, tambourine, flexatone)",
+    "style": "jazz-funk",
+    "year": 1975,
+    "year_lo": 1975,
+    "year_hi": 1975,
+    "year_label": "1975",
+    "trivia": "The opening track of Ronnie Laws's debut album, produced by George Butler and Wayne Henderson of the Crusaders. The album reached No. 25 on Billboard's Top Soul Albums chart.",
+    "tags": [
+      "1970s",
+      "jazz-funk",
+      "blue-note"
+    ],
+    "track": {
+      "artist": "Ronnie Laws",
+      "title": "Always There",
+      "album": "Pressure Sensitive",
+      "duration": "4:52",
+      "isrc": null,
+      "query": "Ronnie Laws Always There Pressure Sensitive 1975",
+      "notes": "album opener Always There (4:52) from Pressure Sensitive, not the Side Effect or Incognito cover versions"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Pressure_Sensitive"
+    ],
+    "notes": "Session March-April 1975 at Angel City Sound, Los Angeles (Wikipedia); two months, so only the year is recorded. Wikipedia lists the Side Effect backing vocals on track 2 only, and Joe Clayton's percussion on track 1 only."
+  },
+  {
+    "id": "jazz-benson-this-masquerade",
+    "artist": "George Benson",
+    "title": "This Masquerade",
+    "composer": "Leon Russell",
+    "recording_date": "1976-01",
+    "recording_year": 1976,
+    "release_year": 1976,
+    "original_issue": "Warner Bros. (LP, Breezin', 19 Mar 1976; catalogue number not verified)",
+    "personnel": "George Benson (guitar, vocals), Jorge Dalto (acoustic piano, piano solo), Ronnie Foster (electric piano), Stanley Banks (bass guitar), Harvey Mason (drums), Ralph MacDonald (percussion), Claus Ogerman (arranger, conductor)",
+    "style": "smooth",
+    "year": 1976,
+    "year_lo": 1976,
+    "year_hi": 1976,
+    "year_label": "1976",
+    "trivia": "Benson sings Leon Russell's song, which became a top-ten pop and R&B hit. It won the Grammy for Record of the Year for Benson and producer Tommy LiPuma.",
+    "tags": [
+      "1970s",
+      "smooth",
+      "warner-bros",
+      "vocal",
+      "grammy"
+    ],
+    "track": {
+      "artist": "George Benson",
+      "title": "This Masquerade",
+      "album": "Breezin'",
+      "duration": "8:03",
+      "isrc": null,
+      "query": "George Benson This Masquerade Breezin' 1976",
+      "notes": "album version (8:03) from Breezin' on Warner Bros., not Leon Russell's original or a live version"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Breezin'"
+    ],
+    "notes": "Wikipedia gives recording as 6-8 Jan 1976 at Capitol Studios, Hollywood; month used because the day for this track is not stated. Released 19 Mar 1976. Wikipedia credits Dalto's piano solo and Banks's bass to track 2 specifically; Foster, Mason and MacDonald are credited album-wide, and flautist Bennie Maupin is credited album-wide so is left out of pe. Single source; Warner catalogue number not verified."
+  },
+  {
+    "id": "jazz-corea-medieval-overture",
+    "artist": "Return to Forever",
+    "title": "Medieval Overture",
+    "composer": "Chick Corea",
+    "recording_date": "1976-02",
+    "recording_year": 1976,
+    "release_year": 1976,
+    "original_issue": "Columbia (LP, Romantic Warrior, 1976; catalogue number not verified)",
+    "personnel": "Chick Corea (keyboards), Al Di Meola (guitar), Stanley Clarke (bass), Lenny White (drums)",
+    "style": "fusion",
+    "year": 1976,
+    "year_lo": 1976,
+    "year_hi": 1976,
+    "year_label": "1976",
+    "trivia": "The opener of Return to Forever's first album for Columbia, after four on Polydor; its distinctive melodic motifs set the medieval mood. The album became the band's most popular and was eventually certified gold in the United States.",
+    "tags": [
+      "1970s",
+      "fusion",
+      "columbia",
+      "prog"
+    ],
+    "track": {
+      "artist": "Return to Forever",
+      "title": "Medieval Overture",
+      "album": "Romantic Warrior",
+      "duration": "5:14",
+      "isrc": null,
+      "query": "Return to Forever Medieval Overture Romantic Warrior 1976",
+      "notes": "studio album opener Medieval Overture (5:14) from Romantic Warrior, not the album's title track The Romantic Warrior"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Romantic_Warrior"
+    ],
+    "notes": "Recorded Feb 1976 at Caribou Ranch, Nederland, Colorado (Wikipedia); month used. Released 1976, month not stated. Wikipedia lists the four members' instruments album-wide only, so pe gives each player's main instrument. Corea is the leader of three cards in this slice (Spain, Crystal Silence with Burton, this one), at the cap of 3. Single source; catalogue number not verified."
+  },
+  {
+    "id": "jazz-clarke-school-days",
+    "artist": "Stanley Clarke",
+    "title": "School Days",
+    "composer": "Stanley Clarke",
+    "recording_date": "1976-06",
+    "recording_year": 1976,
+    "release_year": 1976,
+    "original_issue": "Nemperor (LP, School Days, 8 Oct 1976; catalogue number not verified)",
+    "personnel": "Stanley Clarke (electric bass guitar, vocals, handbells), Ray Gomez (electric guitar), David Sancious (keyboards), Gerry Brown (drums, handbells), plus brass and strings credited album-wide",
+    "style": "fusion",
+    "year": 1976,
+    "year_lo": 1976,
+    "year_hi": 1976,
+    "year_label": "1976",
+    "trivia": "Dave Thompson, in his book Funk, called the album a masterful set dominated by its long title track. It was planned for four-channel quadraphonic release, but only a stereo version came out.",
+    "tags": [
+      "1970s",
+      "fusion",
+      "jazz-funk",
+      "bass"
+    ],
+    "track": {
+      "artist": "Stanley Clarke",
+      "title": "School Days",
+      "album": "School Days",
+      "duration": "7:51",
+      "isrc": null,
+      "query": "Stanley Clarke School Days 1976 album",
+      "notes": "album opening track School Days (7:51), not a live version"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/School_Days_(album)"
+    ],
+    "notes": "Recorded June 1976 at Electric Lady (New York) and A&M (Hollywood); which studio cut this track is not stated, month used. Released 8 Oct 1976. Per-track credits for track 1 taken from the Wikipedia personnel list; the horn, brass and string players are credited album-wide so are not named. Album reached No. 2 on the Billboard Jazz Albums chart and No. 34 on the Billboard 200. Single source; label shown as Nemperor/Epic, catalogue number not verified."
+  },
+  {
+    "id": "jazz-ferguson-gonna-fly-now",
+    "artist": "Maynard Ferguson",
+    "title": "Gonna Fly Now",
+    "composer": "Bill Conti, Carol Connors, Ayn Robbins",
+    "recording_date": null,
+    "recording_year": 1976,
+    "release_year": 1977,
+    "original_issue": "Columbia (LP, Conquistador, March 1977; also issued as a single; catalogue numbers not verified)",
+    "personnel": "Maynard Ferguson (trumpet), Jeff Layton (guitar solo), Jay Chattaway (arranger, conductor), with New York studio players credited album-wide",
+    "style": "big-band",
+    "year": 1976,
+    "year_lo": 1976,
+    "year_hi": 1976,
+    "year_label": "1976",
+    "trivia": "Ferguson's version of the Rocky theme reached No. 28 on the Hot 100 in June 1977, ahead of the film soundtrack's own chart run. It was one of four recordings of the tune charting at the same time, and the album became the first big-band record on the pop charts in decades.",
+    "tags": [
+      "1970s",
+      "big-band",
+      "columbia",
+      "rocky",
+      "film-theme"
+    ],
+    "track": {
+      "artist": "Maynard Ferguson",
+      "title": "Gonna Fly Now",
+      "album": "Conquistador",
+      "duration": "4:22",
+      "isrc": null,
+      "query": "Maynard Ferguson Gonna Fly Now Rocky Conquistador 1977",
+      "notes": "Maynard Ferguson album version (4:22) from Conquistador, not Bill Conti's soundtrack original or the Rhythm Heritage version"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Conquistador_(Maynard_Ferguson_album)"
+    ],
+    "notes": "Wikipedia gives the album sessions as Oct-Dec 1976, split between San Francisco (touring band) and New York (Bob James crew); the exact date of this track is not stated, so only the year is given. Wikipedia says the Rocky and Star Trek themes were cut entirely in New York without Ferguson's touring band. The only per-track credit is the Jeff Layton guitar solo; other New York players are listed album-wide, so they are not named in pe (Bob James is executive producer). Released March 1977, a gap of at most one year. Single source, medium because personnel is incomplete and the date is a range."
+  },
+  {
+    "id": "jazz-weather-report-birdland",
+    "artist": "Weather Report",
+    "title": "Birdland",
+    "composer": "Joe Zawinul",
+    "recording_date": null,
+    "recording_year": 1977,
+    "release_year": 1977,
+    "original_issue": "Columbia PC 34418 (LP, Heavy Weather, March 1977)",
+    "personnel": "Joe Zawinul (Yamaha grand piano, ARP 2600 and Oberheim synthesizers, melodica, vocals), Wayne Shorter (soprano and tenor saxophones), Jaco Pastorius (fretless bass, mandocello, vocals), Alex Acuna (drums), Manolo Badrena (tambourine)",
+    "style": "fusion",
+    "year": 1977,
+    "year_lo": 1977,
+    "year_hi": 1977,
+    "year_label": "1977",
+    "trivia": "Zawinul wrote it as a tribute to the New York jazz club Birdland, where he was a regular. According to Jaco Pastorius, the studio version was recorded in just one take.",
+    "tags": [
+      "1970s",
+      "fusion",
+      "columbia"
+    ],
+    "track": {
+      "artist": "Weather Report",
+      "title": "Birdland",
+      "album": "Heavy Weather",
+      "duration": "5:57",
+      "isrc": null,
+      "query": "Weather Report Birdland Heavy Weather 1977",
+      "notes": "studio version (about 5:57) from Heavy Weather, not the Manhattan Transfer vocal version or the 1979 Havana live version"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Heavy_Weather_(album)",
+      "https://en.wikipedia.org/wiki/Birdland_(Weather_Report_song)",
+      "http://www.weatherreportdiscography.org/heavy-weather/"
+    ],
+    "notes": "CONFLICT on year: Wikipedia's album infobox says Dec 1976-Jan 1977, while the Weather Report discography site says only Recorded 1977 at Devonshire Sound, North Hollywood, with no per-track dates; 1977 used, hence medium. CONFLICT on length: album page 5:57, song-article infobox 5:58, discography site 5:59; 5:57 used. Album released March 1977 (Wikipedia, discography site); the single Wikipedia dates 19 Apr 1977. Personnel from the song article; Pastorius one-take remark is from his 1978 interview as cited on Wikipedia. Penguin Guide called it one of a handful of jazz tunes everyone has heard."
+  },
+  {
+    "id": "jazz-mangione-feels-so-good",
+    "artist": "Chuck Mangione",
+    "title": "Feels So Good",
+    "composer": "Chuck Mangione",
+    "recording_date": null,
+    "recording_year": 1977,
+    "release_year": 1977,
+    "original_issue": "A&M (LP, Feels So Good, 8 Dec 1977; catalogue number not verified)",
+    "personnel": "Chuck Mangione (flugelhorn, electric piano), Chris Vadala (saxophones, flute), Grant Geissman (guitar), Charles Meeks (bass), James Bradley Jr. (drums)",
+    "style": "smooth",
+    "year": 1977,
+    "year_lo": 1977,
+    "year_hi": 1977,
+    "year_label": "1977",
+    "trivia": "An edited version reached No. 4 on the Billboard Hot 100 in 1978 and was nominated for the Grammy for Record of the Year. Mangione later described the editing of the original track as major surgery.",
+    "tags": [
+      "1970s",
+      "smooth",
+      "a-and-m"
+    ],
+    "track": {
+      "artist": "Chuck Mangione",
+      "title": "Feels So Good",
+      "album": "Feels So Good",
+      "duration": "9:42",
+      "isrc": null,
+      "query": "Chuck Mangione Feels So Good 1977 album version",
+      "notes": "full album version (9:42), not the edited single, not the 1982 slow re-recording on 70 Miles Young"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Feels_So_Good_(Chuck_Mangione_album)",
+      "https://en.wikipedia.org/wiki/Feels_So_Good_(composition)"
+    ],
+    "notes": "No source gives a recording date: the Wikipedia infobox recorded field is empty and only the studio (Kendun Recorders, Burbank) is listed. Year 1977 is INFERRED from Wikipedia calling it a 1977 album and a 1977 song, with release on 8 Dec 1977; the single came out early 1978 (peak No. 4 in June 1978). Hence medium. Mangione re-recorded the tune in 1982. Album length 9:42 is from the LP track list; the length of the 1978 single edit was not found."
+  },
+  {
+    "id": "jazz-jarrett-my-song",
+    "artist": "Keith Jarrett",
+    "title": "My Song",
+    "composer": "Keith Jarrett",
+    "recording_date": "1977-11",
+    "recording_year": 1977,
+    "release_year": 1978,
+    "original_issue": "ECM 1115 (LP, My Song, June 1978)",
+    "personnel": "Keith Jarrett (piano), Jan Garbarek (tenor and soprano saxophones), Palle Danielsson (bass), Jon Christensen (drums)",
+    "style": "ecm",
+    "year": 1977,
+    "year_lo": 1977,
+    "year_hi": 1977,
+    "year_label": "1977",
+    "trivia": "The popularity of the title piece made this the best-known album of Jarrett's work with Jan Garbarek, according to AllMusic's Scott Yanow. It was the second release by his European quartet, after Belonging in 1974.",
+    "tags": [
+      "1970s",
+      "ecm",
+      "ecm",
+      "european-quartet"
+    ],
+    "track": {
+      "artist": "Keith Jarrett",
+      "title": "My Song",
+      "album": "My Song",
+      "duration": "6:12",
+      "isrc": null,
+      "query": "Keith Jarrett Jan Garbarek My Song ECM 1978 European Quartet",
+      "notes": "European quartet studio version (6:12) from ECM 1115, not the Vermont solo version"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://www.jazzdisco.org/keith-jarrett/discography/",
+      "https://en.wikipedia.org/wiki/My_Song_(Keith_Jarrett_album)"
+    ],
+    "notes": "Recorded Nov 1977 at Talent Studio, Oslo (jazzdisco and Wikipedia agree; no day given). Released June 1978 (Wikipedia), a one-year gap. Jarrett also played the tune solo in Vermont on 26 Aug 1977 (jazzdisco), which this card is not."
+  },
+  {
+    "id": "jazz-rollins-dont-stop-the-carnival",
+    "artist": "Sonny Rollins",
+    "title": "Don't Stop the Carnival",
+    "composer": "Traditional",
+    "recording_date": "1978-04",
+    "recording_year": 1978,
+    "release_year": 1979,
+    "original_issue": "Milestone M-55005 (2-LP, Don't Stop the Carnival; dated 1979 by jazzdisco, 1978 by Wikipedia)",
+    "personnel": "Sonny Rollins (tenor saxophone), Mark Soskin (piano), Aurell Ray (electric guitar), Jerome Harris (electric bass), Tony Williams (drums)",
+    "style": "post-bop",
+    "year": 1978,
+    "year_lo": 1978,
+    "year_hi": 1978,
+    "year_label": "1978",
+    "trivia": "Rollins had also recorded this tune in 1962 for the album What's New and returned to it for this live set at San Francisco's Great American Music Hall. AllMusic's Scott Yanow singled out this version and Autumn Nocturne as the memorable ones.",
+    "tags": [
+      "1970s",
+      "post-bop",
+      "milestone",
+      "live"
+    ],
+    "track": {
+      "artist": "Sonny Rollins",
+      "title": "Don't Stop the Carnival",
+      "album": "Don't Stop the Carnival",
+      "duration": "8:46",
+      "isrc": null,
+      "query": "Sonny Rollins Don't Stop the Carnival live Great American Music Hall 1978",
+      "notes": "live 1978 Great American Music Hall version (8:46) from Milestone M-55005, not the 1962 studio recording on What's New or the 1976 Turin live version"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://www.jazzdisco.org/sonny-rollins/discography/",
+      "https://en.wikipedia.org/wiki/Don't_Stop_the_Carnival_(Sonny_Rollins_album)"
+    ],
+    "notes": "Live at the Great American Music Hall, San Francisco, 13-15 Apr 1978 (jazzdisco and Wikipedia agree); day of this track not given, so month used. CONFLICT on release: jazzdisco lists Milestone M-55005 under 1979, Wikipedia says 1978; 1979 kept (discography preferred), gap at most one year either way. Donald Byrd plays only on later tracks (5-10 per Wikipedia, 5-9 per jazzdisco), not on this opener. Wikipedia credits the tune as traditional. Rollins is credited with tenor and soprano saxophone on the album; the instrument on this track is assumed tenor."
+  },
+  {
+    "id": "jazz-vaughan-how-long-has-this-been-going-on",
+    "artist": "Sarah Vaughan",
+    "title": "How Long Has This Been Going On?",
+    "composer": "George Gershwin, Ira Gershwin",
+    "recording_date": "1978-04-25",
+    "recording_year": 1978,
+    "release_year": 1978,
+    "original_issue": "Pablo (LP, How Long Has This Been Going On?, 1978; catalogue number not verified)",
+    "personnel": "Sarah Vaughan (vocal), Oscar Peterson (piano), Joe Pass (guitar), Ray Brown (double bass), Louie Bellson (drums)",
+    "style": "vocal",
+    "year": 1978,
+    "year_lo": 1978,
+    "year_hi": 1978,
+    "year_label": "1978",
+    "trivia": "Vaughan is accompanied by a quartet led by Oscar Peterson, with Joe Pass on guitar, in a session produced by Norman Granz for his Pablo label. This is the title track of the 1978 album.",
+    "tags": [
+      "1970s",
+      "vocal",
+      "pablo"
+    ],
+    "track": {
+      "artist": "Sarah Vaughan",
+      "title": "How Long Has This Been Going On?",
+      "album": "How Long Has This Been Going On?",
+      "duration": "6:03",
+      "isrc": null,
+      "query": "Sarah Vaughan Oscar Peterson How Long Has This Been Going On 1978 Pablo",
+      "notes": "studio title track (6:03) from the 1978 Pablo album with the Oscar Peterson quartet, not another Vaughan version"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/How_Long_Has_This_Been_Going_On?_(Sarah_Vaughan_album)"
+    ],
+    "notes": "Wikipedia's infobox gives a single recording date, 25 Apr 1978, for the album and no studio; used for this track. Released 1978, month not stated. Single source; Pablo catalogue number not verified."
+  },
+  {
+    "id": "jazz-bob-james-angela-theme-from-taxi",
+    "artist": "Bob James",
+    "title": "Angela (Theme from Taxi)",
+    "composer": "Bob James",
+    "recording_date": null,
+    "recording_year": 1978,
+    "release_year": 1978,
+    "original_issue": "Tappan Zee/Columbia (LP, Touchdown, 20 Jul 1978; catalogue number not verified)",
+    "personnel": "Bob James (acoustic piano, Yamaha electric grand piano, Fender Rhodes, Oberheim synthesizer, arranger, conductor), Eric Gale (guitar solo), Gary King (electric bass), Idris Muhammad (drums), Ralph MacDonald (percussion), plus brass, woodwinds and strings credited album-wide",
+    "style": "smooth",
+    "year": 1978,
+    "year_lo": 1978,
+    "year_hi": 1978,
+    "year_label": "1978",
+    "trivia": "It was named after a guest character in an early episode of the sitcom Taxi, then promoted to the show's main theme when the producers preferred it to their first choice, which became this album's title track.",
+    "tags": [
+      "1970s",
+      "smooth",
+      "columbia",
+      "tv-theme",
+      "taxi"
+    ],
+    "track": {
+      "artist": "Bob James",
+      "title": "Angela (Theme from Taxi)",
+      "album": "Touchdown",
+      "duration": "5:48",
+      "isrc": null,
+      "query": "Bob James Angela Theme from Taxi Touchdown 1978",
+      "notes": "album version (5:48) from Touchdown, not a shorter TV edit"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Touchdown_(Bob_James_album)"
+    ],
+    "notes": "Wikipedia gives the recording year as 1978 with studios CBS, Sound Mixers and A&R in New York; no month or day, so only the year is recorded. Released 20 Jul 1978. The guest character episode was Blind Date, the third of season one (Wikipedia). Personnel for track 1 from the Wikipedia credits. Single source; catalogue number not verified."
+  },
+  {
+    "id": "jazz-spyro-gyra-morning-dance",
+    "artist": "Spyro Gyra",
+    "title": "Morning Dance",
+    "composer": "Jay Beckenstein",
+    "recording_date": null,
+    "recording_year": 1978,
+    "release_year": 1979,
+    "original_issue": "Infinity/MCA (LP, Morning Dance, 9 Mar 1979; catalogue number not verified)",
+    "personnel": "Jay Beckenstein (alto saxophone), Jeremy Wall (electric piano), John Tropea (electric and acoustic guitars), Jim Kurzdorfer (bass), Ted Reinhardt (drums), Rubens Bassini (congas, percussion), Dave Samuels (marimba, steel drums)",
+    "style": "smooth",
+    "year": 1978,
+    "year_lo": 1978,
+    "year_hi": 1978,
+    "year_label": "1978",
+    "trivia": "The title piece reached No. 24 on the Billboard Hot 100 and topped the adult contemporary chart. The album was certified gold in the United States in September 1979.",
+    "tags": [
+      "1970s",
+      "smooth",
+      "mca",
+      "fusion"
+    ],
+    "track": {
+      "artist": "Spyro Gyra",
+      "title": "Morning Dance",
+      "album": "Morning Dance",
+      "duration": "3:58",
+      "isrc": null,
+      "query": "Spyro Gyra Morning Dance 1979 album",
+      "notes": "album version (3:58) from Morning Dance, not a live or later re-recorded version"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Morning_Dance"
+    ],
+    "notes": "Wikipedia gives only 1978 as the recording year (several New York-state studios); no month or day, so only the year is recorded. Released 9 Mar 1979, a one-year gap. Per-track credits from the Wikipedia track-listing personnel; horn and string players credited album-wide are left out. The album was certified gold on 19 Sep 1979 (Wikipedia). Single source; label shown as Infinity/MCA, catalogue number not verified."
+  },
+  {
+    "id": "jazz-crusaders-street-life",
+    "artist": "The Crusaders",
+    "title": "Street Life",
+    "composer": "Will Jennings, Joe Sample",
+    "recording_date": null,
+    "recording_year": 1979,
+    "release_year": 1979,
+    "original_issue": "MCA (LP, Street Life, May 1979; catalogue number not verified)",
+    "personnel": "Joe Sample (keyboards, horn and string arrangements), Wilton Felder (tenor saxophone, electric bass), Stix Hooper (drums, percussion), Randy Crawford (vocals), Arthur Adams, Roland Bautista and Billy Rogers (guitars), Paulinho da Costa (percussion), plus horn section",
+    "style": "jazz-funk",
+    "year": 1979,
+    "year_lo": 1979,
+    "year_hi": 1979,
+    "year_label": "1979",
+    "trivia": "With Randy Crawford on vocals, the title track reached No. 5 on the UK Singles Chart and No. 36 on the US pop chart. Doc Severinsen later re-recorded it with Crawford for the film Sharky's Machine.",
+    "tags": [
+      "1970s",
+      "jazz-funk",
+      "mca",
+      "vocal",
+      "randy-crawford"
+    ],
+    "track": {
+      "artist": "The Crusaders",
+      "title": "Street Life",
+      "album": "Street Life",
+      "duration": "11:18",
+      "isrc": null,
+      "query": "The Crusaders Randy Crawford Street Life 1979",
+      "notes": "album version (11:18) with Randy Crawford from Street Life, not the shorter single edit or the 1981 Doc Severinsen re-recording"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Street_Life_(The_Crusaders_album)"
+    ],
+    "notes": "Wikipedia gives the recording year as 1979 (Hollywood Sound, Hollywood) and release as May 1979; no month or day for the sessions, so only the year is recorded. Per-track credits for track 1 from the Wikipedia personnel list; horn section there is Jerome Richardson, William Green, Robert Bryant Jr., Maurice Spears, Garnett Brown, Oscar Brashear and Bobby Bryant Sr. Billing shown as The Crusaders (Wikipedia says the title track features Randy Crawford). Single source; catalogue number not verified."
+  },
+  {
+    "id": "jazz-manhattan-transfer-birdland",
+    "artist": "The Manhattan Transfer",
+    "title": "Birdland",
+    "composer": "Joe Zawinul; lyrics Jon Hendricks",
+    "recording_date": null,
+    "recording_year": 1979,
+    "release_year": 1979,
+    "original_issue": "Atlantic (LP, Extensions, 31 Oct 1979; catalogue number not verified)",
+    "personnel": "Cheryl Bentyne, Tim Hauser, Alan Paul and Janis Siegel (vocals), Michael Omartian (acoustic piano), Michael Boddicker (synthesizers), David Hungate (bass guitar), Ralph Humphrey and Jeff Porcaro (drums), Richie Cole (alto saxophone)",
+    "style": "vocal",
+    "year": 1979,
+    "year_lo": 1979,
+    "year_hi": 1979,
+    "year_label": "1979",
+    "trivia": "Jon Hendricks wrote the vocalese lyrics to Joe Zawinul's Weather Report tune, and Janis Siegel received a Grammy for her vocal arrangement. It is the most widely known song on the album, which was the first with Cheryl Bentyne.",
+    "tags": [
+      "1970s",
+      "vocal",
+      "atlantic",
+      "vocalese",
+      "fusion"
+    ],
+    "track": {
+      "artist": "The Manhattan Transfer",
+      "title": "Birdland",
+      "album": "Extensions",
+      "duration": "6:00",
+      "isrc": null,
+      "query": "The Manhattan Transfer Birdland Extensions 1979",
+      "notes": "vocal version with Jon Hendricks lyrics (6:00) from Extensions, not the Weather Report instrumental"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Extensions_(The_Manhattan_Transfer_album)",
+      "https://en.wikipedia.org/wiki/Birdland_(Weather_Report_song)"
+    ],
+    "notes": "No recording date is given anywhere: the Wikipedia infobox recorded field is empty (basic tracks at Dawnbreaker, San Fernando; overdubs at Garden Rake, Studio City). Year 1979 is INFERRED because the album was released 31 Oct 1979 and is the first with Cheryl Bentyne, who replaced Laurel Masse in early 1979. Hence medium. Per-track credits taken from the Wikipedia track-numbered personnel list for track 1 (Birdland is track 1). Single source for sessions; catalogue number not verified."
+  }
+]

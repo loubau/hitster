@@ -1,0 +1,1159 @@
+[
+  {
+    "id": "reg-chubby-checker-the-twist",
+    "artist": "Chubby Checker",
+    "title": "The Twist",
+    "year": 1960,
+    "year_lo": 1960,
+    "year_hi": 1960,
+    "year_label": "1960",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "Hank Ballard wrote and first recorded it, but Chubby Checker's version is the one that started the dance craze. It reached number one in the US twice, in 1960 and again in 1962.",
+    "tags": [
+      "1960s",
+      "rock-n-roll",
+      "twist",
+      "us"
+    ],
+    "track": {
+      "artist": "Chubby Checker",
+      "title": "The Twist",
+      "album": "Twist with Chubby Checker",
+      "duration": "2:32",
+      "isrc": null,
+      "notes": "Chubby Checker 1960 Cameo-Parkway version (not the 1988 remake)."
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Technically a cover of Hank Ballard & the Midnighters (1959 B-side), but Checker's is the famous recording."
+  },
+  {
+    "id": "reg-sam-cooke-what-a-wonderful-world",
+    "artist": "Sam Cooke",
+    "title": "(What a) Wonderful World",
+    "year": 1960,
+    "year_lo": 1960,
+    "year_hi": 1960,
+    "year_label": "1960",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "Cooke's cheerfully bad-student confession (he admits to knowing little about history, biology or French) was co-written with Lou Adler and Herb Alpert, the latter later co-founding A&M Records.",
+    "tags": [
+      "1960s",
+      "soul",
+      "pop",
+      "us"
+    ],
+    "track": {
+      "artist": "Sam Cooke",
+      "title": "(What a) Wonderful World",
+      "album": "The Wonderful World of Sam Cooke",
+      "duration": "2:05",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": null
+  },
+  {
+    "id": "reg-ben-e-king-stand-by-me",
+    "artist": "Ben E. King",
+    "title": "Stand by Me",
+    "year": 1961,
+    "year_lo": 1961,
+    "year_hi": 1961,
+    "year_label": "1961",
+    "region": "intl",
+    "in_original_hitster": false,
+    "trivia": "Ben E. King wrote it with Leiber and Stoller, building on a gospel hymn that Sam Cooke's group had recorded. The bass figure that opens the record is one of the most recognisable in pop.",
+    "tags": [
+      "1960s",
+      "soul",
+      "r&b",
+      "us"
+    ],
+    "track": {
+      "artist": "Ben E. King",
+      "title": "Stand by Me",
+      "album": "Don't Play That Song!",
+      "duration": "2:58",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Album appearance: Don't Play That Song! (1962). Not seen on any consulted Hitster edition list (NL, DE, FR, CA, Nordics); added for recognisability and decade balance."
+  },
+  {
+    "id": "reg-dion-the-wanderer",
+    "artist": "Dion",
+    "title": "The Wanderer",
+    "year": 1961,
+    "year_lo": 1961,
+    "year_hi": 1961,
+    "year_label": "1961",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "Dion had just left the Belmonts and went solo. Songwriter Ernie Maresca wrote this tale of a restless drifter.",
+    "tags": [
+      "1960s",
+      "doo-wop",
+      "rock-n-roll",
+      "us"
+    ],
+    "track": {
+      "artist": "Dion",
+      "title": "The Wanderer",
+      "album": "Lovers Who Wander",
+      "duration": "2:23",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Credited to Dion (solo), not Dion and the Belmonts."
+  },
+  {
+    "id": "reg-elvis-presley-cant-help-falling-in-love",
+    "artist": "Elvis Presley",
+    "title": "Can't Help Falling In Love",
+    "year": 1961,
+    "year_lo": 1961,
+    "year_hi": 1961,
+    "year_label": "1961",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "The melody comes from an 18th-century French love song. Elvis sang it in the film Blue Hawaii and kept it as a closing number at his concerts for years.",
+    "tags": [
+      "1960s",
+      "pop",
+      "ballad",
+      "us"
+    ],
+    "track": {
+      "artist": "Elvis Presley",
+      "title": "Can't Help Falling In Love",
+      "album": "Blue Hawaii",
+      "duration": "3:00",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": null
+  },
+  {
+    "id": "reg-little-eva-the-loco-motion",
+    "artist": "Little Eva",
+    "title": "The Loco-Motion",
+    "year": 1962,
+    "year_lo": 1962,
+    "year_hi": 1962,
+    "year_label": "1962",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "Gerry Goffin and Carole King wrote it, and their teenage babysitter Eva Boyd sang the demo that ended up as the record.",
+    "tags": [
+      "1960s",
+      "pop",
+      "girl-group",
+      "us"
+    ],
+    "track": {
+      "artist": "Little Eva",
+      "title": "The Loco-Motion",
+      "album": "Llllloco-Motion",
+      "duration": "2:26",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": null
+  },
+  {
+    "id": "reg-jan-and-dean-surf-city",
+    "artist": "Jan & Dean",
+    "title": "Surf City",
+    "year": 1963,
+    "year_lo": 1963,
+    "year_hi": 1963,
+    "year_label": "1963",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "Co-written by Jan Berry and Brian Wilson, it is regularly named as the first surf song to top the US singles chart.",
+    "tags": [
+      "1960s",
+      "surf",
+      "rock",
+      "us"
+    ],
+    "track": {
+      "artist": "Jan & Dean",
+      "title": "Surf City",
+      "album": "Surf City and Other Swingin' Cities",
+      "duration": "2:27",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": null
+  },
+  {
+    "id": "reg-johnny-cash-ring-of-fire",
+    "artist": "Johnny Cash",
+    "title": "Ring Of Fire",
+    "year": 1963,
+    "year_lo": 1963,
+    "year_hi": 1963,
+    "year_label": "1963",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "June Carter and Merle Kilgore wrote it about Carter's feelings for Cash. Cash said the mariachi-style trumpets came to him in a dream.",
+    "tags": [
+      "1960s",
+      "country",
+      "us"
+    ],
+    "track": {
+      "artist": "Johnny Cash",
+      "title": "Ring Of Fire",
+      "album": "Ring of Fire: The Best of Johnny Cash",
+      "duration": "2:37",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Single released Apr 1963, on the compilation album shortly after."
+  },
+  {
+    "id": "reg-the-beach-boys-surfin-u-s-a",
+    "artist": "The Beach Boys",
+    "title": "Surfin' U.S.A.",
+    "year": 1963,
+    "year_lo": 1963,
+    "year_hi": 1963,
+    "year_label": "1963",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "Brian Wilson put surf lyrics over the tune of a Chuck Berry hit. Berry's publisher took legal action and Berry eventually received a writing credit.",
+    "tags": [
+      "1960s",
+      "surf",
+      "rock",
+      "us"
+    ],
+    "track": {
+      "artist": "The Beach Boys",
+      "title": "Surfin' U.S.A.",
+      "album": "Surfin' U.S.A.",
+      "duration": "2:27",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": null
+  },
+  {
+    "id": "reg-betty-everett-its-in-his-kiss-the-shoop-shoop-song",
+    "artist": "Betty Everett",
+    "title": "It's in His Kiss (The Shoop Shoop Song)",
+    "year": 1964,
+    "year_lo": 1964,
+    "year_hi": 1964,
+    "year_label": "1964",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "An earlier 1963 version by Merry Clayton went nowhere. Betty Everett cut her recording in Chicago, and it reached the US top 10 in spring 1964.",
+    "tags": [
+      "1960s",
+      "soul",
+      "r&b",
+      "us"
+    ],
+    "track": {
+      "artist": "Betty Everett",
+      "title": "It's in His Kiss (The Shoop Shoop Song)",
+      "album": null,
+      "duration": "2:02",
+      "isrc": null,
+      "notes": "Betty Everett 1964 Vee-Jay original, not Merry Clayton or Cher."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Shoop_Shoop_Song_(It's_in_His_Kiss)"
+    ],
+    "notes": "Hitster NL spells the title 'It's In The Kiss'. Single only on Vee-Jay (1964); recorded Nov 1963."
+  },
+  {
+    "id": "reg-roy-orbison-oh-pretty-woman",
+    "artist": "Roy Orbison",
+    "title": "Oh, Pretty Woman",
+    "year": 1964,
+    "year_lo": 1964,
+    "year_hi": 1964,
+    "year_label": "1964",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "Roy Orbison and Bill Dees wrote it after Orbison's wife said she was going out, and Dees quipped that a pretty woman never needs money. It topped the charts in both the US and the UK.",
+    "tags": [
+      "1960s",
+      "rock",
+      "pop",
+      "us"
+    ],
+    "track": {
+      "artist": "Roy Orbison",
+      "title": "Oh, Pretty Woman",
+      "album": "Oh, Pretty Woman",
+      "duration": "2:57",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": null
+  },
+  {
+    "id": "reg-the-animals-the-house-of-the-rising-sun",
+    "artist": "The Animals",
+    "title": "The House of the Rising Sun",
+    "year": 1964,
+    "year_lo": 1964,
+    "year_hi": 1964,
+    "year_label": "1964",
+    "region": "intl",
+    "in_original_hitster": false,
+    "trivia": "The band reportedly cut this folk standard in virtually one take. The arrangement credit went to keyboardist Alan Price alone, which caused friction in the group.",
+    "tags": [
+      "1960s",
+      "rock",
+      "british-invasion",
+      "uk"
+    ],
+    "track": {
+      "artist": "The Animals",
+      "title": "The House of the Rising Sun",
+      "album": "The Animals",
+      "duration": "4:29",
+      "isrc": null,
+      "notes": "Original UK single version (4:29)."
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Single June 1964, album Oct 1964. Not seen on any consulted Hitster edition list (NL, DE, FR, CA, Nordics); added for recognisability and decade balance."
+  },
+  {
+    "id": "reg-the-temptations-my-girl",
+    "artist": "The Temptations",
+    "title": "My Girl",
+    "year": 1964,
+    "year_lo": 1964,
+    "year_hi": 1964,
+    "year_label": "1964",
+    "region": "intl",
+    "in_original_hitster": false,
+    "trivia": "Smokey Robinson and Ronald White of the Miracles wrote it. It was the Temptations' first US number one.",
+    "tags": [
+      "1960s",
+      "motown",
+      "soul",
+      "us"
+    ],
+    "track": {
+      "artist": "The Temptations",
+      "title": "My Girl",
+      "album": "The Temptations Sing Smokey",
+      "duration": "2:56",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Single Dec 1964, album Mar 1965. Not seen on any consulted Hitster edition list (NL, DE, FR, CA, Nordics); added for recognisability and decade balance."
+  },
+  {
+    "id": "reg-four-tops-i-cant-help-myself-sugar-pie-honey-bunch",
+    "artist": "Four Tops",
+    "title": "I Can't Help Myself (Sugar Pie, Honey Bunch)",
+    "year": 1965,
+    "year_lo": 1965,
+    "year_hi": 1965,
+    "year_label": "1965",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "A Holland-Dozier-Holland production, it gave the Four Tops their first US number one. Levi Stubbs' urgent lead drives the whole song.",
+    "tags": [
+      "1960s",
+      "motown",
+      "soul",
+      "us"
+    ],
+    "track": {
+      "artist": "Four Tops",
+      "title": "I Can't Help Myself (Sugar Pie, Honey Bunch)",
+      "album": "Four Tops Second Album",
+      "duration": "2:43",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": null
+  },
+  {
+    "id": "reg-james-brown-i-got-you-i-feel-good",
+    "artist": "James Brown",
+    "title": "I Got You (I Feel Good)",
+    "year": 1965,
+    "year_lo": 1965,
+    "year_hi": 1965,
+    "year_label": "1965",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "It became James Brown's highest-charting US pop single. The opening scream and the horn blast are among the best-known sounds in soul.",
+    "tags": [
+      "1960s",
+      "funk",
+      "soul",
+      "us"
+    ],
+    "track": {
+      "artist": "James Brown",
+      "title": "I Got You (I Feel Good)",
+      "album": "I Got You (I Feel Good)",
+      "duration": "2:46",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Single Oct 1965."
+  },
+  {
+    "id": "reg-nancy-sinatra-these-boots-are-made-for-walkin",
+    "artist": "Nancy Sinatra",
+    "title": "These Boots Are Made for Walkin'",
+    "year": 1965,
+    "year_lo": 1965,
+    "year_hi": 1965,
+    "year_label": "1965",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "Lee Hazlewood wrote it with a male singer in mind. Nancy Sinatra's cool delivery, plus a prominent upright bass line, took it to number one in both the US and the UK.",
+    "tags": [
+      "1960s",
+      "pop",
+      "us"
+    ],
+    "track": {
+      "artist": "Nancy Sinatra",
+      "title": "These Boots Are Made for Walkin'",
+      "album": "Boots",
+      "duration": "2:42",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/These_Boots_Are_Made_for_Walkin%27"
+    ],
+    "notes": "Single released 16 Dec 1965 (Reprise); hit and album (Mar 1966) came in 1966. Hitster NL lists 1965 too."
+  },
+  {
+    "id": "reg-sam-the-sham-and-the-pharaohs-wooly-bully",
+    "artist": "Sam the Sham & the Pharaohs",
+    "title": "Wooly Bully",
+    "year": 1965,
+    "year_lo": 1965,
+    "year_hi": 1965,
+    "year_label": "1965",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "The band's leader counted in with a mix of Spanish and English, and the title came from his cat's name. It became one of the best-selling singles of 1965.",
+    "tags": [
+      "1960s",
+      "rock",
+      "garage",
+      "us"
+    ],
+    "track": {
+      "artist": "Sam the Sham & the Pharaohs",
+      "title": "Wooly Bully",
+      "album": "Wooly Bully",
+      "duration": "2:20",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Wooly_Bully"
+    ],
+    "notes": "Recorded late 1964; first pressed locally on XL (1964?), national MGM release 1965. Year 1965 follows the MGM release and the common reference."
+  },
+  {
+    "id": "reg-sonny-and-cher-i-got-you-babe",
+    "artist": "Sonny & Cher",
+    "title": "I Got You Babe",
+    "year": 1965,
+    "year_lo": 1965,
+    "year_hi": 1965,
+    "year_label": "1965",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "Sonny Bono wrote it, and it reached number one in both the US and the UK in 1965. It became the duo's signature song.",
+    "tags": [
+      "1960s",
+      "pop",
+      "folk-rock",
+      "us"
+    ],
+    "track": {
+      "artist": "Sonny & Cher",
+      "title": "I Got You Babe",
+      "album": "Look at Us",
+      "duration": "3:09",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": null
+  },
+  {
+    "id": "reg-the-rolling-stones-i-cant-get-no-satisfaction",
+    "artist": "The Rolling Stones",
+    "title": "(I Can't Get No) Satisfaction",
+    "year": 1965,
+    "year_lo": 1965,
+    "year_hi": 1965,
+    "year_label": "1965",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "Keith Richards dreamed up the riff and recorded a rough version on a tape recorder at his bedside. A fuzz pedal gave the guitar its snarl.",
+    "tags": [
+      "1960s",
+      "rock",
+      "british-invasion",
+      "uk"
+    ],
+    "track": {
+      "artist": "The Rolling Stones",
+      "title": "(I Can't Get No) Satisfaction",
+      "album": "Out of Our Heads",
+      "duration": "3:43",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "UK single Aug 1965, US single Jun 1965. Not on the Hitster NL list; seen on the Hitster Germany edition list."
+  },
+  {
+    "id": "reg-percy-sledge-when-a-man-loves-a-woman",
+    "artist": "Percy Sledge",
+    "title": "When a Man Loves a Woman",
+    "year": 1966,
+    "year_lo": 1966,
+    "year_hi": 1966,
+    "year_label": "1966",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "Percy Sledge cut it in Muscle Shoals, Alabama. It was his first big hit and went to number one in the US.",
+    "tags": [
+      "1960s",
+      "soul",
+      "us"
+    ],
+    "track": {
+      "artist": "Percy Sledge",
+      "title": "When a Man Loves a Woman",
+      "album": "When a Man Loves a Woman",
+      "duration": "2:54",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": null
+  },
+  {
+    "id": "reg-the-beach-boys-good-vibrations",
+    "artist": "The Beach Boys",
+    "title": "Good Vibrations",
+    "year": 1966,
+    "year_lo": 1966,
+    "year_hi": 1966,
+    "year_label": "1966",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "Brian Wilson built it from fragments recorded in several studios over months, an expensive process for a single at the time. An electro-theremin gives the chorus its eerie wobble.",
+    "tags": [
+      "1960s",
+      "pop",
+      "psychedelic",
+      "us"
+    ],
+    "track": {
+      "artist": "The Beach Boys",
+      "title": "Good Vibrations",
+      "album": "Smiley Smile",
+      "duration": "3:36",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Single Oct 1966; first on album Smiley Smile (1967). Not on the Hitster NL list; seen on the Hitster Germany edition list."
+  },
+  {
+    "id": "reg-the-monkees-im-a-believer",
+    "artist": "The Monkees",
+    "title": "I'm a Believer",
+    "year": 1966,
+    "year_lo": 1966,
+    "year_hi": 1966,
+    "year_label": "1966",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "Neil Diamond wrote it, and the Monkees' version became one of the biggest sellers of 1966 and 1967. It topped the charts in the US and the UK.",
+    "tags": [
+      "1960s",
+      "pop",
+      "us"
+    ],
+    "track": {
+      "artist": "The Monkees",
+      "title": "I'm a Believer",
+      "album": "More of the Monkees",
+      "duration": "2:47",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Single Nov 1966; album Jan 1967."
+  },
+  {
+    "id": "reg-the-supremes-you-cant-hurry-love",
+    "artist": "The Supremes",
+    "title": "You Can't Hurry Love",
+    "year": 1966,
+    "year_lo": 1966,
+    "year_hi": 1966,
+    "year_label": "1966",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "Holland-Dozier-Holland wrote it, and the song is propelled by James Jamerson's bass playing. It was a US number one.",
+    "tags": [
+      "1960s",
+      "motown",
+      "soul",
+      "us"
+    ],
+    "track": {
+      "artist": "The Supremes",
+      "title": "You Can't Hurry Love",
+      "album": "The Supremes A' Go-Go",
+      "duration": "2:56",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": null
+  },
+  {
+    "id": "reg-tom-jones-green-green-grass-of-home",
+    "artist": "Tom Jones",
+    "title": "Green, Green Grass of Home",
+    "year": 1966,
+    "year_lo": 1966,
+    "year_hi": 1966,
+    "year_label": "1966",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "Written by Curly Putman and first recorded by Porter Wagoner, it was Tom Jones's second UK number one. The cheerful homecoming turns out to be a dream, as the narrator is actually awaiting execution.",
+    "tags": [
+      "1960s",
+      "pop",
+      "country",
+      "uk"
+    ],
+    "track": {
+      "artist": "Tom Jones",
+      "title": "Green, Green Grass of Home",
+      "album": "Green, Green Grass of Home",
+      "duration": "3:05",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Cover of Porter Wagoner (1965), but Jones's is the famous recording. UK single Nov 1966."
+  },
+  {
+    "id": "reg-aretha-franklin-respect",
+    "artist": "Aretha Franklin",
+    "title": "Respect",
+    "year": 1967,
+    "year_lo": 1967,
+    "year_hi": 1967,
+    "year_label": "1967",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "Otis Redding wrote and recorded it first. Aretha added the spelled-out R-E-S-P-E-C-T hook and the sock-it-to-me backing vocals.",
+    "tags": [
+      "1960s",
+      "soul",
+      "us"
+    ],
+    "track": {
+      "artist": "Aretha Franklin",
+      "title": "Respect",
+      "album": "I Never Loved a Man the Way I Love You",
+      "duration": "2:25",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Cover of Otis Redding (1965), but Aretha's is the famous recording."
+  },
+  {
+    "id": "reg-erma-franklin-piece-of-my-heart",
+    "artist": "Erma Franklin",
+    "title": "Piece of My Heart",
+    "year": 1967,
+    "year_lo": 1967,
+    "year_hi": 1967,
+    "year_label": "1967",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "Erma Franklin, Aretha's older sister, recorded the original. Janis Joplin's version came a year later.",
+    "tags": [
+      "1960s",
+      "soul",
+      "r&b",
+      "us"
+    ],
+    "track": {
+      "artist": "Erma Franklin",
+      "title": "Piece of My Heart",
+      "album": null,
+      "duration": "3:10",
+      "isrc": null,
+      "notes": "Erma Franklin original, not Janis Joplin."
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Single on Shout Records (1967). The song was written by Bert Berns and Jerry Ragovoy."
+  },
+  {
+    "id": "reg-neil-diamond-girl-youll-be-a-woman-soon",
+    "artist": "Neil Diamond",
+    "title": "Girl, You'll Be a Woman Soon",
+    "year": 1967,
+    "year_lo": 1967,
+    "year_hi": 1967,
+    "year_label": "1967",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "An early Neil Diamond hit that returned to fame in the 1990s through a film soundtrack cover.",
+    "tags": [
+      "1960s",
+      "pop",
+      "us"
+    ],
+    "track": {
+      "artist": "Neil Diamond",
+      "title": "Girl, You'll Be a Woman Soon",
+      "album": "Just for You",
+      "duration": "2:55",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Single Sept 1967; album Dec 1967."
+  },
+  {
+    "id": "reg-the-doors-light-my-fire",
+    "artist": "The Doors",
+    "title": "Light My Fire",
+    "year": 1967,
+    "year_lo": 1967,
+    "year_hi": 1967,
+    "year_label": "1967",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "Guitarist Robby Krieger wrote most of the song. The album version has a long organ solo from Ray Manzarek that radio edits trimmed.",
+    "tags": [
+      "1960s",
+      "rock",
+      "psychedelic",
+      "us"
+    ],
+    "track": {
+      "artist": "The Doors",
+      "title": "Light My Fire",
+      "album": "The Doors",
+      "duration": "7:06",
+      "isrc": null,
+      "notes": "Prefer the 7:06 album version over the radio edit."
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Album Jan 1967, single Apr 1967 (edited). Album version preferred. Not on the Hitster NL list; seen on the Hitster Canada edition list."
+  },
+  {
+    "id": "reg-van-morrison-brown-eyed-girl",
+    "artist": "Van Morrison",
+    "title": "Brown Eyed Girl",
+    "year": 1967,
+    "year_lo": 1967,
+    "year_hi": 1967,
+    "year_label": "1967",
+    "region": "intl",
+    "in_original_hitster": false,
+    "trivia": "Van Morrison's original title was Brown Skinned Girl, changed before release. He has said he earned little from the song.",
+    "tags": [
+      "1960s",
+      "rock",
+      "pop",
+      "uk"
+    ],
+    "track": {
+      "artist": "Van Morrison",
+      "title": "Brown Eyed Girl",
+      "album": "Blowin' Your Mind!",
+      "duration": "3:05",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Single Jun 1967, album Sept 1967. Not seen on any consulted Hitster edition list (NL, DE, FR, CA, Nordics); added for recognisability and decade balance."
+  },
+  {
+    "id": "reg-cliff-richard-congratulations",
+    "artist": "Cliff Richard",
+    "title": "Congratulations",
+    "year": 1968,
+    "year_lo": 1968,
+    "year_hi": 1968,
+    "year_label": "1968",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "Cliff Richard finished second in the 1968 Eurovision Song Contest, losing to Spain by a single point.",
+    "tags": [
+      "1960s",
+      "pop",
+      "uk"
+    ],
+    "track": {
+      "artist": "Cliff Richard",
+      "title": "Congratulations",
+      "album": null,
+      "duration": "2:29",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Single Mar 1968."
+  },
+  {
+    "id": "reg-donovan-atlantis",
+    "artist": "Donovan",
+    "title": "Atlantis",
+    "year": 1968,
+    "year_lo": 1968,
+    "year_hi": 1968,
+    "year_label": "1968",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "Donovan opens with a spoken passage about the lost continent before a chanting chorus. In the US it started out as the B-side of a different single until radio flipped it.",
+    "tags": [
+      "1960s",
+      "folk",
+      "psychedelic",
+      "uk"
+    ],
+    "track": {
+      "artist": "Donovan",
+      "title": "Atlantis",
+      "album": null,
+      "duration": "5:00",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Atlantis_(Donovan_song)"
+    ],
+    "notes": "UK single released 29 Nov 1968; US release Jan 1969."
+  },
+  {
+    "id": "reg-joe-cocker-with-a-little-help-from-my-friends",
+    "artist": "Joe Cocker",
+    "title": "With a Little Help from My Friends",
+    "year": 1968,
+    "year_lo": 1968,
+    "year_hi": 1968,
+    "year_label": "1968",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "Cocker turned a cheerful Beatles song into a slow, gospel-tinged showpiece. It reached number one in the UK.",
+    "tags": [
+      "1960s",
+      "rock",
+      "blues",
+      "uk"
+    ],
+    "track": {
+      "artist": "Joe Cocker",
+      "title": "With a Little Help from My Friends",
+      "album": "With a Little Help from My Friends",
+      "duration": "5:08",
+      "isrc": null,
+      "notes": "Joe Cocker version, not the Beatles."
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Single Oct 1968 (UK), album May 1969. Hitster NL lists 1969. Cover of The Beatles (1967) as a track. Hitster NL list shows 1969; card uses 1968."
+  },
+  {
+    "id": "reg-marvin-gaye-i-heard-it-through-the-grapevine",
+    "artist": "Marvin Gaye",
+    "title": "I Heard It Through the Grapevine",
+    "year": 1968,
+    "year_lo": 1968,
+    "year_hi": 1968,
+    "year_label": "1968",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "Marvin Gaye cut it before Gladys Knight and the Pips released their version, but Motown shelved his until later. It became one of the label's best-selling singles of the decade.",
+    "tags": [
+      "1960s",
+      "motown",
+      "soul",
+      "us"
+    ],
+    "track": {
+      "artist": "Marvin Gaye",
+      "title": "I Heard It Through the Grapevine",
+      "album": "In the Groove",
+      "duration": "3:15",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Cover of Gladys Knight & the Pips (1967), but Gaye's is the famous recording. Album In the Groove Aug 1968, single Oct 1968."
+  },
+  {
+    "id": "reg-simon-and-garfunkel-mrs-robinson",
+    "artist": "Simon & Garfunkel",
+    "title": "Mrs. Robinson",
+    "year": 1968,
+    "year_lo": 1968,
+    "year_hi": 1968,
+    "year_label": "1968",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "It was written for the film The Graduate. Paul Simon has said the title character was first going to be Mrs. Roosevelt.",
+    "tags": [
+      "1960s",
+      "folk-rock",
+      "us"
+    ],
+    "track": {
+      "artist": "Simon & Garfunkel",
+      "title": "Mrs. Robinson",
+      "album": "Bookends",
+      "duration": "4:03",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Not on the Hitster NL list; seen on the Hitster Canada edition list."
+  },
+  {
+    "id": "reg-steppenwolf-born-to-be-wild",
+    "artist": "Steppenwolf",
+    "title": "Born to Be Wild",
+    "year": 1968,
+    "year_lo": 1968,
+    "year_hi": 1968,
+    "year_label": "1968",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "The phrase heavy metal thunder is often named as the first use of the term heavy metal in a rock lyric.",
+    "tags": [
+      "1960s",
+      "rock",
+      "hard-rock",
+      "us"
+    ],
+    "track": {
+      "artist": "Steppenwolf",
+      "title": "Born to Be Wild",
+      "album": "Steppenwolf",
+      "duration": "3:29",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Album Jan 1968, single Jun 1968."
+  },
+  {
+    "id": "reg-the-beatles-hey-jude",
+    "artist": "The Beatles",
+    "title": "Hey Jude",
+    "year": 1968,
+    "year_lo": 1968,
+    "year_hi": 1968,
+    "year_label": "1968",
+    "region": "intl",
+    "in_original_hitster": false,
+    "trivia": "Paul McCartney wrote it to comfort John Lennon's young son Julian during his parents' split. At over seven minutes, it was an unusually long single for its day.",
+    "tags": [
+      "1960s",
+      "rock",
+      "pop",
+      "uk"
+    ],
+    "track": {
+      "artist": "The Beatles",
+      "title": "Hey Jude",
+      "album": "Past Masters",
+      "duration": "7:05",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Single only on release (Aug 1968). Not seen on any consulted Hitster edition list (NL, DE, FR, CA, Nordics); added for recognisability and decade balance."
+  },
+  {
+    "id": "reg-led-zeppelin-whole-lotta-love",
+    "artist": "Led Zeppelin",
+    "title": "Whole Lotta Love",
+    "year": 1969,
+    "year_lo": 1969,
+    "year_hi": 1969,
+    "year_label": "1969",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "The song borrowed from a Willie Dixon blues, which later led to a settlement and a credit. The swirling noises in the middle were made with a theremin and studio tricks.",
+    "tags": [
+      "1960s",
+      "hard-rock",
+      "uk"
+    ],
+    "track": {
+      "artist": "Led Zeppelin",
+      "title": "Whole Lotta Love",
+      "album": "Led Zeppelin II",
+      "duration": "5:33",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Album Oct 1969. Not on the Hitster NL list; seen on the Hitster Germany edition list."
+  },
+  {
+    "id": "reg-neil-diamond-sweet-caroline",
+    "artist": "Neil Diamond",
+    "title": "Sweet Caroline",
+    "year": 1969,
+    "year_lo": 1969,
+    "year_hi": 1969,
+    "year_label": "1969",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "Diamond has said he wrote it after seeing a photograph of the young Caroline Kennedy. It later became a stadium sing-along, most famously at Boston's Fenway Park.",
+    "tags": [
+      "1960s",
+      "pop",
+      "us"
+    ],
+    "track": {
+      "artist": "Neil Diamond",
+      "title": "Sweet Caroline",
+      "album": "Brother Love's Travelling Salvation Show",
+      "duration": "3:21",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Single May 1969; album Jan 1970."
+  },
+  {
+    "id": "reg-the-archies-sugar-sugar",
+    "artist": "The Archies",
+    "title": "Sugar, Sugar",
+    "year": 1969,
+    "year_lo": 1969,
+    "year_hi": 1969,
+    "year_label": "1969",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "The Archies were a cartoon band, with the lead vocals sung by studio singer Ron Dante. The song spent four weeks at number one in the US.",
+    "tags": [
+      "1960s",
+      "bubblegum",
+      "pop",
+      "us"
+    ],
+    "track": {
+      "artist": "The Archies",
+      "title": "Sugar, Sugar",
+      "album": "Everything's Archie",
+      "duration": "2:48",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": null
+  },
+  {
+    "id": "reg-the-beatles-get-back",
+    "artist": "The Beatles",
+    "title": "Get Back",
+    "year": 1969,
+    "year_lo": 1969,
+    "year_hi": 1969,
+    "year_label": "1969",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "The single was credited to the Beatles with Billy Preston, a rare guest credit for the band. The track grew out of rehearsals that ended in the rooftop concert.",
+    "tags": [
+      "1960s",
+      "rock",
+      "uk"
+    ],
+    "track": {
+      "artist": "The Beatles",
+      "title": "Get Back",
+      "album": "Past Masters",
+      "duration": "3:09",
+      "isrc": null,
+      "notes": "Single version."
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Single (Apr 1969); a different mix is on the album Let It Be (1970)."
+  }
+]

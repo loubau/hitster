@@ -1,0 +1,1992 @@
+[
+  {
+    "id": "cls-weber-der-freischutz-overture",
+    "composer": "Carl Maria von Weber",
+    "composer_short": "Weber",
+    "work": "Der Freischütz, J. 277 (Overture)",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "opera",
+    "accept_work": "Weber's Der Freischütz (the overture)",
+    "excerpt": "Overture",
+    "year": 1820,
+    "year_lo": 1817,
+    "year_hi": 1821,
+    "year_label": "1817–1821 (overture 1820)",
+    "premiere_or_publication": "Opera premiered 18 June 1821, Berlin; the overture was heard earlier, in Copenhagen in October 1820",
+    "dating_note": "Weber worked on the opera 1817–1821 and finished the overture in May 1820 as the last piece needed; it was played in Copenhagen that October, months before the opera opened.",
+    "recording": {
+      "performers": "Any well-reviewed recording",
+      "conductor": null,
+      "label": null,
+      "year": null,
+      "why": "Any lively recording; the horn quartet and the 'Wolf's Glen' tremolos should be eerie."
+    },
+    "trivia": "The overture previews the opera's best tunes, including its eerie 'Wolf's Glen' music, and helped establish German Romantic opera. Liszt later made a piano transcription of it (1846).",
+    "tags": [
+      "romantic",
+      "opera",
+      "overture",
+      "german-romantic-opera"
+    ],
+    "track": {
+      "query": "Weber Der Freischutz Overture",
+      "album": null,
+      "duration": "~10:00",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Der_Freisch%C3%BCtz",
+      "https://www.cambridge.org/core/books/abs/orchestral-masterpieces-under-the-microscope/weber-overture-der-freischutz/538C01B90A2C945FB465A9BADB2AE086"
+    ],
+    "notes": "Overture date from secondary sources (autograph dated 1820, Copenhagen performance October 1820); Wikipedia gives the 1821 premiere and Liszt transcription. Wide-ish range to cover opera dates."
+  },
+  {
+    "id": "cls-schubert-symphony-8-unfinished",
+    "composer": "Franz Schubert",
+    "composer_short": "Schubert",
+    "work": "Symphony in B minor, D 759 ('Unfinished')",
+    "nickname": "Unfinished Symphony",
+    "catalogue_only": false,
+    "form": "symphony",
+    "accept_work": "Schubert's Unfinished Symphony",
+    "excerpt": "I. Allegro moderato",
+    "year": 1822,
+    "year_lo": 1822,
+    "year_hi": 1822,
+    "year_label": "1822",
+    "premiere_or_publication": "First performed 17 December 1865 in Vienna; score published 1867",
+    "dating_note": "Begun in 1822 and left with two movements; dated by composition, not by the 1865 premiere.",
+    "recording": {
+      "performers": "Vienna Philharmonic",
+      "conductor": "Carlos Kleiber",
+      "label": "Deutsche Grammophon",
+      "year": null,
+      "why": "Celebrated late-1970s account; year not checked"
+    },
+    "trivia": "Schubert passed the score to his friend Anselm Hüttenbrenner, and it sat unperformed until 1865, more than forty years after it was written. Why he stopped after two movements is still unexplained.",
+    "tags": [
+      "romantic",
+      "symphony",
+      "symphony",
+      "unfinished",
+      "posthumous-premiere"
+    ],
+    "track": {
+      "query": "Schubert Symphony No. 8 Unfinished Allegro moderato Kleiber",
+      "album": null,
+      "duration": "~13:00",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Symphony_No._8_(Schubert)"
+    ],
+    "notes": "Recording from memory."
+  },
+  {
+    "id": "cls-beethoven-symphony-9",
+    "composer": "Ludwig van Beethoven",
+    "composer_short": "Beethoven",
+    "work": "Symphony No. 9 in D minor, Op. 125 ('Choral')",
+    "nickname": "Choral Symphony",
+    "catalogue_only": false,
+    "form": "symphony",
+    "accept_work": "Beethoven's Symphony No. 9 (Choral / Ode to Joy)",
+    "excerpt": "IV. 'Ode to Joy' theme",
+    "year": 1824,
+    "year_lo": 1822,
+    "year_hi": 1824,
+    "year_label": "1822–1824",
+    "premiere_or_publication": "Premiered in Vienna, 7 May 1824",
+    "dating_note": "Main composition between autumn 1822 and completion of the autograph in February 1824 (Wikipedia).",
+    "recording": {
+      "performers": "Bayreuth Festival Orchestra and Chorus",
+      "conductor": "Wilhelm Furtwängler",
+      "label": "EMI (now Warner)",
+      "year": 1951,
+      "why": "Famous live account from the 1951 Bayreuth Festival reopening"
+    },
+    "trivia": "London's Philharmonic Society first commissioned it in 1817, but Beethoven only finished it in 1824. The finale sets Schiller's 'Ode to Joy' and was one of the first times a major composer brought a chorus into a symphony.",
+    "tags": [
+      "romantic",
+      "symphony",
+      "symphony",
+      "choral",
+      "ode-to-joy"
+    ],
+    "track": {
+      "query": "Beethoven Symphony No. 9 Ode to Joy Furtwangler Bayreuth 1951",
+      "album": null,
+      "duration": "~5:00",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Symphony_No._9_(Beethoven)"
+    ],
+    "notes": "Recording year/venue from memory. Beethoven total across parts 4-5: 8 cards."
+  },
+  {
+    "id": "cls-schubert-ellens-dritter-gesang-ave-maria",
+    "composer": "Franz Schubert",
+    "composer_short": "Schubert",
+    "work": "Ellens dritter Gesang ('Ave Maria'), D 839",
+    "nickname": "Ave Maria",
+    "catalogue_only": false,
+    "form": "song",
+    "accept_work": "Schubert's Ave Maria (Ellens dritter Gesang)",
+    "excerpt": "The complete song",
+    "year": 1825,
+    "year_lo": 1825,
+    "year_hi": 1825,
+    "year_label": "1825",
+    "premiere_or_publication": "Published 1826 as Op. 52 No. 6",
+    "dating_note": "Composed in 1825 as one of seven Walter Scott settings (Wikipedia).",
+    "recording": {
+      "performers": "Any well-reviewed recording",
+      "conductor": null,
+      "label": null,
+      "year": null,
+      "why": "Soprano or tenor with piano is standard; the Latin-text version is fine."
+    },
+    "trivia": "It was written for German words from Walter Scott's poem The Lady of the Lake, sung by the heroine Ellen as she prays; the Latin 'Ave Maria' text was fitted to the melody afterwards.",
+    "tags": [
+      "romantic",
+      "song",
+      "lied",
+      "ave-maria"
+    ],
+    "track": {
+      "query": "Schubert Ave Maria Ellens dritter Gesang",
+      "album": null,
+      "duration": "~5:00",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Ellens_dritter_Gesang"
+    ],
+    "notes": "Latin text adaptation from general knowledge. Recording not named."
+  },
+  {
+    "id": "cls-mendelssohn-midsummer-nights-dream-overture",
+    "composer": "Felix Mendelssohn",
+    "composer_short": "Mendelssohn",
+    "work": "Overture to A Midsummer Night's Dream, Op. 21",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "orchestral",
+    "accept_work": "Mendelssohn's Midsummer Night's Dream Overture",
+    "excerpt": "Opening woodwind chords and fairy scherzo",
+    "year": 1826,
+    "year_lo": 1826,
+    "year_hi": 1826,
+    "year_label": "1826",
+    "premiere_or_publication": "Premiered in Stettin, 20 February 1827",
+    "dating_note": "Finished 6 August 1826, when Mendelssohn was 17 (Wikipedia). The rest of the incidental music (with the Wedding March) dates from 1842.",
+    "recording": {
+      "performers": "Any well-reviewed recording",
+      "conductor": null,
+      "label": null,
+      "year": null,
+      "why": "Any strong recording; the four opening woodwind chords and the buzzing fairy music are the point."
+    },
+    "trivia": "Mendelssohn was 17 when he finished it. Sixteen years later he returned to the play and reused the overture's themes in his incidental music.",
+    "tags": [
+      "romantic",
+      "orchestral",
+      "overture",
+      "shakespeare"
+    ],
+    "track": {
+      "query": "Mendelssohn A Midsummer Night's Dream Overture Op. 21",
+      "album": null,
+      "duration": "~12:00",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/A_Midsummer_Night's_Dream_(Mendelssohn)"
+    ],
+    "notes": "Mendelssohn total in this part: 4 cards (counts as a title, catalogue_only false)."
+  },
+  {
+    "id": "cls-schubert-winterreise",
+    "composer": "Franz Schubert",
+    "composer_short": "Schubert",
+    "work": "Winterreise, D 911",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "song",
+    "accept_work": "Schubert's Winterreise (this card plays 'Der Lindenbaum')",
+    "excerpt": "No. 5, 'Der Lindenbaum'",
+    "year": 1827,
+    "year_lo": 1827,
+    "year_hi": 1827,
+    "year_label": "1827",
+    "premiere_or_publication": "Published in two parts by Haslinger, January and December 1828",
+    "dating_note": "Part I composed February 1827, Part II October 1827 (Wikipedia).",
+    "recording": {
+      "performers": "Peter Pears (tenor); Benjamin Britten (piano)",
+      "conductor": null,
+      "label": "Decca",
+      "year": 1963,
+      "why": "Classic Aldeburgh-era recording of the whole cycle"
+    },
+    "trivia": "Schubert was still correcting the proofs of the second part days before his death in November 1828. The cycle sets 24 Wilhelm Müller poems about a rejected lover walking through winter.",
+    "tags": [
+      "romantic",
+      "song",
+      "song-cycle",
+      "lied"
+    ],
+    "track": {
+      "query": "Schubert Winterreise Der Lindenbaum Pears Britten",
+      "album": null,
+      "duration": "~4:30",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Winterreise"
+    ],
+    "notes": "Pears/Britten 1963 from memory. Accept any song from the cycle as the correct work."
+  },
+  {
+    "id": "cls-rossini-william-tell-overture",
+    "composer": "Gioachino Rossini",
+    "composer_short": "Rossini",
+    "work": "Guillaume Tell (William Tell), Overture",
+    "nickname": "William Tell Overture",
+    "catalogue_only": false,
+    "form": "opera",
+    "accept_work": "Rossini's William Tell Overture",
+    "excerpt": "Finale (the galop)",
+    "year": 1829,
+    "year_lo": 1828,
+    "year_hi": 1829,
+    "year_label": "1828–1829",
+    "premiere_or_publication": "Premiered at the Paris Opéra, 3 August 1829",
+    "dating_note": "Opera composed 1828–1829 and premiered 3 August 1829; it was Rossini's last opera.",
+    "recording": {
+      "performers": "Any well-reviewed recording",
+      "conductor": null,
+      "label": null,
+      "year": null,
+      "why": "Any lively performance; the galloping finale is what matters."
+    },
+    "trivia": "It was the last of Rossini's 39 operas, after which he went into semi-retirement. The galloping finale later became the theme of the Lone Ranger on US radio and television.",
+    "tags": [
+      "romantic",
+      "opera",
+      "overture",
+      "galop"
+    ],
+    "track": {
+      "query": "Rossini William Tell Overture Finale",
+      "album": null,
+      "duration": "~3:00",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/William_Tell_Overture",
+      "https://en.wikipedia.org/wiki/William_Tell_(opera)"
+    ],
+    "notes": "Lone Ranger link from general knowledge. Composition span (1828-29) from secondary sources; Wikipedia gives the 1829 premiere."
+  },
+  {
+    "id": "cls-berlioz-symphonie-fantastique",
+    "composer": "Hector Berlioz",
+    "composer_short": "Berlioz",
+    "work": "Symphonie fantastique, Op. 14",
+    "nickname": "Fantastic Symphony",
+    "catalogue_only": false,
+    "form": "symphony",
+    "accept_work": "Berlioz's Symphonie fantastique",
+    "excerpt": "V. Songe d'une nuit du sabbat (Dies irae)",
+    "year": 1830,
+    "year_lo": 1830,
+    "year_hi": 1830,
+    "year_label": "1830",
+    "premiere_or_publication": "Premiered 5 December 1830 at the Paris Conservatoire; revised 1831–32; score printed 1845",
+    "dating_note": "Written in 1830 (Wikipedia); the revised version was heard in 1832.",
+    "recording": {
+      "performers": "Boston Symphony Orchestra",
+      "conductor": "Charles Munch",
+      "label": "RCA Victor",
+      "year": null,
+      "why": "Famous 1950s Boston recording; exact year not checked"
+    },
+    "trivia": "Berlioz's programme describes an artist who poisons himself with opium over unrequited love, with a recurring 'idée fixe' melody for the beloved. It was inspired by his obsession with the actress Harriet Smithson, whom he later married.",
+    "tags": [
+      "romantic",
+      "symphony",
+      "programme-music",
+      "symphony"
+    ],
+    "track": {
+      "query": "Berlioz Symphonie fantastique Dream of a Witches Sabbath Munch Boston",
+      "album": null,
+      "duration": "~10:00",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Symphonie_fantastique"
+    ],
+    "notes": "Munch recording from memory."
+  },
+  {
+    "id": "cls-bellini-norma-casta-diva",
+    "composer": "Vincenzo Bellini",
+    "composer_short": "Bellini",
+    "work": "Norma: 'Casta diva'",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "opera",
+    "accept_work": "Bellini's Norma ('Casta diva')",
+    "excerpt": "'Casta diva'",
+    "year": 1831,
+    "year_lo": 1831,
+    "year_hi": 1831,
+    "year_label": "1831",
+    "premiere_or_publication": "Premiered 26 December 1831, La Scala, Milan",
+    "dating_note": "Written for the December 1831 La Scala season (Wikipedia).",
+    "recording": {
+      "performers": "Maria Callas; Chorus and Orchestra of La Scala",
+      "conductor": "Tullio Serafin",
+      "label": "EMI",
+      "year": 1954,
+      "why": "Callas's first studio Norma, with a classic cast"
+    },
+    "trivia": "The star soprano Giuditta Pasta balked at 'Casta diva' in rehearsal; it is now one of the most celebrated arias of the century. It became a signature role for Maria Callas.",
+    "tags": [
+      "romantic",
+      "opera",
+      "bel-canto",
+      "soprano"
+    ],
+    "track": {
+      "query": "Bellini Norma Casta diva Callas Serafin",
+      "album": null,
+      "duration": "~6:00",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Norma_(opera)"
+    ],
+    "notes": "Callas 1954 from memory."
+  },
+  {
+    "id": "cls-chopin-etude-op-10-12-revolutionary",
+    "composer": "Frédéric Chopin",
+    "composer_short": "Chopin",
+    "work": "Étude in C minor, Op. 10 No. 12 ('Revolutionary')",
+    "nickname": "Revolutionary Étude",
+    "catalogue_only": false,
+    "form": "solo-piano",
+    "accept_work": "Chopin's Revolutionary Étude (Op. 10 No. 12)",
+    "excerpt": "The whole étude",
+    "year": 1831,
+    "year_lo": 1830,
+    "year_hi": 1832,
+    "year_label": "c. 1831",
+    "premiere_or_publication": "Published in the Op. 10 set, dedicated to Liszt",
+    "dating_note": "Written c. 1831 (Wikipedia); the nickname is not Chopin's.",
+    "recording": {
+      "performers": "Any well-reviewed recording",
+      "conductor": null,
+      "label": null,
+      "year": null,
+      "why": "Any strong pianist; the surging left-hand figure is the point."
+    },
+    "trivia": "Chopin gave his études no titles; 'Revolutionary' and 'Bombardment of Warsaw' are later labels tied to the Russian capture of Warsaw in 1831. It closes the Op. 10 set, which he dedicated to Liszt.",
+    "tags": [
+      "romantic",
+      "solo-piano",
+      "etude",
+      "chopin"
+    ],
+    "track": {
+      "query": "Chopin Revolutionary Etude Op. 10 No. 12",
+      "album": null,
+      "duration": "~2:45",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/%C3%89tude_Op._10,_No._12_(Chopin)"
+    ],
+    "notes": "Dated 'c. 1831'; widened to 1830-1832. Warsaw link is a traditional association."
+  },
+  {
+    "id": "cls-chopin-nocturne-op-9-2",
+    "composer": "Frédéric Chopin",
+    "composer_short": "Chopin",
+    "work": "Nocturne in E-flat major, Op. 9 No. 2",
+    "nickname": null,
+    "catalogue_only": true,
+    "form": "solo-piano",
+    "accept_work": "Chopin's Nocturne in E-flat, Op. 9 No. 2",
+    "excerpt": "Opening theme",
+    "year": 1832,
+    "year_lo": 1831,
+    "year_hi": 1832,
+    "year_label": "1831–1832",
+    "premiere_or_publication": "Published 1832, dedicated to Marie Pleyel",
+    "dating_note": "The three Op. 9 nocturnes were written between 1831 and 1832 (Wikipedia).",
+    "recording": {
+      "performers": "Arthur Rubinstein (piano)",
+      "conductor": null,
+      "label": "RCA Victor",
+      "year": null,
+      "why": "Rubinstein's Chopin nocturnes are a long-standing reference; exact year not checked"
+    },
+    "trivia": "John Field, an Irish composer, is widely credited with inventing the nocturne, a singing melody over rippling accompaniment. Chopin's Op. 9 No. 2 is the best-known example of the genre.",
+    "tags": [
+      "romantic",
+      "solo-piano",
+      "nocturne",
+      "chopin"
+    ],
+    "track": {
+      "query": "Chopin Nocturne Op. 9 No. 2 Rubinstein",
+      "album": null,
+      "duration": "~4:30",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Nocturnes,_Op._9_(Chopin)",
+      "https://en.wikipedia.org/wiki/Nocturnes_(Field)"
+    ],
+    "notes": "catalogue_only true: known by opus/key only. Chopin total: 4 cards."
+  },
+  {
+    "id": "cls-mendelssohn-symphony-4-italian",
+    "composer": "Felix Mendelssohn",
+    "composer_short": "Mendelssohn",
+    "work": "Symphony No. 4 in A major, Op. 90 ('Italian')",
+    "nickname": "Italian Symphony",
+    "catalogue_only": false,
+    "form": "symphony",
+    "accept_work": "Mendelssohn's Italian Symphony (No. 4)",
+    "excerpt": "I. Allegro vivace",
+    "year": 1833,
+    "year_lo": 1833,
+    "year_hi": 1833,
+    "year_label": "1833",
+    "premiere_or_publication": "Premiered May 1833 in London; published posthumously in 1851 in the original version",
+    "dating_note": "Completed 13 March 1833; revised in 1834, but the standard published version is the 1833 original (Wikipedia).",
+    "recording": {
+      "performers": "Any well-reviewed recording",
+      "conductor": null,
+      "label": null,
+      "year": null,
+      "why": "Any lively recording."
+    },
+    "trivia": "It grew out of Mendelssohn's travels in Italy in 1830–31, and he kept revising it without ever publishing it. The standard score appeared only in 1851, after his death.",
+    "tags": [
+      "romantic",
+      "symphony",
+      "symphony",
+      "travel-music"
+    ],
+    "track": {
+      "query": "Mendelssohn Symphony No. 4 Italian Allegro vivace",
+      "album": null,
+      "duration": "~10:00",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Symphony_No._4_(Mendelssohn)"
+    ],
+    "notes": "Version played = 1833 original per Wikipedia."
+  },
+  {
+    "id": "cls-chopin-fantaisie-impromptu",
+    "composer": "Frédéric Chopin",
+    "composer_short": "Chopin",
+    "work": "Fantaisie-Impromptu in C-sharp minor, Op. posth. 66",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "solo-piano",
+    "accept_work": "Chopin's Fantaisie-Impromptu",
+    "excerpt": "Opening (Allegro agitato)",
+    "year": 1834,
+    "year_lo": 1834,
+    "year_hi": 1835,
+    "year_label": "1834",
+    "premiere_or_publication": "Published posthumously in 1855, against Chopin's instructions",
+    "dating_note": "Composed in 1834 (Wikipedia); a manuscript copy is dated 1835. Posthumous works are dated to composition.",
+    "recording": {
+      "performers": "Any well-reviewed recording",
+      "conductor": null,
+      "label": null,
+      "year": null,
+      "why": "Any good pianist; fast right-hand against left-hand triplets."
+    },
+    "trivia": "Chopin ordered that his unpublished manuscripts not be printed, but this one was issued in 1855, after his death. Its middle melody became the 1918 pop song 'I'm Always Chasing Rainbows'.",
+    "tags": [
+      "romantic",
+      "solo-piano",
+      "posthumous",
+      "chopin"
+    ],
+    "track": {
+      "query": "Chopin Fantaisie-Impromptu Op. 66",
+      "album": null,
+      "duration": "~5:00",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Fantaisie-Impromptu"
+    ],
+    "notes": "'Chasing Rainbows' link from general knowledge."
+  },
+  {
+    "id": "cls-donizetti-lucia-di-lammermoor-mad-scene",
+    "composer": "Gaetano Donizetti",
+    "composer_short": "Donizetti",
+    "work": "Lucia di Lammermoor: Mad Scene ('Il dolce suono')",
+    "nickname": "The Mad Scene",
+    "catalogue_only": false,
+    "form": "opera",
+    "accept_work": "Donizetti's Lucia di Lammermoor (the Mad Scene)",
+    "excerpt": "Mad Scene, 'Il dolce suono' to 'Spargi d'amaro pianto'",
+    "year": 1835,
+    "year_lo": 1835,
+    "year_hi": 1835,
+    "year_label": "1835",
+    "premiere_or_publication": "Premiered 26 September 1835, Teatro San Carlo, Naples",
+    "dating_note": "Written in 1835, at the peak of Donizetti's reputation (Wikipedia).",
+    "recording": {
+      "performers": "Any well-reviewed recording",
+      "conductor": null,
+      "label": null,
+      "year": null,
+      "why": "Any strong coloratura soprano; the flute-and-voice cadenza is an add-on, not Donizetti's."
+    },
+    "trivia": "The famous flute-and-voice cadenza at the end of the scene was not Donizetti's: Mathilde Marchesi wrote it in 1888 for Nellie Melba.",
+    "tags": [
+      "romantic",
+      "opera",
+      "bel-canto",
+      "coloratura"
+    ],
+    "track": {
+      "query": "Donizetti Lucia di Lammermoor Mad Scene",
+      "album": null,
+      "duration": "~9:00",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Lucia_di_Lammermoor"
+    ],
+    "notes": "Cadenza story verified on Wikipedia."
+  },
+  {
+    "id": "cls-robert-schumann-traumerei",
+    "composer": "Robert Schumann",
+    "composer_short": "Robert Schumann",
+    "work": "Träumerei, from Kinderszenen, Op. 15 No. 7",
+    "nickname": "Träumerei",
+    "catalogue_only": false,
+    "form": "solo-piano",
+    "accept_work": "Schumann's Träumerei (Kinderszenen)",
+    "excerpt": "The complete piece",
+    "year": 1838,
+    "year_lo": 1838,
+    "year_hi": 1838,
+    "year_label": "1838",
+    "premiere_or_publication": "Kinderszenen published 1839",
+    "dating_note": "Kinderszenen was written in 1838 (Wikipedia).",
+    "recording": {
+      "performers": "Any well-reviewed recording",
+      "conductor": null,
+      "label": null,
+      "year": null,
+      "why": "Slow, singing performance; any good pianist."
+    },
+    "trivia": "Schumann wrote about thirty small pieces and picked thirteen for Kinderszenen ('Scenes from Childhood'). He described them as an adult's recollections of childhood meant for grown-ups, not children to play.",
+    "tags": [
+      "romantic",
+      "solo-piano",
+      "character-piece",
+      "kinderszenen"
+    ],
+    "track": {
+      "query": "Schumann Traumerei Kinderszenen Op. 15 No. 7",
+      "album": null,
+      "duration": "~2:30",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Kinderszenen"
+    ],
+    "notes": "Publication year (1839) from memory. 'Written for adults' remark paraphrased from his letters."
+  },
+  {
+    "id": "cls-chopin-piano-sonata-2-funeral-march",
+    "composer": "Frédéric Chopin",
+    "composer_short": "Chopin",
+    "work": "Piano Sonata No. 2 in B-flat minor, Op. 35 ('Funeral March')",
+    "nickname": "Funeral March Sonata",
+    "catalogue_only": false,
+    "form": "solo-piano",
+    "accept_work": "Chopin's Piano Sonata No. 2 (Funeral March)",
+    "excerpt": "III. Marche funèbre",
+    "year": 1839,
+    "year_lo": 1837,
+    "year_hi": 1839,
+    "year_label": "1837–1839",
+    "premiere_or_publication": "Published 1840",
+    "dating_note": "The sonata was completed in 1839 at Nohant. The funeral march was written at least two years earlier and is traditionally dated to 1837; a dated 28 November 1837 manuscript of eight bars in D-flat is often cited, though Kallberg doubts it belongs to the march (Wikipedia).",
+    "recording": {
+      "performers": "Any well-reviewed recording",
+      "conductor": null,
+      "label": null,
+      "year": null,
+      "why": "Any strong pianist; the march should be slow and heavy."
+    },
+    "trivia": "The funeral march came first, in or around 1837, and Chopin built the rest of the sonata around it at least two years later. It has been played at funerals all over the world, including Chopin's own.",
+    "tags": [
+      "romantic",
+      "solo-piano",
+      "funeral-march",
+      "piano-sonata"
+    ],
+    "track": {
+      "query": "Chopin Piano Sonata No. 2 Marche funebre",
+      "album": null,
+      "duration": "~8:00",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Piano_Sonata_No._2_(Chopin)"
+    ],
+    "notes": "Dated by completion of the sonata (1839), with the march earlier. If the user wants the march's own date, 1837."
+  },
+  {
+    "id": "cls-verdi-nabucco-va-pensiero",
+    "composer": "Giuseppe Verdi",
+    "composer_short": "Verdi",
+    "work": "Nabucco: Chorus of the Hebrew Slaves ('Va, pensiero')",
+    "nickname": "Va, pensiero",
+    "catalogue_only": false,
+    "form": "opera",
+    "accept_work": "Verdi's 'Va, pensiero' (Nabucco)",
+    "excerpt": "'Va, pensiero'",
+    "year": 1841,
+    "year_lo": 1841,
+    "year_hi": 1841,
+    "year_label": "1841",
+    "premiere_or_publication": "Nabucco premiered at La Scala, 9 March 1842",
+    "dating_note": "Opera composed in 1841 (Wikipedia), complete by autumn 1841.",
+    "recording": {
+      "performers": "Any well-reviewed recording",
+      "conductor": null,
+      "label": null,
+      "year": null,
+      "why": "Chorus alone or in the opera; any strong chorus."
+    },
+    "trivia": "After losing his wife and two children and then suffering a flop with his second opera, Verdi vowed to stop composing. In his own account, the Nabucco libretto fell open at this chorus and pulled him back. It is often linked with Italian unification.",
+    "tags": [
+      "romantic",
+      "opera",
+      "chorus",
+      "risorgimento"
+    ],
+    "track": {
+      "query": "Verdi Nabucco Va pensiero chorus",
+      "album": null,
+      "duration": "~5:00",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Nabucco"
+    ],
+    "notes": "La Scala date from memory. Unification association is traditional. Verdi total across parts 5-6: 4."
+  },
+  {
+    "id": "cls-glinka-ruslan-and-lyudmila-overture",
+    "composer": "Mikhail Glinka",
+    "composer_short": "Glinka",
+    "work": "Ruslan and Lyudmila, Overture",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "opera",
+    "accept_work": "Glinka's Ruslan and Lyudmila Overture",
+    "excerpt": "Overture",
+    "year": 1842,
+    "year_lo": 1837,
+    "year_hi": 1842,
+    "year_label": "1837–1842 (opera)",
+    "premiere_or_publication": "Opera premiered 27 November 1842 (Old Style), Bolshoi Kamenny Theatre, St Petersburg",
+    "dating_note": "The opera was composed between 1837 and 1842 (Wikipedia); the overture's own date is not documented separately, so the whole span is used.",
+    "recording": {
+      "performers": "Any well-reviewed recording",
+      "conductor": null,
+      "label": null,
+      "year": null,
+      "why": "Any brisk recording; speed is the point."
+    },
+    "trivia": "It is a staple concert opener, known for being a nightmare for double bass players. The overture was used as the title theme of Tetris Classic in 1992.",
+    "tags": [
+      "romantic",
+      "opera",
+      "overture",
+      "russian"
+    ],
+    "track": {
+      "query": "Glinka Ruslan and Lyudmila Overture",
+      "album": null,
+      "duration": "~5:00",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Ruslan_and_Lyudmila_(opera)"
+    ],
+    "notes": "Overture likely composed late, c. 1842, but not verified. Less-familiar pick."
+  },
+  {
+    "id": "cls-mendelssohn-wedding-march",
+    "composer": "Felix Mendelssohn",
+    "composer_short": "Mendelssohn",
+    "work": "Wedding March, from A Midsummer Night's Dream, Op. 61",
+    "nickname": "Wedding March",
+    "catalogue_only": false,
+    "form": "orchestral",
+    "accept_work": "Mendelssohn's Wedding March (A Midsummer Night's Dream)",
+    "excerpt": "Opening fanfare and march theme",
+    "year": 1842,
+    "year_lo": 1842,
+    "year_hi": 1842,
+    "year_label": "1842",
+    "premiere_or_publication": "Incidental music first staged in Potsdam in 1843",
+    "dating_note": "Written in 1842 (Wikipedia), sixteen years after the overture.",
+    "recording": {
+      "performers": "Any well-reviewed recording",
+      "conductor": null,
+      "label": null,
+      "year": null,
+      "why": "Any full orchestra recording; played at a steady wedding pace."
+    },
+    "trivia": "It became the standard recessional at weddings after being played at the 1858 marriage of Queen Victoria's eldest daughter. Wagner's Bridal Chorus is its usual partner for the bride's entrance.",
+    "tags": [
+      "romantic",
+      "orchestral",
+      "march",
+      "wedding",
+      "shakespeare"
+    ],
+    "track": {
+      "query": "Mendelssohn Wedding March A Midsummer Night's Dream",
+      "album": null,
+      "duration": "~5:00",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Wedding_March_(Mendelssohn)"
+    ],
+    "notes": "1858 royal wedding and 1843 Potsdam staging from memory."
+  },
+  {
+    "id": "cls-mendelssohn-violin-concerto-in-e-minor",
+    "composer": "Felix Mendelssohn",
+    "composer_short": "Mendelssohn",
+    "work": "Violin Concerto in E minor, Op. 64",
+    "nickname": null,
+    "catalogue_only": true,
+    "form": "concerto",
+    "accept_work": "Mendelssohn's Violin Concerto in E minor",
+    "excerpt": "I. Allegro molto appassionato",
+    "year": 1844,
+    "year_lo": 1838,
+    "year_hi": 1844,
+    "year_label": "1838–1844",
+    "premiere_or_publication": "Premiered in Leipzig in March 1845 by Ferdinand David",
+    "dating_note": "Conceived in 1838 for Ferdinand David; the autograph score is dated 16 September 1844 (Wikipedia).",
+    "recording": {
+      "performers": "Any well-reviewed recording",
+      "conductor": null,
+      "label": null,
+      "year": null,
+      "why": "No single reference named; any good recording."
+    },
+    "trivia": "Mendelssohn first wrote to his friend Ferdinand David about a violin concerto in 1838, then took another six years to finish it. The soloist enters almost at once instead of waiting through a long orchestral introduction.",
+    "tags": [
+      "romantic",
+      "concerto",
+      "violin",
+      "romantic-concerto"
+    ],
+    "track": {
+      "query": "Mendelssohn Violin Concerto E minor Allegro molto appassionato",
+      "album": null,
+      "duration": "~12:00",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Violin_Concerto_(Mendelssohn)"
+    ],
+    "notes": "Premiere month from memory (Wikipedia says 1845)."
+  },
+  {
+    "id": "cls-robert-schumann-piano-concerto",
+    "composer": "Robert Schumann",
+    "composer_short": "Robert Schumann",
+    "work": "Piano Concerto in A minor, Op. 54",
+    "nickname": null,
+    "catalogue_only": true,
+    "form": "concerto",
+    "accept_work": "Schumann's Piano Concerto in A minor",
+    "excerpt": "I. Allegro affettuoso",
+    "year": 1845,
+    "year_lo": 1841,
+    "year_hi": 1845,
+    "year_label": "1841–1845",
+    "premiere_or_publication": "Complete work premiered 4 December 1845, Dresden",
+    "dating_note": "The first movement began as a Phantasie for piano and orchestra written in May 1841; the concerto was completed in 1845 (Wikipedia).",
+    "recording": {
+      "performers": "Dinu Lipatti (piano); Philharmonia Orchestra",
+      "conductor": "Herbert von Karajan",
+      "label": "EMI",
+      "year": 1950,
+      "why": "Legendary account by a pianist who died young; Lipatti recorded this in 1950"
+    },
+    "trivia": "It grew from a one-movement Phantasie that Schumann wrote in four days in 1841 and tried unsuccessfully to sell to publishers. His wife Clara played the first movement in 1841.",
+    "tags": [
+      "romantic",
+      "concerto",
+      "piano-concerto",
+      "romantic-concerto"
+    ],
+    "track": {
+      "query": "Schumann Piano Concerto A minor Lipatti Karajan",
+      "album": null,
+      "duration": "~14:00",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Piano_Concerto_(Schumann)"
+    ],
+    "notes": "Lipatti/Karajan details from memory. Robert Schumann + Clara Schumann use distinct composer_short values."
+  },
+  {
+    "id": "cls-clara-schumann-piano-trio-in-g-minor",
+    "composer": "Clara Schumann",
+    "composer_short": "Clara Schumann",
+    "work": "Piano Trio in G minor, Op. 17",
+    "nickname": null,
+    "catalogue_only": true,
+    "form": "chamber",
+    "accept_work": "Clara Schumann's Piano Trio in G minor",
+    "excerpt": "I. Allegro moderato",
+    "year": 1846,
+    "year_lo": 1846,
+    "year_hi": 1846,
+    "year_label": "1846",
+    "premiere_or_publication": "Premiered 15 January 1847 in Vienna, with the composer at the piano",
+    "dating_note": "Composed in 1846 in Dresden (Wikipedia).",
+    "recording": {
+      "performers": "Any well-reviewed recording",
+      "conductor": null,
+      "label": null,
+      "year": null,
+      "why": "No single reference named; any good piano trio recording."
+    },
+    "trivia": "It is her only piano trio, written at 25 after intensive study of fugue. At the first rehearsal she wrote in her diary that nothing beats the joy of composing something yourself and then hearing it played.",
+    "tags": [
+      "romantic",
+      "chamber",
+      "women-composers",
+      "less-familiar",
+      "piano-trio"
+    ],
+    "track": {
+      "query": "Clara Schumann Piano Trio G minor Op. 17 Allegro moderato",
+      "album": null,
+      "duration": "~10:00",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Piano_Trio_(Clara_Schumann)"
+    ],
+    "notes": "Less-familiar pick."
+  },
+  {
+    "id": "cls-foster-oh-susanna",
+    "composer": "Stephen Foster",
+    "composer_short": "Foster",
+    "work": "Oh! Susanna",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "song",
+    "accept_work": "Stephen Foster's 'Oh! Susanna'",
+    "excerpt": "The chorus",
+    "year": 1846,
+    "year_lo": 1846,
+    "year_hi": 1848,
+    "year_label": "1846 (published 1848)",
+    "premiere_or_publication": "Published 1848; copyrighted and republished at least 21 times by 1851",
+    "dating_note": "Foster wrote it in 1846 in Cincinnati and published it in 1848 (Wikipedia).",
+    "recording": {
+      "performers": "Any well-reviewed recording",
+      "conductor": null,
+      "label": null,
+      "year": null,
+      "why": "Any simple banjo or voice performance."
+    },
+    "trivia": "It was copyrighted and published at least twenty-one times between 1848 and 1851. It became so popular with the forty-niners heading west that it is associated with the California gold rush.",
+    "tags": [
+      "romantic",
+      "song",
+      "american",
+      "folk-style"
+    ],
+    "track": {
+      "query": "Stephen Foster Oh Susanna",
+      "album": null,
+      "duration": "~2:00",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Oh!_Susanna"
+    ],
+    "notes": "Gold-rush association from general knowledge."
+  },
+  {
+    "id": "cls-adam-cantique-de-noel-o-holy-night",
+    "composer": "Adolphe Adam",
+    "composer_short": "Adam",
+    "work": "Cantique de Noël (O Holy Night)",
+    "nickname": "O Holy Night",
+    "catalogue_only": false,
+    "form": "song",
+    "accept_work": "Adam's O Holy Night (Cantique de Noël, 'Minuit, chrétiens')",
+    "excerpt": "The complete carol",
+    "year": 1847,
+    "year_lo": 1847,
+    "year_hi": 1847,
+    "year_label": "1847",
+    "premiere_or_publication": "English version by John Sullivan Dwight published 1855",
+    "dating_note": "Placide Cappeau wrote the poem on 3 December 1847 and Adam's setting dates from the same year; the exact composition date is not given in the sources checked.",
+    "recording": {
+      "performers": "Any well-reviewed recording",
+      "conductor": null,
+      "label": null,
+      "year": null,
+      "why": "Solo voice with orchestra or organ; any good tenor or soprano."
+    },
+    "trivia": "The poet, Placide Cappeau, wrote the words during a stagecoach journey from Mâcon to Dijon. The best-known English text is by the American critic John Sullivan Dwight, from 1855.",
+    "tags": [
+      "romantic",
+      "song",
+      "christmas",
+      "carol"
+    ],
+    "track": {
+      "query": "Adolphe Adam O Holy Night Cantique de Noel",
+      "album": null,
+      "duration": "~4:00",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Cantique_de_No%C3%ABl"
+    ],
+    "notes": "Adam's setting year (1847) is inferred from the poem date and secondary sources."
+  },
+  {
+    "id": "cls-liszt-hungarian-rhapsody-2",
+    "composer": "Franz Liszt",
+    "composer_short": "Liszt",
+    "work": "Hungarian Rhapsody No. 2 in C-sharp minor, S. 244/2",
+    "nickname": null,
+    "catalogue_only": true,
+    "form": "solo-piano",
+    "accept_work": "Liszt's Hungarian Rhapsody No. 2",
+    "excerpt": "Friska (fast section)",
+    "year": 1847,
+    "year_lo": 1847,
+    "year_hi": 1851,
+    "year_label": "1847 (published 1851)",
+    "premiere_or_publication": "Published as a piano solo in 1851; orchestrated with Franz Doppler in 1857–60",
+    "dating_note": "Composed 1847, published 1851 as a piano solo (Wikipedia); the orchestral version with Doppler dates from 1857-1860. The range runs to the 1851 publication.",
+    "recording": {
+      "performers": "Any well-reviewed recording",
+      "conductor": null,
+      "label": null,
+      "year": null,
+      "why": "Piano original or orchestral version (in D minor) are both fine."
+    },
+    "trivia": "Cartoons made it the most famous of the nineteen rhapsodies, notably Tom and Jerry's The Cat Concerto (1947), which won an Oscar.",
+    "tags": [
+      "romantic",
+      "solo-piano",
+      "rhapsody",
+      "cartoon-fame"
+    ],
+    "track": {
+      "query": "Liszt Hungarian Rhapsody No. 2 Friska",
+      "album": null,
+      "duration": "~10:00",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Hungarian_Rhapsody_No._2",
+      "https://en.wikipedia.org/wiki/Hungarian_Rhapsodies_(Liszt)"
+    ],
+    "notes": "Cat Concerto link from memory. Orchestral version is in a different key."
+  },
+  {
+    "id": "cls-strauss-i-radetzky-march",
+    "composer": "Johann Strauss I",
+    "composer_short": "Strauss I",
+    "work": "Radetzky March, Op. 228",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "orchestral",
+    "accept_work": "Johann Strauss I's Radetzky March",
+    "excerpt": "Main march theme",
+    "year": 1848,
+    "year_lo": 1848,
+    "year_hi": 1848,
+    "year_label": "1848",
+    "premiere_or_publication": "First performed 31 August 1848 in Vienna",
+    "dating_note": "First performed 31 August 1848 to celebrate Radetzky's victory (Wikipedia).",
+    "recording": {
+      "performers": "Any well-reviewed recording",
+      "conductor": null,
+      "label": null,
+      "year": null,
+      "why": "Any Vienna-style performance; audience clapping is optional."
+    },
+    "trivia": "It celebrated Field Marshal Radetzky's victory for the Austrian Empire in 1848. It is now the traditional encore of the Vienna Philharmonic's New Year's Concert, where the audience claps along.",
+    "tags": [
+      "romantic",
+      "orchestral",
+      "march",
+      "vienna"
+    ],
+    "track": {
+      "query": "Johann Strauss Radetzky March Op. 228",
+      "album": null,
+      "duration": "~2:30",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Radetzky_March"
+    ],
+    "notes": "Father of Johann Strauss II; kept as 'Strauss I' to avoid clashes."
+  },
+  {
+    "id": "cls-wagner-lohengrin-bridal-chorus",
+    "composer": "Richard Wagner",
+    "composer_short": "Wagner",
+    "work": "Lohengrin: Bridal Chorus ('Treulich geführt')",
+    "nickname": "Here Comes the Bride",
+    "catalogue_only": false,
+    "form": "opera",
+    "accept_work": "Wagner's Bridal Chorus from Lohengrin ('Here Comes the Bride')",
+    "excerpt": "The Bridal Chorus",
+    "year": 1848,
+    "year_lo": 1845,
+    "year_hi": 1848,
+    "year_label": "1845–1848",
+    "premiere_or_publication": "Lohengrin premiered at Weimar, 28 August 1850, conducted by Liszt",
+    "dating_note": "The opera was written and composed between 1845 and 1848 (Wikipedia); first performed 1850.",
+    "recording": {
+      "performers": "Any well-reviewed recording",
+      "conductor": null,
+      "label": null,
+      "year": null,
+      "why": "Any recording of the chorus at an opera or concert pace."
+    },
+    "trivia": "In the opera this is sung for a wedding that goes wrong: on the wedding night Elsa asks the forbidden question and the marriage ends. At real weddings it is the usual bridal entrance, paired with Mendelssohn's Wedding March on the way out.",
+    "tags": [
+      "romantic",
+      "opera",
+      "wedding",
+      "german-romantic-opera"
+    ],
+    "track": {
+      "query": "Wagner Lohengrin Bridal Chorus Treulich gefuhrt",
+      "album": null,
+      "duration": "~3:00",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Lohengrin_(opera)",
+      "https://en.wikipedia.org/wiki/Bridal_Chorus"
+    ],
+    "notes": "Weimar premiere details from memory. Wagner total in this part: 3 cards."
+  },
+  {
+    "id": "cls-farrenc-nonet-in-e-flat",
+    "composer": "Louise Farrenc",
+    "composer_short": "Farrenc",
+    "work": "Nonet in E-flat major, Op. 38",
+    "nickname": null,
+    "catalogue_only": true,
+    "form": "chamber",
+    "accept_work": "Farrenc's Nonet in E-flat",
+    "excerpt": "I. Adagio – Allegro",
+    "year": 1849,
+    "year_lo": 1849,
+    "year_hi": 1849,
+    "year_label": "1849",
+    "premiere_or_publication": "Premiered 19 March 1850 in Paris (Salle Érard), with Joseph Joachim as violinist",
+    "dating_note": "The manuscript is dated November 1849 (Wikipedia).",
+    "recording": {
+      "performers": "Any well-reviewed recording",
+      "conductor": null,
+      "label": null,
+      "year": null,
+      "why": "No single reference named; any good wind-and-strings ensemble."
+    },
+    "trivia": "It is scored for string quartet plus wind quintet, following the model of Louis Spohr's nonet. Joseph Joachim, then nineteen, was the violinist at the public premiere.",
+    "tags": [
+      "romantic",
+      "chamber",
+      "women-composers",
+      "less-familiar",
+      "nonet"
+    ],
+    "track": {
+      "query": "Louise Farrenc Nonet in E-flat Op. 38",
+      "album": null,
+      "duration": "~9:00",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Nonet_(Farrenc)",
+      "https://imslp.org/wiki/Nonet,_Op.38_(Farrenc,_Louise)"
+    ],
+    "notes": "Less-familiar pick. Premiere/Joachim detail from IMSLP."
+  },
+  {
+    "id": "cls-liszt-liebestraum-3",
+    "composer": "Franz Liszt",
+    "composer_short": "Liszt",
+    "work": "Liebesträume (Dreams of Love), Nocturne No. 3 in A-flat major, S. 541",
+    "nickname": "Liebestraum",
+    "catalogue_only": false,
+    "form": "solo-piano",
+    "accept_work": "Liszt's Liebestraum No. 3",
+    "excerpt": "Opening melody",
+    "year": 1850,
+    "year_lo": 1845,
+    "year_hi": 1850,
+    "year_label": "1850 (from earlier songs)",
+    "premiere_or_publication": "Published 1850, both as songs and as piano nocturnes",
+    "dating_note": "The three piano nocturnes were published in 1850, arranged from Liszt's own songs, which were composed earlier; range allows for that.",
+    "recording": {
+      "performers": "Any well-reviewed recording",
+      "conductor": null,
+      "label": null,
+      "year": null,
+      "why": "Any pianist; the cadenza flourishes should be audible."
+    },
+    "trivia": "Liszt first conceived the pieces as songs on poems by Uhland and Freiligrath, then issued piano versions in the same year, 1850. No. 3, a setting of 'O lieb, so lang du lieben kannst', is the famous one.",
+    "tags": [
+      "romantic",
+      "solo-piano",
+      "piano-nocturne",
+      "transcription"
+    ],
+    "track": {
+      "query": "Liszt Liebestraum No. 3 A-flat major",
+      "album": null,
+      "duration": "~4:30",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Liebestr%C3%A4ume"
+    ],
+    "notes": "Song origins (c. mid-1840s) not independently verified, hence medium confidence and a wider range."
+  },
+  {
+    "id": "cls-liszt-la-campanella",
+    "composer": "Franz Liszt",
+    "composer_short": "Liszt",
+    "work": "La campanella (Grandes études de Paganini, S. 141 No. 3)",
+    "nickname": "La campanella",
+    "catalogue_only": false,
+    "form": "solo-piano",
+    "accept_work": "Liszt's La campanella (after Paganini)",
+    "excerpt": "Main theme",
+    "year": 1851,
+    "year_lo": 1838,
+    "year_hi": 1851,
+    "year_label": "1851 (first version 1838)",
+    "premiere_or_publication": "Revised 1851 version published as Grandes études de Paganini; first version of 1838",
+    "dating_note": "The 1851 Grandes études are a revision of the 1838 Études d'exécution transcendante d'après Paganini; the 1851 version is the one usually played.",
+    "recording": {
+      "performers": "Any well-reviewed recording",
+      "conductor": null,
+      "label": null,
+      "year": null,
+      "why": "The 1851 version is standard; any good pianist."
+    },
+    "trivia": "Liszt heard Paganini play in Paris in 1832 and set out to do on the piano what Paganini did on the violin. 'La campanella' ('the little bell') is based on a rondo from Paganini's Violin Concerto No. 2.",
+    "tags": [
+      "romantic",
+      "solo-piano",
+      "transcription",
+      "virtuoso"
+    ],
+    "track": {
+      "query": "Liszt La campanella Grandes etudes de Paganini No. 3",
+      "album": null,
+      "duration": "~5:00",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Grandes_%C3%A9tudes_de_Paganini"
+    ],
+    "notes": "Dated by the revised 1851 version; the earlier 1838 version is inside the range. Paganini source concerto date (1826) from memory."
+  },
+  {
+    "id": "cls-verdi-rigoletto-la-donna-e-mobile",
+    "composer": "Giuseppe Verdi",
+    "composer_short": "Verdi",
+    "work": "Rigoletto: 'La donna è mobile'",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "opera",
+    "accept_work": "Verdi's Rigoletto ('La donna è mobile')",
+    "excerpt": "'La donna è mobile'",
+    "year": 1851,
+    "year_lo": 1850,
+    "year_hi": 1851,
+    "year_label": "1850–1851",
+    "premiere_or_publication": "Premiered at La Fenice, Venice, 11 March 1851",
+    "dating_note": "Commissioned in 1850 and completed 5 February 1851 (Wikipedia).",
+    "recording": {
+      "performers": "Luciano Pavarotti (the Duke)",
+      "conductor": "Richard Bonynge",
+      "label": "Decca",
+      "year": null,
+      "why": "Well-known Sutherland/Pavarotti/Milnes studio set; year not checked"
+    },
+    "trivia": "The play it is based on, Victor Hugo's Le roi s'amuse, had been banned in France, and Austrian censors in Venice forced changes before the opera could be staged. It was a triumph at its premiere.",
+    "tags": [
+      "romantic",
+      "opera",
+      "aria",
+      "tenor"
+    ],
+    "track": {
+      "query": "Verdi Rigoletto La donna e mobile Pavarotti",
+      "album": null,
+      "duration": "~2:15",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Rigoletto"
+    ],
+    "notes": "Recording from memory."
+  },
+  {
+    "id": "cls-gounod-ave-maria-bach-gounod",
+    "composer": "Charles Gounod",
+    "composer_short": "Gounod",
+    "work": "Ave Maria (Méditation sur le 1er prélude de piano de S. Bach)",
+    "nickname": "Ave Maria (Bach/Gounod)",
+    "catalogue_only": false,
+    "form": "song",
+    "accept_work": "Gounod's Ave Maria (melody over Bach's Prelude in C)",
+    "excerpt": "The complete piece",
+    "year": 1853,
+    "year_lo": 1852,
+    "year_hi": 1853,
+    "year_label": "1853",
+    "premiere_or_publication": "Published 1853 as a 'Méditation'; the Latin Ave Maria text added in 1859",
+    "dating_note": "Published in 1853 (Wikipedia); Gounod's melody was probably improvised a little earlier.",
+    "recording": {
+      "performers": "Any well-reviewed recording",
+      "conductor": null,
+      "label": null,
+      "year": null,
+      "why": "Soprano or violin with piano and organ; Bach's Prelude in C runs underneath."
+    },
+    "trivia": "The accompaniment is Bach's Prelude in C from the Well-Tempered Clavier, almost untouched, with Gounod's melody floating on top. The Latin text was added in 1859.",
+    "tags": [
+      "romantic",
+      "song",
+      "ave-maria",
+      "bach-arrangement"
+    ],
+    "track": {
+      "query": "Gounod Ave Maria Bach Prelude in C",
+      "album": null,
+      "duration": "~4:30",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Ave_Maria_(Bach/Gounod)"
+    ],
+    "notes": "Date taken as the 1853 publication with a range back to 1852. The underlying Bach prelude is dated separately (1722 card in part 3)."
+  },
+  {
+    "id": "cls-verdi-la-traviata-brindisi",
+    "composer": "Giuseppe Verdi",
+    "composer_short": "Verdi",
+    "work": "La traviata: 'Libiamo ne' lieti calici' (Brindisi)",
+    "nickname": "Brindisi",
+    "catalogue_only": false,
+    "form": "opera",
+    "accept_work": "Verdi's La traviata (the Brindisi, 'Libiamo')",
+    "excerpt": "The Brindisi",
+    "year": 1853,
+    "year_lo": 1852,
+    "year_hi": 1853,
+    "year_label": "1852–1853",
+    "premiere_or_publication": "Premiered at La Fenice, Venice, 6 March 1853",
+    "dating_note": "Verdi saw Dumas fils's The Lady of the Camellias in Paris in February 1852; the opera was written for the March 1853 premiere (Wikipedia).",
+    "recording": {
+      "performers": "Bavarian State Orchestra",
+      "conductor": "Carlos Kleiber",
+      "label": "Deutsche Grammophon",
+      "year": null,
+      "why": "Famous 1970s studio set with Cotrubas and Domingo; year not checked"
+    },
+    "trivia": "The first night was reportedly a failure, partly because the soprano looked too healthy to play a consumptive courtesan; a revised production a year later succeeded. The story was contemporary, based on a play that had only just opened.",
+    "tags": [
+      "romantic",
+      "opera",
+      "drinking-song",
+      "opera"
+    ],
+    "track": {
+      "query": "Verdi La traviata Libiamo Brindisi Kleiber",
+      "album": null,
+      "duration": "~3:00",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/La_traviata"
+    ],
+    "notes": "Premiere date and Kleiber set from memory."
+  },
+  {
+    "id": "cls-wagner-ride-of-the-valkyries",
+    "composer": "Richard Wagner",
+    "composer_short": "Wagner",
+    "work": "Die Walküre: Ride of the Valkyries",
+    "nickname": "Ride of the Valkyries",
+    "catalogue_only": false,
+    "form": "opera",
+    "accept_work": "Wagner's Ride of the Valkyries (Die Walküre)",
+    "excerpt": "Opening of Act 3",
+    "year": 1856,
+    "year_lo": 1851,
+    "year_hi": 1856,
+    "year_label": "1851–1856",
+    "premiere_or_publication": "Die Walküre first performed 26 June 1870 in Munich",
+    "dating_note": "The main theme was first jotted down on 23 July 1851; the draft dates from 1854 and the opera was fully orchestrated by the end of March 1856 (Wikipedia).",
+    "recording": {
+      "performers": "Vienna Philharmonic",
+      "conductor": "Georg Solti",
+      "label": "Decca",
+      "year": 1965,
+      "why": "From the pioneering studio Ring cycle; the Walküre instalment was recorded in 1965"
+    },
+    "trivia": "Die Walküre was first staged in Munich in 1870 against Wagner's wishes, because he wanted the four Ring operas performed together. The helicopter attack in Apocalypse Now (1979) made the piece a cinema cliché.",
+    "tags": [
+      "romantic",
+      "opera",
+      "ring-cycle",
+      "film-fame"
+    ],
+    "track": {
+      "query": "Wagner Ride of the Valkyries Solti Vienna",
+      "album": null,
+      "duration": "~5:00",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Ride_of_the_Valkyries"
+    ],
+    "notes": "Solti recording year from memory; Apocalypse Now link is general knowledge."
+  },
+  {
+    "id": "cls-pierpont-jingle-bells",
+    "composer": "James Lord Pierpont",
+    "composer_short": "Pierpont",
+    "work": "Jingle Bells (The One Horse Open Sleigh)",
+    "nickname": "Jingle Bells",
+    "catalogue_only": false,
+    "form": "song",
+    "accept_work": "Jingle Bells",
+    "excerpt": "The chorus",
+    "year": 1857,
+    "year_lo": 1850,
+    "year_hi": 1857,
+    "year_label": "c. 1850–1857",
+    "premiere_or_publication": "Copyrighted 16 September 1857 as 'The One Horse Open Sleigh'",
+    "dating_note": "Where and when Pierpont wrote it is disputed: a Medford, Massachusetts plaque claims 1850, while the first firm date is the 1857 copyright (Wikipedia).",
+    "recording": {
+      "performers": "Any well-reviewed recording",
+      "conductor": null,
+      "label": null,
+      "year": null,
+      "why": "Any straightforward performance."
+    },
+    "trivia": "It was first issued as 'The One Horse Open Sleigh' in 1857 and renamed 'Jingle Bells' when republished in 1859. In 1965 Gemini 6 astronauts played it in orbit, an event often described as the first song performed in space.",
+    "tags": [
+      "romantic",
+      "song",
+      "christmas",
+      "american"
+    ],
+    "track": {
+      "query": "Jingle Bells James Pierpont",
+      "album": null,
+      "duration": "~2:00",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Jingle_Bells"
+    ],
+    "notes": "Dating unsettled (1850 plaque claim vs 1857 copyright); medium confidence. Gemini 6 story from memory."
+  },
+  {
+    "id": "cls-offenbach-orphee-aux-enfers-galop-infernal",
+    "composer": "Jacques Offenbach",
+    "composer_short": "Offenbach",
+    "work": "Orphée aux enfers: Galop infernal (Can-can)",
+    "nickname": "Can-can",
+    "catalogue_only": false,
+    "form": "opera",
+    "accept_work": "Offenbach's Galop infernal (the Can-can) from Orpheus in the Underworld",
+    "excerpt": "Galop infernal",
+    "year": 1858,
+    "year_lo": 1858,
+    "year_hi": 1858,
+    "year_label": "1858",
+    "premiere_or_publication": "Premiered 21 October 1858, Bouffes-Parisiens, Paris",
+    "dating_note": "Operetta first staged in 1858 and revised in 1874; the galop closes the 1858 score.",
+    "recording": {
+      "performers": "Any well-reviewed recording",
+      "conductor": null,
+      "label": null,
+      "year": null,
+      "why": "Any lively orchestral performance; the can-can galop is the point."
+    },
+    "trivia": "The galop was written for the gods dancing wildly in the finale; it only became the can-can tune in the 1890s, when the Moulin Rouge and Folies Bergère adopted it.",
+    "tags": [
+      "romantic",
+      "opera",
+      "operetta",
+      "can-can"
+    ],
+    "track": {
+      "query": "Offenbach Orphee aux enfers Galop infernal can-can",
+      "album": null,
+      "duration": "~2:30",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Orpheus_in_the_Underworld"
+    ],
+    "notes": "Premiere date from memory. Wikipedia verifies the Galop infernal and the 1890s can-can link."
+  },
+  {
+    "id": "cls-wagner-tristan-und-isolde",
+    "composer": "Richard Wagner",
+    "composer_short": "Wagner",
+    "work": "Tristan und Isolde, WWV 90 (Prelude)",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "opera",
+    "accept_work": "Wagner's Tristan und Isolde (the Prelude)",
+    "excerpt": "Prelude to Act I (the 'Tristan chord')",
+    "year": 1859,
+    "year_lo": 1857,
+    "year_hi": 1859,
+    "year_label": "1857–1859",
+    "premiere_or_publication": "Premiered 10 June 1865, Munich, conducted by Hans von Bülow",
+    "dating_note": "Conceived in 1854, composed between 1857 and 1859 (Wikipedia).",
+    "recording": {
+      "performers": "Any well-reviewed recording",
+      "conductor": null,
+      "label": null,
+      "year": null,
+      "why": "Prelude alone or with the Liebestod; any strong recording."
+    },
+    "trivia": "The opening 'Tristan chord' is one of the most analysed sounds in Western music, because it avoids a settled resolution and keeps the tension hanging. The opera reached the stage in 1865, six years after it was finished.",
+    "tags": [
+      "romantic",
+      "opera",
+      "music-drama",
+      "chromaticism"
+    ],
+    "track": {
+      "query": "Wagner Tristan und Isolde Prelude",
+      "album": null,
+      "duration": "~10:00",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Tristan_und_Isolde"
+    ],
+    "notes": "Excerpt is the Prelude, but accept the opera."
+  },
+  {
+    "id": "cls-smetana-the-bartered-bride-overture",
+    "composer": "Bedřich Smetana",
+    "composer_short": "Smetana",
+    "work": "The Bartered Bride (Prodaná nevěsta), Overture",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "opera",
+    "accept_work": "Smetana's The Bartered Bride Overture",
+    "excerpt": "Overture",
+    "year": 1863,
+    "year_lo": 1863,
+    "year_hi": 1866,
+    "year_label": "1863–1866 (opera)",
+    "premiere_or_publication": "Opera premiered 30 May 1866, Provisional Theatre, Prague; final version 1870",
+    "dating_note": "Opera composed 1863–1866; Smetana unusually wrote the overture first, producing a piano version played in November 1863 (Wikipedia).",
+    "recording": {
+      "performers": "Any well-reviewed recording",
+      "conductor": null,
+      "label": null,
+      "year": null,
+      "why": "Any brisk recording; the whirling fugal opening should be crisp."
+    },
+    "trivia": "Smetana usually wrote overtures last, but wrote this one at the very start, in 1863. The opera, premiered with spoken dialogue in 1866, only became a worldwide hit in its final version of 1870.",
+    "tags": [
+      "romantic",
+      "opera",
+      "overture",
+      "czech"
+    ],
+    "track": {
+      "query": "Smetana The Bartered Bride Overture",
+      "album": null,
+      "duration": "~7:00",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Bartered_Bride"
+    ],
+    "notes": "Overture date from Wikipedia's account of piano version in 1863; orchestral version date not verified."
+  },
+  {
+    "id": "cls-strauss-ii-the-blue-danube",
+    "composer": "Johann Strauss II",
+    "composer_short": "Strauss II",
+    "work": "An der schönen blauen Donau (The Blue Danube), Op. 314",
+    "nickname": "The Blue Danube",
+    "catalogue_only": false,
+    "form": "orchestral",
+    "accept_work": "Johann Strauss II's The Blue Danube",
+    "excerpt": "Opening waltz theme",
+    "year": 1866,
+    "year_lo": 1866,
+    "year_hi": 1866,
+    "year_label": "1866",
+    "premiere_or_publication": "First performed 15 February 1867 in Vienna, as a choral waltz",
+    "dating_note": "Composed in 1866 (Wikipedia), premiered in February 1867.",
+    "recording": {
+      "performers": "Any well-reviewed recording",
+      "conductor": null,
+      "label": null,
+      "year": null,
+      "why": "Orchestral version; any Viennese-style recording."
+    },
+    "trivia": "It began as a waltz for male chorus with words, and the orchestral version is the one that caught on. Stanley Kubrick used it for the space-station scenes of 2001: A Space Odyssey (1968).",
+    "tags": [
+      "romantic",
+      "orchestral",
+      "waltz",
+      "vienna"
+    ],
+    "track": {
+      "query": "Johann Strauss Blue Danube Waltz",
+      "album": null,
+      "duration": "~10:00",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Blue_Danube"
+    ],
+    "notes": "2001 link from general knowledge."
+  },
+  {
+    "id": "cls-bruch-violin-concerto-1",
+    "composer": "Max Bruch",
+    "composer_short": "Bruch",
+    "work": "Violin Concerto No. 1 in G minor, Op. 26",
+    "nickname": null,
+    "catalogue_only": true,
+    "form": "concerto",
+    "accept_work": "Bruch's Violin Concerto No. 1",
+    "excerpt": "I. Vorspiel: Allegro moderato",
+    "year": 1867,
+    "year_lo": 1866,
+    "year_hi": 1867,
+    "year_label": "1866–1867",
+    "premiere_or_publication": "First version premiered 24 April 1866; revised version premiered by Joachim, Bremen, 7 January 1868",
+    "dating_note": "First completed in 1866, then revised with Joseph Joachim and finished in its present form in 1867 (Wikipedia).",
+    "recording": {
+      "performers": "Any well-reviewed recording",
+      "conductor": null,
+      "label": null,
+      "year": null,
+      "why": "No single reference named; any good recording."
+    },
+    "trivia": "Joseph Joachim helped Bruch revise it after a first version in 1866. In 1996 Classic FM listeners voted it the number one work in their Hall of Fame.",
+    "tags": [
+      "romantic",
+      "concerto",
+      "violin",
+      "romantic-concerto"
+    ],
+    "track": {
+      "query": "Bruch Violin Concerto No. 1 G minor Vorspiel",
+      "album": null,
+      "duration": "~8:00",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Violin_Concerto_No._1_(Bruch)"
+    ],
+    "notes": "Version played = revised 1867 version."
+  },
+  {
+    "id": "cls-brahms-ein-deutsches-requiem",
+    "composer": "Johannes Brahms",
+    "composer_short": "Brahms",
+    "work": "Ein deutsches Requiem, Op. 45",
+    "nickname": "A German Requiem",
+    "catalogue_only": false,
+    "form": "choral",
+    "accept_work": "Brahms's A German Requiem (Ein deutsches Requiem)",
+    "excerpt": "IV. 'Wie lieblich sind deine Wohnungen'",
+    "year": 1868,
+    "year_lo": 1865,
+    "year_hi": 1868,
+    "year_label": "1865–1868",
+    "premiere_or_publication": "Six-movement version premiered in Bremen Cathedral, Good Friday 10 April 1868",
+    "dating_note": "Composed between 1865 and 1868 (Wikipedia).",
+    "recording": {
+      "performers": "Any well-reviewed recording",
+      "conductor": null,
+      "label": null,
+      "year": null,
+      "why": "Any strong choral recording."
+    },
+    "trivia": "Instead of the Latin mass for the dead, Brahms chose German Bible texts that comfort the living. He reused music from 1854, the year Schumann collapsed, in its second movement.",
+    "tags": [
+      "romantic",
+      "choral",
+      "requiem",
+      "choral"
+    ],
+    "track": {
+      "query": "Brahms Ein deutsches Requiem Wie lieblich sind deine Wohnungen",
+      "album": null,
+      "duration": "~5:00",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Ein_deutsches_Requiem"
+    ],
+    "notes": "Fifth movement was added after the Bremen premiere."
+  },
+  {
+    "id": "cls-brahms-wiegenlied",
+    "composer": "Johannes Brahms",
+    "composer_short": "Brahms",
+    "work": "Wiegenlied (Lullaby), Op. 49 No. 4",
+    "nickname": "Brahms's Lullaby",
+    "catalogue_only": false,
+    "form": "song",
+    "accept_work": "Brahms's Lullaby (Wiegenlied)",
+    "excerpt": "The complete song",
+    "year": 1868,
+    "year_lo": 1868,
+    "year_hi": 1868,
+    "year_label": "1868",
+    "premiere_or_publication": "Published by Simrock in November 1868; first public performance 22 December 1869, Vienna",
+    "dating_note": "Published in 1868 (Wikipedia); written for Bertha Faber's second son.",
+    "recording": {
+      "performers": "Any well-reviewed recording",
+      "conductor": null,
+      "label": null,
+      "year": null,
+      "why": "Voice and piano or orchestral arrangement; any gentle performance."
+    },
+    "trivia": "Brahms wrote it for his friend Bertha Faber when her second son was born. He hid a song she used to sing to him inside the accompaniment as a secret counter-melody.",
+    "tags": [
+      "romantic",
+      "song",
+      "lullaby",
+      "lied"
+    ],
+    "track": {
+      "query": "Brahms Wiegenlied Lullaby Guten Abend gut Nacht",
+      "album": null,
+      "duration": "~2:00",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Wiegenlied_(Brahms)"
+    ],
+    "notes": "Date taken as the 1868 publication; composition shortly before."
+  },
+  {
+    "id": "cls-grieg-piano-concerto",
+    "composer": "Edvard Grieg",
+    "composer_short": "Grieg",
+    "work": "Piano Concerto in A minor, Op. 16",
+    "nickname": null,
+    "catalogue_only": true,
+    "form": "concerto",
+    "accept_work": "Grieg's Piano Concerto in A minor",
+    "excerpt": "I. Allegro molto moderato (opening cascade)",
+    "year": 1868,
+    "year_lo": 1868,
+    "year_hi": 1868,
+    "year_label": "1868",
+    "premiere_or_publication": "Premiered 3 April 1869, Copenhagen; published Leipzig 1872",
+    "dating_note": "Composed in 1868 at Søllerød, Denmark (Wikipedia).",
+    "recording": {
+      "performers": "Dinu Lipatti (piano); Philharmonia Orchestra",
+      "conductor": "Alceo Galliera",
+      "label": "EMI",
+      "year": 1947,
+      "why": "Legendary account; Lipatti recorded it in 1947"
+    },
+    "trivia": "It is the only concerto Grieg completed, written when he was 24 in Denmark. It was not published until 1872, after Johan Svendsen intervened on Grieg's behalf.",
+    "tags": [
+      "romantic",
+      "concerto",
+      "piano-concerto",
+      "norway"
+    ],
+    "track": {
+      "query": "Grieg Piano Concerto A minor Lipatti Galliera",
+      "album": null,
+      "duration": "~13:00",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Piano_Concerto_(Grieg)"
+    ],
+    "notes": "Lipatti/Galliera details from memory."
+  },
+  {
+    "id": "cls-balakirev-islamey",
+    "composer": "Mily Balakirev",
+    "composer_short": "Balakirev",
+    "work": "Islamey: Oriental Fantasy",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "solo-piano",
+    "accept_work": "Balakirev's Islamey",
+    "excerpt": "Opening section",
+    "year": 1869,
+    "year_lo": 1869,
+    "year_hi": 1869,
+    "year_label": "1869",
+    "premiere_or_publication": "Written in the course of one month in 1869",
+    "dating_note": "Composed in one month in 1869 (Wikipedia).",
+    "recording": {
+      "performers": "Any well-reviewed recording",
+      "conductor": null,
+      "label": null,
+      "year": null,
+      "why": "Any virtuoso pianist; the opening dance should be furious."
+    },
+    "trivia": "Balakirev was inspired by a trip to the Caucasus and, unusually, finished it in a month. Ravel said he wanted Scarbo, from Gaspard de la nuit, to be more difficult than Islamey.",
+    "tags": [
+      "romantic",
+      "solo-piano",
+      "virtuoso",
+      "russian",
+      "less-familiar"
+    ],
+    "track": {
+      "query": "Balakirev Islamey Oriental Fantasy piano",
+      "album": null,
+      "duration": "~8:00",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Islamey"
+    ],
+    "notes": "Less-familiar pick. Ravel remark verified on Wikipedia."
+  },
+  {
+    "id": "cls-brahms-hungarian-dance-5",
+    "composer": "Johannes Brahms",
+    "composer_short": "Brahms",
+    "work": "Hungarian Dance No. 5 in G minor, WoO 1",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "orchestral",
+    "accept_work": "Brahms's Hungarian Dance No. 5",
+    "excerpt": "The whole dance",
+    "year": 1869,
+    "year_lo": 1850,
+    "year_hi": 1869,
+    "year_label": "published 1869 (arranged from a csárdás)",
+    "premiere_or_publication": "Published for piano four hands in 1869 (the first two books of the Hungarian Dances); orchestrated later",
+    "dating_note": "Brahms met the violinist Reményi in 1850, which introduced him to csárdás music, and the first sets of Hungarian Dances were published in 1869; when he arranged No. 5 is not documented, so the range runs from 1850. The tune is Béla Kéler's.",
+    "recording": {
+      "performers": "Any well-reviewed recording",
+      "conductor": null,
+      "label": null,
+      "year": null,
+      "why": "Orchestral version is common; piano four-hands original is also fine."
+    },
+    "trivia": "Brahms mistakenly thought the tune was a folk song, but it comes from the csárdás 'Bártfai emlék' by Béla Kéler. It is the best known of his twenty-one Hungarian Dances.",
+    "tags": [
+      "romantic",
+      "orchestral",
+      "dance",
+      "arrangement"
+    ],
+    "track": {
+      "query": "Brahms Hungarian Dance No. 5 G minor",
+      "album": null,
+      "duration": "~2:00",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Hungarian_Dances_(Brahms)"
+    ],
+    "notes": "Date is the 1869 publication of Book 1 with a wide range. The original tune is by Kéler (date not found), which complicates 'composition year'. Brahms total: 3 cards."
+  },
+  {
+    "id": "cls-tchaikovsky-romeo-and-juliet-fantasy-overture",
+    "composer": "Pyotr Ilyich Tchaikovsky",
+    "composer_short": "Tchaikovsky",
+    "work": "Romeo and Juliet, Fantasy-Overture (final 1880 version)",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "orchestral",
+    "accept_work": "Tchaikovsky's Romeo and Juliet Fantasy-Overture",
+    "excerpt": "The love theme",
+    "year": 1880,
+    "year_lo": 1869,
+    "year_hi": 1880,
+    "year_label": "1869 (final version 1880)",
+    "premiere_or_publication": "First version premiered March 1870 in Moscow; final version completed by 10 September 1880, premiered 1886 in Tbilisi",
+    "dating_note": "Written in three versions (1869, 1870, 1880). The 1880 version, with a new ending, is the one usually played, so it is carded as 1880 with the range reaching back to 1869.",
+    "recording": {
+      "performers": "Any well-reviewed recording",
+      "conductor": null,
+      "label": null,
+      "year": null,
+      "why": "Any recording; the love theme and the crashing 'feud' music are the point."
+    },
+    "trivia": "The subject was suggested by Mily Balakirev, who criticised the first draft and prompted Tchaikovsky to rewrite it twice. The final version, with a revised ending, was not premiered until 1886.",
+    "tags": [
+      "romantic",
+      "orchestral",
+      "overture",
+      "shakespeare"
+    ],
+    "track": {
+      "query": "Tchaikovsky Romeo and Juliet Fantasy Overture love theme",
+      "album": null,
+      "duration": "~4:00",
+      "isrc": null,
+      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Romeo_and_Juliet_(Tchaikovsky)"
+    ],
+    "notes": "Version issue: the three versions span 1869-1880; played version 1880. Balakirev detail from memory (Wikipedia notes a tense relationship)."
+  }
+]

@@ -1,0 +1,1289 @@
+[
+  {
+    "id": "reg-bon-jovi-its-my-life",
+    "artist": "Bon Jovi",
+    "title": "It's My Life",
+    "year": 2000,
+    "year_lo": 2000,
+    "year_hi": 2000,
+    "year_label": "2000",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "The song opens with a talk-box guitar from Richie Sambora and was co-written with Swedish pop hitmaker Max Martin. It gave the band a fresh generation of fans fifteen years into their career.",
+    "tags": [
+      "2000s",
+      "rock",
+      "pop-rock",
+      "us"
+    ],
+    "track": {
+      "artist": "Bon Jovi",
+      "title": "It's My Life",
+      "album": "Crush",
+      "duration": "3:45",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Single May 2000, album Crush Jun 2000."
+  },
+  {
+    "id": "reg-britney-spears-oops-i-did-it-again",
+    "artist": "Britney Spears",
+    "title": "Oops!... I Did It Again",
+    "year": 2000,
+    "year_lo": 2000,
+    "year_hi": 2000,
+    "year_label": "2000",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "The video, set on Mars with Spears in a red catsuit, became one of the defining pop images of 2000. The spoken-word bridge was as imitated as the chorus.",
+    "tags": [
+      "2000s",
+      "pop",
+      "teen-pop",
+      "us"
+    ],
+    "track": {
+      "artist": "Britney Spears",
+      "title": "Oops!... I Did It Again",
+      "album": "Oops!... I Did It Again",
+      "duration": "3:31",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Single Mar 2000, album May 2000."
+  },
+  {
+    "id": "reg-daft-punk-one-more-time",
+    "artist": "Daft Punk",
+    "title": "One More Time",
+    "year": 2000,
+    "year_lo": 2000,
+    "year_hi": 2000,
+    "year_label": "2000",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "The processed vocals are by Chicago house singer Romanthony. The video is part of an anime film directed by Leiji Matsumoto and built around the duo's album.",
+    "tags": [
+      "2000s",
+      "house",
+      "french-house",
+      "fr"
+    ],
+    "track": {
+      "artist": "Daft Punk",
+      "title": "One More Time",
+      "album": "Discovery",
+      "duration": "5:20",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Single Nov 2000, album Discovery Mar 2001. Single-first year; Hitster NL also lists 2000."
+  },
+  {
+    "id": "reg-modjo-lady-hear-me-tonight",
+    "artist": "Modjo",
+    "title": "Lady (Hear Me Tonight)",
+    "year": 2000,
+    "year_lo": 2000,
+    "year_hi": 2000,
+    "year_label": "2000",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "The groove is built on a looped guitar lick from a Chic track of 1982. It topped the charts across Europe in the summer of 2000.",
+    "tags": [
+      "2000s",
+      "french-house",
+      "disco-house",
+      "fr"
+    ],
+    "track": {
+      "artist": "Modjo",
+      "title": "Lady (Hear Me Tonight)",
+      "album": null,
+      "duration": "5:08",
+      "isrc": null,
+      "notes": "Original mix or radio edit."
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "First released in France in 2000; album Modjo followed in 2001. Radio edit ~3:58, album/extended version ~5:08."
+  },
+  {
+    "id": "reg-shaggy-it-wasnt-me",
+    "artist": "Shaggy feat. RikRok",
+    "title": "It Wasn't Me",
+    "year": 2000,
+    "year_lo": 2000,
+    "year_hi": 2000,
+    "year_label": "2000",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "Shaggy and singer RikRok play a man caught cheating and the friend who advises him to deny everything. It was never planned as a single, yet it became Shaggy's first US number one.",
+    "tags": [
+      "2000s",
+      "reggae-fusion",
+      "pop",
+      "jm"
+    ],
+    "track": {
+      "artist": "Shaggy feat. RikRok",
+      "title": "It Wasn't Me",
+      "album": "Hot Shot",
+      "duration": "3:47",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/It_Wasn%27t_Me"
+    ],
+    "notes": "Album Hot Shot Aug 2000; radio single Nov 2000, retail Feb 2001. Hitster NL credits Shaggy alone."
+  },
+  {
+    "id": "reg-alicia-keys-fallin",
+    "artist": "Alicia Keys",
+    "title": "Fallin'",
+    "year": 2001,
+    "year_lo": 2001,
+    "year_hi": 2001,
+    "year_label": "2001",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "Keys wrote it and played the piano on it herself. It won the Grammy for Song of the Year in 2002.",
+    "tags": [
+      "2000s",
+      "r&b",
+      "soul",
+      "us"
+    ],
+    "track": {
+      "artist": "Alicia Keys",
+      "title": "Fallin'",
+      "album": "Songs in A Minor",
+      "duration": "3:30",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Single Apr 2001, album Jun 2001."
+  },
+  {
+    "id": "reg-nickelback-how-you-remind-me",
+    "artist": "Nickelback",
+    "title": "How You Remind Me",
+    "year": 2001,
+    "year_lo": 2001,
+    "year_hi": 2001,
+    "year_label": "2001",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "The Canadian band's breakthrough, it was Billboard's top single of 2002. A driving riff and a sullen vocal carried it around the world.",
+    "tags": [
+      "2000s",
+      "post-grunge",
+      "rock",
+      "ca"
+    ],
+    "track": {
+      "artist": "Nickelback",
+      "title": "How You Remind Me",
+      "album": "Silver Side Up",
+      "duration": "3:43",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Single Aug 2001, album Sept 2001."
+  },
+  {
+    "id": "reg-sophie-ellis-bextor-murder-on-the-dancefloor",
+    "artist": "Sophie Ellis-Bextor",
+    "title": "Murder on the Dancefloor",
+    "year": 2001,
+    "year_lo": 2001,
+    "year_hi": 2001,
+    "year_label": "2001",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "It found a huge new audience in 2023, when it featured in the closing scene of a film and returned to charts worldwide. In 2001 it had already reached number two in the UK.",
+    "tags": [
+      "2000s",
+      "dance-pop",
+      "disco",
+      "uk"
+    ],
+    "track": {
+      "artist": "Sophie Ellis-Bextor",
+      "title": "Murder on the Dancefloor",
+      "album": "Read My Lips",
+      "duration": "3:50",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Murder_on_the_Dancefloor"
+    ],
+    "notes": "Album Sept 2001, single Dec 2001."
+  },
+  {
+    "id": "reg-stereophonics-have-a-nice-day",
+    "artist": "Stereophonics",
+    "title": "Have a Nice Day",
+    "year": 2001,
+    "year_lo": 2001,
+    "year_hi": 2001,
+    "year_label": "2001",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "The band comes from the Welsh village of Cwmaman, and this singalong was one of its biggest hits in 2001. It reached the UK top five.",
+    "tags": [
+      "2000s",
+      "rock",
+      "britpop",
+      "uk"
+    ],
+    "track": {
+      "artist": "Stereophonics",
+      "title": "Have a Nice Day",
+      "album": "Just Enough Education to Perform",
+      "duration": "3:38",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "medium",
+    "sources": [],
+    "notes": "Album Apr 2001; single later in 2001. Exact single date not checked."
+  },
+  {
+    "id": "reg-eminem-lose-yourself",
+    "artist": "Eminem",
+    "title": "Lose Yourself",
+    "year": 2002,
+    "year_lo": 2002,
+    "year_hi": 2002,
+    "year_label": "2002",
+    "region": "intl",
+    "in_original_hitster": false,
+    "trivia": "It won the Oscar for Best Original Song, the first rap track to do so. Eminem did not attend the ceremony.",
+    "tags": [
+      "2000s",
+      "hip-hop",
+      "us"
+    ],
+    "track": {
+      "artist": "Eminem",
+      "title": "Lose Yourself",
+      "album": "8 Mile (soundtrack)",
+      "duration": "5:26",
+      "isrc": null,
+      "notes": "Album or soundtrack version."
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Single and soundtrack Oct 2002. Album version is about 5:26; the radio edit is shorter. Not seen on any consulted Hitster edition list (NL, DE, FR, CA, Nordics); added for recognisability and decade balance."
+  },
+  {
+    "id": "reg-las-ketchup-the-ketchup-song-asereje",
+    "artist": "Las Ketchup",
+    "title": "The Ketchup Song (Aserejé)",
+    "year": 2002,
+    "year_lo": 2002,
+    "year_hi": 2002,
+    "year_label": "2002",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "The nonsense chorus is a Spanish-sounding spoof of the opening lines of an early hip-hop hit. The song reached number one in many countries in 2002.",
+    "tags": [
+      "2000s",
+      "latin-pop",
+      "dance",
+      "es"
+    ],
+    "track": {
+      "artist": "Las Ketchup",
+      "title": "The Ketchup Song (Aserejé)",
+      "album": "Hijas del tomate",
+      "duration": "3:33",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Spanish single Jun 2002; album Jun 2002 in Spain."
+  },
+  {
+    "id": "reg-madhouse-like-a-prayer",
+    "artist": "Mad'House",
+    "title": "Like a Prayer",
+    "year": 2002,
+    "year_lo": 2002,
+    "year_hi": 2002,
+    "year_label": "2002",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "A Eurodance remake of a Madonna hit, sung by Turkish singer Buse Ünlü. It topped the charts in Germany, Austria and Ireland.",
+    "tags": [
+      "2000s",
+      "eurodance",
+      "cover",
+      "fr"
+    ],
+    "track": {
+      "artist": "Mad'House",
+      "title": "Like a Prayer",
+      "album": "Absolutely Mad",
+      "duration": "3:30",
+      "isrc": null,
+      "notes": "Mad'House 2002 version, not Madonna."
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Mad%27House"
+    ],
+    "notes": "Cover of Madonna (1989); Hitster NL uses this recording. Group is a studio project listed as French, Dutch and Turkish. Single spring 2002, album Absolutely Mad 2002."
+  },
+  {
+    "id": "reg-nelly-dilemma",
+    "artist": "Nelly feat. Kelly Rowland",
+    "title": "Dilemma",
+    "year": 2002,
+    "year_lo": 2002,
+    "year_hi": 2002,
+    "year_label": "2002",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "Destiny's Child member Kelly Rowland sings the hook. It spent ten weeks at number one in the US.",
+    "tags": [
+      "2000s",
+      "hip-hop",
+      "r&b",
+      "us"
+    ],
+    "track": {
+      "artist": "Nelly feat. Kelly Rowland",
+      "title": "Dilemma",
+      "album": "Nellyville",
+      "duration": "4:49",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Album Nellyville Jun 2002, single Jul 2002."
+  },
+  {
+    "id": "reg-robbie-williams-feel",
+    "artist": "Robbie Williams",
+    "title": "Feel",
+    "year": 2002,
+    "year_lo": 2002,
+    "year_hi": 2002,
+    "year_label": "2002",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "Williams wrote it with Guy Chambers, and the video features actress Daryl Hannah. It was one of the highlights of Escapology.",
+    "tags": [
+      "2000s",
+      "pop",
+      "britpop",
+      "uk"
+    ],
+    "track": {
+      "artist": "Robbie Williams",
+      "title": "Feel",
+      "album": "Escapology",
+      "duration": "4:08",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Album Nov 2002, single Dec 2002."
+  },
+  {
+    "id": "reg-50-cent-in-da-club",
+    "artist": "50 Cent",
+    "title": "In da Club",
+    "year": 2003,
+    "year_lo": 2003,
+    "year_hi": 2003,
+    "year_label": "2003",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "Dr. Dre and Mike Elizondo produced it, and it was the first number one for 50 Cent. The beat makes it an immediate floor-filler.",
+    "tags": [
+      "2000s",
+      "hip-hop",
+      "gangsta-rap",
+      "us"
+    ],
+    "track": {
+      "artist": "50 Cent",
+      "title": "In da Club",
+      "album": "Get Rich or Die Tryin'",
+      "duration": "3:13",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Single Jan 2003, album Feb 2003."
+  },
+  {
+    "id": "reg-beyonce-crazy-in-love",
+    "artist": "Beyoncé feat. Jay-Z",
+    "title": "Crazy in Love",
+    "year": 2003,
+    "year_lo": 2003,
+    "year_hi": 2003,
+    "year_label": "2003",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "It was her first solo single away from Destiny's Child. The brassy horn riff comes from a 1970 soul record.",
+    "tags": [
+      "2000s",
+      "r&b",
+      "pop",
+      "us"
+    ],
+    "track": {
+      "artist": "Beyoncé feat. Jay-Z",
+      "title": "Crazy in Love",
+      "album": "Dangerously in Love",
+      "duration": "3:56",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Single May 2003, album Jun 2003."
+  },
+  {
+    "id": "reg-black-eyed-peas-where-is-the-love",
+    "artist": "Black Eyed Peas feat. Justin Timberlake",
+    "title": "Where Is the Love?",
+    "year": 2003,
+    "year_lo": 2003,
+    "year_hi": 2003,
+    "year_label": "2003",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "A plea for tolerance and peace written in the aftermath of the early 2000s wars, with Justin Timberlake on the hook. It reached number one in the UK.",
+    "tags": [
+      "2000s",
+      "hip-hop",
+      "pop-rap",
+      "us"
+    ],
+    "track": {
+      "artist": "Black Eyed Peas feat. Justin Timberlake",
+      "title": "Where Is the Love?",
+      "album": "Elephunk",
+      "duration": "4:33",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Single and album Jun 2003. Hitster NL credits the band alone."
+  },
+  {
+    "id": "reg-john-mayer-daughters",
+    "artist": "John Mayer",
+    "title": "Daughters",
+    "year": 2003,
+    "year_lo": 2003,
+    "year_hi": 2003,
+    "year_label": "2003",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "It won the 2005 Grammy for Song of the Year. The lyrics are about how fathers shape their daughters' ideas of love.",
+    "tags": [
+      "2000s",
+      "pop-rock",
+      "singer-songwriter",
+      "us"
+    ],
+    "track": {
+      "artist": "John Mayer",
+      "title": "Daughters",
+      "album": "Heavier Things",
+      "duration": "3:51",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Album Sept 2003, single Aug 2004. Album-first year; Hitster NL lists 2004. Hitster NL list shows 2004; card uses 2003."
+  },
+  {
+    "id": "reg-o-zone-dragostea-din-tei",
+    "artist": "O-Zone",
+    "title": "Dragostea din tei",
+    "year": 2003,
+    "year_lo": 2003,
+    "year_hi": 2003,
+    "year_label": "2003",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "The Moldovan trio's Romanian-language hit was spread worldwide by the 2004 Numa Numa viral video. Its title translates roughly as love from the linden trees.",
+    "tags": [
+      "2000s",
+      "eurodance",
+      "md"
+    ],
+    "track": {
+      "artist": "O-Zone",
+      "title": "Dragostea din tei",
+      "album": "DiscO-Zone",
+      "duration": "3:34",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Dragostea_din_tei"
+    ],
+    "notes": "Romanian single mid 2003; wider European release followed in 2004. Album DiscO-Zone date varies by source (Aug 2003 or Jun 2004). Single-first year 2003."
+  },
+  {
+    "id": "reg-outkast-hey-ya",
+    "artist": "Outkast",
+    "title": "Hey Ya!",
+    "year": 2003,
+    "year_lo": 2003,
+    "year_hi": 2003,
+    "year_label": "2003",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "A line about shaking a Polaroid picture led Polaroid to issue a tongue-in-cheek statement that shaking is bad for the photo. André 3000 played most of the instruments.",
+    "tags": [
+      "2000s",
+      "funk-pop",
+      "hip-hop",
+      "us"
+    ],
+    "track": {
+      "artist": "Outkast",
+      "title": "Hey Ya!",
+      "album": "Speakerboxxx/The Love Below",
+      "duration": "3:55",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Single Sept 2003, album Sept 2003."
+  },
+  {
+    "id": "reg-the-killers-mr-brightside",
+    "artist": "The Killers",
+    "title": "Mr. Brightside",
+    "year": 2003,
+    "year_lo": 2003,
+    "year_hi": 2003,
+    "year_label": "2003",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "Brandon Flowers wrote it after finding out about a girlfriend's cheating. It has since spent more weeks on the UK chart than any other song.",
+    "tags": [
+      "2000s",
+      "indie-rock",
+      "us"
+    ],
+    "track": {
+      "artist": "The Killers",
+      "title": "Mr. Brightside",
+      "album": "Hot Fuss",
+      "duration": "3:42",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Mr._Brightside"
+    ],
+    "notes": "Debut single released Sept 2003 (Lizard King), became a hit on re-release in 2004; Hot Fuss followed Jun 2004. Same studio recording. Hitster NL lists 2003. Not on the Hitster NL list; seen on the Hitster Canada edition list."
+  },
+  {
+    "id": "reg-the-white-stripes-seven-nation-army",
+    "artist": "The White Stripes",
+    "title": "Seven Nation Army",
+    "year": 2003,
+    "year_lo": 2003,
+    "year_hi": 2003,
+    "year_label": "2003",
+    "region": "intl",
+    "in_original_hitster": false,
+    "trivia": "The riff is played on a guitar run through an octave pedal, which makes it sound like a bass. Fans took it up as a stadium chant.",
+    "tags": [
+      "2000s",
+      "garage-rock",
+      "us"
+    ],
+    "track": {
+      "artist": "The White Stripes",
+      "title": "Seven Nation Army",
+      "album": "Elephant",
+      "duration": "3:52",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Single Feb 2003, album Apr 2003. Not seen on any consulted Hitster edition list (NL, DE, FR, CA, Nordics); added for recognisability and decade balance."
+  },
+  {
+    "id": "reg-akon-lonely",
+    "artist": "Akon",
+    "title": "Lonely",
+    "year": 2004,
+    "year_lo": 2004,
+    "year_hi": 2004,
+    "year_label": "2004",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "The hook leans on a 1960s hit about a lonely soldier. It was one of the breakout singles for the Senegalese-American artist.",
+    "tags": [
+      "2000s",
+      "r&b",
+      "pop",
+      "us"
+    ],
+    "track": {
+      "artist": "Akon",
+      "title": "Lonely",
+      "album": "Trouble",
+      "duration": "3:55",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Album Trouble Jun 2004; single released later (UK 2005). Album-first year."
+  },
+  {
+    "id": "reg-eric-prydz-call-on-me",
+    "artist": "Eric Prydz",
+    "title": "Call on Me",
+    "year": 2004,
+    "year_lo": 2004,
+    "year_hi": 2004,
+    "year_label": "2004",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "The Swedish producer built it on a sample of a 1982 song by Steve Winwood. The 1980s aerobics-class video became as famous as the track.",
+    "tags": [
+      "2000s",
+      "house",
+      "dance",
+      "se"
+    ],
+    "track": {
+      "artist": "Eric Prydz",
+      "title": "Call on Me",
+      "album": null,
+      "duration": "3:35",
+      "isrc": null,
+      "notes": "Radio edit or single mix."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Call_on_Me_(Eric_Prydz_song)"
+    ],
+    "notes": "Single Sept 2004 (T56, Data). No album. Radio edit is about 2:57 with the original mix ~7:34; the common version is a roughly 3 to 4 minute edit."
+  },
+  {
+    "id": "reg-jay-z-and-linkin-park-numb-encore",
+    "artist": "Jay-Z & Linkin Park",
+    "title": "Numb/Encore",
+    "year": 2004,
+    "year_lo": 2004,
+    "year_hi": 2004,
+    "year_label": "2004",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "A mashup made for an MTV special that combined a Linkin Park track with a Jay-Z track. It won a Grammy for Best Rap/Sung Collaboration.",
+    "tags": [
+      "2000s",
+      "hip-hop",
+      "rap-rock",
+      "us"
+    ],
+    "track": {
+      "artist": "Jay-Z & Linkin Park",
+      "title": "Numb/Encore",
+      "album": "Collision Course",
+      "duration": "3:25",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Mashup of Linkin Park Numb (2003) and Jay-Z Encore (2003). Collision Course Nov 2004."
+  },
+  {
+    "id": "reg-kelly-clarkson-because-of-you",
+    "artist": "Kelly Clarkson",
+    "title": "Because of You",
+    "year": 2004,
+    "year_lo": 2004,
+    "year_hi": 2004,
+    "year_label": "2004",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "Clarkson co-wrote it, and the lyrics draw on her parents' divorce. It was a follow-up to a string of big hits from the same album.",
+    "tags": [
+      "2000s",
+      "pop-rock",
+      "us"
+    ],
+    "track": {
+      "artist": "Kelly Clarkson",
+      "title": "Because of You",
+      "album": "Breakaway",
+      "duration": "3:39",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Album Breakaway Nov 2004, single Nov 2005. Album-first year; Hitster NL lists 2005. Hitster NL list shows 2005; card uses 2004."
+  },
+  {
+    "id": "reg-usher-yeah",
+    "artist": "Usher feat. Lil Jon & Ludacris",
+    "title": "Yeah!",
+    "year": 2004,
+    "year_lo": 2004,
+    "year_hi": 2004,
+    "year_label": "2004",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "Lil Jon produced it, and it spent twelve weeks at number one in the US. The crunk beat and Usher's confident delivery made it the song of early 2004.",
+    "tags": [
+      "2000s",
+      "r&b",
+      "crunk",
+      "us"
+    ],
+    "track": {
+      "artist": "Usher feat. Lil Jon & Ludacris",
+      "title": "Yeah!",
+      "album": "Confessions",
+      "duration": "4:10",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Single Jan 2004, album Mar 2004."
+  },
+  {
+    "id": "reg-kanye-west-gold-digger",
+    "artist": "Kanye West feat. Jamie Foxx",
+    "title": "Gold Digger",
+    "year": 2005,
+    "year_lo": 2005,
+    "year_hi": 2005,
+    "year_label": "2005",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "The hook sample comes from a Ray Charles hit. Jamie Foxx, who had just won an Oscar for playing Charles, sings the hook in Charles's style.",
+    "tags": [
+      "2000s",
+      "hip-hop",
+      "us"
+    ],
+    "track": {
+      "artist": "Kanye West feat. Jamie Foxx",
+      "title": "Gold Digger",
+      "album": "Late Registration",
+      "duration": "3:28",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Single Jul 2005, album Aug 2005."
+  },
+  {
+    "id": "reg-amy-winehouse-rehab",
+    "artist": "Amy Winehouse",
+    "title": "Rehab",
+    "year": 2006,
+    "year_lo": 2006,
+    "year_hi": 2006,
+    "year_label": "2006",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "It was inspired by her refusing treatment for her drinking. It won the Grammys for Record of the Year and Song of the Year.",
+    "tags": [
+      "2000s",
+      "soul",
+      "retro-soul",
+      "uk"
+    ],
+    "track": {
+      "artist": "Amy Winehouse",
+      "title": "Rehab",
+      "album": "Back to Black",
+      "duration": "3:34",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Single Oct 2006, album Oct 2006."
+  },
+  {
+    "id": "reg-bob-sinclar-world-hold-on-children-of-the-sky",
+    "artist": "Bob Sinclar feat. Steve Edwards",
+    "title": "World, Hold On (Children of the Sky)",
+    "year": 2006,
+    "year_lo": 2006,
+    "year_hi": 2006,
+    "year_label": "2006",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "Steve Edwards sings the soaring hook. The track topped the US dance club chart in summer 2006.",
+    "tags": [
+      "2000s",
+      "house",
+      "dance",
+      "fr"
+    ],
+    "track": {
+      "artist": "Bob Sinclar feat. Steve Edwards",
+      "title": "World, Hold On (Children of the Sky)",
+      "album": "Western Dream",
+      "duration": "3:36",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/World,_Hold_On_(Children_of_the_Sky)"
+    ],
+    "notes": "Album Western Dream Apr 10 2006, single Apr 17 2006. Radio edit used for the duration."
+  },
+  {
+    "id": "reg-corinne-bailey-rae-put-your-records-on",
+    "artist": "Corinne Bailey Rae",
+    "title": "Put Your Records On",
+    "year": 2006,
+    "year_lo": 2006,
+    "year_hi": 2006,
+    "year_label": "2006",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "The Leeds-born singer's debut album went straight to number one in the UK. This single is its sunny, laid-back calling card.",
+    "tags": [
+      "2000s",
+      "soul",
+      "pop",
+      "uk"
+    ],
+    "track": {
+      "artist": "Corinne Bailey Rae",
+      "title": "Put Your Records On",
+      "album": "Corinne Bailey Rae",
+      "duration": "3:35",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Single Jan 2006, album Feb 2006."
+  },
+  {
+    "id": "reg-alicia-keys-no-one",
+    "artist": "Alicia Keys",
+    "title": "No One",
+    "year": 2007,
+    "year_lo": 2007,
+    "year_hi": 2007,
+    "year_label": "2007",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "Co-written with Kerry Brothers Jr. and George Harry, it won the 2008 Grammy for Best Female R&B Vocal Performance. It is built around a gospel-tinged piano figure.",
+    "tags": [
+      "2000s",
+      "r&b",
+      "soul",
+      "us"
+    ],
+    "track": {
+      "artist": "Alicia Keys",
+      "title": "No One",
+      "album": "As I Am",
+      "duration": "4:13",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Single Sept 2007, album Nov 2007."
+  },
+  {
+    "id": "reg-amy-macdonald-this-is-the-life",
+    "artist": "Amy Macdonald",
+    "title": "This Is the Life",
+    "year": 2007,
+    "year_lo": 2007,
+    "year_hi": 2007,
+    "year_label": "2007",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "The Scottish singer-songwriter was only 19 when the album came out. The song did far better on the European continent than in her native UK.",
+    "tags": [
+      "2000s",
+      "folk-rock",
+      "pop-rock",
+      "uk"
+    ],
+    "track": {
+      "artist": "Amy Macdonald",
+      "title": "This Is the Life",
+      "album": "This Is the Life",
+      "duration": "3:00",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/This_Is_the_Life_(Amy_Macdonald_song)"
+    ],
+    "notes": "Album 30 Jul 2007; UK single Dec 2007; most of Europe 2008. Album-first year; Hitster NL lists 2007."
+  },
+  {
+    "id": "reg-enrique-iglesias-do-you-know-the-ping-pong-song",
+    "artist": "Enrique Iglesias",
+    "title": "Do You Know? (The Ping Pong Song)",
+    "year": 2007,
+    "year_lo": 2007,
+    "year_hi": 2007,
+    "year_label": "2007",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "A table-tennis rally is the metaphor for a relationship going back and forth. A Spanish-language twin version, Dímelo, came out alongside.",
+    "tags": [
+      "2000s",
+      "pop",
+      "latin-pop",
+      "es"
+    ],
+    "track": {
+      "artist": "Enrique Iglesias",
+      "title": "Do You Know? (The Ping Pong Song)",
+      "album": "Insomniac",
+      "duration": "3:36",
+      "isrc": null,
+      "notes": "English-language original, not Dimelo."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Do_You_Know%3F_(The_Ping_Pong_Song)"
+    ],
+    "notes": "Single Apr 2007, album Insomniac Jun 2007."
+  },
+  {
+    "id": "reg-mark-ronson-valerie",
+    "artist": "Mark Ronson feat. Amy Winehouse",
+    "title": "Valerie",
+    "year": 2007,
+    "year_lo": 2007,
+    "year_hi": 2007,
+    "year_label": "2007",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "Originally by Liverpool band The Zutons. Ronson's brass-heavy cover, sung by Winehouse, is the version most people know.",
+    "tags": [
+      "2000s",
+      "soul",
+      "pop",
+      "uk"
+    ],
+    "track": {
+      "artist": "Mark Ronson feat. Amy Winehouse",
+      "title": "Valerie",
+      "album": "Version",
+      "duration": "3:39",
+      "isrc": null,
+      "notes": "Ronson and Winehouse version, not The Zutons."
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Cover of The Zutons (2006), but Ronson and Winehouse's is the famous recording. Version album 2007, single Sept 2007."
+  },
+  {
+    "id": "reg-mika-relax-take-it-easy",
+    "artist": "Mika",
+    "title": "Relax, Take It Easy",
+    "year": 2007,
+    "year_lo": 2007,
+    "year_hi": 2007,
+    "year_label": "2007",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "The Beirut-born singer's soaring falsetto made the song stand out, and it was among his earliest releases. It reached the UK top 20 on its official release.",
+    "tags": [
+      "2000s",
+      "pop",
+      "uk"
+    ],
+    "track": {
+      "artist": "Mika",
+      "title": "Relax, Take It Easy",
+      "album": "Life in Cartoon Motion",
+      "duration": "3:42",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Relax,_Take_It_Easy"
+    ],
+    "notes": "Album Feb 2007; official UK single Dec 2007. A limited 7-inch pressing in Oct 2006 reportedly preceded both; card uses 2007, matching Hitster NL and the widely cited release."
+  },
+  {
+    "id": "reg-rihanna-umbrella",
+    "artist": "Rihanna feat. Jay-Z",
+    "title": "Umbrella",
+    "year": 2007,
+    "year_lo": 2007,
+    "year_hi": 2007,
+    "year_label": "2007",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "It spent ten weeks at number one in the UK. The track was reportedly offered to other singers before Rihanna recorded it.",
+    "tags": [
+      "2000s",
+      "pop",
+      "r&b",
+      "bb"
+    ],
+    "track": {
+      "artist": "Rihanna feat. Jay-Z",
+      "title": "Umbrella",
+      "album": "Good Girl Gone Bad",
+      "duration": "4:35",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Single Mar 2007, album Jun 2007. Not on the Hitster NL list; seen on the Hitster Canada edition list."
+  },
+  {
+    "id": "reg-coldplay-viva-la-vida",
+    "artist": "Coldplay",
+    "title": "Viva la Vida",
+    "year": 2008,
+    "year_lo": 2008,
+    "year_hi": 2008,
+    "year_label": "2008",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "The title is Spanish for long live life and comes from a Frida Kahlo painting. Strings and a thumping marching beat replaced the band's usual guitar sound.",
+    "tags": [
+      "2000s",
+      "rock",
+      "pop-rock",
+      "uk"
+    ],
+    "track": {
+      "artist": "Coldplay",
+      "title": "Viva la Vida",
+      "album": "Viva la Vida or Death and All His Friends",
+      "duration": "4:02",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Single May 2008, album Jun 2008. Not on the Hitster NL list; seen on the Hitster Canada edition list."
+  },
+  {
+    "id": "reg-duffy-mercy",
+    "artist": "Duffy",
+    "title": "Mercy",
+    "year": 2008,
+    "year_lo": 2008,
+    "year_hi": 2008,
+    "year_label": "2008",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "The Welsh singer's breakthrough single, it was a big European hit. It owes its sound to 1960s soul and girl-group records.",
+    "tags": [
+      "2000s",
+      "soul",
+      "pop",
+      "uk"
+    ],
+    "track": {
+      "artist": "Duffy",
+      "title": "Mercy",
+      "album": "Rockferry",
+      "duration": "3:42",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Single Feb 2008, album Rockferry Mar 2008."
+  },
+  {
+    "id": "reg-lady-gaga-poker-face",
+    "artist": "Lady Gaga",
+    "title": "Poker Face",
+    "year": 2008,
+    "year_lo": 2008,
+    "year_hi": 2008,
+    "year_label": "2008",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "Gaga wrote it with producer RedOne, and it was her second US number one in a row. The song is about hiding what you really feel.",
+    "tags": [
+      "2000s",
+      "dance-pop",
+      "electropop",
+      "us"
+    ],
+    "track": {
+      "artist": "Lady Gaga",
+      "title": "Poker Face",
+      "album": "The Fame",
+      "duration": "3:58",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Album Aug 2008, single Sept 2008. Album-first year (same year either way)."
+  },
+  {
+    "id": "reg-madonna-4-minutes",
+    "artist": "Madonna feat. Justin Timberlake & Timbaland",
+    "title": "4 Minutes",
+    "year": 2008,
+    "year_lo": 2008,
+    "year_hi": 2008,
+    "year_label": "2008",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "It gave Madonna her 37th top-ten hit on the US Hot 100, passing Elvis Presley's record. Timbaland produced it and Justin Timberlake features on the vocals.",
+    "tags": [
+      "2000s",
+      "pop",
+      "dance-pop",
+      "us"
+    ],
+    "track": {
+      "artist": "Madonna feat. Justin Timberlake & Timbaland",
+      "title": "4 Minutes",
+      "album": "Hard Candy",
+      "duration": "4:04",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Single Mar 2008, album Apr 2008."
+  },
+  {
+    "id": "reg-jason-derulo-whatcha-say",
+    "artist": "Jason Derulo",
+    "title": "Whatcha Say",
+    "year": 2009,
+    "year_lo": 2009,
+    "year_hi": 2009,
+    "year_label": "2009",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "The hook leans on a sample of an Imogen Heap song. It was his debut single and went to number one in the US.",
+    "tags": [
+      "2000s",
+      "pop",
+      "r&b",
+      "us"
+    ],
+    "track": {
+      "artist": "Jason Derulo",
+      "title": "Whatcha Say",
+      "album": "Jason Derülo",
+      "duration": "3:41",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Single May 2009, album Mar 2010. Single-first year."
+  },
+  {
+    "id": "reg-owl-city-fireflies",
+    "artist": "Owl City",
+    "title": "Fireflies",
+    "year": 2009,
+    "year_lo": 2009,
+    "year_hi": 2009,
+    "year_label": "2009",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "Adam Young recorded it in his parents' basement in Owatonna, Minnesota. It topped the US Hot 100 in late 2009.",
+    "tags": [
+      "2000s",
+      "synth-pop",
+      "us"
+    ],
+    "track": {
+      "artist": "Owl City",
+      "title": "Fireflies",
+      "album": "Ocean Eyes",
+      "duration": "3:48",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Album Ocean Eyes Jul 2009."
+  },
+  {
+    "id": "reg-train-hey-soul-sister",
+    "artist": "Train",
+    "title": "Hey, Soul Sister",
+    "year": 2009,
+    "year_lo": 2009,
+    "year_hi": 2009,
+    "year_label": "2009",
+    "region": "intl",
+    "in_original_hitster": true,
+    "trivia": "Frontman Pat Monahan co-wrote it with two Norwegian songwriters, Espen Lind and Amund Bjørklund. It became one of the biggest hits of 2009 and 2010.",
+    "tags": [
+      "2000s",
+      "pop-rock",
+      "us"
+    ],
+    "track": {
+      "artist": "Train",
+      "title": "Hey, Soul Sister",
+      "album": "Save Me, San Francisco",
+      "duration": "3:36",
+      "isrc": null,
+      "notes": "original studio version; remaster OK"
+    },
+    "confidence": "high",
+    "sources": [],
+    "notes": "Single Aug 2009, album Oct 2009."
+  }
+]
