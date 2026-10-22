@@ -16644,6 +16644,111 @@
    }
   ]
  },
+ "jazz-allison-parchman-farm": {
+  "set": "jazz",
+  "card": "Mose Allison - Parchman Farm",
+  "query": "Mose Allison Parchman Farm Local Color 1957",
+  "expected": 197,
+  "picked": [
+   {
+    "id": "RRAYLabbHPk",
+    "title": "Parchman Farm (Album Version)",
+    "channel": "Mose Allison - Topic",
+    "duration": 198,
+    "views": 98557,
+    "score": 114.6,
+    "why": {
+     "title": 1.0,
+     "artist": 1.0,
+     "query": 0.57,
+     "topic": "artist",
+     "dur": "198s vs 197s"
+    }
+   },
+   {
+    "id": "hPl7pOlKXLQ",
+    "title": "Parchman farm",
+    "channel": "Mose Allison - Topic",
+    "duration": 201,
+    "views": 13085,
+    "score": 113.9,
+    "why": {
+     "title": 1.0,
+     "artist": 1.0,
+     "query": 0.57,
+     "topic": "artist",
+     "dur": "201s vs 197s"
+    }
+   },
+   {
+    "id": "h4koTO8gBdg",
+    "title": "Parchman Farm (Album Version)",
+    "channel": "Mose Allison - Topic",
+    "duration": 198,
+    "views": 5540,
+    "score": 113.6,
+    "why": {
+     "title": 1.0,
+     "artist": 1.0,
+     "query": 0.57,
+     "topic": "artist",
+     "dur": "198s vs 197s"
+    }
+   }
+  ]
+ },
+ "jazz-alpert-this-guys-in-love-with-you": {
+  "set": "jazz",
+  "card": "Herb Alpert - This Guy's in Love with You",
+  "query": "Herb Alpert This Guy's in Love with You The Beat of the Brass 1968",
+  "expected": 235,
+  "picked": [
+   {
+    "id": "Th87XzrmGO4",
+    "title": "Herb Alpert performs “This Guy's In Love With You”",
+    "channel": "Herb Alpert",
+    "duration": 247,
+    "views": 5774750,
+    "score": 107.4,
+    "why": {
+     "title": 1.0,
+     "artist": 1.0,
+     "query": 0.67,
+     "channel": "artist",
+     "dur": "247s vs 235s"
+    }
+   },
+   {
+    "id": "o8ByJ1C0iR4",
+    "title": "Herb Alpert - This Guy's In Love With You",
+    "channel": "Herb Alpert",
+    "duration": 267,
+    "views": 6804001,
+    "score": 101.1,
+    "why": {
+     "title": 1.0,
+     "artist": 1.0,
+     "query": 0.67,
+     "channel": "artist",
+     "dur": "267s vs 235s"
+    }
+   },
+   {
+    "id": "jv1I3qqPJK8",
+    "title": "Herb Alpert & The Tijuana Brass - The Beat Of The Brass 11. This Guy's In Love With You Stereo 1968",
+    "channel": "Jan Addeo",
+    "duration": 240,
+    "views": 3292,
+    "score": 100.8,
+    "why": {
+     "title": 1.0,
+     "artist": 1.0,
+     "query": 1.0,
+     "dur": "240s vs 235s"
+    }
+   }
+  ]
+ },
  "jazz-ammons-canadian-sunset": {
   "set": "jazz",
   "card": "Gene Ammons - Canadian Sunset",
@@ -17351,6 +17456,56 @@
    }
   ]
  },
+ "jazz-astaire-fascinating-rhythm": {
+  "set": "jazz",
+  "card": "Fred and Adele Astaire - Fascinating Rhythm",
+  "query": "Fred and Adele Astaire George Gershwin Fascinating Rhythm Columbia 1926",
+  "expected": 147,
+  "picked": [
+   {
+    "id": "XJ_7x-9OdGI",
+    "title": "Fred & Adele Astaire - Fascinating Rhythm 1926 (George Gershwin On Piano)",
+    "channel": "warholsoup100",
+    "duration": 144,
+    "views": 321,
+    "score": 98.3,
+    "why": {
+     "title": 1.0,
+     "artist": 1.0,
+     "query": 0.89,
+     "dur": "144s vs 147s"
+    }
+   },
+   {
+    "id": "j3IcPlpYODo",
+    "title": "Fred and Adele Astaire:  (GERSHWINs) \"Fascinating Rhythm\"  (1926)",
+    "channel": "Annie Van Auken",
+    "duration": 144,
+    "views": 1117,
+    "score": 95.4,
+    "why": {
+     "title": 1.0,
+     "artist": 1.0,
+     "query": 0.67,
+     "dur": "144s vs 147s"
+    }
+   },
+   {
+    "id": "tlPqMtxG--g",
+    "title": "Fred and Adele Astaire - Fascinating Rhythm",
+    "channel": "ptm51",
+    "duration": 148,
+    "views": 6383,
+    "score": 91.4,
+    "why": {
+     "title": 1.0,
+     "artist": 1.0,
+     "query": 0.56,
+     "dur": "148s vs 147s"
+    }
+   }
+  ]
+ },
  "jazz-astrud-gilberto-agua-de-beber": {
   "set": "jazz",
   "card": "Astrud Gilberto - Água de Beber",
@@ -17911,6 +18066,57 @@
      "query": 0.67,
      "channel": "artist",
      "dur": "228s vs 227s"
+    }
+   }
+  ]
+ },
+ "jazz-basie-every-day-i-have-the-blues": {
+  "set": "jazz",
+  "card": "Count Basie and Joe Williams - Every Day I Have the Blues",
+  "query": "Count Basie Joe Williams Every Day I Have the Blues Count Basie Swings, Joe Williams Sings 1955",
+  "expected": 329,
+  "picked": [
+   {
+    "id": "QWYHkAaIv3c",
+    "title": "1955 Count Basie - Every Day (I Have The Blues) (Joe Williams, vocal) (#2 R&B hit)",
+    "channel": "The45Prof",
+    "duration": 328,
+    "views": 3771,
+    "score": 99.0,
+    "why": {
+     "title": 1.0,
+     "artist": 1.0,
+     "query": 0.88,
+     "dur": "328s vs 329s"
+    }
+   },
+   {
+    "id": "hqGKi3wixIg",
+    "title": "01.- Every Day I Have The Blues - Count Basie & Joe Williams - Count Basie Swings / Joe Williams Sin",
+    "channel": "Jazz & Blues",
+    "duration": 335,
+    "views": 15167,
+    "score": 96.5,
+    "why": {
+     "title": 1.0,
+     "artist": 1.0,
+     "query": 0.88,
+     "dur": "335s vs 329s"
+    }
+   },
+   {
+    "id": "VYY6mldMz0I",
+    "title": "Every Day I Have The Blues",
+    "channel": "Count Basie",
+    "duration": 327,
+    "views": 135642,
+    "score": 92.0,
+    "why": {
+     "title": 1.0,
+     "artist": 0.5,
+     "query": 0.56,
+     "channel": "artist",
+     "dur": "327s vs 329s"
     }
    }
   ]
@@ -19472,6 +19678,59 @@
    }
   ]
  },
+ "jazz-brubeck-in-your-own-sweet-way": {
+  "set": "jazz",
+  "card": "Dave Brubeck - In Your Own Sweet Way",
+  "query": "Dave Brubeck In Your Own Sweet Way Brubeck Plays Brubeck 1956",
+  "expected": 301,
+  "picked": [
+   {
+    "id": "4QDpay_t2nY",
+    "title": "In Your Own Sweet Way (1956)",
+    "channel": "Dave Brubeck",
+    "duration": 300,
+    "views": 101,
+    "score": 110.1,
+    "why": {
+     "title": 1.0,
+     "artist": 1.0,
+     "query": 0.9,
+     "channel": "artist",
+     "dur": "300s vs 301s"
+    }
+   },
+   {
+    "id": "7PYAD97nxnQ",
+    "title": "In Your Own Sweet Way (Album Version)",
+    "channel": "Dave Brubeck",
+    "duration": 298,
+    "views": 356559,
+    "score": 108.4,
+    "why": {
+     "title": 1.0,
+     "artist": 1.0,
+     "query": 0.8,
+     "channel": "artist",
+     "dur": "298s vs 301s"
+    }
+   },
+   {
+    "id": "3J5leDCVLgY",
+    "title": "In Your Own Sweet Way (From \"Brubeck Plays Brubeck\")",
+    "channel": "Dave Brubeck",
+    "duration": 300,
+    "views": 65,
+    "score": 107.0,
+    "why": {
+     "title": 1.0,
+     "artist": 1.0,
+     "query": 0.9,
+     "channel": "artist",
+     "dur": "300s vs 301s"
+    }
+   }
+  ]
+ },
  "jazz-brubeck-take-five": {
   "set": "jazz",
   "card": "The Dave Brubeck Quartet - Take Five",
@@ -19784,6 +20043,58 @@
      "artist": 1.0,
      "query": 0.86,
      "dur": "438s vs 441s"
+    }
+   }
+  ]
+ },
+ "jazz-byrd-places-and-spaces": {
+  "set": "jazz",
+  "card": "Donald Byrd - Places and Spaces",
+  "query": "Donald Byrd Places and Spaces Places and Spaces 1975",
+  "expected": 379,
+  "picked": [
+   {
+    "id": "unbgblfgsQI",
+    "title": "Places And Spaces",
+    "channel": "Donald Byrd",
+    "duration": 380,
+    "views": 4825079,
+    "score": 110.2,
+    "why": {
+     "title": 1.0,
+     "artist": 1.0,
+     "query": 0.86,
+     "channel": "artist",
+     "dur": "380s vs 379s"
+    }
+   },
+   {
+    "id": "mJPHSrAuUj4",
+    "title": "Places And Spaces",
+    "channel": "Donald Byrd",
+    "duration": 381,
+    "views": 59374,
+    "score": 108.7,
+    "why": {
+     "title": 1.0,
+     "artist": 1.0,
+     "query": 0.86,
+     "channel": "artist",
+     "dur": "381s vs 379s"
+    }
+   },
+   {
+    "id": "CPi49plak4Q",
+    "title": "Donald Byrd - Places & Spaces (1975)",
+    "channel": "aquarianrealm",
+    "duration": 380,
+    "views": 182653,
+    "score": 102.2,
+    "why": {
+     "title": 1.0,
+     "artist": 1.0,
+     "query": 1.0,
+     "dur": "380s vs 379s"
     }
    }
   ]
@@ -20163,6 +20474,56 @@
    }
   ]
  },
+ "jazz-charleston-chasers-basin-street-blues": {
+  "set": "jazz",
+  "card": "The Charleston Chasers - Basin Street Blues",
+  "query": "The Charleston Chasers Basin Street Blues Columbia 2415-D Jack Teagarden 1931",
+  "expected": 195,
+  "picked": [
+   {
+    "id": "tL8_0DE2mrE",
+    "title": "1931 HITS ARCHIVE: Basin Street Blues - Charleston Chasers (Jack Teagarden, vocal)",
+    "channel": "The78Prof",
+    "duration": 196,
+    "views": 13744,
+    "score": 97.2,
+    "why": {
+     "title": 1.0,
+     "artist": 1.0,
+     "query": 0.73,
+     "dur": "196s vs 195s"
+    }
+   },
+   {
+    "id": "08N-OgyCFHw",
+    "title": "The Charleston Chasers \"Basin Street Blues\" (NY, Feb 9, 1931) - Columbia 2415-D.",
+    "channel": "My Old Jazz",
+    "duration": 200,
+    "views": 33,
+    "score": 96.5,
+    "why": {
+     "title": 1.0,
+     "artist": 1.0,
+     "query": 0.82,
+     "dur": "200s vs 195s"
+    }
+   },
+   {
+    "id": "1O3INp_PwaU",
+    "title": "Basin Street Blues - The Charleston Chasers - 1931 - HQ Sound",
+    "channel": "AllAbout78Records",
+    "duration": 195,
+    "views": 2511,
+    "score": 93.9,
+    "why": {
+     "title": 1.0,
+     "artist": 1.0,
+     "query": 0.55,
+     "dur": "195s vs 195s"
+    }
+   }
+  ]
+ },
  "jazz-charlie-barnet-cherokee": {
   "set": "jazz",
   "card": "Charlie Barnet and His Orchestra - Cherokee",
@@ -20312,6 +20673,58 @@
      "artist": 1.0,
      "query": 1.0,
      "dur": "201s vs 190s"
+    }
+   }
+  ]
+ },
+ "jazz-christy-something-cool": {
+  "set": "jazz",
+  "card": "June Christy - Something Cool",
+  "query": "June Christy Something Cool Something Cool 1953 mono",
+  "expected": 260,
+  "picked": [
+   {
+    "id": "m6UwPpW1vuE",
+    "title": "Something Cool (Mono)",
+    "channel": "June Christy - Topic",
+    "duration": 259,
+    "views": 16643,
+    "score": 118.5,
+    "why": {
+     "title": 1.0,
+     "artist": 1.0,
+     "query": 0.88,
+     "topic": "artist",
+     "dur": "259s vs 260s"
+    }
+   },
+   {
+    "id": "plKDlqa6t3I",
+    "title": "Something Cool",
+    "channel": "June Christy - Topic",
+    "duration": 259,
+    "views": 167,
+    "score": 115.0,
+    "why": {
+     "title": 1.0,
+     "artist": 1.0,
+     "query": 0.75,
+     "topic": "artist",
+     "dur": "259s vs 260s"
+    }
+   },
+   {
+    "id": "IYgYZcrL4Xw",
+    "title": "June Christy: Something Cool (1954) - Mono",
+    "channel": "20th Century Nostalgia",
+    "duration": 258,
+    "views": 101,
+    "score": 97.7,
+    "why": {
+     "title": 1.0,
+     "artist": 1.0,
+     "query": 0.88,
+     "dur": "258s vs 260s"
     }
    }
   ]
@@ -21643,6 +22056,59 @@
    }
   ]
  },
+ "jazz-darin-mack-the-knife": {
+  "set": "jazz",
+  "card": "Bobby Darin - Mack the Knife",
+  "query": "Bobby Darin Mack the Knife That's All Atco 1958 official audio",
+  "expected": 190,
+  "picked": [
+   {
+    "id": "iooViITRp9M",
+    "title": "Mack the Knife",
+    "channel": "Bobby Darin",
+    "duration": 184,
+    "views": 7426919,
+    "score": 103.5,
+    "why": {
+     "title": 1.0,
+     "artist": 1.0,
+     "query": 0.4,
+     "channel": "artist",
+     "dur": "184s vs 190s"
+    }
+   },
+   {
+    "id": "ygVgxGSQIsw",
+    "title": "Mack the Knife",
+    "channel": "Bobby Darin",
+    "duration": 185,
+    "views": 6357954,
+    "score": 103.4,
+    "why": {
+     "title": 1.0,
+     "artist": 1.0,
+     "query": 0.4,
+     "channel": "artist",
+     "dur": "185s vs 190s"
+    }
+   },
+   {
+    "id": "YWBYzCpWo3M",
+    "title": "Mack the Knife",
+    "channel": "Bobby Darin",
+    "duration": 191,
+    "views": 153,
+    "score": 99.8,
+    "why": {
+     "title": 1.0,
+     "artist": 1.0,
+     "query": 0.4,
+     "channel": "artist",
+     "dur": "191s vs 190s"
+    }
+   }
+  ]
+ },
  "jazz-davis-bags-groove": {
   "set": "jazz",
   "card": "Miles Davis - Bags' Groove",
@@ -22484,6 +22950,57 @@
    }
   ]
  },
+ "jazz-doggett-honky-tonk-parts-1-and-2": {
+  "set": "jazz",
+  "card": "Bill Doggett - Honky Tonk (Parts 1 & 2)",
+  "query": "Bill Doggett Honky Tonk Parts 1 and 2 King single 1956",
+  "expected": 337,
+  "picked": [
+   {
+    "id": "txz7Dr1W3QQ",
+    "title": "Honky Tonk Parts 1 and 2",
+    "channel": "Bill Doggett - Topic",
+    "duration": 313,
+    "views": 272,
+    "score": 113.5,
+    "why": {
+     "title": 1.0,
+     "artist": 1.0,
+     "query": 0.7,
+     "topic": "artist",
+     "dur": "313s vs 337s"
+    }
+   },
+   {
+    "id": "xttqxs2xJyE",
+    "title": "1956 HITS ARCHIVE: Honky Tonk (Parts 1 & 2) - Bill Doggett (a #2 record--45 single version)",
+    "channel": "The45Prof",
+    "duration": 339,
+    "views": 79876,
+    "score": 100.4,
+    "why": {
+     "title": 1.0,
+     "artist": 1.0,
+     "query": 0.9,
+     "dur": "339s vs 337s"
+    }
+   },
+   {
+    "id": "MAn4eyQpwSI",
+    "title": "Honky Tonk  Part 1 & Part 2    Bill Doggett 1956 King 45     4950",
+    "channel": "Amnondoowop",
+    "duration": 334,
+    "views": 68925,
+    "score": 100.4,
+    "why": {
+     "title": 1.0,
+     "artist": 1.0,
+     "query": 0.9,
+     "dur": "334s vs 337s"
+    }
+   }
+  ]
+ },
  "jazz-dollar-brand-mannenberg": {
   "set": "jazz",
   "card": "Dollar Brand - Mannenberg",
@@ -23176,6 +23693,57 @@
    }
   ]
  },
+ "jazz-erskine-hawkins-after-hours": {
+  "set": "jazz",
+  "card": "Erskine Hawkins and His Orchestra - After Hours",
+  "query": "Erskine Hawkins After Hours Avery Parrish Bluebird 1940",
+  "expected": 203,
+  "picked": [
+   {
+    "id": "NQwh2XW7Bcs",
+    "title": "After Hours (Digitally Mastered - September 1991)",
+    "channel": "Erskine Hawkins - Topic",
+    "duration": 204,
+    "views": 9761,
+    "score": 100.4,
+    "why": {
+     "title": 1.0,
+     "artist": 0.67,
+     "query": 0.5,
+     "topic": "artist",
+     "dur": "204s vs 203s"
+    }
+   },
+   {
+    "id": "Y4cgCrnS8-Q",
+    "title": "After Hours - Erskine Hawkins & His Orchestra (featuring Avery Parrish, Piano) - Bluebird B-10879-A",
+    "channel": "James Phillips",
+    "duration": 202,
+    "views": 97,
+    "score": 94.7,
+    "why": {
+     "title": 1.0,
+     "artist": 1.0,
+     "query": 0.88,
+     "dur": "202s vs 203s"
+    }
+   },
+   {
+    "id": "MDZvQzRXSsg",
+    "title": "Erskine Hawkins Orchestra - After Hours (Coral 1950)",
+    "channel": "Hisashi Toshima",
+    "duration": 201,
+    "views": 741,
+    "score": 85.8,
+    "why": {
+     "title": 1.0,
+     "artist": 1.0,
+     "query": 0.5,
+     "dur": "201s vs 203s"
+    }
+   }
+  ]
+ },
  "jazz-erskine-hawkins-tuxedo-junction": {
   "set": "jazz",
   "card": "Erskine Hawkins and His Orchestra - Tuxedo Junction",
@@ -23277,6 +23845,57 @@
      "artist": 1.0,
      "query": 0.6,
      "dur": "294s vs 291s"
+    }
+   }
+  ]
+ },
+ "jazz-esther-phillips-what-a-diffrence-a-day-makes": {
+  "set": "jazz",
+  "card": "Esther Phillips - What a Diff'rence a Day Makes",
+  "query": "Esther Phillips What a Diff'rence a Day Makes What a Diff'rence a Day Makes 1975",
+  "expected": 192,
+  "picked": [
+   {
+    "id": "K6yQaQJ8NUs",
+    "title": "Esther Phillips What a Diffrence a Day makes 1975 Audio HQ",
+    "channel": "Le Juke Box ",
+    "duration": 193,
+    "views": 15012,
+    "score": 101.3,
+    "why": {
+     "title": 1.0,
+     "artist": 1.0,
+     "query": 1.0,
+     "dur": "193s vs 192s"
+    }
+   },
+   {
+    "id": "wJX5L-IFV5o",
+    "title": "What a Diff'rence a Day Makes",
+    "channel": "Esther Phillips - Topic",
+    "duration": 270,
+    "views": 67521,
+    "score": 99.0,
+    "why": {
+     "title": 1.0,
+     "artist": 1.0,
+     "query": 0.91,
+     "topic": "artist",
+     "dur": "270s vs 192s"
+    }
+   },
+   {
+    "id": "X8HMzPOaB10",
+    "title": "Esther Phillips \"What a Diff'rence a Day Made\" | Archive INA",
+    "channel": "INA Chansons",
+    "duration": 191,
+    "views": 110795,
+    "score": 84.9,
+    "why": {
+     "title": 0.75,
+     "artist": 1.0,
+     "query": 0.73,
+     "dur": "191s vs 192s"
     }
    }
   ]
@@ -25307,6 +25926,57 @@
    }
   ]
  },
+ "jazz-giuffre-the-train-and-the-river": {
+  "set": "jazz",
+  "card": "The Jimmy Giuffre 3 - The Train and the River",
+  "query": "Jimmy Giuffre 3 The Train and the River The Jimmy Giuffre 3 1956",
+  "expected": 216,
+  "picked": [
+   {
+    "id": "ahJv36Mild4",
+    "title": "The Train and the River",
+    "channel": "Jimmy Giuffre - Topic",
+    "duration": 214,
+    "views": 18279,
+    "score": 107.1,
+    "why": {
+     "title": 1.0,
+     "artist": 0.67,
+     "query": 0.67,
+     "topic": "artist",
+     "dur": "214s vs 216s"
+    }
+   },
+   {
+    "id": "u-4ZqhHOFsM",
+    "title": "The Jimmy Giuffre 3 ~ The Train And The River",
+    "channel": "doubleotwentyone",
+    "duration": 218,
+    "views": 37463,
+    "score": 97.0,
+    "why": {
+     "title": 1.0,
+     "artist": 1.0,
+     "query": 0.89,
+     "dur": "218s vs 216s"
+    }
+   },
+   {
+    "id": "z2BHhsZ554I",
+    "title": "Jimmy Giuffre 3,,, THE TRAIN AND THE RIVER",
+    "channel": "jon ancker",
+    "duration": 217,
+    "views": 923,
+    "score": 95.7,
+    "why": {
+     "title": 1.0,
+     "artist": 1.0,
+     "query": 0.89,
+     "dur": "217s vs 216s"
+    }
+   }
+  ]
+ },
  "jazz-glasper-afro-blue": {
   "set": "jazz",
   "card": "Robert Glasper Experiment feat. Erykah Badu - Afro Blue",
@@ -26386,6 +27056,57 @@
    }
   ]
  },
+ "jazz-hamilton-blue-sands": {
+  "set": "jazz",
+  "card": "Chico Hamilton Quintet - Blue Sands",
+  "query": "Chico Hamilton Quintet Blue Sands Chico Hamilton Quintet featuring Buddy Collette 1955",
+  "expected": 390,
+  "picked": [
+   {
+    "id": "A43DakdPPQQ",
+    "title": "Chico Hamilton Quintet - Blue Sands",
+    "channel": "60otaku4",
+    "duration": 397,
+    "views": 73720,
+    "score": 94.8,
+    "why": {
+     "title": 1.0,
+     "artist": 1.0,
+     "query": 0.73,
+     "dur": "397s vs 390s"
+    }
+   },
+   {
+    "id": "w8JzUoDu3LE",
+    "title": "Chico Hamilton Quintet - Blue Sands | VINYL",
+    "channel": "ilovewaterslides",
+    "duration": 392,
+    "views": 195,
+    "score": 92.7,
+    "why": {
+     "title": 1.0,
+     "artist": 1.0,
+     "query": 0.73,
+     "dur": "392s vs 390s"
+    }
+   },
+   {
+    "id": "qRrwyLbGczs",
+    "title": "Blue Sands",
+    "channel": "The Chico Hamilton Trio - Topic",
+    "duration": 397,
+    "views": 25651,
+    "score": 89.4,
+    "why": {
+     "title": 1.0,
+     "artist": 0.67,
+     "query": 0.55,
+     "topic": "other",
+     "dur": "397s vs 390s"
+    }
+   }
+  ]
+ },
  "jazz-hancock-chameleon": {
   "set": "jazz",
   "card": "Herbie Hancock - Chameleon",
@@ -27031,6 +27752,57 @@
    }
   ]
  },
+ "jazz-heywood-begin-the-beguine": {
+  "set": "jazz",
+  "card": "Eddie Heywood and His Orchestra - Begin the Beguine",
+  "query": "Eddie Heywood Begin the Beguine Commodore 1944",
+  "expected": 201,
+  "picked": [
+   {
+    "id": "r3_zogqfylc",
+    "title": "Eddie Heywood and his Orchestra:  \"Begin the Beguine\"  (1944)",
+    "channel": "Annie Van Auken",
+    "duration": 203,
+    "views": 113,
+    "score": 97.1,
+    "why": {
+     "title": 1.0,
+     "artist": 1.0,
+     "query": 0.83,
+     "dur": "203s vs 201s"
+    }
+   },
+   {
+    "id": "5ff7oD7Y35M",
+    "title": "Begin The Beguine",
+    "channel": "Eddie Heywood & His Orchestra - Topic",
+    "duration": 314,
+    "views": 3049,
+    "score": 89.0,
+    "why": {
+     "title": 1.0,
+     "artist": 1.0,
+     "query": 0.67,
+     "topic": "artist",
+     "dur": "314s vs 201s"
+    }
+   },
+   {
+    "id": "T2e-FZ0hjz0",
+    "title": "Begin The Beguine - Eddie Heywood his Orchestra Commodore Records #1514 1944",
+    "channel": "Westtoledoguy",
+    "duration": 329,
+    "views": 37,
+    "score": 71.0,
+    "why": {
+     "title": 1.0,
+     "artist": 1.0,
+     "query": 1.0,
+     "dur": "329s vs 201s"
+    }
+   }
+  ]
+ },
  "jazz-hiromi-alive": {
   "set": "jazz",
   "card": "Hiromi's Trio Project - Alive",
@@ -27295,6 +28067,58 @@
    }
   ]
  },
+ "jazz-holmes-misty": {
+  "set": "jazz",
+  "card": "Richard \"Groove\" Holmes - Misty",
+  "query": "Richard \"Groove\" Holmes Misty Soul Message 1965",
+  "expected": 363,
+  "picked": [
+   {
+    "id": "H2R3o35fA14",
+    "title": "Misty",
+    "channel": "Richard \"Groove\" Holmes - Topic",
+    "duration": 361,
+    "views": 95130,
+    "score": 114.6,
+    "why": {
+     "title": 1.0,
+     "artist": 1.0,
+     "query": 0.57,
+     "topic": "artist",
+     "dur": "361s vs 363s"
+    }
+   },
+   {
+    "id": "phboE4tKdNQ",
+    "title": "Misty",
+    "channel": "Richard \"Groove\" Holmes - Topic",
+    "duration": 364,
+    "views": 234,
+    "score": 112.5,
+    "why": {
+     "title": 1.0,
+     "artist": 1.0,
+     "query": 0.57,
+     "topic": "artist",
+     "dur": "364s vs 363s"
+    }
+   },
+   {
+    "id": "GzMQNYvcixY",
+    "title": "Richard \"Groove\" Holmes \"Misty\" [Soul Message LP]",
+    "channel": "The Record Library",
+    "duration": 376,
+    "views": 519,
+    "score": 95.0,
+    "why": {
+     "title": 1.0,
+     "artist": 1.0,
+     "query": 0.86,
+     "dur": "376s vs 363s"
+    }
+   }
+  ]
+ },
  "jazz-horn-heres-to-life": {
   "set": "jazz",
   "card": "Shirley Horn - Here's to Life",
@@ -27343,6 +28167,58 @@
      "artist": 1.0,
      "query": 0.8,
      "dur": "342s vs 337s"
+    }
+   }
+  ]
+ },
+ "jazz-horne-stormy-weather": {
+  "set": "jazz",
+  "card": "Lena Horne - Stormy Weather",
+  "query": "Lena Horne Stormy Weather Victor 1941",
+  "expected": 203,
+  "picked": [
+   {
+    "id": "aCR7l_QRUvs",
+    "title": "Stormy Weather (From \"Stormy Weather\")",
+    "channel": "Lena Horne - Topic",
+    "duration": 202,
+    "views": 713,
+    "score": 114.3,
+    "why": {
+     "title": 1.0,
+     "artist": 1.0,
+     "query": 0.67,
+     "topic": "artist",
+     "dur": "202s vs 203s"
+    }
+   },
+   {
+    "id": "FedjdHBDHBM",
+    "title": "Stormy Weather",
+    "channel": "Lena Horne - Topic",
+    "duration": 242,
+    "views": 31759,
+    "score": 104.6,
+    "why": {
+     "title": 1.0,
+     "artist": 1.0,
+     "query": 0.67,
+     "topic": "artist",
+     "dur": "242s vs 203s"
+    }
+   },
+   {
+    "id": "cE5npXVL_fQ",
+    "title": "Lena Horne - Stormy Weather 1941 Lou Bring Orchestra",
+    "channel": "ScrambledEggs1969",
+    "duration": 207,
+    "views": 3468,
+    "score": 98.3,
+    "why": {
+     "title": 1.0,
+     "artist": 1.0,
+     "query": 0.83,
+     "dur": "207s vs 203s"
     }
    }
   ]
@@ -27501,6 +28377,107 @@
   ],
   "flag": "duration 398s vs 304s"
  },
+ "jazz-ink-spots-if-i-didnt-care": {
+  "set": "jazz",
+  "card": "The Ink Spots - If I Didn't Care",
+  "query": "The Ink Spots If I Didn't Care Decca 2286 1939",
+  "expected": 189,
+  "picked": [
+   {
+    "id": "6L8AHNq9bEk",
+    "title": "If I Didn't Care",
+    "channel": "The Ink Spots - Topic",
+    "duration": 188,
+    "views": 11058,
+    "score": 115.2,
+    "why": {
+     "title": 1.0,
+     "artist": 1.0,
+     "query": 0.67,
+     "topic": "artist",
+     "dur": "188s vs 189s"
+    }
+   },
+   {
+    "id": "iSISFSJDAjI",
+    "title": "Ink Spots  ‎– If I Didn't Care 1939 Decca ‎– 2286",
+    "channel": "AMNON SUODAI",
+    "duration": 200,
+    "views": 825,
+    "score": 100.3,
+    "why": {
+     "title": 1.0,
+     "artist": 1.0,
+     "query": 1.0,
+     "dur": "200s vs 189s"
+    }
+   },
+   {
+    "id": "TVAMm8O0yNI",
+    "title": "Ink Spots - If I Didn't Care - Decca 2286 - 1939",
+    "channel": "4JUKEBOXSATURDAYNITE",
+    "duration": 186,
+    "views": 502,
+    "score": 100.2,
+    "why": {
+     "title": 1.0,
+     "artist": 1.0,
+     "query": 1.0,
+     "dur": "186s vs 189s"
+    }
+   }
+  ]
+ },
+ "jazz-isham-jones-it-had-to-be-you": {
+  "set": "jazz",
+  "card": "Isham Jones Orchestra - It Had to Be You",
+  "query": "Isham Jones Orchestra It Had to Be You Brunswick 2614 1924",
+  "expected": 178,
+  "picked": [
+   {
+    "id": "lJsiBJlzuOg",
+    "title": "(1924) It Had to Be You - Isham Jones Orchestra - Brunswick 2614-A",
+    "channel": "Moringouin",
+    "duration": 185,
+    "views": 65,
+    "score": 99.5,
+    "why": {
+     "title": 1.0,
+     "artist": 1.0,
+     "query": 1.0,
+     "dur": "185s vs 178s"
+    }
+   },
+   {
+    "id": "7TtDYxz-Alo",
+    "title": "\"It Had To Be You\" - Isham Jones Orchestra (1924)",
+    "channel": "Jazz Crazy",
+    "duration": 182,
+    "views": 899,
+    "score": 97.4,
+    "why": {
+     "title": 1.0,
+     "artist": 1.0,
+     "query": 0.8,
+     "dur": "182s vs 178s"
+    }
+   },
+   {
+    "id": "9TyLtlzjgRE",
+    "title": "Isham Jones Orchestra: It Had To Be You (Brunswick 2614)",
+    "channel": "David Burgess Mechanical Music, MUGEN, And More",
+    "duration": 185,
+    "views": 40,
+    "score": 94.8,
+    "why": {
+     "title": 1.0,
+     "artist": 1.0,
+     "query": 0.9,
+     "dur": "185s vs 178s"
+    }
+   }
+  ]
+ },
  "jazz-jabbo-smith-jazz-battle": {
   "set": "jazz",
   "card": "Jabbo Smith's Rhythm Aces - Jazz Battle",
@@ -27609,6 +28586,58 @@
      "penalty": [
       "live"
      ]
+    }
+   }
+  ]
+ },
+ "jazz-james-p-johnson-carolina-shout": {
+  "set": "jazz",
+  "card": "James P. Johnson - Carolina Shout",
+  "query": "James P. Johnson Carolina Shout Okeh 4495 1921",
+  "expected": 199,
+  "picked": [
+   {
+    "id": "mHv9yJ28Y4g",
+    "title": "Carolina Shout",
+    "channel": "James P. Johnson - Topic",
+    "duration": 193,
+    "views": 424,
+    "score": 113.5,
+    "why": {
+     "title": 1.0,
+     "artist": 1.0,
+     "query": 0.62,
+     "topic": "artist",
+     "dur": "193s vs 199s"
+    }
+   },
+   {
+    "id": "_IsP-KirkJA",
+    "title": "Carolina Shout",
+    "channel": "James P. Johnson - Topic",
+    "duration": 199,
+    "views": 296,
+    "score": 113.4,
+    "why": {
+     "title": 1.0,
+     "artist": 1.0,
+     "query": 0.62,
+     "topic": "artist",
+     "dur": "199s vs 199s"
+    }
+   },
+   {
+    "id": "Q3ZTqgt8bf4",
+    "title": "James P. Johnson Plays Carolina Shout - 1921 Okeh 78rpm Record",
+    "channel": "Bruce Victrolaman Young",
+    "duration": 204,
+    "views": 863,
+    "score": 98.5,
+    "why": {
+     "title": 1.0,
+     "artist": 1.0,
+     "query": 0.88,
+     "dur": "204s vs 199s"
     }
    }
   ]
@@ -28131,6 +29160,56 @@
    }
   ]
  },
+ "jazz-jimmie-lunceford-for-dancers-only": {
+  "set": "jazz",
+  "card": "Jimmie Lunceford and His Orchestra - For Dancers Only",
+  "query": "Jimmie Lunceford and His Orchestra For Dancers Only Decca 1340 1937",
+  "expected": 162,
+  "picked": [
+   {
+    "id": "CGcSJJ26WcQ",
+    "title": "For Dancers Only - Jimmie Lunceford and his Orchestra Decca Records #1340 1937",
+    "channel": "Westtoledoguy",
+    "duration": 176,
+    "views": 12,
+    "score": 96.7,
+    "why": {
+     "title": 1.0,
+     "artist": 1.0,
+     "query": 1.0,
+     "dur": "176s vs 162s"
+    }
+   },
+   {
+    "id": "Z2fux516-aM",
+    "title": "For Dancers Only - Jimmie Lunceford & His Orchestra - Decca 1340-B",
+    "channel": "James Phillips",
+    "duration": 164,
+    "views": 26,
+    "score": 94.5,
+    "why": {
+     "title": 1.0,
+     "artist": 1.0,
+     "query": 0.89,
+     "dur": "164s vs 162s"
+    }
+   },
+   {
+    "id": "KV1VeiySrZA",
+    "title": "1937 HITS ARCHIVE: For Dancers Only - Jimmie Lunceford (original Lunceford version)",
+    "channel": "The78Prof",
+    "duration": 162,
+    "views": 20853,
+    "score": 88.1,
+    "why": {
+     "title": 1.0,
+     "artist": 0.67,
+     "query": 0.67,
+     "dur": "162s vs 162s"
+    }
+   }
+  ]
+ },
  "jazz-jimmie-lunceford-rhythm-is-our-business": {
   "set": "jazz",
   "card": "Jimmie Lunceford and His Orchestra - Rhythm Is Our Business",
@@ -28230,6 +29309,56 @@
      "artist": 1.0,
      "query": 0.78,
      "dur": "188s vs 180s"
+    }
+   }
+  ]
+ },
+ "jazz-jimmy-dorsey-tangerine": {
+  "set": "jazz",
+  "card": "Jimmy Dorsey and His Orchestra - Tangerine",
+  "query": "Jimmy Dorsey Tangerine Decca 1941",
+  "expected": 192,
+  "picked": [
+   {
+    "id": "zdistoUW4CQ",
+    "title": "Tangerine ~ Jimmy Dorsey & his Orchestra (1941)",
+    "channel": "MrRJDB1969",
+    "duration": 198,
+    "views": 334262,
+    "score": 99.4,
+    "why": {
+     "title": 1.0,
+     "artist": 1.0,
+     "query": 0.8,
+     "dur": "198s vs 192s"
+    }
+   },
+   {
+    "id": "iu1q9mzO8i0",
+    "title": "Tangerine - (B.Everly H. O'Connell) Jimmy Dorsey & his Orchestra Decca Records #4123 1941",
+    "channel": "Westtoledoguy",
+    "duration": 201,
+    "views": 16,
+    "score": 99.0,
+    "why": {
+     "title": 1.0,
+     "artist": 1.0,
+     "query": 1.0,
+     "dur": "201s vs 192s"
+    }
+   },
+   {
+    "id": "E63LUOpEoYo",
+    "title": "Tangerine ~ Jimmy Dorsey & His Orchestra  (1941)",
+    "channel": "MrRJDB1969",
+    "duration": 195,
+    "views": 2195,
+    "score": 97.7,
+    "why": {
+     "title": 1.0,
+     "artist": 1.0,
+     "query": 0.8,
+     "dur": "195s vs 192s"
     }
    }
   ]
@@ -29060,6 +30189,57 @@
    }
   ]
  },
+ "jazz-kenton-the-peanut-vendor": {
+  "set": "jazz",
+  "card": "Stan Kenton and His Orchestra - The Peanut Vendor",
+  "query": "Stan Kenton The Peanut Vendor Capitol 1947",
+  "expected": 164,
+  "picked": [
+   {
+    "id": "A-ZaN7o02iA",
+    "title": "The Peanut Vendor",
+    "channel": "Stan Kenton - Topic",
+    "duration": 165,
+    "views": 832,
+    "score": 106.0,
+    "why": {
+     "title": 1.0,
+     "artist": 0.67,
+     "query": 0.67,
+     "topic": "artist",
+     "dur": "165s vs 164s"
+    }
+   },
+   {
+    "id": "XrwGKjFeQrU",
+    "title": "Stan Kenton and his Orchestra 'The Peanut Vendor' 1947 78 rpm",
+    "channel": "OldiesAL",
+    "duration": 174,
+    "views": 1177,
+    "score": 97.9,
+    "why": {
+     "title": 1.0,
+     "artist": 1.0,
+     "query": 0.83,
+     "dur": "174s vs 164s"
+    }
+   },
+   {
+    "id": "-MiSmn-A0JQ",
+    "title": "The Peanut Vendor - Stan Kenton & his Orchestra Capital Records #15052 1947",
+    "channel": "Westtoledoguy",
+    "duration": 180,
+    "views": 19,
+    "score": 93.4,
+    "why": {
+     "title": 1.0,
+     "artist": 1.0,
+     "query": 0.83,
+     "dur": "180s vs 164s"
+    }
+   }
+  ]
+ },
  "jazz-king-oliver-canal-street-blues": {
   "set": "jazz",
   "card": "King Oliver's Creole Jazz Band - Canal Street Blues",
@@ -29377,6 +30557,58 @@
      "penalty": [
       "live"
      ]
+    }
+   }
+  ]
+ },
+ "jazz-lambert-hendricks-ross-twisted": {
+  "set": "jazz",
+  "card": "Lambert, Hendricks & Ross - Twisted",
+  "query": "Lambert, Hendricks & Ross Twisted The Hottest New Group in Jazz 1959",
+  "expected": 139,
+  "picked": [
+   {
+    "id": "HFiAZYnNRyQ",
+    "title": "Twisted",
+    "channel": "Lambert, Hendricks & Ross - Topic",
+    "duration": 136,
+    "views": 89687,
+    "score": 112.6,
+    "why": {
+     "title": 1.0,
+     "artist": 1.0,
+     "query": 0.44,
+     "topic": "artist",
+     "dur": "136s vs 139s"
+    }
+   },
+   {
+    "id": "ejxoVGVC-14",
+    "title": "Twisted",
+    "channel": "Lambert, Hendricks & Ross - Topic",
+    "duration": 136,
+    "views": 1068,
+    "score": 111.1,
+    "why": {
+     "title": 1.0,
+     "artist": 1.0,
+     "query": 0.44,
+     "topic": "artist",
+     "dur": "136s vs 139s"
+    }
+   },
+   {
+    "id": "JXwMgIlmoaM",
+    "title": "Lambert, Hendricks & Ross - Twisted",
+    "channel": "tojugula",
+    "duration": 136,
+    "views": 245450,
+    "score": 91.0,
+    "why": {
+     "title": 1.0,
+     "artist": 1.0,
+     "query": 0.44,
+     "dur": "136s vs 139s"
     }
    }
   ]
@@ -30190,6 +31422,59 @@
    }
   ]
  },
+ "jazz-mahavishnu-birds-of-fire": {
+  "set": "jazz",
+  "card": "Mahavishnu Orchestra - Birds of Fire",
+  "query": "Mahavishnu Orchestra Birds of Fire Birds of Fire 1972",
+  "expected": 350,
+  "picked": [
+   {
+    "id": "AulNvAR0u5c",
+    "title": "Birds of Fire",
+    "channel": "Mahavishnu Orchestra - Topic",
+    "duration": 343,
+    "views": 607327,
+    "score": 119.5,
+    "why": {
+     "title": 1.0,
+     "artist": 1.0,
+     "query": 0.86,
+     "topic": "artist",
+     "dur": "343s vs 350s"
+    }
+   },
+   {
+    "id": "g73_S7AQiYg",
+    "title": "Birds Of Fire",
+    "channel": "Mahavishnu Orchestra - Topic",
+    "duration": 342,
+    "views": 38511,
+    "score": 118.5,
+    "why": {
+     "title": 1.0,
+     "artist": 1.0,
+     "query": 0.86,
+     "topic": "artist",
+     "dur": "342s vs 350s"
+    }
+   },
+   {
+    "id": "aypZJ1qIMaQ",
+    "title": "Birds Of Fire (Album Version)",
+    "channel": "Mahavishnu Orchestra - Topic",
+    "duration": 341,
+    "views": 38218,
+    "score": 118.5,
+    "why": {
+     "title": 1.0,
+     "artist": 1.0,
+     "query": 0.86,
+     "topic": "artist",
+     "dur": "341s vs 350s"
+    }
+   }
+  ]
+ },
  "jazz-mahavishnu-meeting-of-the-spirits": {
   "set": "jazz",
   "card": "Mahavishnu Orchestra - Meeting of the Spirits",
@@ -30543,6 +31828,57 @@
      "artist": 1.0,
      "query": 0.86,
      "dur": "200s vs 180s"
+    }
+   }
+  ]
+ },
+ "jazz-marlena-shaw-california-soul": {
+  "set": "jazz",
+  "card": "Marlena Shaw - California Soul",
+  "query": "Marlena Shaw California Soul The Spice of Life 1969",
+  "expected": 179,
+  "picked": [
+   {
+    "id": "CUosSQZSw5c",
+    "title": "California Soul",
+    "channel": "Marlena Shaw - Topic",
+    "duration": 178,
+    "views": 4765347,
+    "score": 115.9,
+    "why": {
+     "title": 1.0,
+     "artist": 1.0,
+     "query": 0.57,
+     "topic": "artist",
+     "dur": "178s vs 179s"
+    }
+   },
+   {
+    "id": "kxVHAT1kKBY",
+    "title": "Marlena Shaw - California Soul ( 1969 ) HD",
+    "channel": "Nicolas Reboux",
+    "duration": 183,
+    "views": 20965,
+    "score": 97.2,
+    "why": {
+     "title": 1.0,
+     "artist": 1.0,
+     "query": 0.71,
+     "dur": "183s vs 179s"
+    }
+   },
+   {
+    "id": "bnvv52iLFOI",
+    "title": "MARLENA SHAW  -  THE SPICE OF LIFE  -  CALIFORNIA SOUL",
+    "channel": "Chief Soul Officers",
+    "duration": 173,
+    "views": 924,
+    "score": 95.2,
+    "why": {
+     "title": 1.0,
+     "artist": 1.0,
+     "query": 0.86,
+     "dur": "173s vs 179s"
     }
    }
   ]
@@ -31371,6 +32707,58 @@
    }
   ]
  },
+ "jazz-mildred-bailey-rockin-chair": {
+  "set": "jazz",
+  "card": "Mildred Bailey and Her Orchestra - Rockin' Chair",
+  "query": "Mildred Bailey and Her Orchestra Rockin' Chair Vocalion 3553 1937",
+  "expected": 194,
+  "picked": [
+   {
+    "id": "ASyICH5K1LA",
+    "title": "Rockin' Chair",
+    "channel": "Mildred Bailey - Topic",
+    "duration": 213,
+    "views": 72,
+    "score": 99.5,
+    "why": {
+     "title": 1.0,
+     "artist": 0.67,
+     "query": 0.5,
+     "topic": "artist",
+     "dur": "213s vs 194s"
+    }
+   },
+   {
+    "id": "TCnlqrJjgu8",
+    "title": "Rockin' Chair",
+    "channel": "Mildred Bailey - Topic",
+    "duration": 159,
+    "views": 38,
+    "score": 92.4,
+    "why": {
+     "title": 1.0,
+     "artist": 0.67,
+     "query": 0.5,
+     "topic": "artist",
+     "dur": "159s vs 194s"
+    }
+   },
+   {
+    "id": "HYGfGo5mJJ0",
+    "title": "Rockin' Chair - Mildred Bailey and her Orchestra  Vocalion Records #3553",
+    "channel": "Westtoledoguy",
+    "duration": 211,
+    "views": 16,
+    "score": 91.8,
+    "why": {
+     "title": 1.0,
+     "artist": 1.0,
+     "query": 0.88,
+     "dur": "211s vs 194s"
+    }
+   }
+  ]
+ },
  "jazz-mills-brothers-paper-doll": {
   "set": "jazz",
   "card": "The Mills Brothers - Paper Doll",
@@ -31679,6 +33067,56 @@
      "query": 0.71,
      "channel": "artist",
      "dur": "721s vs 721s"
+    }
+   }
+  ]
+ },
+ "jazz-mingus-pithecanthropus-erectus": {
+  "set": "jazz",
+  "card": "The Charlie Mingus Jazz Workshop - Pithecanthropus Erectus",
+  "query": "Charles Mingus Pithecanthropus Erectus Pithecanthropus Erectus 1956",
+  "expected": 636,
+  "picked": [
+   {
+    "id": "p0H2G_W-O0I",
+    "title": "\"Pithecanthropus Erectus\" by Charles Mingus",
+    "channel": "MegaAlexandroid",
+    "duration": 637,
+    "views": 100467,
+    "score": 78.1,
+    "why": {
+     "title": 1.0,
+     "artist": 0.25,
+     "query": 0.86,
+     "dur": "637s vs 636s"
+    }
+   },
+   {
+    "id": "i5xi3Dm7IGI",
+    "title": "Pithecanthropus Erectus",
+    "channel": "Charles Mingus",
+    "duration": 638,
+    "views": 13482,
+    "score": 77.4,
+    "why": {
+     "title": 1.0,
+     "artist": 0.25,
+     "query": 0.86,
+     "dur": "638s vs 636s"
+    }
+   },
+   {
+    "id": "gD7JJsuf7HI",
+    "title": "Pithecanthropus Erectus (Pithecanthropus Erectus)",
+    "channel": "Charles Mingus",
+    "duration": 636,
+    "views": 350,
+    "score": 76.1,
+    "why": {
+     "title": 1.0,
+     "artist": 0.25,
+     "query": 0.86,
+     "dur": "636s vs 636s"
     }
    }
   ]
@@ -32000,6 +33438,59 @@
    }
   ]
  },
+ "jazz-monk-ruby-my-dear": {
+  "set": "jazz",
+  "card": "Thelonious Monk Trio - Ruby, My Dear",
+  "query": "Thelonious Monk Trio Ruby My Dear Blue Note 1947",
+  "expected": 194,
+  "picked": [
+   {
+    "id": "U-N4w9LVGpw",
+    "title": "Ruby, My Dear",
+    "channel": "Thelonious Monk",
+    "duration": 191,
+    "views": 147170,
+    "score": 96.1,
+    "why": {
+     "title": 1.0,
+     "artist": 0.67,
+     "query": 0.56,
+     "channel": "artist",
+     "dur": "191s vs 194s"
+    }
+   },
+   {
+    "id": "njqKH94VH-Q",
+    "title": "Ruby My Dear (Alternate Take)",
+    "channel": "Thelonious Monk",
+    "duration": 187,
+    "views": 19197,
+    "score": 95.4,
+    "why": {
+     "title": 1.0,
+     "artist": 0.67,
+     "query": 0.56,
+     "channel": "artist",
+     "dur": "187s vs 194s"
+    }
+   },
+   {
+    "id": "qnvwR4FezF8",
+    "title": "Ruby My Dear",
+    "channel": "Thelonious Monk",
+    "duration": 187,
+    "views": 15011,
+    "score": 95.3,
+    "why": {
+     "title": 1.0,
+     "artist": 0.67,
+     "query": 0.56,
+     "channel": "artist",
+     "dur": "187s vs 194s"
+    }
+   }
+  ]
+ },
  "jazz-monk-well-you-neednt": {
   "set": "jazz",
   "card": "Thelonious Monk Septet - Well, You Needn't",
@@ -32101,6 +33592,56 @@
      "artist": 1.0,
      "query": 0.9,
      "dur": "428s vs 427s"
+    }
+   }
+  ]
+ },
+ "jazz-moten-moten-swing": {
+  "set": "jazz",
+  "card": "Bennie Moten's Kansas City Orchestra - Moten's Swing",
+  "query": "Bennie Moten's Kansas City Orchestra Moten's Swing Victor 23384 1932",
+  "expected": 204,
+  "picked": [
+   {
+    "id": "Nc0q93PEkUo",
+    "title": "Moten Swing - Bennie Moten's Kansas City Orchestra - Victor 23384",
+    "channel": "James Phillips",
+    "duration": 200,
+    "views": 56,
+    "score": 94.9,
+    "why": {
+     "title": 1.0,
+     "artist": 1.0,
+     "query": 0.9,
+     "dur": "200s vs 204s"
+    }
+   },
+   {
+    "id": "hr42hm6GvkQ",
+    "title": "Bennie Moten's Kansas City Orchestra - Moten's Swing (Moten Swing)  Victor 23384 1933",
+    "channel": "coldwar1952",
+    "duration": 204,
+    "views": 152193,
+    "score": 93.6,
+    "why": {
+     "title": 1.0,
+     "artist": 1.0,
+     "query": 0.9,
+     "dur": "204s vs 204s"
+    }
+   },
+   {
+    "id": "u6RI1nkciuM",
+    "title": "Bennie Moten's Kansas City Orchestra - IMAGINATION - 1932",
+    "channel": "Martin Schuurman",
+    "duration": 204,
+    "views": 3192,
+    "score": 76.3,
+    "why": {
+     "title": 0.5,
+     "artist": 1.0,
+     "query": 0.7,
+     "dur": "204s vs 204s"
     }
    }
   ]
@@ -32835,6 +34376,56 @@
    }
   ]
  },
+ "jazz-parker-yardbird-suite": {
+  "set": "jazz",
+  "card": "Charlie Parker Septet - Yardbird Suite",
+  "query": "Charlie Parker Septet Yardbird Suite Dial 1946",
+  "expected": 179,
+  "picked": [
+   {
+    "id": "S_fQysbh-Vk",
+    "title": "Charlie Parker Septet \"Yardbird Suite\" (1946) on Dial 1003 with Miles Davis & pianist Dodo Marmarosa",
+    "channel": "Tim Gracyk",
+    "duration": 179,
+    "views": 621,
+    "score": 100.2,
+    "why": {
+     "title": 1.0,
+     "artist": 1.0,
+     "query": 1.0,
+     "dur": "179s vs 179s"
+    }
+   },
+   {
+    "id": "tSKBeAJgZ0g",
+    "title": "Yardbird Suite - Charlie Parker Septet (w/Miles Davis) - Dial 1003",
+    "channel": "James Phillips",
+    "duration": 175,
+    "views": 11,
+    "score": 93.7,
+    "why": {
+     "title": 1.0,
+     "artist": 1.0,
+     "query": 0.86,
+     "dur": "175s vs 179s"
+    }
+   },
+   {
+    "id": "2F-ScIk79KA",
+    "title": "Yardbird Suite - Charlie Parker Septet ( 03/26/46)",
+    "channel": "ben dl",
+    "duration": 177,
+    "views": 448,
+    "score": 92.8,
+    "why": {
+     "title": 1.0,
+     "artist": 1.0,
+     "query": 0.71,
+     "dur": "177s vs 179s"
+    }
+   }
+  ]
+ },
  "jazz-pass-night-and-day": {
   "set": "jazz",
   "card": "Joe Pass - Night and Day",
@@ -33136,6 +34727,59 @@
      "artist": 1.0,
      "query": 0.62,
      "dur": "188s vs 168s"
+    }
+   }
+  ]
+ },
+ "jazz-pete-johnson-roll-em-pete": {
+  "set": "jazz",
+  "card": "Joe Turner and Pete Johnson - Roll 'Em Pete",
+  "query": "Pete Johnson Joe Turner Roll 'Em Pete Vocalion 4607 1938",
+  "expected": 170,
+  "picked": [
+   {
+    "id": "80nvvDJZHvo",
+    "title": "Roll'em Pete",
+    "channel": "Pete Johnson & Joe Turner - Topic",
+    "duration": 170,
+    "views": 46,
+    "score": 110.8,
+    "why": {
+     "title": 1.0,
+     "artist": 1.0,
+     "query": 0.5,
+     "topic": "artist",
+     "dur": "170s vs 170s"
+    }
+   },
+   {
+    "id": "oxtWQKWpv-Q",
+    "title": "Roll 'Em Pete",
+    "channel": "Joe Turner - Topic",
+    "duration": 171,
+    "views": 283,
+    "score": 106.7,
+    "why": {
+     "title": 1.0,
+     "artist": 0.75,
+     "query": 0.6,
+     "topic": "artist",
+     "dur": "171s vs 170s"
+    }
+   },
+   {
+    "id": "SFGtGEGF6x4",
+    "title": "Roll 'Em Pete",
+    "channel": "Joe Turner - Topic",
+    "duration": 169,
+    "views": 238,
+    "score": 106.7,
+    "why": {
+     "title": 1.0,
+     "artist": 0.75,
+     "query": 0.6,
+     "topic": "artist",
+     "dur": "169s vs 170s"
     }
    }
   ]
@@ -33603,6 +35247,57 @@
    }
   ]
  },
+ "jazz-powell-tempus-fugit": {
+  "set": "jazz",
+  "card": "Bud Powell Trio - Tempus Fugit",
+  "query": "Bud Powell Tempus Fugit Mercury 1949",
+  "expected": 149,
+  "picked": [
+   {
+    "id": "nLSaecuTjz8",
+    "title": "Tempus Fugit",
+    "channel": "Bud Powell - Topic",
+    "duration": 147,
+    "views": 1638,
+    "score": 106.2,
+    "why": {
+     "title": 1.0,
+     "artist": 0.67,
+     "query": 0.67,
+     "topic": "artist",
+     "dur": "147s vs 149s"
+    }
+   },
+   {
+    "id": "yrO45Tzvhxg",
+    "title": "Bud Powell - Tempus Fugit",
+    "channel": "CadillacBoneZ",
+    "duration": 149,
+    "views": 311412,
+    "score": 86.1,
+    "why": {
+     "title": 1.0,
+     "artist": 0.67,
+     "query": 0.67,
+     "dur": "149s vs 149s"
+    }
+   },
+   {
+    "id": "N0ZG81_Bor8",
+    "title": "Bud Powell - Tempus Fugue-it [1949]",
+    "channel": "Classic Mood Experience",
+    "duration": 150,
+    "views": 12434,
+    "score": 67.9,
+    "why": {
+     "title": 0.5,
+     "artist": 0.67,
+     "query": 0.67,
+     "dur": "150s vs 149s"
+    }
+   }
+  ]
+ },
  "jazz-powell-un-poco-loco": {
   "set": "jazz",
   "card": "Bud Powell Trio - Un Poco Loco",
@@ -33652,6 +35347,109 @@
      "query": 0.58,
      "topic": "artist",
      "dur": "288s vs 282s"
+    }
+   }
+  ]
+ },
+ "jazz-prima-jump-jive-an-wail": {
+  "set": "jazz",
+  "card": "Louis Prima - Jump, Jive an' Wail",
+  "query": "Louis Prima Jump, Jive an' Wail The Wildest! 1956",
+  "expected": 208,
+  "picked": [
+   {
+    "id": "A0N-c90piSQ",
+    "title": "Jump, Jive, An' Wail (Remastered)",
+    "channel": "Louis Prima - Topic",
+    "duration": 212,
+    "views": 893510,
+    "score": 117.5,
+    "why": {
+     "title": 1.0,
+     "artist": 1.0,
+     "query": 0.71,
+     "topic": "artist",
+     "dur": "212s vs 208s"
+    }
+   },
+   {
+    "id": "5GlOE1YTPfY",
+    "title": "Jump, Jive, An' Wail (Remastered)",
+    "channel": "Louis Prima - Topic",
+    "duration": 210,
+    "views": 480066,
+    "score": 117.3,
+    "why": {
+     "title": 1.0,
+     "artist": 1.0,
+     "query": 0.71,
+     "topic": "artist",
+     "dur": "210s vs 208s"
+    }
+   },
+   {
+    "id": "uPjsaqtwHrk",
+    "title": "Jump, Jive an' Wail",
+    "channel": "Louis Prima - Topic",
+    "duration": 212,
+    "views": 5479,
+    "score": 115.7,
+    "why": {
+     "title": 1.0,
+     "artist": 1.0,
+     "query": 0.71,
+     "topic": "artist",
+     "dur": "212s vs 208s"
+    }
+   }
+  ]
+ },
+ "jazz-prima-sing-sing-sing": {
+  "set": "jazz",
+  "card": "Louis Prima and His New Orleans Gang - Sing, Sing, Sing",
+  "query": "Louis Prima and His New Orleans Gang Sing, Sing, Sing Brunswick 7628 1936",
+  "expected": 170,
+  "picked": [
+   {
+    "id": "NQGh-NjM0iw",
+    "title": "1st RECORDING OF: Sing, Sing, Sing - Louis Prima (1936 version--Louis Prima, vocal)",
+    "channel": "The78Prof",
+    "duration": 167,
+    "views": 42145,
+    "score": 79.9,
+    "why": {
+     "title": 1.0,
+     "artist": 0.4,
+     "query": 0.55,
+     "dur": "167s vs 170s"
+    }
+   },
+   {
+    "id": "AtRyRBjrLiQ",
+    "title": "Sing, Sing, Sing!",
+    "channel": "Lee Hall Choir",
+    "duration": 184,
+    "views": 143,
+    "score": 59.0,
+    "why": {
+     "title": 1.0,
+     "artist": 0.0,
+     "query": 0.27,
+     "dur": "184s vs 170s"
+    }
+   },
+   {
+    "id": "eLEqKqt_BC8",
+    "title": "Big Band - \"Sing Sing Sing\" by Louis Prima (1936)",
+    "channel": "hank9tube",
+    "duration": 280,
+    "views": 77534,
+    "score": 51.5,
+    "why": {
+     "title": 1.0,
+     "artist": 0.4,
+     "query": 0.55,
+     "dur": "280s vs 170s"
     }
    }
   ]
@@ -35200,6 +36998,56 @@
    }
   ]
  },
+ "jazz-shearing-september-in-the-rain": {
+  "set": "jazz",
+  "card": "George Shearing Quintette - September in the Rain",
+  "query": "George Shearing Quintette September in the Rain MGM 1949",
+  "expected": 194,
+  "picked": [
+   {
+    "id": "DSwbKBxN2iw",
+    "title": "1949 HITS ARCHIVE: September In The Rain - George Shearing Quintette",
+    "channel": "The78Prof",
+    "duration": 192,
+    "views": 10760,
+    "score": 99.1,
+    "why": {
+     "title": 1.0,
+     "artist": 1.0,
+     "query": 0.86,
+     "dur": "192s vs 194s"
+    }
+   },
+   {
+    "id": "OZC1GiMf7Ic",
+    "title": "George Shearing - September In The Rain (1949)",
+    "channel": "Overjazz",
+    "duration": 204,
+    "views": 4425,
+    "score": 88.3,
+    "why": {
+     "title": 1.0,
+     "artist": 0.67,
+     "query": 0.71,
+     "dur": "204s vs 194s"
+    }
+   },
+   {
+    "id": "fucUpCizpes",
+    "title": "George Shearing - September In The Rain (1949)",
+    "channel": "Okmusix",
+    "duration": 192,
+    "views": 4652,
+    "score": 88.3,
+    "why": {
+     "title": 1.0,
+     "artist": 0.67,
+     "query": 0.71,
+     "dur": "192s vs 194s"
+    }
+   }
+  ]
+ },
  "jazz-shorter-footprints": {
   "set": "jazz",
   "card": "Wayne Shorter Quartet - Footprints",
@@ -36182,6 +38030,59 @@
    }
   ]
  },
+ "jazz-staton-the-late-late-show": {
+  "set": "jazz",
+  "card": "Dakota Staton - The Late, Late Show",
+  "query": "Dakota Staton The Late, Late Show The Late, Late Show 1957",
+  "expected": 154,
+  "picked": [
+   {
+    "id": "h1-DHYUxrrc",
+    "title": "The Late, Late Show",
+    "channel": "Dakota Staton - Topic",
+    "duration": 157,
+    "views": 157719,
+    "score": 119.5,
+    "why": {
+     "title": 1.0,
+     "artist": 1.0,
+     "query": 0.89,
+     "topic": "artist",
+     "dur": "157s vs 154s"
+    }
+   },
+   {
+    "id": "NtP1d7nUrwA",
+    "title": "The Late, Late Show",
+    "channel": "Dakota Staton - Topic",
+    "duration": 153,
+    "views": 8306,
+    "score": 118.5,
+    "why": {
+     "title": 1.0,
+     "artist": 1.0,
+     "query": 0.89,
+     "topic": "artist",
+     "dur": "153s vs 154s"
+    }
+   },
+   {
+    "id": "WrXO5H01oJg",
+    "title": "The Late, Late Show (Remastered)",
+    "channel": "Dakota Staton - Topic",
+    "duration": 157,
+    "views": 39,
+    "score": 116.6,
+    "why": {
+     "title": 1.0,
+     "artist": 1.0,
+     "query": 0.89,
+     "topic": "artist",
+     "dur": "157s vs 154s"
+    }
+   }
+  ]
+ },
  "jazz-sun-ra-space-is-the-place": {
   "set": "jazz",
   "card": "Sun Ra - Space Is the Place",
@@ -36214,6 +38115,110 @@
      "artist": 1.0,
      "query": 0.67,
      "dur": "264s vs 1274s"
+    }
+   }
+  ]
+ },
+ "jazz-szabo-gypsy-queen": {
+  "set": "jazz",
+  "card": "Gábor Szabó - Gypsy Queen",
+  "query": "Gábor Szabó Gypsy Queen Spellbinder 1966",
+  "expected": 313,
+  "picked": [
+   {
+    "id": "FddCMjygA4s",
+    "title": "Gypsy Queen",
+    "channel": "Gábor Szabó - Topic",
+    "duration": 314,
+    "views": 122423,
+    "score": 116.1,
+    "why": {
+     "title": 1.0,
+     "artist": 1.0,
+     "query": 0.67,
+     "topic": "artist",
+     "dur": "314s vs 313s"
+    }
+   },
+   {
+    "id": "T4CCa-gu25w",
+    "title": "Gypsy Queen",
+    "channel": "Gábor Szabó - Topic",
+    "duration": 310,
+    "views": 1034,
+    "score": 114.4,
+    "why": {
+     "title": 1.0,
+     "artist": 1.0,
+     "query": 0.67,
+     "topic": "artist",
+     "dur": "310s vs 313s"
+    }
+   },
+   {
+    "id": "hesehDftXzQ",
+    "title": "Gabor Szabo - Gypsy Queen ( 1966 )",
+    "channel": "Jm Leta",
+    "duration": 315,
+    "views": 1364,
+    "score": 98.0,
+    "why": {
+     "title": 1.0,
+     "artist": 1.0,
+     "query": 0.83,
+     "dur": "315s vs 313s"
+    }
+   }
+  ]
+ },
+ "jazz-t-bone-walker-call-it-stormy-monday-but-tuesday-is-just-as-bad": {
+  "set": "jazz",
+  "card": "T-Bone Walker - Call It Stormy Monday (But Tuesday Is Just as Bad)",
+  "query": "T-Bone Walker Call It Stormy Monday Black & White 1947",
+  "expected": 180,
+  "picked": [
+   {
+    "id": "98MeVUjqyTo",
+    "title": "Call It Stormy Monday but Tuesday Is Just as Bad",
+    "channel": "T-Bone Walker - Topic",
+    "duration": 180,
+    "views": 37485,
+    "score": 116.2,
+    "why": {
+     "title": 1.0,
+     "artist": 1.0,
+     "query": 0.7,
+     "topic": "artist",
+     "dur": "180s vs 180s"
+    }
+   },
+   {
+    "id": "r7kyqR7Pwc8",
+    "title": "Call It Stormy Monday (But Tuesday Is Just as Bad)",
+    "channel": "T-Bone Walker - Topic",
+    "duration": 186,
+    "views": 2786,
+    "score": 115.3,
+    "why": {
+     "title": 1.0,
+     "artist": 1.0,
+     "query": 0.7,
+     "topic": "artist",
+     "dur": "186s vs 180s"
+    }
+   },
+   {
+    "id": "hkC5rl8K_gk",
+    "title": "78rpm: Call It Stormy Monday - T Bone Walker, 1947 - Black & White 122",
+    "channel": "SwingMan1938",
+    "duration": 180,
+    "views": 9750,
+    "score": 101.2,
+    "why": {
+     "title": 1.0,
+     "artist": 1.0,
+     "query": 1.0,
+     "dur": "180s vs 180s"
     }
    }
   ]
@@ -36367,6 +38372,57 @@
      "artist": 0.67,
      "query": 1.0,
      "dur": "181s vs 176s"
+    }
+   }
+  ]
+ },
+ "jazz-tharpe-strange-things-happening-every-day": {
+  "set": "jazz",
+  "card": "Sister Rosetta Tharpe - Strange Things Happening Every Day",
+  "query": "Sister Rosetta Tharpe Strange Things Happening Every Day Decca 1944",
+  "expected": 167,
+  "picked": [
+   {
+    "id": "5ZVq04akR3Q",
+    "title": "Strange Things Happening Every Day",
+    "channel": "Sister Rosetta Tharpe - Topic",
+    "duration": 168,
+    "views": 49001,
+    "score": 117.8,
+    "why": {
+     "title": 1.0,
+     "artist": 1.0,
+     "query": 0.8,
+     "topic": "artist",
+     "dur": "168s vs 167s"
+    }
+   },
+   {
+    "id": "l4-22b72muY",
+    "title": "Sister Rosetta Tharpe - Strange Things Happening Every Day (1944)",
+    "channel": "History of Rock Music - Most powerful rock songs",
+    "duration": 166,
+    "views": 96494,
+    "score": 100.5,
+    "why": {
+     "title": 1.0,
+     "artist": 1.0,
+     "query": 0.9,
+     "dur": "166s vs 167s"
+    }
+   },
+   {
+    "id": "Sjtp2D1WOgg",
+    "title": "Sister Rosetta Tharpe - Strange Things Happening Every Day, New York 1944",
+    "channel": "matthias pfisterer",
+    "duration": 164,
+    "views": 27,
+    "score": 97.7,
+    "why": {
+     "title": 1.0,
+     "artist": 1.0,
+     "query": 0.9,
+     "dur": "164s vs 167s"
     }
    }
   ]
@@ -37299,6 +39355,57 @@
      "query": 0.5,
      "topic": "artist",
      "dur": "159s vs 180s"
+    }
+   }
+  ]
+ },
+ "jazz-wanderley-summer-samba-so-nice": {
+  "set": "jazz",
+  "card": "Walter Wanderley - Summer Samba (So Nice)",
+  "query": "Walter Wanderley Summer Samba (So Nice) Rain Forest 1966",
+  "expected": 187,
+  "picked": [
+   {
+    "id": "QJoWh-0E6wQ",
+    "title": "Walter Wanderley- Summer Samba",
+    "channel": "WalterWanderley",
+    "duration": 196,
+    "views": 50592,
+    "score": 102.4,
+    "why": {
+     "title": 1.0,
+     "artist": 1.0,
+     "query": 0.44,
+     "channel": "artist",
+     "dur": "196s vs 187s"
+    }
+   },
+   {
+    "id": "9RfmXe1NIkg",
+    "title": "Walter Wanderley - Summer Samba (So Nice) - 1966",
+    "channel": "Uti's Records",
+    "duration": 190,
+    "views": 4200,
+    "score": 97.6,
+    "why": {
+     "title": 1.0,
+     "artist": 1.0,
+     "query": 0.78,
+     "dur": "190s vs 187s"
+    }
+   },
+   {
+    "id": "VGNwXq6vPoI",
+    "title": "Walter Wanderley - Summer Samba (So Nice)",
+    "channel": "60otaku4",
+    "duration": 196,
+    "views": 3390016,
+    "score": 95.2,
+    "why": {
+     "title": 1.0,
+     "artist": 1.0,
+     "query": 0.67,
+     "dur": "196s vs 187s"
     }
    }
   ]

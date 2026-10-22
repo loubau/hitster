@@ -2294,5 +2294,209 @@
       "https://musicbrainz.org/release/531319cc-441d-405b-903b-48c0ba1f3cfb"
     ],
     "notes": "Date, matrix 17403 and per-track roster from jazzdisco (Regent Sound Studios, New York, 23 July 1969; Crosby on drums and Texidor on tambourine for this track); Wikipedia lists the title track as the studio piece (track 1, 5:43). The LP's release is 1969 per Wikipedia and MusicBrainz (8 November 1969), 1970 per jazzdisco. Tier C on recognition (about 55,000 views for the album track), kept as the soul-gospel and avant strand of the late 1960s; Kirk is not otherwise in the set."
+  },
+  {
+    "id": "jazz-holmes-misty",
+    "artist": "Richard \"Groove\" Holmes",
+    "title": "Misty",
+    "composer": "Erroll Garner (music), Johnny Burke (lyrics)",
+    "recording_date": "1965-08-03",
+    "recording_year": 1965,
+    "release_year": 1966,
+    "original_issue": "Prestige PR 7435 (LP \"Soul Message\", released January 1966 per Wikipedia; MusicBrainz dates it 1965); the short hit edit appeared on a 45 rpm single (catalogue number not verified) and on the LP \"Misty\", Prestige PR 7485 (1966)",
+    "personnel": "Richard \"Groove\" Holmes (organ), Gene Edwards (guitar), Jimmie Smith (drums); producer Cal Lampley",
+    "style": "soul-jazz",
+    "year": 1965,
+    "year_lo": 1965,
+    "year_hi": 1965,
+    "year_label": "1965",
+    "trivia": "Holmes slowed Erroll Garner's ballad into a relaxed organ-trio groove at Rudy Van Gelder's studio, and it became the record he is best known for. A short edit of it reached the Billboard Hot 100 in 1966.",
+    "tags": [
+      "1960s",
+      "soul-jazz",
+      "prestige",
+      "organ"
+    ],
+    "track": {
+      "artist": "Richard \"Groove\" Holmes",
+      "title": "Misty",
+      "album": "Soul Message",
+      "duration": "6:03",
+      "isrc": null,
+      "query": "Richard \"Groove\" Holmes Misty Soul Message 1965",
+      "notes": "Full-length studio take from the LP Soul Message (6:03), not the roughly two-minute 45 rpm edit (listed as 1:58 on the LP Misty) and not Erroll Garner's 1954 original"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Soul_Message",
+      "https://en.wikipedia.org/wiki/Misty_(Richard_%22Groove%22_Holmes_album)",
+      "https://en.wikipedia.org/wiki/Misty_(song)",
+      "https://en.wikipedia.org/wiki/Richard_Holmes_(organist)",
+      "https://musicbrainz.org/release/146e23ea-735b-4dcc-aad3-38568973eca9"
+    ],
+    "notes": "Date (3 Aug 1965), studio (Van Gelder Studio, Englewood Cliffs), personnel, producer and the 6:03 length are from the Wikipedia Soul Message page; the Misty album page confirms the short version of this tune as recorded on the same date (track 5, 1:58) and says it was the version cut as a 45. Release conflict: Wikipedia gives January 1966 for Soul Message, MusicBrainz 1965; 1966 is used (gap at most one year either way). The Misty song page says Holmes's version hit the Hot 100 in 1966 but no peak position is given, so none is stated. The tune has one other version in the set (Erroll Garner 1954). Tier B: the best-known organ-jazz version of Misty; the single edit has roughly 700-800k YouTube views across uploads, the album track about 95k."
+  },
+  {
+    "id": "jazz-wanderley-summer-samba-so-nice",
+    "artist": "Walter Wanderley",
+    "title": "Summer Samba (So Nice)",
+    "composer": "Marcos Valle (music), Paulo Sérgio Valle (Portuguese lyrics), Norman Gimbel (English lyrics)",
+    "recording_date": "1966-05",
+    "recording_year": 1966,
+    "release_year": 1966,
+    "original_issue": "Verve V6-8658 (LP \"Rain Forest\", September 1966); 45 rpm Verve VK-10421 (\"Summer Samba (So Nice)\" b/w \"Call Me\", 1966, catalogue number per MusicBrainz)",
+    "personnel": "Walter Wanderley (organ, piano, arranger), Bucky Pizzarelli (guitar), Jose Marino (bass), Claudio Slon (drums), Bobby Rosengarden (percussion), Urbie Green (trombone), Joe Grimm (flute); producer Creed Taylor",
+    "style": "bossa-nova",
+    "year": 1966,
+    "year_lo": 1966,
+    "year_hi": 1966,
+    "year_label": "1966",
+    "trivia": "Marcos Valle's samba \"Samba de Verão\" was already a Rio hit in 1964 when Brazilian organist Walter Wanderley recorded this organ-led instrumental for producer Creed Taylor. It reached No. 3 on Billboard's Easy Listening chart and No. 26 on the Hot 100 in 1966.",
+    "tags": [
+      "1960s",
+      "bossa-nova",
+      "verve",
+      "organ",
+      "samba"
+    ],
+    "track": {
+      "artist": "Walter Wanderley",
+      "title": "Summer Samba (So Nice)",
+      "album": "Rain Forest",
+      "duration": "3:07",
+      "isrc": null,
+      "query": "Walter Wanderley Summer Samba (So Nice) Rain Forest 1966",
+      "notes": "Wanderley's 1966 Verve instrumental (album track 3:07; the 45 rpm single is listed at 3:00), not Marcos Valle's original Portuguese-language Samba de Verão (1964) and not the vocal versions by the Sérgio Mendes Trio (with Wanda de Sah) or Johnny Mathis"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Rain_Forest_(Walter_Wanderley_album)",
+      "https://en.wikipedia.org/wiki/Summer_Samba",
+      "https://musicbrainz.org/release/0373bde8-7111-46b9-b11b-e586797d455b"
+    ],
+    "notes": "Recording dates (16-17 May 1966, Van Gelder Studio, Englewood Cliffs), the 3:07 album length and the personnel are from the Wikipedia Rain Forest page; which of the two days produced this track and the track-by-track line-up are not stated, so the month is used and the personnel is the album-wide list. The 3:00 single length is from the Summer Samba page's infobox; the Verve VK-10421 number is from MusicBrainz. Chart facts (Easy Listening peak No. 3 from the issue of 13 Aug 1966; Hot 100 peak No. 26 from 27 Aug) are from the Summer Samba page. Wikipedia quotes AllMusic's Thom Jurek calling this version perhaps a more definitive bossa tune than The Girl from Ipanema. Tier B (could be A): the top YouTube upload has about 3.4 million views."
+  },
+  {
+    "id": "jazz-szabo-gypsy-queen",
+    "artist": "Gábor Szabó",
+    "title": "Gypsy Queen",
+    "composer": "Gábor Szabó",
+    "recording_date": "1966-05-06",
+    "recording_year": 1966,
+    "release_year": 1966,
+    "original_issue": "Impulse! A-9123 / AS-9123 (LP \"Spellbinder\", October 1966); 45 rpm Impulse! 45-248 (\"Bang Bang (My Baby Shot Me Down)\" b/w \"Gypsy Queen\", 1966)",
+    "personnel": "Gábor Szabó (guitar), Ron Carter (bass), Chico Hamilton (drums), Willie Bobo (percussion), Victor Pantoja (percussion)",
+    "style": "modal",
+    "year": 1966,
+    "year_lo": 1966,
+    "year_hi": 1966,
+    "year_label": "1966",
+    "trivia": "The Hungarian guitarist, who had left his homeland after the 1956 revolution, cut this brooding vamp with Chico Hamilton and two Latin percussionists. Carlos Santana adapted its opening for the Gypsy Queen half of his 1970 Black Magic Woman medley.",
+    "tags": [
+      "1960s",
+      "modal",
+      "impulse",
+      "latin",
+      "gypsy",
+      "guitar"
+    ],
+    "track": {
+      "artist": "Gábor Szabó",
+      "title": "Gypsy Queen",
+      "album": "Spellbinder",
+      "duration": "5:13",
+      "isrc": null,
+      "query": "Gábor Szabó Gypsy Queen Spellbinder 1966",
+      "notes": "Szabó's original studio recording from Spellbinder (5:13), not Santana's 1970 Abraxas medley with Black Magic Woman"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://www.jazzdisco.org/gabor-szabo/discography/",
+      "https://en.wikipedia.org/wiki/Spellbinder_(album)",
+      "https://en.wikipedia.org/wiki/G%C3%A1bor_Szab%C3%B3",
+      "https://en.wikipedia.org/wiki/Black_Magic_Woman"
+    ],
+    "notes": "Date (6 May 1966, Van Gelder Studio, matrix 90552), personnel and issues (45-248, A-9123) are from jazzdisco; jazzdisco lists the leader on guitar only, while the Wikipedia Spellbinder page adds vocals for the album as a whole. Release month (October 1966) and the 5:13 length are from Wikipedia. Composer credit is Szabó's, as implied by the Black Magic Woman page (\"adapted from Szabó's Gypsy Queen\"); neither Wikipedia page prints a writer line for the track. Tier B on the strength of the Santana connection (about 376k views on the top upload, 122k on the label's own)."
+  },
+  {
+    "id": "jazz-alpert-this-guys-in-love-with-you",
+    "artist": "Herb Alpert",
+    "title": "This Guy's in Love with You",
+    "composer": "Burt Bacharach and Hal David",
+    "recording_date": "1968-04",
+    "recording_year": 1968,
+    "release_year": 1968,
+    "original_issue": "A&M 929 (45 rpm \"This Guy's in Love with You\" b/w \"A Quiet Tear\", May 1968; catalogue number per MusicBrainz); LP \"The Beat of the Brass\", A&M SP-4146 (stereo) / LP-146 (mono), June 1968",
+    "personnel": "Herb Alpert (vocal); arranged by Burt Bacharach; producers Herb Alpert and Jerry Moss",
+    "style": "vocal",
+    "year": 1968,
+    "year_lo": 1968,
+    "year_hi": 1968,
+    "year_label": "1968",
+    "trivia": "Alpert, known as the trumpeter of the Tijuana Brass, sang this Bacharach and David ballad himself after performing it on his CBS television special The Beat of the Brass on 22 April 1968. His single went to No. 1 in the United States, Canada and Australia.",
+    "tags": [
+      "1960s",
+      "vocal",
+      "a-and-m",
+      "jazz-pop",
+      "trumpet",
+      "crossover"
+    ],
+    "track": {
+      "artist": "Herb Alpert",
+      "title": "This Guy's in Love with You",
+      "album": "The Beat of the Brass",
+      "duration": "3:55",
+      "isrc": null,
+      "query": "Herb Alpert This Guy's in Love with You The Beat of the Brass 1968",
+      "notes": "Herb Alpert's 1968 A&M single / album recording with his own lead vocal and Bacharach's arrangement (3:55), not Danny Williams's earlier recording under the title That Guy's in Love with You and not the later female covers retitled This Girl's in Love with You"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/This_Guy's_in_Love_with_You",
+      "https://en.wikipedia.org/wiki/The_Beat_of_the_Brass",
+      "https://musicbrainz.org/release/6d5408d6-5de5-4c34-916b-152475fc4b99"
+    ],
+    "notes": "Recording month (April 1968), 3:55 length, single release (May 1968) and the number-one claim are from the Wikipedia song page; album details and catalogue numbers from the Beat of the Brass page (SP 4146 / LP 146) and MusicBrainz (A&M 929). No instrumentalists are credited in the sources read, hence medium confidence and a short personnel line; Wikipedia's album page names Gold Star Studios, Hollywood, for the LP as a whole. Crossover pick (cross:true): Wikipedia's genre is traditional pop / easy listening and it is a trumpeter's pop vocal, kept as a 1968 anchor because that year had only two cards and this is the year's biggest instrumentalist-led hit; about 6.8 million views on the label upload."
+  },
+  {
+    "id": "jazz-marlena-shaw-california-soul",
+    "artist": "Marlena Shaw",
+    "title": "California Soul",
+    "composer": "Nickolas Ashford and Valerie Simpson",
+    "recording_date": null,
+    "recording_year": 1969,
+    "release_year": 1969,
+    "original_issue": "Cadet LPS-833 (LP \"The Spice of Life\", November 1969)",
+    "personnel": "Marlena Shaw (vocal); arranged and produced by Richard Evans and Charles Stepney; engineers Stu Black and Dave Purple (instrumentalists not credited in the sources consulted)",
+    "style": "vocal",
+    "year": 1969,
+    "year_lo": 1969,
+    "year_hi": 1969,
+    "year_label": "1969",
+    "trivia": "Shaw's jazz-soul reading of the Ashford and Simpson song, cut for Chicago's Cadet label, became a staple of the UK rare groove scene. It has since been used in television commercials for Dockers, KFC and Dodge Ram trucks.",
+    "tags": [
+      "1960s",
+      "vocal",
+      "cadet",
+      "soul",
+      "rare-groove"
+    ],
+    "track": {
+      "artist": "Marlena Shaw",
+      "title": "California Soul",
+      "album": "The Spice of Life",
+      "duration": "2:59",
+      "isrc": null,
+      "query": "Marlena Shaw California Soul The Spice of Life 1969",
+      "notes": "Marlena Shaw's 1969 Cadet studio recording (2:59 per the original album sleeve), not the 5th Dimension, Marvin Gaye and Tammi Terrell, or Messengers versions of the same song"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Spice_of_Life_(Marlena_Shaw_album)",
+      "https://en.wikipedia.org/wiki/California_Soul",
+      "https://en.wikipedia.org/wiki/Marlena_Shaw"
+    ],
+    "notes": "The Wikipedia album page gives the sessions as February and July 1969 at Ter Mar Studios, Chicago, and the November 1969 release (Cadet LPS-833); it does not say which session produced this track, so only the year is used, and it lists no instrumentalists. The 2:59 length is the time printed on the original sleeve. The rare groove, TV-advert and UK Platinum (BPI, 2004 release) facts come from the Marlena Shaw page. Shaw is a jazz vocalist (Cadet, later Blue Note), so this is not marked as crossover although the song itself is a Motown-sphere pop-soul tune; her other famous track from the same album is Woman of the Ghetto (6:02), left out because California Soul is the better-known one (about 4.8 million views on the label upload)."
   }
 ]

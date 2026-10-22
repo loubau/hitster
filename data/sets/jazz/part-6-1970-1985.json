@@ -1409,5 +1409,122 @@
       "https://en.wikipedia.org/wiki/The_Art_of_Tea"
     ],
     "notes": "The Art of Tea sessions ran 22 May to 9 June 1975 at Capitol Studios, Hollywood (album infobox), so only the year is given. Wikipedia calls the album a jazz vocal album and the single a pop release (Hot 100 No. 43, Easy Listening No. 45); the single page dates the 45 to 1976 while the album page gives 1975 for the single, so rel 1975 follows the LP (Reprise MS 2230, from the liner-note citation in the album article). Per-track personnel is not documented: the album credits list only Sanborn (tracks 3 and 9) and Michael Brecker (track 6) by track, so, if the credits use continuous LP numbering, neither is on this track. Length 4:35 matches the album track list and MusicBrainz; the single page gives 3:30. Borderline tier B (about 380k YouTube views on the topic upload, Hot 100 hit, covered by Krall and The Manhattan Transfer)."
+  },
+  {
+    "id": "jazz-mahavishnu-birds-of-fire",
+    "artist": "Mahavishnu Orchestra",
+    "title": "Birds of Fire",
+    "composer": "John McLaughlin",
+    "recording_date": "1972-08",
+    "recording_year": 1972,
+    "release_year": 1973,
+    "original_issue": "Columbia KC 31996 (LP \"Birds of Fire\", released 19 January 1973); CBS S 65321 in Europe",
+    "personnel": "John McLaughlin (guitar), Jerry Goodman (violin), Jan Hammer (keyboards, Moog synthesizer, Fender Rhodes), Rick Laird (bass), Billy Cobham (drums, percussion); engineers Ken Scott and Jim Green",
+    "style": "fusion",
+    "year": 1972,
+    "year_lo": 1972,
+    "year_hi": 1972,
+    "year_label": "1972",
+    "trivia": "This is the title track and opener of the second album by the Mahavishnu Orchestra, the last one made by the original line-up before it broke up. It was nominated for the 1974 Grammy for Best Pop Instrumental Performance.",
+    "tags": [
+      "1970s",
+      "fusion",
+      "columbia"
+    ],
+    "track": {
+      "artist": "Mahavishnu Orchestra",
+      "title": "Birds of Fire",
+      "album": "Birds of Fire",
+      "duration": "5:50",
+      "isrc": null,
+      "query": "Mahavishnu Orchestra Birds of Fire Birds of Fire 1972",
+      "notes": "Studio title track from the LP Birds of Fire (5:50), not one of the many live versions from the 1972-73 tours"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Birds_of_Fire",
+      "https://musicbrainz.org/release/519fb75c-3c49-4637-a931-d14f39b45b68"
+    ],
+    "notes": "Recording month (August 1972; CBS Studios, New York, and Trident, London, per the infobox), release date (19 January 1973), the 5:50 title-track length, personnel, engineers and the 1974 Grammy nomination for the title track are from the Wikipedia album page; the Columbia and CBS catalogue numbers are from MusicBrainz. The exact day and the studio for this particular track are not stated. Second Mahavishnu Orchestra card (the other is Meeting of the Spirits, 1971, from the first album, with the same line-up). Tier B: a fusion landmark (the Rolling Stone Jazz Record Guide gave the album five stars per Wikipedia), about 600k views on the label upload."
+  },
+  {
+    "id": "jazz-byrd-places-and-spaces",
+    "artist": "Donald Byrd",
+    "title": "Places and Spaces",
+    "composer": "Larry Mizell and Fonce Mizell",
+    "recording_date": "1975-08-20",
+    "recording_year": 1975,
+    "release_year": 1975,
+    "original_issue": "Blue Note BN-LA549-G (LP \"Places and Spaces\", 1975)",
+    "personnel": "Donald Byrd (flugelhorn, trumpet, vocal), Raymond Brown (trumpet), George Bohanon (trombone), Tyree Glenn Jr. (tenor sax), Larry Mizell (piano, arranger, vocal), Fonce Mizell (clavinet, trumpet, vocal), Skip Scarborough (electric piano), Craig McMullen and John Rowin (guitar), Chuck Rainey (electric bass), Harvey Mason (drums), King Errisson and Mayuto Correa (congas, percussion), James Carter (whistling), Kay Haith (vocal), unidentified strings",
+    "style": "jazz-funk",
+    "year": 1975,
+    "year_lo": 1975,
+    "year_hi": 1975,
+    "year_label": "1975",
+    "trivia": "The title track was written and produced by the Mizell brothers, Larry and Fonce, whose string-laden Los Angeles soul-jazz sound made Byrd one of Blue Note's best sellers of the 1970s. The album was cut across three sessions at The Sound Factory in August 1975.",
+    "tags": [
+      "1970s",
+      "jazz-funk",
+      "blue-note",
+      "mizell-brothers"
+    ],
+    "track": {
+      "artist": "Donald Byrd",
+      "title": "Places and Spaces",
+      "album": "Places and Spaces",
+      "duration": "6:19",
+      "isrc": null,
+      "query": "Donald Byrd Places and Spaces Places and Spaces 1975",
+      "notes": "Studio title track from the LP Places and Spaces (6:19), not Byrd's earlier Black Byrd (1972) or the single Think Twice (1974)"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://www.jazzdisco.org/donald-byrd/discography/",
+      "https://en.wikipedia.org/wiki/Places_and_Spaces"
+    ],
+    "notes": "Date (20 August 1975), place (The Sound Factory, Los Angeles), matrix 16551, the BN-LA549-G issue and the personnel (same line-up as the 18 August session) are from jazzdisco; the Wikipedia album page gives the sessions as 18, 20 and 25 August 1975 and the 6:19 length. Wikipedia's album-wide personnel additionally lists Larry Dunn (synthesizer), who is not in the jazzdisco line-up used here. Second Donald Byrd card (the other is Black Byrd, 1972); chosen over Think Twice (1974) because the Places and Spaces uploads have roughly 4.8 million views against about 500k. Tier B: a jazz-funk classic better known to club and sampling circles than to general listeners."
+  },
+  {
+    "id": "jazz-esther-phillips-what-a-diffrence-a-day-makes",
+    "artist": "Esther Phillips",
+    "title": "What a Diff'rence a Day Makes",
+    "composer": "María Grever (music), Stanley Adams (English lyrics)",
+    "recording_date": null,
+    "recording_year": 1975,
+    "release_year": 1975,
+    "original_issue": "Kudu single (b/w \"Come On Home\", July 1975 per Wikipedia; single catalogue number not verified); LP \"What a Diff'rence a Day Makes\", Kudu KU-23 (1975, catalogue number per MusicBrainz)",
+    "personnel": "Esther Phillips (vocal); Joe Beck (arranger, guitar), Michael Brecker (tenor sax), David Sanborn (alto sax), Randy Brecker (trumpet), Steve Khan (guitar), Don Grolnick (keyboards) as named for the album on the Wikipedia Esther Phillips page",
+    "style": "vocal",
+    "year": 1975,
+    "year_lo": 1975,
+    "year_hi": 1975,
+    "year_label": "1975",
+    "trivia": "Phillips turned Dinah Washington's 1959 hit into a disco-soul record on CTI's Kudu label. It reached No. 20 on the US Hot 100, No. 6 in the UK and No. 2 on the US dance chart, and she sang it on Saturday Night Live in November 1975.",
+    "tags": [
+      "1970s",
+      "vocal",
+      "kudu",
+      "disco",
+      "r-and-b",
+      "crossover"
+    ],
+    "track": {
+      "artist": "Esther Phillips",
+      "title": "What a Diff'rence a Day Makes",
+      "album": "What a Diff'rence a Day Makes",
+      "duration": "3:12",
+      "isrc": null,
+      "query": "Esther Phillips What a Diff'rence a Day Makes What a Diff'rence a Day Makes 1975",
+      "notes": "The 1975 Kudu single edit (3:12); the album version runs about 4:30 and a longer 12-inch disco mix also exists. Not Dinah Washington's 1959 original"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/What_a_Diff'rence_a_Day_Makes",
+      "https://en.wikipedia.org/wiki/Esther_Phillips",
+      "https://en.wikipedia.org/wiki/Joe_Beck",
+      "https://musicbrainz.org/release/50b3e2e9-bcf4-4420-b878-060e0a454d40"
+    ],
+    "notes": "Only the year (1975) is documented as the recording date (Wikipedia infobox: recorded 1975, released July 1975, 3:12, Kudu, B-side Come On Home); the month and day are not given, and no discography with session dates was available. Personnel is the album-wide line-up quoted on the Esther Phillips page (it does not say which musicians play on the title track); the Joe Beck page confirms he arranged and produced the album and the hit. Chart peaks (Hot 100 No. 20, Hot Soul No. 10, UK No. 6, Dance Club Songs No. 2) and the 8 November 1975 Saturday Night Live appearance are from Wikipedia. Kudu KU-23 is the MusicBrainz catalogue number for the album release; the 4:30 album length is inferred from several MusicBrainz track lengths (about 268-271 seconds). Crossover pick (cross:true): a disco and R&B hit by a jazz-label singer. Tier B: about 1.2 million views on the most-viewed upload. The tune has one other version in the set (Dinah Washington 1959)."
   }
 ]

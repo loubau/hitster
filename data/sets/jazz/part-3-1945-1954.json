@@ -1585,5 +1585,269 @@
       "https://en.wikipedia.org/wiki/You'd_Be_So_Nice_to_Come_Home_To"
     ],
     "notes": "Best-known track of the album (about 2.6M views on one YouTube copy), so it is the stronger of the two Merrill cards. Date, matrix and personnel from jazzdisco; the track length from Wikipedia (YouTube copies run about 4:22-4:29, so the transfer may differ). Wikipedia puts Hinton and Johnson on tracks 1, 2, 6 and 7 (this is track 2). Second Merrill card from the same session; the tune now has two versions in the set (Art Pepper 1957 exists)."
+  },
+  {
+    "id": "jazz-parker-yardbird-suite",
+    "artist": "Charlie Parker Septet",
+    "title": "Yardbird Suite",
+    "composer": "Charlie Parker",
+    "recording_date": "1946-03-28",
+    "recording_year": 1946,
+    "release_year": 1946,
+    "original_issue": "Dial 1003 (78 rpm; b/w \"Moose the Mooche\"), master take D1011-4",
+    "personnel": "Miles Davis (trumpet), Charlie Parker (alto sax), Lucky Thompson (tenor sax), Dodo Marmarosa (piano), Arvin Garrison (guitar), Vic McMillan (bass), Roy Porter (drums)",
+    "style": "bebop",
+    "year": 1946,
+    "year_lo": 1946,
+    "year_hi": 1946,
+    "year_label": "1946",
+    "trivia": "A bebop standard written by Parker, cut at Radio Recorders in Hollywood for Ross Russell's Dial label with nineteen-year-old Miles Davis on trumpet. The Recording Academy added the recording to its Grammy Hall of Fame in 2014.",
+    "tags": [
+      "1940s",
+      "bebop",
+      "dial"
+    ],
+    "track": {
+      "artist": "Charlie Parker Septet",
+      "title": "Yardbird Suite",
+      "album": "Yardbird Suite / Moose the Mooche (Dial 1003, 78 rpm single)",
+      "duration": "2:59",
+      "isrc": null,
+      "query": "Charlie Parker Septet Yardbird Suite Dial 1946",
+      "notes": "Dial master take D1011-4 of 28 March 1946, the take issued on Dial 1003; not take D1011-1 (issued only on later LPs) and not live versions"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://www.jazzdisco.org/charlie-parker/discography/",
+      "https://en.wikipedia.org/wiki/Yardbird_Suite"
+    ],
+    "notes": "Date, take D1011-4 and Dial 1003 issue from jazzdisco (the Dial 1003 coupling there is Moose the Mooche); personnel from jazzdisco and Wikipedia, which agree (Garrison plays guitar on this title). Wikipedia states the septet's 1946 master recording was inducted into the Grammy Hall of Fame in 2014. Chosen instead of Billie's Bounce because Billie's Bounce is the flip side of Savoy 573 and comes from the same 26 Nov 1945 session as the existing Ko-Ko and Now's the Time cards. Duration approximate: YouTube transfers of Dial 1003 run about 2:59-3:03, while MusicBrainz lists 2:33-2:59 for various entries (one at 2:42), so 2:59 is used. Parker now has 5 cards (4 existing: Ko-Ko, Now's the Time, Donna Lee, Just Friends)."
+  },
+  {
+    "id": "jazz-monk-ruby-my-dear",
+    "artist": "Thelonious Monk Trio",
+    "title": "Ruby, My Dear",
+    "composer": "Thelonious Monk",
+    "recording_date": "1947-10-24",
+    "recording_year": 1947,
+    "release_year": 1948,
+    "original_issue": "Blue Note 549 (78 rpm; b/w \"Evidence\"), matrix BN313-1; recorded at WOR Studios, New York",
+    "personnel": "Thelonious Monk (piano), Gene Ramey (bass), Art Blakey (drums)",
+    "style": "bebop",
+    "year": 1947,
+    "year_lo": 1947,
+    "year_hi": 1947,
+    "year_label": "1947",
+    "trivia": "One of Monk's loveliest ballads, written around 1945 under the working title Manhattan Moods and later renamed for Rubie Richardson. This trio take with Gene Ramey and Art Blakey is the one issued on Blue Note 549.",
+    "tags": [
+      "1940s",
+      "bebop",
+      "blue-note"
+    ],
+    "track": {
+      "artist": "Thelonious Monk Trio",
+      "title": "Ruby, My Dear",
+      "album": "Ruby, My Dear / Evidence (Blue Note 549, 78 rpm single)",
+      "duration": "3:14",
+      "isrc": null,
+      "query": "Thelonious Monk Trio Ruby My Dear Blue Note 1947",
+      "notes": "Blue Note master take BN313-1 of 24 Oct 1947 (issued), not the alternate BN313-0 and not Monk's later Riverside remake"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://www.jazzdisco.org/thelonious-monk/discography/",
+      "https://en.wikipedia.org/wiki/Ruby,_My_Dear",
+      "https://en.wikipedia.org/wiki/List_of_compositions_by_Thelonious_Monk"
+    ],
+    "notes": "Date, matrix BN313-1 (master) / BN313-0 (alternate), Blue Note 549 coupling and personnel from jazzdisco. Release year: jazzdisco dates Blue Note 549 to 1948, MusicBrainz shows 1949; 1948 used. Origin as Manhattan Moods and the Rubie Richardson naming come from Wikipedia's list of Monk compositions. Duration from MusicBrainz. Chosen over Misterioso as the better-documented, more tender and equally recognised Blue Note title, and because it comes from a different session (24 Oct 1947) than the Round About Midnight (Nov 1947) and Epistrophy cards already in the set. Monk now has 5 cards (4 existing)."
+  },
+  {
+    "id": "jazz-t-bone-walker-call-it-stormy-monday-but-tuesday-is-just-as-bad",
+    "artist": "T-Bone Walker",
+    "title": "Call It Stormy Monday (But Tuesday Is Just as Bad)",
+    "composer": "T-Bone Walker",
+    "recording_date": "1947-09-13",
+    "recording_year": 1947,
+    "release_year": 1947,
+    "original_issue": "Black & White 122 (78 rpm; side B, matrix BW 637); released November 1947",
+    "personnel": "T-Bone Walker (vocal, electric guitar), Lloyd Glenn (piano), Arthur Edwards (bass), Oscar Lee Bradley (drums), Teddy Buckner (trumpet), Bumps Myers (tenor sax)",
+    "style": "vocal",
+    "year": 1947,
+    "year_lo": 1947,
+    "year_hi": 1947,
+    "year_label": "1947",
+    "trivia": "Walker's slow twelve-bar blues, built on sliding ninth-chord guitar figures, became his best-known and most-recorded song. It entered the Library of Congress National Recording Registry and the Grammy Hall of Fame in 2007.",
+    "tags": [
+      "1940s",
+      "vocal",
+      "blues",
+      "electric-guitar",
+      "crossover"
+    ],
+    "track": {
+      "artist": "T-Bone Walker",
+      "title": "Call It Stormy Monday (But Tuesday Is Just as Bad)",
+      "album": "Call It Stormy Monday (But Tuesday Is Just as Bad) (Black & White 122, 78 rpm single)",
+      "duration": "3:00",
+      "isrc": null,
+      "query": "T-Bone Walker Call It Stormy Monday Black & White 1947",
+      "notes": "The 1947 Black & White original (matrix BW 637), not Walker's 1956 Atlantic remake nor later live and cover versions such as the Allman Brothers' 1971 live recording"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Call_It_Stormy_Monday_(But_Tuesday_Is_Just_as_Bad)",
+      "https://www.78discography.com/BlackandWhite.htm"
+    ],
+    "notes": "Date (13 Sept 1947, Hollywood), Black & White 122B and matrix BW 637 from the 78discography Black & White listing; personnel with instruments from Wikipedia (which names the trumpeter as John Teddy Bruckner, i.e. Teddy Buckner). Walker later claimed he first recorded the song in 1940, and Wikipedia cites a journalist's view that an earlier version was cut for Capitol and never issued; the documented, released recording is the 1947 one. Release month (November 1947) and the 2007 Grammy Hall of Fame / National Recording Registry inductions are as noted from Wikipedia and the Black & White listing. Duration from Wikipedia. Crossover pick (jump blues / blues guitar); Walker's first card."
+  },
+  {
+    "id": "jazz-kenton-the-peanut-vendor",
+    "artist": "Stan Kenton and His Orchestra",
+    "title": "The Peanut Vendor",
+    "composer": "Moisés Simons",
+    "recording_date": null,
+    "recording_year": 1947,
+    "release_year": 1948,
+    "original_issue": "Capitol 15052 (78 rpm; matrix 2668); also Capitol 904",
+    "personnel": "Stan Kenton (piano, leader) and his orchestra (sidemen not verified)",
+    "style": "latin",
+    "year": 1947,
+    "year_lo": 1947,
+    "year_hi": 1947,
+    "year_label": "1947",
+    "trivia": "Kenton's instrumental big-band treatment of the Cuban song, with the rhythm figure driven by the trombones, became a long-lasting hit for Capitol. Kenton re-recorded it twice with the band and later played it as a piano solo.",
+    "tags": [
+      "1940s",
+      "latin",
+      "capitol",
+      "big-band"
+    ],
+    "track": {
+      "artist": "Stan Kenton and His Orchestra",
+      "title": "The Peanut Vendor",
+      "album": "The Peanut Vendor (Capitol 15052, 78 rpm single)",
+      "duration": "2:44",
+      "isrc": null,
+      "query": "Stan Kenton The Peanut Vendor Capitol 1947",
+      "notes": "The original 1947 Capitol single (matrix 2668), not Kenton's later re-recordings, not Don Azpiazú's 1930 version"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Peanut_Vendor",
+      "https://www.78discography.com/Capitol15000.htm"
+    ],
+    "notes": "No exact session date found (the Capitol listing shows no date for matrix 2668; jazzdisco has no Kenton page); year-only, 1947 per Wikipedia's The Peanut Vendor page, which says Kenton recorded it for Capitol in 1947. Release year 1948 is uncertain: Wikipedia's version list says 1948, the 15052 issue date was not read. 78discography bills the issue Stan Kenton's Orchestra. Composer Moisés Simons per Wikipedia. Duration from MusicBrainz. Kenton's 2nd card (the other is And Her Tears Flowed Like Wine, 1944); The Peanut Vendor is now 2 versions in the set (Azpiazú, 1930). Medium confidence because of the missing date."
+  },
+  {
+    "id": "jazz-powell-tempus-fugit",
+    "artist": "Bud Powell Trio",
+    "title": "Tempus Fugit",
+    "composer": "Bud Powell",
+    "recording_date": "1949-02",
+    "recording_year": 1949,
+    "release_year": 1950,
+    "original_issue": "Mercury 11045 (78 rpm; b/w \"I'll Keep Loving You\"), matrices 2174-5 / 242-5; also on the Mercury 10-inch LP Piano Solos (MG-35012)",
+    "personnel": "Bud Powell (piano), Ray Brown (bass), Max Roach (drums)",
+    "style": "bebop",
+    "year": 1949,
+    "year_lo": 1949,
+    "year_hi": 1949,
+    "year_label": "1949",
+    "trivia": "The Latin title means time flies, a fitting name for this breakneck piano trio showcase with Ray Brown on bass and Max Roach on drums. Wikipedia notes the session took place when Powell had a temporary release from Creedmoor State Hospital.",
+    "tags": [
+      "1940s",
+      "bebop",
+      "mercury"
+    ],
+    "track": {
+      "artist": "Bud Powell Trio",
+      "title": "Tempus Fugit",
+      "album": "Tempus Fugit / I'll Keep Loving You (Mercury 11045, 78 rpm single)",
+      "duration": "2:29",
+      "isrc": null,
+      "query": "Bud Powell Tempus Fugit Mercury 1949",
+      "notes": "The Feb 1949 Mercury trio recording (matrix 2174-5) with Ray Brown and Max Roach, not later Powell remakes and not other artists' versions"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://www.jazzdisco.org/bud-powell/discography/",
+      "https://en.wikipedia.org/wiki/Jazz_Giant"
+    ],
+    "notes": "Matrices 2174-5 / 242-5, Mercury 11045 coupling and personnel from jazzdisco, which dates the session January-February 1949; Wikipedia's Jazz Giant page gives 23 Feb 1949 (the Ray Brown / Max Roach session) with Tempus Fugit at 2:29 (it spells the title Tempus Fugue-it), so the month (February) is used rather than the day. Release year 1950 inferred: Wikipedia dates the Jazz Giant album to 1950 on Norgran and lists the 10-inch Piano Solos (MG 35012) first; jazzdisco also lists a Norgran issue; the original Mercury 11045 issue date was not read. Duration from Wikipedia. Powell's 2nd card (the other is Un Poco Loco, 1951)."
+  },
+  {
+    "id": "jazz-shearing-september-in-the-rain",
+    "artist": "George Shearing Quintette",
+    "title": "September in the Rain",
+    "composer": "Harry Warren and Al Dubin",
+    "recording_date": "1949-02-17",
+    "recording_year": 1949,
+    "release_year": 1949,
+    "original_issue": "MGM 10426 (78 rpm; b/w \"Bop, Look and Listen\"), matrix 49S86",
+    "personnel": "George Shearing (piano), Margie Hyams (vibraphone), Chuck Wayne (guitar), John Levy (bass), Denzil Best (drums)",
+    "style": "cool",
+    "year": 1949,
+    "year_lo": 1949,
+    "year_hi": 1949,
+    "year_label": "1949",
+    "trivia": "The British-born blind pianist's quintet turned a 1937 film song into a hit with its soft, blended piano, vibes and guitar sound. It charted in 1949, and Wikipedia reports US sales above 900,000 copies.",
+    "tags": [
+      "1940s",
+      "cool"
+    ],
+    "track": {
+      "artist": "George Shearing Quintette",
+      "title": "September in the Rain",
+      "album": "September in the Rain / Bop, Look and Listen (MGM 10426, 78 rpm single)",
+      "duration": "3:14",
+      "isrc": null,
+      "query": "George Shearing Quintette September in the Rain MGM 1949",
+      "notes": "The Feb 1949 MGM studio recording (matrix 49S86), not Shearing's much later remakes (such as his 2000 recording) and not the Sam Donahue or Erroll Garner versions"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/September_in_the_Rain",
+      "https://en.wikipedia.org/wiki/George_Shearing",
+      "https://www.78discography.com/MGM10000.htm"
+    ],
+    "notes": "Date (17 Feb 1949), MGM 10426A coupling and matrix 49S86 from the 78discography MGM listing; Wikipedia's song page says the Shearing quintet version briefly reached the charts in 1949, and the 900,000-plus US copies figure (global sales over one million) is from Wikipedia's George Shearing page, which also says the quintet formed in 1949. Personnel is the quintet lineup as given by Wikipedia (Hyams, Wayne, Levy and Best), not read from a session listing for this exact date. Duration from MusicBrainz. Shearing's 2nd card (the other is Lullaby of Birdland, 1952). The song dates from 1937 and was introduced in the film Melody for Two (Wikipedia)."
+  },
+  {
+    "id": "jazz-christy-something-cool",
+    "artist": "June Christy",
+    "title": "Something Cool",
+    "composer": "Billy Barnes",
+    "recording_date": "1953-08-14",
+    "recording_year": 1953,
+    "release_year": 1954,
+    "original_issue": "Capitol H-516 (10-inch LP \"Something Cool\", 2 August 1954); Capitol T-516 (12-inch LP, 1 August 1955)",
+    "personnel": "June Christy (vocals), Pete Rugolo (arranger, conductor); Maynard Ferguson, Conrad Gozzo, Shorty Rogers, Jimmy Zito (trumpets); Milt Bernhart, Herbie Harper, Tommy Pederson (trombones); George Roberts (bass trombone); Gus Bivona, Bud Shank (alto sax, flute); Bob Cooper, Ted Nash (tenor sax, flute); Chuck Gentry (baritone sax); Geoff Clarkson (piano); Barney Kessel (guitar); Joe Comfort (bass); Frank Carlson (drums)",
+    "style": "west-coast",
+    "year": 1953,
+    "year_lo": 1953,
+    "year_hi": 1953,
+    "year_label": "1953",
+    "trivia": "Christy's saxophonist husband, Bob Cooper, is in the band on this session, which Pete Rugolo arranged and conducted. Her debut solo album first came out as a 10-inch LP of seven songs, and an earlier January 1953 attempt at this song was never released.",
+    "tags": [
+      "1950s",
+      "west-coast",
+      "capitol",
+      "vocal"
+    ],
+    "track": {
+      "artist": "June Christy",
+      "title": "Something Cool",
+      "album": "Something Cool",
+      "duration": "4:20",
+      "isrc": null,
+      "query": "June Christy Something Cool Something Cool 1953 mono",
+      "notes": "The 1953 mono original (4:20), not the 1960 stereo remake that Christy and Rugolo cut for the same album title"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://www.jazzdisco.org/june-christy/discography/",
+      "https://en.wikipedia.org/wiki/Something_Cool"
+    ],
+    "notes": "Date (14 Aug 1953, Capitol Melrose Studios, Los Angeles), matrix 11706, personnel (jazzdisco's list for that session) and the issues Capitol H-516 and T-516 from jazzdisco; the same discography shows an earlier, unissued attempt of the song on 13 Jan 1953 with a different line-up. Wikipedia's album page gives the 2 Aug 1954 release of the 10-inch LP and the 1 Aug 1955 12-inch, the 4:20 length, the composer credit, the husband Bob Cooper on the album and the 26-28 April 1960 stereo remake (for many years the only version in print), which is excluded. The August 1953 to 1954 gap is under two years, so no gap flag. The \"Something Cool (Mono)\" Topic upload runs 4:19 and has about 17K views; the 1960 remake is likely what many streaming uploads carry, hence the query includes \"mono\". Tier C: a landmark of cool vocal jazz for fans (the album has the Penguin Guide's crown), with a low view count."
   }
 ]

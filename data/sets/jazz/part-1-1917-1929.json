@@ -1187,5 +1187,129 @@
       "https://musicbrainz.org/recording/a6b516b0-1046-44fc-9f88-c6325982ebca"
     ],
     "notes": "GAP: recorded 1927, first released 1929 (2 yrs). The Wikipedia infobox gives recorded 1927, released 1929 on Paramount (b/w Whistlin' Blues, 3:10). The month December 1927 comes only from the MusicBrainz recording relation for the Smithsonian Jazz Piano track (2:49 on that CD; other MusicBrainz copies run about 3:10-3:13, the 3:10 of the Wikipedia infobox is used), so the day and the Paramount catalogue number are not verified, hence medium. Wikipedia and the Meade Lux Lewis article say the 1927 recording was his debut, the Parlophone remake is 1935 and the Victor remake 1937. The recording location is not stated in the articles read. Wikipedia reports the original was inducted into the Blues Hall of Fame in 2026. Boogie-woogie piano filed under style chicago, like the Pine Top Smith card."
+  },
+  {
+    "id": "jazz-isham-jones-it-had-to-be-you",
+    "artist": "Isham Jones Orchestra",
+    "title": "It Had to Be You",
+    "composer": "Isham Jones, Gus Kahn",
+    "recording_date": "1924-04-24",
+    "recording_year": 1924,
+    "release_year": 1924,
+    "original_issue": "Brunswick 2614-A (10-inch 78 rpm, released July 1924), matrix CH116 take 7, b/w \"After the Storm\"",
+    "personnel": "Isham Jones and his orchestra (instrumental, no vocal); individual players not verified",
+    "style": "big-band",
+    "year": 1924,
+    "year_lo": 1924,
+    "year_hi": 1924,
+    "year_label": "1924",
+    "trivia": "Jones wrote the tune and Gus Kahn the lyric, but this dance-band record has no singer: the orchestra carries the melody. It was added to the Grammy Hall of Fame in 2007.",
+    "tags": [
+      "1920s",
+      "big-band",
+      "brunswick",
+      "dance-band",
+      "jazz-standard",
+      "instrumental"
+    ],
+    "track": {
+      "artist": "Isham Jones Orchestra",
+      "title": "It Had to Be You",
+      "album": "It Had to Be You / After the Storm (Brunswick 2614, 78 rpm single)",
+      "duration": "2:58",
+      "isrc": null,
+      "query": "Isham Jones Orchestra It Had to Be You Brunswick 2614 1924",
+      "notes": "Instrumental dance-band record of 24 April 1924 (take 7), not the Marion Harris vocal version (Brunswick 2610) and not later remakes or Harry Connick Jr."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/It_Had_to_Be_You_(song)",
+      "https://en.wikipedia.org/wiki/List_of_Grammy_Hall_of_Fame_Award_recipients_(E%E2%80%93I)",
+      "http://www.78discography.com/BRN2500.htm"
+    ],
+    "notes": "Date, label, matrix and take from the Brunswick 78discography page and the Wikipedia song page. Recording LOCATION conflict: Wikipedia says New York (Brunswick studios) while the CH matrix prefix may point to Chicago, so the location is left out. Duration 2:58 from MusicBrainz (about 178 s for the Brunswick 2614 release); other transfers run up to about 3:05. Second version of the tune in the set (Connick 1989 is the other)."
+  },
+  {
+    "id": "jazz-james-p-johnson-carolina-shout",
+    "artist": "James P. Johnson",
+    "title": "Carolina Shout",
+    "composer": "James P. Johnson",
+    "recording_date": "1921-10-18",
+    "recording_year": 1921,
+    "release_year": 1922,
+    "original_issue": "OKeh 4495 (10-inch 78 rpm, 1922), matrix S70260-C, b/w \"Keep Off the Grass\"",
+    "personnel": "James P. Johnson (piano, solo)",
+    "style": "swing",
+    "year": 1921,
+    "year_lo": 1921,
+    "year_hi": 1921,
+    "year_label": "1921",
+    "trivia": "A test piece that other Harlem stride pianists had to master, and one of the first jazz piano solos ever put on disc. Johnson had cut it earlier for the QRS piano-roll label, and Ellington and Waller both learned from that roll.",
+    "tags": [
+      "1920s",
+      "swing",
+      "okeh",
+      "stride",
+      "piano",
+      "solo-piano",
+      "harlem"
+    ],
+    "track": {
+      "artist": "James P. Johnson",
+      "title": "Carolina Shout",
+      "album": "Carolina Shout / Keep Off the Grass (OKeh 4495, 78 rpm single)",
+      "duration": "3:19",
+      "isrc": null,
+      "query": "James P. Johnson Carolina Shout Okeh 4495 1921",
+      "notes": "Solo-piano OKeh disc of 18 October 1921, not the QRS piano roll and not later remakes."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Carolina_Shout",
+      "https://en.wikipedia.org/wiki/List_of_Grammy_Hall_of_Fame_Award_recipients_(A%E2%80%93D)",
+      "http://www.78discography.com/OK4000.html"
+    ],
+    "notes": "Tier C justified as a fan landmark: Grammy Hall of Fame 2020 and the founding record of recorded stride piano. Recording 1921-10-18, New York; release 1922 (gap under 2 years). Duration 3:19 from the Wikipedia song page."
+  },
+  {
+    "id": "jazz-astaire-fascinating-rhythm",
+    "artist": "Fred and Adele Astaire with George Gershwin",
+    "title": "Fascinating Rhythm",
+    "composer": "George Gershwin, Ira Gershwin",
+    "recording_date": "1926-04-19",
+    "recording_year": 1926,
+    "release_year": 1926,
+    "original_issue": "English Columbia 78 rpm, matrix WA 3184-1, London, released June 1926; the catalogue number is given inconsistently in the sources and is not stated here",
+    "personnel": "Fred Astaire and Adele Astaire (vocals), George Gershwin (piano)",
+    "style": "vocal",
+    "year": 1926,
+    "year_lo": 1926,
+    "year_hi": 1926,
+    "year_label": "1926",
+    "trivia": "Recorded in London five days after Lady, Be Good opened at the Empire Theatre, with the composer himself at the piano accompanying the two stars of the show.",
+    "tags": [
+      "1920s",
+      "vocal",
+      "columbia",
+      "musical-theatre",
+      "jazz-standard",
+      "brother-sister-duo",
+      "crossover"
+    ],
+    "track": {
+      "artist": "Fred and Adele Astaire",
+      "title": "Fascinating Rhythm",
+      "album": "Fascinating Rhythm (English Columbia 78 rpm single)",
+      "duration": "2:27",
+      "isrc": null,
+      "query": "Fred and Adele Astaire George Gershwin Fascinating Rhythm Columbia 1926",
+      "notes": "The 1926 London duet with George Gershwin at the piano, not Fred Astaire's later solo versions and not the Broadway cast version sung by Cliff Edwards."
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Fascinating_Rhythm",
+      "https://en.wikipedia.org/wiki/List_of_Grammy_Hall_of_Fame_Award_recipients_(E%E2%80%93I)"
+    ],
+    "notes": "Cross pick (Broadway/pop crossover, 1 of 2 in this batch). Date and place from the Wikipedia song page (opening of Lady, Be Good on 14 April 1926 at the Empire Theatre). Wikipedia is inconsistent on the Columbia catalogue number (DB 3968, 3969 and 8969 all appear), so no number is stated: medium confidence. Matrix WA 3184-1 from Wikipedia's list. Duration 2:27 is the MusicBrainz length of the Fred and Adele Astaire track (about 147 s), not read from the disc itself. Grammy Hall of Fame 2006. Gershwin now has two cards in the set (the other is Whiteman, Rhapsody in Blue)."
   }
 ]

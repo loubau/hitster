@@ -188,43 +188,6 @@
     "notes": "Date, label, catalog number, B-side and duration from the Wikipedia infobox. Only the key soloists are listed; the full roster of the July 1937 band was not re-verified."
   },
   {
-    "id": "jazz-basie-kansas-city-seven-lester-leaps-in",
-    "artist": "Count Basie's Kansas City Seven",
-    "title": "Lester Leaps In",
-    "composer": "Lester Young",
-    "recording_date": "1939-09-05",
-    "recording_year": 1939,
-    "release_year": 1939,
-    "original_issue": "Vocalion 5118 (78 rpm)",
-    "personnel": "Buck Clayton (trumpet), Dickie Wells (trombone), Lester Young (tenor sax), Count Basie (piano), Freddie Green (guitar), Rodney Richardson (bass), Jo Jones (drums)",
-    "style": "swing",
-    "year": 1939,
-    "year_lo": 1939,
-    "year_hi": 1939,
-    "year_label": "1939",
-    "trivia": "A small-group tour de force built on the chord changes of \"I Got Rhythm\". Lester Young's light, floating tenor lines here were a generation's model for how to improvise.",
-    "tags": [
-      "1930s",
-      "swing",
-      "vocalion"
-    ],
-    "track": {
-      "artist": "Count Basie's Kansas City Seven",
-      "title": "Lester Leaps In",
-      "album": "Lester Leaps In / Dickie's Dream (78 rpm single)",
-      "duration": "3:12",
-      "isrc": null,
-      "query": "Count Basie's Kansas City Seven Lester Leaps In 1939",
-      "notes": "The 5 Sept 1939 Vocalion small-group recording; not Young's later remakes or the 1940 Columbia Basie band version"
-    },
-    "confidence": "high",
-    "sources": [
-      "https://en.wikipedia.org/wiki/Lester_Leaps_In",
-      "https://en.wikipedia.org/wiki/List_of_Grammy_Hall_of_Fame_Award_recipients_(J%E2%80%93P)"
-    ],
-    "notes": "Date, label, catalog number and duration from the Wikipedia infobox. Personnel and the Dickie's Dream coupling from memory, not re-verified."
-  },
-  {
     "id": "jazz-coleman-hawkins-body-and-soul",
     "artist": "Coleman Hawkins and His Orchestra",
     "title": "Body and Soul",
@@ -2034,5 +1997,497 @@
       "http://www.78discography.com/Capitol100.htm"
     ],
     "notes": "Date 20 May 1944 and Capitol 166 come from the 78discography Capitol listing; Wikipedia says only that it was recorded in 1944 and copyrighted on 25 Sep 1944, so the exact day rests on one source, hence medium. Credits, the V-Disc and the Decca cover are from Wikipedia. Band personnel not verified. Duration (3:08) is from 78 rpm transfers on YouTube and is approximate. Anita O'Day also appears in the set on Gene Krupa's \"Let Me Off Uptown\"."
+  },
+  {
+    "id": "jazz-charleston-chasers-basin-street-blues",
+    "artist": "The Charleston Chasers",
+    "title": "Basin Street Blues",
+    "composer": "Spencer Williams",
+    "recording_date": "1931-02-09",
+    "recording_year": 1931,
+    "release_year": 1931,
+    "original_issue": "Columbia 2415-D (10-inch 78 rpm, 1931), matrix W151292, credited \"The Charleston Chasers (vJT)\", b/w \"Beale Street Blues\"; also issued on OKeh 41577",
+    "personnel": "Jack Teagarden (trombone, vocal), Benny Goodman (clarinet), Glenn Miller (arranger); remaining sidemen not verified",
+    "style": "chicago",
+    "year": 1931,
+    "year_lo": 1931,
+    "year_hi": 1931,
+    "year_label": "1931",
+    "trivia": "A New York studio group in the Dixieland tradition, with Jack Teagarden singing and playing trombone. Glenn Miller wrote the arrangement under Goodman's direction, and Goodman later said it was the first time he could show his own musical personality on record.",
+    "tags": [
+      "1930s",
+      "chicago",
+      "columbia",
+      "dixieland",
+      "vocal",
+      "trombone",
+      "studio-band"
+    ],
+    "track": {
+      "artist": "The Charleston Chasers",
+      "title": "Basin Street Blues",
+      "album": "Basin Street Blues / Beale Street Blues (Columbia 2415-D, 78 rpm single)",
+      "duration": "3:15",
+      "isrc": null,
+      "query": "The Charleston Chasers Basin Street Blues Columbia 2415-D Jack Teagarden 1931",
+      "notes": "The 9 February 1931 Charleston Chasers record with Teagarden's vocal, not other artists' versions of the song. Later Columbia reissues name Benny Goodman and His Orchestra; the original billing is The Charleston Chasers."
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Charleston_Chasers",
+      "https://en.wikipedia.org/wiki/Basin_Street_Blues",
+      "https://en.wikipedia.org/wiki/List_of_songs_written_by_Glenn_Miller",
+      "http://www.78discography.com/COL2000D.htm"
+    ],
+    "notes": "Medium: full personnel not verified and the duration is approximate (no source read). Date, label, matrix from 78discography and Wikipedia. Cap note: Goodman and Glenn Miller appear in the personnel only; the original billing is The Charleston Chasers (a later reissue, Columbia 2914-D, credits Goodman), so the card is not counted against either giant. The Wikipedia page for the song reports a chart peak of #14. The added verse is credited to Teagarden and Miller (not quoted here)."
+  },
+  {
+    "id": "jazz-moten-moten-swing",
+    "artist": "Bennie Moten's Kansas City Orchestra",
+    "title": "Moten Swing",
+    "composer": "Bennie Moten, Buster Moten",
+    "recording_date": "1932-12-13",
+    "recording_year": 1932,
+    "release_year": 1932,
+    "original_issue": "Victor 23384-B (10-inch 78 rpm, 1932), matrix 74847-1, Camden, New Jersey, b/w \"Toby\"; the label spells the title \"Moten's Swing\"",
+    "personnel": "Count Basie (piano), Hot Lips Page (trumpet, featured solo), Eddie Durham (arranger); the rest of the band is not verified here",
+    "style": "big-band",
+    "year": 1932,
+    "year_lo": 1932,
+    "year_hi": 1932,
+    "year_label": "1932",
+    "trivia": "One of ten sides the Kansas City band cut in a single day at Camden, with Count Basie at the piano and a Hot Lips Page trumpet solo. Bennie Moten himself did not play on the session.",
+    "tags": [
+      "1930s",
+      "big-band",
+      "victor",
+      "kansas-city",
+      "riff",
+      "swing-era-precursor"
+    ],
+    "track": {
+      "artist": "Bennie Moten's Kansas City Orchestra",
+      "title": "Moten's Swing",
+      "album": "Moten's Swing / Toby (Victor 23384, 78 rpm single)",
+      "duration": "3:24",
+      "isrc": null,
+      "query": "Bennie Moten's Kansas City Orchestra Moten's Swing Victor 23384 1932",
+      "notes": "The 13 December 1932 Victor recording by the Moten orchestra, not later remakes by other bands."
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Moten_Swing",
+      "https://en.wikipedia.org/wiki/Bennie_Moten",
+      "http://www.78discography.com/vic23000.html"
+    ],
+    "notes": "Medium: personnel beyond Basie, Page and Durham not verified; duration approximate (no source read); exact release month unverified (Wikipedia says 1932). Cap note: Count Basie (a full giant) is in the personnel only, billing is Bennie Moten. Wikipedia notes that Ben Webster and Jimmy Rushing had joined the band by then; they are not listed here because their presence on this track was not confirmed."
+  },
+  {
+    "id": "jazz-prima-sing-sing-sing",
+    "artist": "Louis Prima and His New Orleans Gang",
+    "title": "Sing, Sing, Sing",
+    "composer": "Louis Prima",
+    "recording_date": "1936-02",
+    "recording_year": 1936,
+    "release_year": 1936,
+    "original_issue": "Brunswick 7628 (10-inch 78 rpm, 1936), matrix LA1106, b/w \"It's Been So Long\" (matrix LA1101)",
+    "personnel": "Louis Prima (trumpet, vocal) with his New Orleans Gang; individual players not verified",
+    "style": "swing",
+    "year": 1936,
+    "year_lo": 1936,
+    "year_hi": 1936,
+    "year_label": "1936",
+    "trivia": "Prima's own small-group original of the tune that Benny Goodman's band stretched into an 8:43 showpiece in 1937.",
+    "tags": [
+      "1930s",
+      "swing",
+      "brunswick",
+      "dixieland",
+      "small-group",
+      "novelty"
+    ],
+    "track": {
+      "artist": "Louis Prima and His New Orleans Gang",
+      "title": "Sing, Sing, Sing",
+      "album": "Sing, Sing, Sing / It's Been So Long (Brunswick 7628, 78 rpm single)",
+      "duration": "2:50",
+      "isrc": null,
+      "query": "Louis Prima and His New Orleans Gang Sing, Sing, Sing Brunswick 7628 1936",
+      "notes": "Prima's original 1936 Brunswick record, not Benny Goodman's 1937 Victor version."
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Sing,_Sing,_Sing_(with_a_Swing)",
+      "https://en.wikipedia.org/wiki/Louis_Prima",
+      "http://www.78discography.com/BRN7500.htm"
+    ],
+    "notes": "Medium: date conflict. The 78discography page lists 2/28/36 while the Wikipedia song page says \"released February 28, 1936\" and Prima's own page says March 1936, so only the month (1936-02) is given. Personnel not verified; duration approximate. Second version of the tune in the set (Goodman 1937 is the other); the Goodman card is the famous one, this is the original."
+  },
+  {
+    "id": "jazz-mildred-bailey-rockin-chair",
+    "artist": "Mildred Bailey and Her Orchestra",
+    "title": "Rockin' Chair",
+    "composer": "Hoagy Carmichael",
+    "recording_date": "1937-03-23",
+    "recording_year": 1937,
+    "release_year": 1937,
+    "original_issue": "Vocalion 3553 (10-inch 78 rpm, 1937), matrix C1859, b/w \"Little Joe\"",
+    "personnel": "Mildred Bailey (vocal) with her orchestra; instrumentalists not verified",
+    "style": "vocal",
+    "year": 1937,
+    "year_lo": 1937,
+    "year_hi": 1937,
+    "year_label": "1937",
+    "trivia": "The song that gave her the nickname the Rockin' Chair Lady; she had first recorded it in August 1932 and remade it with her own orchestra in 1937, when it was a chart hit.",
+    "tags": [
+      "1930s",
+      "vocal",
+      "vocalion",
+      "swing",
+      "female-vocal",
+      "jazz-standard"
+    ],
+    "track": {
+      "artist": "Mildred Bailey and Her Orchestra",
+      "title": "Rockin' Chair",
+      "album": "Rockin' Chair / Little Joe (Vocalion 3553, 78 rpm single)",
+      "duration": "3:14",
+      "isrc": null,
+      "query": "Mildred Bailey and Her Orchestra Rockin' Chair Vocalion 3553 1937",
+      "notes": "The March 1937 Vocalion remake, not her 18 August 1932 recording and not Hoagy Carmichael's own versions."
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Rockin'_Chair_(1929_song)",
+      "https://en.wikipedia.org/wiki/Mildred_Bailey",
+      "https://en.wikipedia.org/wiki/List_of_Grammy_Hall_of_Fame_Award_recipients_(Q%E2%80%93Z)",
+      "http://www.78discography.com/VOC3500.htm"
+    ],
+    "notes": "Medium: sidemen not verified. Date, label, matrix from 78discography and Wikipedia; duration 3:14 from MusicBrainz (about 193-195 s). Chart peak #13 in 1937 per the Wikipedia song page. Grammy Hall of Fame 2011. Composer Hoagy Carmichael is not billed on this record, so it does not count toward his cap."
+  },
+  {
+    "id": "jazz-jimmie-lunceford-for-dancers-only",
+    "artist": "Jimmie Lunceford and His Orchestra",
+    "title": "For Dancers Only",
+    "composer": "Sy Oliver",
+    "recording_date": "1937-06-15",
+    "recording_year": 1937,
+    "release_year": 1937,
+    "original_issue": "Decca 1340-B (10-inch 78 rpm, 1937), matrix 62263-A, New York, b/w \"Coquette\" (1340-A)",
+    "personnel": "Jimmie Lunceford (leader), Willie Smith (leading the saxophone section); the rest of the band is not verified here",
+    "style": "big-band",
+    "year": 1937,
+    "year_lo": 1937,
+    "year_hi": 1937,
+    "year_label": "1937",
+    "trivia": "Sy Oliver's composition and arrangement became the Lunceford band's theme and the record entered the Grammy Hall of Fame in 1999.",
+    "tags": [
+      "1930s",
+      "big-band",
+      "decca",
+      "swing",
+      "dance-band",
+      "signature-tune"
+    ],
+    "track": {
+      "artist": "Jimmie Lunceford and His Orchestra",
+      "title": "For Dancers Only",
+      "album": "For Dancers Only / Coquette (Decca 1340, 78 rpm single)",
+      "duration": "2:42",
+      "isrc": null,
+      "query": "Jimmie Lunceford and His Orchestra For Dancers Only Decca 1340 1937",
+      "notes": "The 15 June 1937 Decca recording, not the band's later remakes or other bands' versions."
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Jimmie_Lunceford",
+      "https://en.wikipedia.org/wiki/Sy_Oliver",
+      "https://en.wikipedia.org/wiki/List_of_Grammy_Hall_of_Fame_Award_recipients_(E%E2%80%93I)",
+      "http://www.78discography.com/Dec1000.htm"
+    ],
+    "notes": "Medium: personnel mostly not verified; duration approximate (no source read). Date, label and matrix from 78discography; Decca 1286 is a Claude Hopkins record, not Lunceford. Cap note: Lunceford now has 2 cards (Rhythm Is Our Business 1934 is the other), the maximum."
+  },
+  {
+    "id": "jazz-pete-johnson-roll-em-pete",
+    "artist": "Joe Turner and Pete Johnson",
+    "title": "Roll 'Em Pete",
+    "composer": "Pete Johnson, Joe Turner",
+    "recording_date": "1938-12-30",
+    "recording_year": 1938,
+    "release_year": 1939,
+    "original_issue": "Vocalion 4607 (10-inch 78 rpm, 1939), matrix 23892-1, b/w \"Goin' Away Blues\" (matrix 23891-1); also listed as Columbia 35959",
+    "personnel": "Joe Turner (vocal), Pete Johnson (piano)",
+    "style": "swing",
+    "year": 1938,
+    "year_lo": 1938,
+    "year_hi": 1938,
+    "year_label": "1938",
+    "trivia": "John Hammond brought the Kansas City pair to New York for the From Spirituals to Swing concert and this session followed. The record is often named as a precursor of rock and roll and entered the Blues Hall of Fame in 2018.",
+    "tags": [
+      "1930s",
+      "swing",
+      "vocalion",
+      "boogie-woogie",
+      "blues-shouter",
+      "kansas-city",
+      "piano"
+    ],
+    "track": {
+      "artist": "Joe Turner and Pete Johnson",
+      "title": "Roll 'Em Pete",
+      "album": "Roll 'Em Pete / Goin' Away Blues (Vocalion 4607, 78 rpm single)",
+      "duration": "2:50",
+      "isrc": null,
+      "query": "Pete Johnson Joe Turner Roll 'Em Pete Vocalion 4607 1938",
+      "notes": "The 30 December 1938 Vocalion record with Turner singing over Johnson's piano, not later remakes."
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Roll_'Em_Pete",
+      "https://en.wikipedia.org/wiki/Pete_Johnson_(musician)",
+      "http://www.78discography.com/VOC4500.htm"
+    ],
+    "notes": "Medium: release conflict. The Wikipedia infobox gives 1939 (consistent with the Vocalion 4607 series), but its text says the original was released in 1941 in the Columbia album Boogie Woogie (C44); rel is set to 1939. Original billing on the label was not verified, so the artist line follows the usual credit. Duration 2:50 from the Wikipedia song page. First card for each of Turner and Johnson in the set."
+  },
+  {
+    "id": "jazz-ink-spots-if-i-didnt-care",
+    "artist": "The Ink Spots",
+    "title": "If I Didn't Care",
+    "composer": "Jack Lawrence",
+    "recording_date": "1939-01-12",
+    "recording_year": 1939,
+    "release_year": 1939,
+    "original_issue": "Decca 2286-A (10-inch 78 rpm, 1939), matrix 64891-A, New York, b/w \"Knock Kneed Sal\"",
+    "personnel": "Bill Kenny (lead tenor), Deek Watson (tenor, tenor guitar), Charlie Fuqua (baritone, guitar), Hoppy Jones (talking bass, small cello)",
+    "style": "vocal",
+    "year": 1939,
+    "year_lo": 1939,
+    "year_hi": 1939,
+    "year_label": "1939",
+    "trivia": "The first studio record in the group's Top and Bottom format, with Bill Kenny's high lead tenor over Hoppy Jones's spoken bass part. It reportedly sold over 19 million copies and entered the Grammy Hall of Fame in 1987.",
+    "tags": [
+      "1930s",
+      "vocal",
+      "decca",
+      "vocal-group",
+      "ballad",
+      "pop-standard",
+      "crossover"
+    ],
+    "track": {
+      "artist": "The Ink Spots",
+      "title": "If I Didn't Care",
+      "album": "If I Didn't Care / Knock Kneed Sal (Decca 2286, 78 rpm single)",
+      "duration": "3:09",
+      "isrc": null,
+      "query": "The Ink Spots If I Didn't Care Decca 2286 1939",
+      "notes": "The January 1939 Decca record, not later remakes or cover versions."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/If_I_Didn't_Care",
+      "https://en.wikipedia.org/wiki/The_Ink_Spots",
+      "https://en.wikipedia.org/wiki/List_of_Grammy_Hall_of_Fame_Award_recipients_(E%E2%80%93I)",
+      "http://www.78discography.com/Dec2000.htm"
+    ],
+    "notes": "Cross pick (vocal-group pop, 2 of 2 in this batch). The lineup is the group's lineup per Wikipedia, not a session sheet. Duration 3:09 from the Wikipedia song page. National Recording Registry 2018 per the song page. The sales figure is Wikipedia's wording and is reported only as reputed."
+  },
+  {
+    "id": "jazz-erskine-hawkins-after-hours",
+    "artist": "Erskine Hawkins and His Orchestra",
+    "title": "After Hours",
+    "composer": "Avery Parrish",
+    "recording_date": "1940-06-10",
+    "recording_year": 1940,
+    "release_year": 1940,
+    "original_issue": "Bluebird B-10879 (78 rpm; b/w \"Song of the Wanderer\"), matrix 051264-1",
+    "personnel": "Avery Parrish (piano) featured with Erskine Hawkins and His Orchestra (full band personnel not verified)",
+    "style": "big-band",
+    "year": 1940,
+    "year_lo": 1940,
+    "year_hi": 1940,
+    "year_label": "1940",
+    "trivia": "A slow blues feature built around the piano of band member Avery Parrish, who also wrote it. Parrish cut it in 1940 with the Hawkins orchestra, and it went on to become a blues and jazz standard recorded by artists as different as Benny Goodman and Muddy Waters.",
+    "tags": [
+      "1940s",
+      "big-band",
+      "bluebird",
+      "blues",
+      "piano"
+    ],
+    "track": {
+      "artist": "Erskine Hawkins and His Orchestra",
+      "title": "After Hours",
+      "album": "After Hours / Song of the Wanderer (Bluebird B-10879, 78 rpm single)",
+      "duration": "3:23",
+      "isrc": null,
+      "query": "Erskine Hawkins After Hours Avery Parrish Bluebird 1940",
+      "notes": "The original 10 June 1940 Bluebird recording with Avery Parrish, not later Hawkins remakes or the many cover versions"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/After_Hours_(Avery_Parrish_song)",
+      "https://en.wikipedia.org/wiki/Avery_Parrish",
+      "https://en.wikipedia.org/wiki/Erskine_Hawkins",
+      "https://www.78discography.com/BB10500.htm"
+    ],
+    "notes": "Date, label, coupling and matrix from the 78discography Bluebird listing (B-10879); Wikipedia confirms the first recording was by Parrish with the Hawkins orchestra on 10 June 1940 on Bluebird. The discography listing credits Erskine Hawkins as composer; Wikipedia credits Avery Parrish. Release year 1940 is inferred from the B-10879 issue and the Wikipedia statement (no exact release date read). Duration approximate (MusicBrainz entries range about 3:22-3:25). This is Hawkins's 2nd card (the other is Tuxedo Junction, 1939); Coleman Hawkins is a different artist."
+  },
+  {
+    "id": "jazz-jimmy-dorsey-tangerine",
+    "artist": "Jimmy Dorsey and His Orchestra",
+    "title": "Tangerine",
+    "composer": "Victor Schertzinger and Johnny Mercer",
+    "recording_date": "1941-12-10",
+    "recording_year": 1941,
+    "release_year": 1942,
+    "original_issue": "Decca 4123 (78 rpm; b/w \"Ev'rything I Love\"), matrix 70028A; issued January 1942",
+    "personnel": "Jimmy Dorsey (alto sax, leader) and his orchestra, with vocals by Bob Eberly and Helen O'Connell (sidemen not verified)",
+    "style": "big-band",
+    "year": 1941,
+    "year_lo": 1941,
+    "year_hi": 1941,
+    "year_label": "1941",
+    "trivia": "The Latin-flavoured Johnny Mercer song was introduced to a wide audience in the 1942 Paramount film The Fleet's In. Dorsey's record, with Bob Eberly and Helen O'Connell sharing the vocal, spent six weeks at number one on the Billboard chart.",
+    "tags": [
+      "1940s",
+      "big-band",
+      "decca",
+      "vocal",
+      "latin-tinge"
+    ],
+    "track": {
+      "artist": "Jimmy Dorsey and His Orchestra",
+      "title": "Tangerine",
+      "album": "Tangerine / Ev'rything I Love (Decca 4123, 78 rpm single)",
+      "duration": "3:12",
+      "isrc": null,
+      "query": "Jimmy Dorsey Tangerine Decca 1941",
+      "notes": "Decca 4123 (Dec 1941) with Eberly and O'Connell; not the many 1942 covers or later Dorsey remakes"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Tangerine_(1941_song)",
+      "https://www.78discography.com/Dec4000.htm"
+    ],
+    "notes": "Date (10 Dec 1941, New York), Decca number, coupling and matrix from the 78discography Decca listing; chart facts (first on Billboard chart 10 April 1942, 15 weeks, six at number one) from Wikipedia. The January 1942 release month was noted during research; the 1941 recording date is what counts for the timeline. Duration from MusicBrainz. Jimmy Dorsey is a separate artist from Tommy Dorsey (who already has 2 cards), so this is Jimmy's 1st card."
+  },
+  {
+    "id": "jazz-horne-stormy-weather",
+    "artist": "Lena Horne",
+    "title": "Stormy Weather",
+    "composer": "Harold Arlen and Ted Koehler",
+    "recording_date": "1941-12-15",
+    "recording_year": 1941,
+    "release_year": 1942,
+    "original_issue": "Victor 27819 (78 rpm; b/w \"Ill Wind\"), matrix 61977; recorded in Hollywood",
+    "personnel": "Lena Horne (vocal) with Lou Bring and His Orchestra (individual players not verified)",
+    "style": "vocal",
+    "year": 1941,
+    "year_lo": 1941,
+    "year_hi": 1941,
+    "year_label": "1941",
+    "trivia": "Horne made this her signature song, recording it for RCA Victor in December 1941, about two years before she sang it in the 1943 film Stormy Weather. The 1941 Victor disc was inducted into the Grammy Hall of Fame in 2000.",
+    "tags": [
+      "1940s",
+      "vocal",
+      "victor"
+    ],
+    "track": {
+      "artist": "Lena Horne",
+      "title": "Stormy Weather",
+      "album": "Stormy Weather / Ill Wind (Victor 27819, 78 rpm single)",
+      "duration": "3:23",
+      "isrc": null,
+      "query": "Lena Horne Stormy Weather Victor 1941",
+      "notes": "The December 1941 RCA Victor studio recording (matrix 61977), not her 1943 recording for the film Stormy Weather and not later LP remakes"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Stormy_Weather_(song)",
+      "https://www.78discography.com/vic27500.htm"
+    ],
+    "notes": "Date, Victor number, coupling and matrix from the 78discography Victor listing; Wikipedia's song page says she recorded the song in 1941 for RCA Victor, made another version in 1943 for the film, and that the 1941 version was inducted into the Grammy Hall of Fame in 2000. The brief's lead dated this recording 1943; documentation shows 1941 (1943 is the film appearance). Release year 1942 inferred from the Victor 27819 issue; Wikipedia's Lena Horne discography gives a peak of number 21 for the single. Duration from MusicBrainz. Billing \"with Lou Bring\" is from the leader name given in Wikipedia's discography; players not verified. Stormy Weather already has one card (Ethel Waters, 1933); this is the 2nd version."
+  },
+  {
+    "id": "jazz-heywood-begin-the-beguine",
+    "artist": "Eddie Heywood and His Orchestra",
+    "title": "Begin the Beguine",
+    "composer": "Cole Porter",
+    "recording_date": "1944-02-26",
+    "recording_year": 1944,
+    "release_year": 1944,
+    "original_issue": "Commodore 1514 (78 rpm; b/w \"I Cover the Waterfront\"), matrix 4728; also V-Disc 324; recorded in New York",
+    "personnel": "Eddie Heywood (piano), Doc Cheatham (trumpet), Vic Dickenson (trombone), Lem Davis (alto sax), Al Lucas (bass), Jack Parker (drums)",
+    "style": "swing",
+    "year": 1944,
+    "year_lo": 1944,
+    "year_hi": 1944,
+    "year_label": "1944",
+    "trivia": "A piano-led small-group arrangement of Cole Porter's tune that became a big hit on the Commodore label. Wikipedia describes it as a million-seller that earned a gold disc and charted in 1945, reaching number 16.",
+    "tags": [
+      "1940s",
+      "swing",
+      "commodore",
+      "piano",
+      "small-group"
+    ],
+    "track": {
+      "artist": "Eddie Heywood and His Orchestra",
+      "title": "Begin the Beguine",
+      "album": "Begin the Beguine / I Cover the Waterfront (Commodore 1514, 78 rpm single)",
+      "duration": "3:21",
+      "isrc": null,
+      "query": "Eddie Heywood Begin the Beguine Commodore 1944",
+      "notes": "Heywood's 26 Feb 1944 Commodore single (about 3:20), not Artie Shaw's 1938 hit and not other Heywood recordings of the tune"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Eddie_Heywood",
+      "https://en.wikipedia.org/wiki/Begin_the_Beguine",
+      "https://www.78discography.com/Commodore.htm"
+    ],
+    "notes": "Date, label number, coupling, matrix and V-Disc 324 cross-reference from the 78discography Commodore listing (billed Eddie Heywood and his Orch). Personnel is the sextet named by Wikipedia for Heywood's Commodore band; it was not confirmed against a session listing for this exact date, hence medium. Wikipedia's Begin the Beguine page says the single was recorded in 1944 and reached the US charts in 1945; the million-seller and gold-disc claims are as stated by Wikipedia. Duration approximate (MusicBrainz about 3:21; other Heywood versions run 5:00 or more). Tier C: a fan landmark (gold disc, 1940s small-group swing hit), not widely known today; kept as the one swing small-group card of the batch. Begin the Beguine now has 2 versions in the set (Shaw 1938)."
+  },
+  {
+    "id": "jazz-tharpe-strange-things-happening-every-day",
+    "artist": "Sister Rosetta Tharpe",
+    "title": "Strange Things Happening Every Day",
+    "composer": "traditional spiritual",
+    "recording_date": "1944-09-26",
+    "recording_year": 1944,
+    "release_year": 1944,
+    "original_issue": "Decca 8669 (78 rpm; B-side, A-side \"Two Little Fishes and Five Loaves of Bread\"), matrix 72398",
+    "personnel": "Sister Rosetta Tharpe (vocal, electric guitar), Sammy Price (piano), bass and drums (names not verified)",
+    "style": "vocal",
+    "year": 1944,
+    "year_lo": 1944,
+    "year_hi": 1944,
+    "year_label": "1944",
+    "trivia": "Tharpe's electric-guitar gospel record is described by Wikipedia as the first gospel record to cross over and chart on the race-records chart, where it reached number two in May 1945.",
+    "tags": [
+      "1940s",
+      "vocal",
+      "decca",
+      "gospel",
+      "electric-guitar",
+      "crossover"
+    ],
+    "track": {
+      "artist": "Sister Rosetta Tharpe",
+      "title": "Strange Things Happening Every Day",
+      "album": "Two Little Fishes and Five Loaves of Bread / Strange Things Happening Every Day (Decca 8669, 78 rpm single)",
+      "duration": "2:47",
+      "isrc": null,
+      "query": "Sister Rosetta Tharpe Strange Things Happening Every Day Decca 1944",
+      "notes": "The 26 Sept 1944 Decca recording (matrix 72398) with Sammy Price at the piano, not later Tharpe remakes or other artists' covers"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Strange_Things_Happening_Every_Day",
+      "https://en.wikipedia.org/wiki/Sister_Rosetta_Tharpe",
+      "https://www.78discography.com/Dec8500.htm"
+    ],
+    "notes": "Date (26 Sept 1944), Decca 8669B and matrix from the 78discography Decca listing. Piano by Sammy Price, plus bass and drums, per Wikipedia (names of the rhythm section not given there). Release year: Wikipedia's infobox says 1944, MusicBrainz shows 1945-03; 1944 used. The race-chart peak (number two, 5 May 1945) is from Wikipedia. Crossover pick (gospel record that charted on the race-records chart). Duration from MusicBrainz."
   }
 ]

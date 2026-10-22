@@ -1526,5 +1526,432 @@
       "https://en.wikipedia.org/wiki/Mingus_Ah_Um"
     ],
     "notes": "Date (matrix CO63156) and personnel from jazzdisco; instruments by track from Wikipedia's album page (Handy alto, Hadi tenor, Ervin tenor, Knepper trombone). Length 8:14 is the album page's figure (the song page says 8:13). The lyrics story and the separate Candid vocal recording (20 Oct 1960, \"Original Faubus Fables\", on Charles Mingus Presents Charles Mingus) are from Wikipedia. Both Mingus cards from this session use the two giant slots the brief allowed me. Note that data/reserve-part4.txt (not loaded by gen.js) also holds records with the same ids (jazz-mingus-fables-of-faubus, jazz-mingus-better-git-it-in-your-soul, jazz-clark-cool-struttin), so they must not be merged from there."
+  },
+  {
+    "id": "jazz-prima-jump-jive-an-wail",
+    "artist": "Louis Prima",
+    "title": "Jump, Jive an' Wail",
+    "composer": "Louis Prima",
+    "recording_date": "1956-04",
+    "recording_year": 1956,
+    "release_year": 1956,
+    "original_issue": "Capitol (LP \"The Wildest!\", 1956; Wikipedia's song and album pages say October 1956, the Louis Prima page says September 1956; catalogue number not checked)",
+    "personnel": "Louis Prima (vocals, trumpet), Keely Smith (vocals), Sam Butera (tenor sax), James Blount Jr. (trombone), Willie McCumber (piano), Jack Marshall (guitar), Amato Rodrigues (bass), Bobby Morris (drums)",
+    "style": "swing",
+    "year": 1956,
+    "year_lo": 1956,
+    "year_hi": 1956,
+    "year_label": "1956",
+    "trivia": "Prima's wife at the time, Keely Smith, is among the backing singers on this signature number, recorded with Sam Butera and his band. It came back to a mass audience in the late 1990s swing revival, when the Brian Setzer Orchestra covered it.",
+    "tags": [
+      "1950s",
+      "swing",
+      "capitol",
+      "jump-blues",
+      "vocal"
+    ],
+    "track": {
+      "artist": "Louis Prima",
+      "title": "Jump, Jive an' Wail",
+      "album": "The Wildest!",
+      "duration": "3:28",
+      "isrc": null,
+      "query": "Louis Prima Jump, Jive an' Wail The Wildest! 1956",
+      "notes": "Prima's original Capitol recording from The Wildest! (3:28), not the Brian Setzer Orchestra's 1998 cover"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Jump,_Jive_an'_Wail",
+      "https://en.wikipedia.org/wiki/The_Wildest!",
+      "https://en.wikipedia.org/wiki/Louis_Prima"
+    ],
+    "notes": "Wikipedia's song page gives \"recorded April 1956\", 3:28 and the Capitol label; the album page says the album sessions were 19 and 20 April 1956 (plus 13 Sep 1956 for bonus tracks), so the track is dated to the month only and which of the two April days is not stated. The personnel line is the album-page list for the band (Prima, Smith, Butera and the Witnesses); the sources do not give track-by-track credits, and the song page says only that Keely Smith was one of the backing singers. Conflict on the release month (October vs September 1956); either way the year is 1956. Sources describe the song as jazz swing and jump blues; tier B on its long life, the swing-revival cover and a roughly 500K to 750K view count for the original uploads."
+  },
+  {
+    "id": "jazz-doggett-honky-tonk-parts-1-and-2",
+    "artist": "Bill Doggett",
+    "title": "Honky Tonk (Parts 1 & 2)",
+    "composer": "Bill Doggett, Billy Butler, Clifford Scott, Shep Shepherd",
+    "recording_date": null,
+    "recording_year": 1956,
+    "release_year": 1956,
+    "original_issue": "King two-part 45 rpm single \"Honky Tonk\" (Part 1 3:05, Part 2 2:32), 1956; catalogue number not checked",
+    "personnel": "Bill Doggett (organ), Billy Butler (guitar), Clifford Scott (saxophone); the rest of the combo, including co-writer Shep Shepherd, is not itemised in the sources I read",
+    "style": "soul-jazz",
+    "year": 1956,
+    "year_lo": 1956,
+    "year_hi": 1956,
+    "year_label": "1956",
+    "trivia": "The two sides of this single spent thirteen non-consecutive weeks at the top of the R&B chart and reached number two on the Billboard Hot 100, making it the biggest R&B hit of 1956. The guitarist Billy Butler, the saxophonist Clifford Scott and Shep Shepherd of Doggett's band share the writing credit with him.",
+    "tags": [
+      "1950s",
+      "soul-jazz",
+      "organ",
+      "rhythm-and-blues",
+      "crossover"
+    ],
+    "track": {
+      "artist": "Bill Doggett",
+      "title": "Honky Tonk (Parts 1 & 2)",
+      "album": "Honky Tonk (single, Parts 1 and 2)",
+      "duration": "5:37",
+      "isrc": null,
+      "query": "Bill Doggett Honky Tonk Parts 1 and 2 King single 1956",
+      "notes": "The King single, Parts 1 and 2 played back to back (3:05 + 2:32 = 5:37); not the 1972 James Brown version or the many other covers"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Honky_Tonk_(instrumental)",
+      "https://en.wikipedia.org/wiki/Bill_Doggett",
+      "https://en.wikipedia.org/wiki/Billy_Butler_(guitarist)",
+      "https://en.wikipedia.org/wiki/Clifford_Scott_(musician)",
+      "https://en.wikipedia.org/wiki/Shep_Shepherd"
+    ],
+    "notes": "Wikipedia gives only the year 1956 for the recording (no month, studio or day), so ry is used; the single's catalogue number was not found. Personnel is inferred from the co-writers' own Wikipedia pages: Butler accompanied Doggett in the 1950s, Scott is described as a prominent soloist on \"Honky Tonk\", and Shepherd worked in Doggett's group and helped write it; no source I read lists the full line-up, so the bassist and drummer are left out. The 5:37 duration is the sum of the two single sides from the song page infobox (the top YouTube hit, 857K views, runs 5:37 and joins both parts). Crossover pick: Wikipedia lists the genre as R&B, jazz and blues, and Doggett is a jazz organist who moved to rhythm and blues; Christgau's Basic Record Library includes it."
+  },
+  {
+    "id": "jazz-brubeck-in-your-own-sweet-way",
+    "artist": "Dave Brubeck",
+    "title": "In Your Own Sweet Way",
+    "composer": "Dave Brubeck",
+    "recording_date": "1956-04-18",
+    "recording_year": 1956,
+    "release_year": 1956,
+    "original_issue": "Columbia CL 878 (LP \"Brubeck Plays Brubeck\", 16 July 1956)",
+    "personnel": "Dave Brubeck (piano, solo)",
+    "style": "cool",
+    "year": 1956,
+    "year_lo": 1956,
+    "year_hi": 1956,
+    "year_label": "1956",
+    "trivia": "Brubeck made this whole album as solo piano, playing nine of his own compositions over two April days in 1956. It is his own version of a tune that other players have recorded since.",
+    "tags": [
+      "1950s",
+      "cool",
+      "columbia",
+      "solo-piano"
+    ],
+    "track": {
+      "artist": "Dave Brubeck",
+      "title": "In Your Own Sweet Way",
+      "album": "Brubeck Plays Brubeck",
+      "duration": "5:01",
+      "isrc": null,
+      "query": "Dave Brubeck In Your Own Sweet Way Brubeck Plays Brubeck 1956",
+      "notes": "Solo-piano studio version from Brubeck Plays Brubeck (5:01 on the LP); not the quartet live versions or other players' recordings"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://www.jazzdisco.org/dave-brubeck/discography/",
+      "https://en.wikipedia.org/wiki/Brubeck_Plays_Brubeck"
+    ],
+    "notes": "Wikipedia's album page says tracks 1, 2, 3, 5, 7, 8 and 9 (this one is track 3) were recorded on 18 April 1956 and tracks 4 and 6 on 19 April; jazzdisco lists \"Dave Brubeck Solo\" at NYC, 18 and 19 April 1956 and gives Columbia CL 878. Conflict: Wikipedia's infobox gives the place as Brubeck's house in Oakland, jazzdisco says New York City; the card does not use the place. Length 5:01 from the album page track list (the Topic upload runs 4:58). The trivia's remark that other players have recorded the tune is general knowledge, not taken from a source page, so it is phrased loosely. With Take Five, Blue Rondo a la Turk and Unsquare Dance, this is Brubeck's fourth card in the set."
+  },
+  {
+    "id": "jazz-basie-every-day-i-have-the-blues",
+    "artist": "Count Basie and Joe Williams",
+    "title": "Every Day I Have the Blues",
+    "composer": "Peter Chapman, Mayall York",
+    "recording_date": "1955-05-17",
+    "recording_year": 1955,
+    "release_year": 1955,
+    "original_issue": "Clef MG C-678 (LP \"Count Basie Swings, Joe Williams Sings\", 1955)",
+    "personnel": "Joe Williams (vocals), Count Basie (piano), Wendell Culley, Reunald Jones, Thad Jones, Joe Newman (trumpets), Henry Coker, Bill Hughes, Benny Powell (trombones), Marshall Royal and Bill Graham (alto sax), Frank Wess (alto and tenor sax, flute), Frank Foster (tenor sax), Charlie Fowlkes (baritone sax), Freddie Green (guitar), Eddie Jones (bass), Sonny Payne (drums); arranger Ernie Wilkins",
+    "style": "big-band",
+    "year": 1955,
+    "year_lo": 1955,
+    "year_hi": 1955,
+    "year_label": "1955",
+    "trivia": "This album was Joe Williams's debut as the featured singer with the Basie band, and its opening track is a slow blues. AllMusic gives the album five stars and calls the debut a landmark moment.",
+    "tags": [
+      "1950s",
+      "big-band",
+      "clef",
+      "blues",
+      "vocal"
+    ],
+    "track": {
+      "artist": "Count Basie and Joe Williams",
+      "title": "Every Day I Have the Blues",
+      "album": "Count Basie Swings, Joe Williams Sings",
+      "duration": "5:29",
+      "isrc": null,
+      "query": "Count Basie Joe Williams Every Day I Have the Blues Count Basie Swings, Joe Williams Sings 1955",
+      "notes": "Clef studio recording from 17 May 1955 (5:29 on the LP), not Basie and Williams's later live or remade versions or the Pinetop Sparks or Memphis Slim originals"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Count_Basie_Swings,_Joe_Williams_Sings",
+      "https://en.wikipedia.org/wiki/Every_Day_I_Have_the_Blues"
+    ],
+    "notes": "Wikipedia's album page gives Fine Sound, New York, 17 May 1955 for tracks 1 to 4 (this is track 1) and 26 July 1955 for tracks 5 to 9, the 5:29 length, the arranger credit (Ernie Wilkins on tracks 1 and 6) and the personnel list for the album as a whole; no discography page was available for the band, so the personnel is the album-level list. The composer credit is the album page's (Peter Chapman, Mayall York); the song page documents Pinetop Sparks's 1935 original and Memphis Slim's 1949 rework. Replaces Basie's 1939 Kansas City Seven \"Lester Leaps In\" in the set so that Basie stays at five cards. The YouTube hit for this version has about 136K views."
+  },
+  {
+    "id": "jazz-lambert-hendricks-ross-twisted",
+    "artist": "Lambert, Hendricks & Ross",
+    "title": "Twisted",
+    "composer": "Wardell Gray, Annie Ross",
+    "recording_date": null,
+    "recording_year": 1959,
+    "release_year": 1959,
+    "original_issue": "Columbia (LP \"The Hottest New Group in Jazz\", December 1959; catalogue number not checked)",
+    "personnel": "Dave Lambert, Jon Hendricks and Annie Ross (vocals), backed by the Ike Isaacs Trio (Ike Isaacs, bass; Gildo Mahones, piano; the album lists several drummers)",
+    "style": "vocal",
+    "year": 1959,
+    "year_lo": 1959,
+    "year_hi": 1959,
+    "year_label": "1959",
+    "trivia": "Annie Ross wrote the lyrics in 1952 to a tenor-saxophone solo that Wardell Gray had recorded in 1949, and the lyric makes fun of psychoanalysis. The trio, backed by the Ike Isaacs Trio, put the song on their fourth album.",
+    "tags": [
+      "1950s",
+      "vocal",
+      "columbia",
+      "vocalese"
+    ],
+    "track": {
+      "artist": "Lambert, Hendricks & Ross",
+      "title": "Twisted",
+      "album": "The Hottest New Group in Jazz",
+      "duration": "2:19",
+      "isrc": null,
+      "query": "Lambert, Hendricks & Ross Twisted The Hottest New Group in Jazz 1959",
+      "notes": "The trio's Columbia version (2:19), not Annie Ross's 1952 Prestige original, Wardell Gray's 1949 instrumental or the Joni Mitchell and Bette Midler covers"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Hottest_New_Group_in_Jazz",
+      "https://en.wikipedia.org/wiki/Twisted_(Annie_Ross_song)",
+      "https://www.jazzdisco.org/annie-ross/discography/"
+    ],
+    "notes": "The album page gives December 1959 as the release and says the group is backed by the Ike Isaacs Trio, but gives no session date. The 1959 recording year is therefore inferred from the December 1959 release; no source I reached dates the session. Personnel: the album page says the group is backed by the Ike Isaacs Trio and lists the album's musicians as a whole (several bassists and drummers, plus Harry Edison and Pony Poindexter on other tracks); Isaacs is the trio's namesake bassist and Mahones the only pianist listed, but which drummer plays on this track is not stated. Annie Ross's own 1952 original (9 Oct 1952, NYC, Prestige 794 per jazzdisco) is a different recording that is not on the card. Ross herself has this one card in the set."
+  },
+  {
+    "id": "jazz-staton-the-late-late-show",
+    "artist": "Dakota Staton",
+    "title": "The Late, Late Show",
+    "composer": "Murray Berlin, Roy Alfred",
+    "recording_date": null,
+    "recording_year": 1957,
+    "release_year": 1957,
+    "original_issue": "Capitol (LP \"The Late, Late Show\", 1957; catalogue number not checked)",
+    "personnel": "Dakota Staton (vocals) with an orchestra that the sources I found do not name",
+    "style": "vocal",
+    "year": 1957,
+    "year_lo": 1957,
+    "year_hi": 1957,
+    "year_label": "1957",
+    "trivia": "The title song was Staton's biggest hit, and the album that carries it was her debut. The album was recorded over two sessions, on 28 February and 2 March 1957.",
+    "tags": [
+      "1950s",
+      "vocal",
+      "capitol"
+    ],
+    "track": {
+      "artist": "Dakota Staton",
+      "title": "The Late, Late Show",
+      "album": "The Late, Late Show",
+      "duration": "2:34",
+      "isrc": null,
+      "query": "Dakota Staton The Late, Late Show The Late, Late Show 1957",
+      "notes": "Capitol album version (2:34); not Staton's later remakes or the live versions"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Late,_Late_Show_(album)"
+    ],
+    "notes": "Wikipedia's album page gives recording dates of 28 February and 2 March 1957 (so both fall in 1957) and a 1957 release on Capitol; which date the title song was cut is not stated, so ry is used. The track length 2:34 is from the album page track list; the YouTube Topic uploads run about 2:33 to 2:37. AllMusic (quoted on the album page) says the orchestra is largely unidentified, so no personnel is listed. The title song is a hit single but this is a single-source card; the tier rests on the roughly 155K to 158K views of the two best uploads and its status as her signature song."
+  },
+  {
+    "id": "jazz-hamilton-blue-sands",
+    "artist": "Chico Hamilton Quintet",
+    "title": "Blue Sands",
+    "composer": "Buddy Collette",
+    "recording_date": "1955-08",
+    "recording_year": 1955,
+    "release_year": 1956,
+    "original_issue": "Pacific Jazz PJ-1209 / ST-20143 (LP \"Chico Hamilton Quintet featuring Buddy Collette\", 1956; reissued as \"Spectacular!\")",
+    "personnel": "Chico Hamilton (drums), Buddy Collette (tenor sax, alto sax, flute, clarinet), Fred Katz (cello), Jim Hall (guitar), Carson Smith (bass)",
+    "style": "west-coast",
+    "year": 1955,
+    "year_lo": 1955,
+    "year_hi": 1955,
+    "year_label": "1955",
+    "trivia": "Hamilton's quintet had a cellist, Fred Katz, and a multi-reed player, Buddy Collette, instead of a trumpet and a pianist. AllMusic's Scott Yanow calls it a chamber jazz unit that hinted at classical music, and Collette wrote \"Blue Sands\".",
+    "tags": [
+      "1950s",
+      "west-coast",
+      "pacific-jazz",
+      "chamber-jazz"
+    ],
+    "track": {
+      "artist": "Chico Hamilton Quintet",
+      "title": "Blue Sands",
+      "album": "Chico Hamilton Quintet featuring Buddy Collette",
+      "duration": "6:30",
+      "isrc": null,
+      "query": "Chico Hamilton Quintet Blue Sands Chico Hamilton Quintet featuring Buddy Collette 1955",
+      "notes": "Pacific Jazz album version from August 1955 (6:30), not the later re-recordings"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Chico_Hamilton_Quintet_featuring_Buddy_Collette"
+    ],
+    "notes": "Wikipedia's album page gives recording dates of 4 and 23 August 1955, with one side live (The Strollers, Long Beach) and the other recorded in the studio (Radio Recorders, Hollywood); it does not say which date or side holds \"Blue Sands\", so only the month is used. No discography (jazzdisco has no Hamilton page) was reachable to settle it. Personnel and the 6:30 length are from the album page; the Yanow quote is from the album page's reception section. Tier C on view counts (about 74K and 26K on the best uploads): a fan landmark of chamber jazz, included for the style spread; this is the one recording of the quintet in the set."
+  },
+  {
+    "id": "jazz-allison-parchman-farm",
+    "artist": "Mose Allison",
+    "title": "Parchman Farm",
+    "composer": "Mose Allison",
+    "recording_date": "1957-11-08",
+    "recording_year": 1957,
+    "release_year": 1958,
+    "original_issue": "Prestige PRLP 7121 (LP \"Local Color\", 1958)",
+    "personnel": "Mose Allison (piano, vocals), Addison Farmer (bass), Nick Stabulas (drums)",
+    "style": "hard-bop",
+    "year": 1957,
+    "year_lo": 1957,
+    "year_hi": 1957,
+    "year_label": "1957",
+    "trivia": "This is the first recording of Allison's own \"Parchman Farm\", which shares only its title with Bukka White's 1940 blues of the same name. John Mayall's Bluesbreakers later covered it on their album with Eric Clapton.",
+    "tags": [
+      "1950s",
+      "hard-bop",
+      "prestige",
+      "blues",
+      "vocal",
+      "piano-trio"
+    ],
+    "track": {
+      "artist": "Mose Allison",
+      "title": "Parchman Farm",
+      "album": "Local Color",
+      "duration": "3:17",
+      "isrc": null,
+      "query": "Mose Allison Parchman Farm Local Color 1957",
+      "notes": "Studio trio version from Local Color (3:17), not Bukka White's 1940 song or the many covers"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Local_Color_(Mose_Allison_album)",
+      "https://en.wikipedia.org/wiki/Parchman_Farm_(song)",
+      "https://en.wikipedia.org/wiki/Mose_Allison"
+    ],
+    "notes": "Date (8 Nov 1957), Van Gelder Studio (Hackensack), Prestige PRLP 7121, the 1958 release, personnel and 3:17 length from Wikipedia's album page; the album page lists trumpet by Allison on a different track. The song page and Mose Allison's page document that the song is an original unrelated to White's, was his most requested song for two decades, and was covered by John Mayall. Style label hard-bop is a rough fit (Wikipedia lists the album as blues and jazz); there is no blues or vocal-jazz style in the enum. Roughly 99K views on the best upload, so tier B rather than A."
+  },
+  {
+    "id": "jazz-giuffre-the-train-and-the-river",
+    "artist": "The Jimmy Giuffre 3",
+    "title": "The Train and the River",
+    "composer": "Jimmy Giuffre",
+    "recording_date": "1956-12-03",
+    "recording_year": 1956,
+    "release_year": 1957,
+    "original_issue": "Atlantic LP 1254 (LP \"The Jimmy Giuffre 3\", 1957); Atlantic EP 604 (1957)",
+    "personnel": "Jimmy Giuffre (clarinet), Jim Hall (guitar), Ralph Peña (bass)",
+    "style": "cool",
+    "year": 1956,
+    "year_lo": 1956,
+    "year_hi": 1956,
+    "year_label": "1956",
+    "trivia": "Giuffre's trio had no drummer, only clarinet (or sax), guitar and bass. The trio played this tune again at the Newport Jazz Festival in July 1958, with Bob Brookmeyer on valve trombone in place of the bassist.",
+    "tags": [
+      "1950s",
+      "cool",
+      "atlantic",
+      "chamber-jazz"
+    ],
+    "track": {
+      "artist": "The Jimmy Giuffre 3",
+      "title": "The Train and the River",
+      "album": "The Jimmy Giuffre 3",
+      "duration": "3:36",
+      "isrc": null,
+      "query": "Jimmy Giuffre 3 The Train and the River The Jimmy Giuffre 3 1956",
+      "notes": "Atlantic studio take from 3 Dec 1956 (about 3:36), not the 1957 TV version from The Sound of Jazz (about 4:46) or the 1958 Newport live version"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://www.jazzdisco.org/jimmy-giuffre/discography/",
+      "https://en.wikipedia.org/wiki/The_Jimmy_Giuffre_3"
+    ],
+    "notes": "Date, studio (Capitol Tower, Los Angeles), personnel, matrix 2284 and issues (Atlantic LP 1254, EP 604) from jazzdisco. The jazzdisco Newport entry for 4 July 1958 lists the tune among the trio's live pieces; Wikipedia says the 1958 Newport festival was filmed for Jazz on a Summer's Day and lists the Giuffre 3, but I did not confirm that this tune is in the film, so the trivia says only that the trio played it at Newport. Wikipedia's album page cuts off the length for this track, so 3:36 is MusicBrainz's 216,066 ms for the album recording, and the Sound of Jazz TV version (a separate recording, MusicBrainz 285,706 ms) is excluded. The best YouTube hits (63K to 81K views) are TV or live clips, so the query names the album. Tier C: a landmark of chamber jazz for fans."
+  },
+  {
+    "id": "jazz-mingus-pithecanthropus-erectus",
+    "artist": "The Charlie Mingus Jazz Workshop",
+    "title": "Pithecanthropus Erectus",
+    "composer": "Charles Mingus",
+    "recording_date": "1956-01-30",
+    "recording_year": 1956,
+    "release_year": 1956,
+    "original_issue": "Atlantic LP 1237 (LP \"Pithecanthropus Erectus\", August 1956)",
+    "personnel": "Jackie McLean (alto sax), J. R. Monterose (tenor sax), Mal Waldron (piano), Charles Mingus (bass), Willie Jones (drums)",
+    "style": "post-bop",
+    "year": 1956,
+    "year_lo": 1956,
+    "year_hi": 1956,
+    "year_label": "1956",
+    "trivia": "Mingus described this ten-minute tone poem as the rise of humankind from its early ancestors to a downfall caused by greed and the oppression of others. It was the first album on which he taught his musicians their parts by ear rather than writing out the chords.",
+    "tags": [
+      "1950s",
+      "post-bop",
+      "atlantic"
+    ],
+    "track": {
+      "artist": "The Charlie Mingus Jazz Workshop",
+      "title": "Pithecanthropus Erectus",
+      "album": "Pithecanthropus Erectus",
+      "duration": "10:36",
+      "isrc": null,
+      "query": "Charles Mingus Pithecanthropus Erectus Pithecanthropus Erectus 1956",
+      "notes": "The 10:36 four-part title piece from the 30 Jan 1956 Atlantic session, not later Mingus remakes"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://www.jazzdisco.org/charles-mingus/discography/",
+      "https://en.wikipedia.org/wiki/Pithecanthropus_Erectus_(album)"
+    ],
+    "notes": "Date, Audio-Video Studios (New York), personnel, matrix 1865 (the four movements Evolution, Superiority Complex, Decline and Destruction as one track) and Atlantic LP 1237 from jazzdisco; the album page agrees on the date and gives the August 1956 release, the 10:36 length and the liner-note story. Wikipedia credits Willie Jones with an overdubbed tambourine; jazzdisco lists only drums, and the card follows jazzdisco. Mingus's other cards in the set are Goodbye Pork Pie Hat, Haitian Fight Song, Better Git It in Your Soul and Fables of Faubus, so this is his fifth. YouTube check: top hits are the title-piece uploads (about 100K views)."
+  },
+  {
+    "id": "jazz-darin-mack-the-knife",
+    "artist": "Bobby Darin",
+    "title": "Mack the Knife",
+    "composer": "Kurt Weill, Bertolt Brecht, Marc Blitzstein (English lyrics)",
+    "recording_date": "1958-12-19",
+    "recording_year": 1958,
+    "release_year": 1959,
+    "original_issue": "Atco (LP \"That's All\", March 1959); Atco single \"Mack the Knife\" b/w \"Was There a Call for Me\", August 1959 (single edit 3:04; catalogue number not checked)",
+    "personnel": "Bobby Darin (vocals), Richard Wess (arranger, conductor), Doc Severinsen (trumpet), with a studio orchestra; the drummer and bassist are credited differently by two Wikipedia pages (see notes)",
+    "style": "vocal",
+    "year": 1958,
+    "year_lo": 1958,
+    "year_hi": 1958,
+    "year_label": "1958",
+    "trivia": "Darin cut his swinging version of Kurt Weill's Threepenny Opera song in about three takes, raising the key a semitone with each verse from the third on. He was reluctant to release it as a single, but it reached number one in the US and won the Grammy for Record of the Year.",
+    "tags": [
+      "1950s",
+      "vocal",
+      "swing",
+      "standard",
+      "crossover"
+    ],
+    "track": {
+      "artist": "Bobby Darin",
+      "title": "Mack the Knife",
+      "album": "That's All",
+      "duration": "3:10",
+      "isrc": null,
+      "query": "Bobby Darin Mack the Knife That's All Atco 1958 official audio",
+      "notes": "Darin's Atco studio recording of 19 Dec 1958 (3:10 on the LP; the single edit is 3:04), not Louis Armstrong's 1955 version, Ella Fitzgerald's 1960 Berlin live version or live TV performances"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Mack_the_Knife",
+      "https://en.wikipedia.org/wiki/That's_All_(Bobby_Darin_album)",
+      "https://en.wikipedia.org/wiki/Bobby_Darin"
+    ],
+    "notes": "Wikipedia's song page (Bobby Darin section and infobox) and the album page agree on the recording date, 19 December 1958, the Atco single in August 1959 (3:04) and the album length 3:10 (the song page infobox says 3:11 for the album version); the album page dates the LP to March 1959, so the album came out before the single. Conflict on the rhythm section: the song page names Don Lamond (drums) and Milt Hinton (bass) for this song, while the album page lists Osie Johnson (drums on \"Mack the Knife\"), Don Lamond (drums) and Eddie Safranski (bass), with Hank Jones on piano and Barry Galbraith on guitar for the album; the card therefore lists only the leader, arranger and Doc Severinsen, who both pages agree on. The key-change and take-count detail is from the song page. Ella Fitzgerald's 1960 Berlin live version is another card in the set, so this is the second version of the song (Armstrong's 1955 version is not a card). Crossover pick: Wikipedia lists the genre as traditional pop, jazz and lounge; tier A as one of the best-known recordings of the era. YouTube check: the first hits for a plain query are the Ed Sullivan Show TV clip and uploads of the 3:04 single edit (the official Darin channel upload has about 7.4M views), so the query adds \"official audio\" and the label."
   }
 ]
