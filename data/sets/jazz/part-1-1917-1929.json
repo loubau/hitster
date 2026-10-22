@@ -109,81 +109,6 @@
     "notes": "Crossover judgment call: usually filed under blues/early vaudeville jazz; kept as the landmark 1920 vocal \"jazz hounds\" record. Personnel from Wikipedia/standard discographies; piano credit uncertain. Duration approximate (not taken from a source)."
   },
   {
-    "id": "jazz-james-p-johnson-carolina-shout",
-    "artist": "James P. Johnson",
-    "title": "Carolina Shout",
-    "composer": "James P. Johnson",
-    "recording_date": "1921-10-18",
-    "recording_year": 1921,
-    "release_year": 1922,
-    "original_issue": "OKeh 4495 (78 rpm, b/w Keep Off the Grass)",
-    "personnel": "James P. Johnson (piano solo)",
-    "style": "swing",
-    "year": 1921,
-    "year_lo": 1921,
-    "year_hi": 1921,
-    "year_label": "1921",
-    "trivia": "The test piece of Harlem stride piano: Duke Ellington and Fats Waller both learned it note for note from Johnson's piano roll, and a young pianist who could play it was considered to have arrived.",
-    "tags": [
-      "1920s",
-      "swing",
-      "okeh",
-      "stride"
-    ],
-    "track": {
-      "artist": "James P. Johnson",
-      "title": "Carolina Shout",
-      "album": "Carolina Shout / Keep Off the Grass (78 rpm single)",
-      "duration": "3:19",
-      "isrc": null,
-      "query": "James P. Johnson Carolina Shout 1921",
-      "notes": "The Oct 1921 OKeh phonograph record (piano solo), not the earlier QRS piano roll and not later Johnson remakes"
-    },
-    "confidence": "high",
-    "sources": [
-      "https://en.wikipedia.org/wiki/Carolina_Shout",
-      "https://en.wikipedia.org/wiki/List_of_Grammy_Hall_of_Fame_Award_recipients_(A%E2%80%93D)"
-    ],
-    "notes": "No stride style exists in the allowed style list; filed as swing with an extra \"stride\" tag. OKeh catalog number from memory, not re-verified. Recording and release dates per Wikipedia. Duration approximate (not taken from a source)."
-  },
-  {
-    "id": "jazz-new-orleans-rhythm-kings-tin-roof-blues",
-    "artist": "New Orleans Rhythm Kings",
-    "title": "Tin Roof Blues",
-    "composer": "Paul Mares, George Brunies, Leon Roppolo, Mel Stitzel, Ben Pollack (Walter Melrose lyrics later)",
-    "recording_date": "1923-03-13",
-    "recording_year": 1923,
-    "release_year": 1923,
-    "original_issue": "Gennett 5105 (78 rpm, b/w That's a Plenty)",
-    "personnel": "Paul Mares (cornet), George Brunies (trombone), Leon Roppolo (clarinet), Mel Stitzel (piano), Ben Pollack (drums)",
-    "style": "new-orleans",
-    "year": 1923,
-    "year_lo": 1923,
-    "year_hi": 1923,
-    "year_label": "1923",
-    "trivia": "Recorded in the piano-factory studio in Richmond, Indiana, this was a favourite of young Chicago players, who studied Leon Roppolo's liquid clarinet solo. The tune stayed in Dixieland repertoires for a century.",
-    "tags": [
-      "1920s",
-      "new-orleans",
-      "gennett"
-    ],
-    "track": {
-      "artist": "New Orleans Rhythm Kings",
-      "title": "Tin Roof Blues",
-      "album": "Tin Roof Blues / That's a Plenty (78 rpm single)",
-      "duration": "3:00",
-      "isrc": null,
-      "query": "New Orleans Rhythm Kings Tin Roof Blues 1923",
-      "notes": "The March 1923 Gennett recording by the NORK, not later NORK remakes (1925 Victor) or other bands"
-    },
-    "confidence": "medium",
-    "sources": [
-      "https://en.wikipedia.org/wiki/Tin_Roof_Blues",
-      "https://en.wikipedia.org/wiki/New_Orleans_Rhythm_Kings"
-    ],
-    "notes": "Date conflict: Wikipedia infobox says 1923-03-23, its text and discographies (Gennett 5105-A) say 1923-03-13; 13 March chosen. Duration approximate."
-  },
-  {
     "id": "jazz-king-oliver-dippermouth-blues",
     "artist": "King Oliver's Creole Jazz Band",
     "title": "Dippermouth Blues",
@@ -255,42 +180,6 @@
       "https://en.wikipedia.org/wiki/King_Porter_Stomp"
     ],
     "notes": "Recording date 17 July 1923 (one source says 18 July). Release year 1923 is an estimate from the Gennett catalog number sequence; may be early 1924. Duration approximate."
-  },
-  {
-    "id": "jazz-clarence-williams-bechet-wild-cat-blues",
-    "artist": "Clarence Williams' Blue Five",
-    "title": "Wild Cat Blues",
-    "composer": "Clarence Williams and Fats Waller",
-    "recording_date": "1923-07-30",
-    "recording_year": 1923,
-    "release_year": 1923,
-    "original_issue": "Columbia A3888 (78 rpm)",
-    "personnel": "Thomas Morris (cornet), John Mayfield (trombone), Sidney Bechet (clarinet, soprano sax), Clarence Williams (piano), Buddy Christian (banjo)",
-    "style": "new-orleans",
-    "year": 1923,
-    "year_lo": 1923,
-    "year_hi": 1923,
-    "year_label": "1923",
-    "trivia": "Sidney Bechet's first official recording session. His fierce soprano sax is among the first of the instrument on jazz records, decades before Coltrane revived it.",
-    "tags": [
-      "1920s",
-      "new-orleans",
-      "columbia"
-    ],
-    "track": {
-      "artist": "Clarence Williams' Blue Five",
-      "title": "Wild Cat Blues",
-      "album": "Wild Cat Blues / Kansas City Man Blues (78 rpm single)",
-      "duration": "3:00",
-      "isrc": null,
-      "query": "Clarence Williams' Blue Five Wild Cat Blues 1923",
-      "notes": "July 1923 Columbia/Blue Five recording with Bechet, not Bechet's later remakes (e.g. 1940 Victor) or Waller's version"
-    },
-    "confidence": "medium",
-    "sources": [
-      "https://jazz.com/music/sidney-bechet-wild-cat-blues"
-    ],
-    "notes": "Date confirmed by multiple discography listings (30 July 1923, New York); Columbia catalog number and coupling from memory and not confirmed. Accept \"Sidney Bechet\" as artist. Duration approximate (not taken from a source)."
   },
   {
     "id": "jazz-paul-whiteman-rhapsody-in-blue",
@@ -481,42 +370,6 @@
     "notes": "Billed to Trumbauer but remembered as a Bix Beiderbecke record; also accept Bix Beiderbecke / Frank Trumbauer as answer. Date and personnel per Wikipedia (Feb 4, 1927, New York); duration approximate."
   },
   {
-    "id": "jazz-armstrong-potato-head-blues",
-    "artist": "Louis Armstrong and His Hot Seven",
-    "title": "Potato Head Blues",
-    "composer": "Louis Armstrong",
-    "recording_date": "1927-05-10",
-    "recording_year": 1927,
-    "release_year": 1927,
-    "original_issue": "OKeh 8503 (78 rpm)",
-    "personnel": "Louis Armstrong (cornet), John Thomas (trombone), Johnny Dodds (clarinet), Lil Hardin Armstrong (piano), Johnny St. Cyr (banjo), Pete Briggs (tuba), Baby Dodds (drums)",
-    "style": "new-orleans",
-    "year": 1927,
-    "year_lo": 1927,
-    "year_hi": 1927,
-    "year_label": "1927",
-    "trivia": "Armstrong's closing stop-time chorus, with the band silent between his phrases, is often cited as the highpoint of 1920s jazz trumpet.",
-    "tags": [
-      "1920s",
-      "new-orleans",
-      "okeh"
-    ],
-    "track": {
-      "artist": "Louis Armstrong and His Hot Seven",
-      "title": "Potato Head Blues",
-      "album": "Potato Head Blues (78 rpm single)",
-      "duration": "2:53",
-      "isrc": null,
-      "query": "Louis Armstrong and His Hot Seven Potato Head Blues 1927",
-      "notes": "10 May 1927 Chicago OKeh original (Hot Seven); not the 1930s or later Armstrong remakes"
-    },
-    "confidence": "high",
-    "sources": [
-      "https://en.wikipedia.org/wiki/Potato_Head_Blues"
-    ],
-    "notes": "Recording date from Wikipedia infobox; OKeh number and duration from memory."
-  },
-  {
     "id": "jazz-bix-beiderbecke-in-a-mist",
     "artist": "Bix Beiderbecke",
     "title": "In a Mist",
@@ -552,43 +405,6 @@
       "https://en.wikipedia.org/wiki/List_of_Grammy_Hall_of_Fame_Award_recipients_(E%E2%80%93I)"
     ],
     "notes": "Wikipedia: recorded 9 Sept 1927 in New York, released Oct 1927. Duration approximate (not taken from a source)."
-  },
-  {
-    "id": "jazz-ellington-black-and-tan-fantasy",
-    "artist": "Duke Ellington and His Orchestra",
-    "title": "Black and Tan Fantasy",
-    "composer": "Duke Ellington and Bubber Miley",
-    "recording_date": "1927-10-26",
-    "recording_year": 1927,
-    "release_year": 1928,
-    "original_issue": "Victor 21137 (78 rpm, issued as \"Black and Tan Fantasie\", b/w Creole Love Call)",
-    "personnel": "Duke Ellington (piano), Bubber Miley (trumpet), Joe \"Tricky Sam\" Nanton (trombone), Otto Hardwick, Rudy Jackson, Harry Carney (reeds), Fred Guy (banjo), Wellman Braud (bass), Sonny Greer (drums)",
-    "style": "big-band",
-    "year": 1927,
-    "year_lo": 1927,
-    "year_hi": 1927,
-    "year_label": "1927",
-    "trivia": "Trumpeter Bubber Miley's growling plunger mute gave Ellington's Cotton Club band its \"jungle\" voice. The piece closes with a quote from Chopin's funeral march.",
-    "tags": [
-      "1920s",
-      "big-band",
-      "victor"
-    ],
-    "track": {
-      "artist": "Duke Ellington and His Orchestra",
-      "title": "Black and Tan Fantasy",
-      "album": "Black and Tan Fantasie / Creole Love Call (78 rpm single)",
-      "duration": "3:05",
-      "isrc": null,
-      "query": "Duke Ellington and His Orchestra Black and Tan Fantasy 1927",
-      "notes": "The 26 Oct 1927 Victor recording; avoid the other 1927 versions (Okeh/Brunswick, as the Washingtonians) and Ellington's later remakes"
-    },
-    "confidence": "high",
-    "sources": [
-      "https://en.wikipedia.org/wiki/Black_and_Tan_Fantasy",
-      "https://en.wikipedia.org/wiki/List_of_Grammy_Hall_of_Fame_Award_recipients_(A%E2%80%93D)"
-    ],
-    "notes": "Ellington recorded it several times in 1927 for Brunswick, Victor and Okeh; the Victor of 26 Oct 1927 (issued 3 Feb 1928) is the Grammy Hall of Fame one. Personnel is the standard Ellington line-up of the period, approximate for this session. Duration approximate (not taken from a source)."
   },
   {
     "id": "jazz-mckenzie-condon-chicagoans-nobodys-sweetheart",
@@ -742,86 +558,10 @@
     "notes": "Personnel per DAHR (from Johnson and Shirley). Release 13 Sep 1929 per Wikipedia. Duration approximate (not taken from a source)."
   },
   {
-    "id": "jazz-original-dixieland-jazz-band-at-the-jazz-band-ball",
-    "artist": "Original Dixieland Jazz Band",
-    "title": "At the Jazz Band Ball",
-    "composer": "Nick LaRocca, Larry Shields",
-    "recording_date": "1918-03-19",
-    "recording_year": 1918,
-    "release_year": 1918,
-    "original_issue": "Victor 18457 (10-inch 78 rpm, b/w Ostrich Walk), matrix B-21583 take 1, released June 1918",
-    "personnel": "Nick LaRocca (cornet), Larry Shields (clarinet), Eddie Edwards (trombone), Henry Ragas (piano), Tony Sbarbaro (drums)",
-    "style": "new-orleans",
-    "year": 1918,
-    "year_lo": 1918,
-    "year_hi": 1918,
-    "year_label": "1918",
-    "trivia": "LaRocca and Shields wrote this stomp, and the band first cut it for Aeolian Vocalion in September 1917 under the spelling \"At the Jass Band Ball\". It became one of the earliest and most frequently recorded jazz instrumentals.",
-    "tags": [
-      "1910s",
-      "new-orleans",
-      "victor"
-    ],
-    "track": {
-      "artist": "Original Dixieland Jazz Band",
-      "title": "At the Jazz Band Ball",
-      "album": "At the Jazz Band Ball / Ostrich Walk (Victor 78 rpm single)",
-      "duration": "2:40",
-      "isrc": null,
-      "query": "Original Dixieland Jazz Band At the Jazz Band Ball 1918 Victor",
-      "notes": "The March 1918 Victor version (Victor 18457), not the Sept 1917 Aeolian Vocalion \"At the Jass Band Ball\" and not the 1919 London Columbia remake"
-    },
-    "confidence": "high",
-    "sources": [
-      "https://en.wikipedia.org/wiki/At_the_Jazz_Band_Ball",
-      "https://syncopatedtimes.com/the-original-dixieland-jazz-band/",
-      "https://adp.library.ucsb.edu/index.php/matrix/refer/700006704"
-    ],
-    "notes": "Session date: DAHR (matrix B-21583, take 1, 3/19/1918, release 6/1918; read via search summary) and Wikipedia say 19 March 1918; the Red Hot Jazz list gives 3-18-1918. DAHR day used. Instruments from the Red Hot Jazz roster. Duration approximate."
-  },
-  {
-    "id": "jazz-original-dixieland-jazz-band-darktown-strutters-ball",
-    "artist": "Original Dixieland Jazz Band",
-    "title": "Darktown Strutters' Ball",
-    "composer": "Shelton Brooks",
-    "recording_date": "1917-05",
-    "recording_year": 1917,
-    "release_year": 1917,
-    "original_issue": "Columbia A-2297 (78 rpm), 1917",
-    "personnel": "Nick LaRocca (cornet), Larry Shields (clarinet), Eddie Edwards (trombone), Henry Ragas (piano), Tony Sbarbaro (drums)",
-    "style": "new-orleans",
-    "year": 1917,
-    "year_lo": 1917,
-    "year_hi": 1917,
-    "year_label": "1917",
-    "trivia": "Shelton Brooks's song had been worked into Sophie Tucker's vaudeville act and recorded by the Six Brown Brothers earlier that same month. The ODJB's Columbia version became the best-known recording and entered the Grammy Hall of Fame in 2006.",
-    "tags": [
-      "1910s",
-      "new-orleans",
-      "columbia"
-    ],
-    "track": {
-      "artist": "Original Dixieland Jazz Band",
-      "title": "Darktown Strutters' Ball",
-      "album": "Darktown Strutters' Ball (Columbia 78 rpm single)",
-      "duration": "2:45",
-      "isrc": null,
-      "query": "Original Dixieland Jazz Band Darktown Strutters' Ball 1917 Columbia",
-      "notes": "The ODJB May 1917 Columbia recording (A-2297); not the later ODJB remakes and not other bands covers of the song"
-    },
-    "confidence": "high",
-    "sources": [
-      "https://en.wikipedia.org/wiki/Darktown_Strutters'_Ball",
-      "https://syncopatedtimes.com/the-original-dixieland-jazz-band/",
-      "https://en.wikipedia.org/wiki/List_of_Grammy_Hall_of_Fame_Award_recipients_(A%E2%80%93D)"
-    ],
-    "notes": "Day conflict: Wikipedia gives 30 May 1917, the Red Hot Jazz list 31 May 1917, so only the month is stated. Line-up is the standard ODJB five (instruments from the Red Hot Jazz roster; session-specific personnel not separately listed). Red Hot Jazz lists two takes (3 and 4) of this title. Duration approximate."
-  },
-  {
     "id": "jazz-marion-harris-after-youve-gone",
     "artist": "Marion Harris",
     "title": "After You've Gone",
-    "composer": "Turner Layton (music), Henry Creamer (lyrics)",
+    "composer": "Turner Layton, Henry Creamer",
     "recording_date": "1918-10-18",
     "recording_year": 1918,
     "release_year": 1918,
@@ -832,7 +572,7 @@
     "year_lo": 1918,
     "year_hi": 1918,
     "year_label": "1918",
-    "trivia": "Marion Harris, described as the first widely known white singer of jazz and blues, recorded this Layton and Creamer song for Victor in 1918. It went on to become a jazz standard.",
+    "trivia": "Victor's first six attempts at this song in July 1918, under another conductor, were all destroyed; the take that was issued was made in October with Rosario Bourdon conducting. Harris is described as the first widely known white singer of jazz and blues songs.",
     "tags": [
       "1910s",
       "vocal",
@@ -844,34 +584,35 @@
       "artist": "Marion Harris",
       "title": "After You've Gone",
       "album": "After You've Gone (Victor 78 rpm single)",
-      "duration": "3:05",
+      "duration": "3:00",
       "isrc": null,
       "query": "Marion Harris After You've Gone 1918 Victor",
-      "notes": "Marion Harris vocal, Victor 1918 (Victor 18509), not the later instrumental versions by Bechet, Armstrong, Eldridge or others"
+      "notes": "Marion Harris vocal, Victor 1918 (Victor 18509), not the later instrumental and jazz versions of the song"
     },
     "confidence": "medium",
     "sources": [
       "https://en.wikipedia.org/wiki/After_You've_Gone_(song)",
-      "https://en.wikipedia.org/wiki/Marion_Harris"
+      "https://en.wikipedia.org/wiki/Marion_Harris",
+      "https://adp.library.ucsb.edu/index.php/matrix/refer/700007284"
     ],
-    "notes": "Date conflict: Wikipedia says Harris recorded it 22 July 1918. DAHR (read via search summary only) shows takes 1-3 on 15 July and 4-6 on 22 July 1918 all rejected, and the issued take 7 (conductor Rosario Bourdon) made 18 Oct 1918 in Camden, NJ; the issued take date is used. Release year 1918 follows Wikipedia and was not independently verified. Duration approximate."
+    "notes": "Date conflict: Wikipedia and other sites say 22 July 1918. DAHR (read via search summary only) shows takes 1-3 on 15 July and takes 4-6 on 22 July 1918 all destroyed (conductor Josef Pasternack), and the issued take 7 (conductor Rosario Bourdon) on 18 Oct 1918 in Camden, NJ; the issued-take date is used. Release year 1918 follows Wikipedia/the Victor catalogue number and was not independently verified. Duration is a generic 78 rpm length, not read from a source."
   },
   {
     "id": "jazz-james-reese-europe-memphis-blues",
-    "artist": "Lieut. Jim Europe's 369th U.S. Infantry \"Hell Fighters\" Band",
+    "artist": "James Reese Europe's 369th Infantry \"Hellfighters\" Band",
     "title": "Memphis Blues",
     "composer": "W. C. Handy",
     "recording_date": "1919-03",
     "recording_year": 1919,
     "release_year": 1919,
     "original_issue": "Pathe 22085 (disc, b/w That Moaning Trombone), released May 1919, matrix N67486",
-    "personnel": "James Reese Europe (conductor) and the 369th Infantry \"Hell Fighters\" Band; individual players not verified",
+    "personnel": "James Reese Europe (conductor) and the 369th Infantry \"Hellfighters\" Band; individual players not verified",
     "style": "big-band",
     "year": 1919,
     "year_lo": 1919,
     "year_hi": 1919,
     "year_label": "1919",
-    "trivia": "James Reese Europe's regimental band recorded for Pathe in the spring of 1919. Europe was stabbed by one of his drummers during a Boston concert on 9 May 1919 and died hours later.",
+    "trivia": "James Reese Europe's regimental band recorded for Pathe in 1919 after its return from France. On 9 May 1919 a drummer in the band stabbed Europe during a Boston concert interval, and he died hours later.",
     "tags": [
       "1910s",
       "big-band",
@@ -880,20 +621,19 @@
       "early-jazz"
     ],
     "track": {
-      "artist": "James Reese Europe's 369th Infantry Hell Fighters Band",
+      "artist": "James Reese Europe's 369th Infantry Hellfighters Band",
       "title": "Memphis Blues",
       "album": "Memphis Blues / That Moaning Trombone (Pathe single)",
-      "duration": "3:10",
+      "duration": "3:00",
       "isrc": null,
       "query": "James Reese Europe Hellfighters Band Memphis Blues 1919 Pathe",
-      "notes": "The 1919 Pathe studio recording by Europe's 369th Infantry Hellfighters band; not Europe's 1913-14 Victor Society Orchestra sides and not other bands' Memphis Blues"
+      "notes": "The 1919 Pathe studio recording by Europe's 369th Infantry Hellfighters band, not other bands' versions of Memphis Blues"
     },
     "confidence": "medium",
     "sources": [
-      "https://en.wikipedia.org/wiki/James_Reese_Europe",
-      "https://en.wikipedia.org/wiki/The_Memphis_Blues"
+      "https://en.wikipedia.org/wiki/James_Reese_Europe"
     ],
-    "notes": "Date conflict: a Discogs entry (read via search summary only) gives 7 March 1919, New York, matrix N67486 (Pathe 22085 B-side, released May 1919); the notes of the 1996 Complete Recordings CD say about 14 March 1919; a Stanford catalogue record lists Pathe sessions on 3, 7 and 14 March and 7 May 1919. Only the month is stated. Matrix and release month come from that single Discogs snippet. Personnel list not verified. Duration approximate."
+    "notes": "Date conflict: a Discogs entry (read via search summary only) gives 7 March 1919, New York, matrix N67486 (Pathe 22085 B-side, released May 1919); the notes of the 1996 Complete Recordings CD say about 14 March 1919; a Stanford catalogue record lists Pathe sessions on 3, 7 and 14 March and 7 May 1919. Only the month is stated. Matrix, label number and release month rest on that single Discogs snippet. Billing on the Pathe label and personnel not verified. Duration is a generic 78 rpm length, not read from a source."
   },
   {
     "id": "jazz-paul-whiteman-whispering",
@@ -904,7 +644,7 @@
     "recording_year": 1920,
     "release_year": 1920,
     "original_issue": "Victor 18690 (78 rpm, b/w The Japanese Sandman), take 9, released September 1920",
-    "personnel": "Paul Whiteman (leader) and His Ambassador Orchestra; Ferde Grofe (arranger, piano); other players not verified",
+    "personnel": "Paul Whiteman (leader) and His Ambassador Orchestra; Ferde Grofe (arranger, piano); John Steel (vocal, per Wikipedia's list of versions); other players not verified",
     "style": "big-band",
     "year": 1920,
     "year_lo": 1920,
@@ -922,56 +662,18 @@
       "artist": "Paul Whiteman and His Ambassador Orchestra",
       "title": "Whispering",
       "album": "Whispering / The Japanese Sandman (Victor 78 rpm single)",
-      "duration": "3:10",
+      "duration": "3:00",
       "isrc": null,
       "query": "Paul Whiteman Ambassador Orchestra Whispering 1920 Victor",
-      "notes": "Paul Whiteman 1920 Victor original (Victor 18690), not later Whiteman remakes and not the Nino Tempo & April Stevens or Bachelors versions"
+      "notes": "Paul Whiteman 1920 Victor original (Victor 18690), not the 1963 Bachelors or 1964 Nino Tempo and April Stevens versions"
     },
     "confidence": "high",
     "sources": [
       "https://en.wikipedia.org/wiki/Whispering_(song)",
-      "https://en.wikipedia.org/wiki/Paul_Whiteman"
+      "https://en.wikipedia.org/wiki/Paul_Whiteman",
+      "https://en.wikipedia.org/wiki/List_of_Grammy_Hall_of_Fame_Award_recipients_(Q%E2%80%93Z)"
     ],
-    "notes": "Recording date, take 9, Victor 18690 and B-side from the Wikipedia infobox and text. Grammy Hall of Fame 1998 and National Recording Registry 2020 per Wikipedia. Whiteman scored jazz-style hits but is a dance-band act, so the jazz label is generous; shown as big-band with dance-band tags. Duration approximate."
-  },
-  {
-    "id": "jazz-kid-ory-orys-creole-trombone",
-    "artist": "Spike's Seven Pods of Pepper Orchestra (Kid Ory's Creole Orchestra)",
-    "title": "Ory's Creole Trombone",
-    "composer": "Kid Ory",
-    "recording_date": null,
-    "recording_year": 1922,
-    "release_year": 1922,
-    "original_issue": "Sunshine Records (78 rpm; Nordskog label underneath the Sunshine label); catalogue number not verified",
-    "personnel": "Kid Ory (trombone), Mutt Carey (cornet), Dink Johnson (clarinet), Fred Washington (piano), Ed Garland (bass), Ben Borders (drums)",
-    "style": "new-orleans",
-    "year": 1922,
-    "year_lo": 1922,
-    "year_hi": 1922,
-    "year_label": "1922",
-    "trivia": "Recorded in Los Angeles, it is described as the first issued recording session by an African American jazz band from New Orleans. The band appeared on the record under the name Spike's Seven Pods of Pepper Orchestra.",
-    "tags": [
-      "1920s",
-      "new-orleans",
-      "nordskog"
-    ],
-    "track": {
-      "artist": "Kid Ory's Sunshine Orchestra",
-      "title": "Ory's Creole Trombone",
-      "album": "Ory's Creole Trombone (Sunshine single)",
-      "duration": "2:55",
-      "isrc": null,
-      "query": "Kid Ory's Sunshine Orchestra Ory's Creole Trombone 1922 Spike's Seven Pods of Pepper",
-      "notes": "The 1921/22 Los Angeles Sunshine/Nordskog recording by Kid Ory's band (Spike's Seven Pods of Pepper Orchestra), not Ory's later Crescent or Good Time Jazz remakes"
-    },
-    "confidence": "medium",
-    "sources": [
-      "https://en.wikipedia.org/wiki/Ory's_Creole_Trombone",
-      "https://en.wikipedia.org/wiki/Kid_Ory",
-      "https://en.wikipedia.org/wiki/List_of_Grammy_Hall_of_Fame_Award_recipients_(J%E2%80%93P)",
-      "http://www.doctorjazz.co.uk/page35.html"
-    ],
-    "notes": "Year conflict: the Ory's Creole Trombone article says 1921 (or 1922 according to other sources), the Kid Ory article and the Grammy Hall of Fame list (inducted 2024, year 1922) say 1922; 1922 used, exact date unknown so no rd. Release year taken as 1922 from the Grammy Hall of Fame list. Sunshine catalogue number, duration and exact release not verified. Dink Johnson (clarinet) and Fred Washington (piano) per Wikipedia. Duration approximate."
+    "notes": "Recording date, take 9, Victor 18690, B-side, Grofe credit and chart facts from the Wikipedia article; Grammy Hall of Fame 1998 and National Recording Registry 2020 per Wikipedia and the Hall of Fame list. Composer credits are as in the Wikipedia infobox; the 1920 copyright attributes the lyrics to Malvin Schonberger. Whiteman is a dance-band act that scored jazz-style hits, so the jazz label is generous; shown as big-band with dance-band tags. Duration is a generic 78 rpm length, not read from a source."
   },
   {
     "id": "jazz-bessie-smith-down-hearted-blues",
@@ -988,7 +690,7 @@
     "year_lo": 1923,
     "year_hi": 1923,
     "year_label": "1923",
-    "trivia": "Bessie Smith's first record sold about 780,000 copies in its first six months. It is described as Columbia's first hit in its \"race records\" series and her signature early recording.",
+    "trivia": "This was Bessie Smith's first single, and it sold about 780,000 copies in its first six months. Alberta Hunter, who wrote the lyrics, had recorded the song for Paramount the year before.",
     "tags": [
       "1920s",
       "vocal",
@@ -1000,18 +702,19 @@
       "artist": "Bessie Smith",
       "title": "Down Hearted Blues",
       "album": "Down Hearted Blues / Gulf Coast Blues (Columbia 78 rpm single)",
-      "duration": "3:20",
+      "duration": "3:00",
       "isrc": null,
       "query": "Bessie Smith Down Hearted Blues 1923 Columbia Clarence Williams",
-      "notes": "Bessie Smith's 1923 Columbia original with Clarence Williams on piano, not Alberta Hunter's 1922 recording and not later Bessie remakes"
+      "notes": "Bessie Smith's 1923 Columbia original with Clarence Williams on piano, not Alberta Hunter's 1922 Paramount recording"
     },
     "confidence": "high",
     "sources": [
       "https://en.wikipedia.org/wiki/Downhearted_Blues",
+      "https://en.wikipedia.org/wiki/Bessie_Smith",
       "https://en.wikipedia.org/wiki/List_of_Grammy_Hall_of_Fame_Award_recipients_(A%E2%80%93D)",
-      "https://adp.library.ucsb.edu/index.php/matrix/refer/"
+      "https://adp.library.ucsb.edu/index.php/matrix/refer/2000028630"
     ],
-    "notes": "Date: DAHR (via search summary) says 15 Feb 1923 for issued take 5; another archive entry says 16 Feb 1923; 15 Feb used. Release year 1923 per Wikipedia. Grammy Hall of Fame 2006 as Bessie Smith with Clarence Williams. Duration approximate."
+    "notes": "Date: DAHR (read via search summary) gives 15 Feb 1923 for matrix 80863; the discography table on Wikipedia's Bessie Smith page lists 16 Feb 1923. 15 Feb used. Wikipedia's song article calls it the first of Columbia's race records and the label's first popular hit, but the Bessie Smith article says the race series proper began with Cemetery Blues (Sept 1923), so that claim is not repeated. Grammy Hall of Fame 2006 as Bessie Smith with Clarence Williams. Duration is a generic 78 rpm length, not read from a source."
   },
   {
     "id": "jazz-king-oliver-canal-street-blues",
@@ -1022,13 +725,13 @@
     "recording_year": 1923,
     "release_year": 1923,
     "original_issue": "Gennett 5133 (78 rpm), matrix 11384 take B",
-    "personnel": "King Oliver, Louis Armstrong (cornets), Honore Dutrey (trombone), Johnny Dodds (clarinet), Lil Armstrong (piano), Bud Scott (banjo), Baby Dodds (drums)",
+    "personnel": "King Oliver (cornet), Louis Armstrong (cornet), Honore Dutrey (trombone), Johnny Dodds (clarinet), Lil Armstrong (piano), Bud Scott (banjo), Baby Dodds (drums)",
     "style": "new-orleans",
     "year": 1923,
     "year_lo": 1923,
     "year_hi": 1923,
     "year_label": "1923",
-    "trivia": "A King Oliver composition cut at the Creole Jazz Band's Gennett sessions in Richmond, Indiana, the same sessions that produced Dippermouth Blues. Louis Armstrong plays second cornet beside Oliver.",
+    "trivia": "A King Oliver composition cut at the band's April 1923 Gennett sessions in Richmond, Indiana, which also produced Dippermouth Blues. Louis Armstrong is the second cornet beside Oliver.",
     "tags": [
       "1920s",
       "new-orleans",
@@ -1038,57 +741,17 @@
       "artist": "King Oliver's Creole Jazz Band",
       "title": "Canal Street Blues",
       "album": "Canal Street Blues (Gennett 78 rpm single)",
-      "duration": "2:40",
+      "duration": "3:00",
       "isrc": null,
       "query": "King Oliver's Creole Jazz Band Canal Street Blues 1923 Gennett",
-      "notes": "The April 1923 Gennett recording (take B, Gennett 5133), not the 1923 OKeh/Columbia sessions and not later Oliver or Armstrong remakes"
+      "notes": "The April 1923 Gennett recording (take B, Gennett 5133)"
     },
-    "confidence": "high",
+    "confidence": "medium",
     "sources": [
       "https://hotclubny.org/kingoliver1",
-      "https://syncopatedtimes.com/king-olivers-creole-jazz-band/",
-      "https://adp.library.ucsb.edu/index.php/matrix/refer/"
+      "https://adp.library.ucsb.edu/index.php/matrix/refer/2000461803"
     ],
-    "notes": "Day conflict: DAHR (via search summary) gives 6 April 1923 for matrix 11384 take B; Hot Club of New York and Red Hot Jazz give 5 April 1923; month only stated. Personnel from Hot Club of New York (DAHR-derived) for the Richmond session; a Purdue article on the Dippermouth session lists Bill Johnson (banjo/bass) instead of Bud Scott, so the banjo credit is disputed. Release year not verified (1923 assumed). Duration approximate."
-  },
-  {
-    "id": "jazz-wolverines-copenhagen",
-    "artist": "Wolverine Orchestra",
-    "title": "Copenhagen",
-    "composer": "Charlie Davis",
-    "recording_date": "1924-05-06",
-    "recording_year": 1924,
-    "release_year": 1924,
-    "original_issue": "Gennett 5453-B (78 rpm, b/w Oh Baby); also Claxtonola 40336-B as by the Jazz Harmonizers",
-    "personnel": "Bix Beiderbecke (cornet), Jimmy Hartwell (clarinet), George Johnson (tenor saxophone), Dick Voynow (piano), Bob Gillette (banjo, guitar), Min Leibrook (tuba), Vic Moore (drums)",
-    "style": "chicago",
-    "year": 1924,
-    "year_lo": 1924,
-    "year_hi": 1924,
-    "year_label": "1924",
-    "trivia": "The Wolverines heard Charlie Davis play this tune at an Indianapolis theatre in April 1924 and recorded their own arrangement at Gennett in Richmond, Indiana about a month later. Bix Beiderbecke takes a short cornet solo.",
-    "tags": [
-      "1920s",
-      "chicago",
-      "gennett",
-      "bix",
-      "early-jazz"
-    ],
-    "track": {
-      "artist": "The Wolverines",
-      "title": "Copenhagen",
-      "album": "Copenhagen / Oh Baby (Gennett 78 rpm single)",
-      "duration": "2:31",
-      "isrc": null,
-      "query": "Wolverine Orchestra Bix Beiderbecke Copenhagen 1924 Gennett",
-      "notes": "The Wolverines (Bix Beiderbecke) Gennett recording of 6 May 1924, not Fletcher Henderson's Oct 1924 recording with Louis Armstrong"
-    },
-    "confidence": "high",
-    "sources": [
-      "https://en.wikipedia.org/wiki/Copenhagen_(song)",
-      "https://en.wikipedia.org/wiki/List_of_Grammy_Hall_of_Fame_Award_recipients_(A%E2%80%93D)"
-    ],
-    "notes": "Date, label numbers, duration (2:31) and personnel from the Wikipedia article. The Grammy Hall of Fame (2021) entry for Copenhagen is Fletcher Henderson's Oct 1924 recording, not this one; the Wolverines version is used here as the first recording and the Bix landmark."
+    "notes": "Day conflict: DAHR (via search summary) gives 6 April 1923 for matrix 11384 take B, issued on Gennett 5133; Hot Club of New York and Red Hot Jazz give 5 April 1923. Month only stated. Personnel from the Hot Club of New York session listing, which does not tie names to matrices; a Purdue article on the Dippermouth Blues session lists Bill Johnson instead of Bud Scott, so the banjo credit is disputed. Release year 1923 assumed, not verified. Duration is a generic 78 rpm length, not read from a source."
   },
   {
     "id": "jazz-ma-rainey-see-see-rider-blues",
@@ -1105,7 +768,7 @@
     "year_lo": 1924,
     "year_hi": 1924,
     "year_label": "1924",
-    "trivia": "Ma Rainey was the first to record this blues standard, with a band that included Louis Armstrong on cornet. The copyright names Lena Arant as co-writer, although she reportedly supplied only the first few rhymed couplets.",
+    "trivia": "Ma Rainey was the first to record this blues standard, with a band that included Louis Armstrong on cornet. The copyright credits Lena Arant as co-writer, though she supplied only the three rhymed couplets of the introduction.",
     "tags": [
       "1920s",
       "vocal",
@@ -1128,45 +791,7 @@
       "https://syncopatedtimes.com/ma-rainey-and-her-georgia-jazz-band",
       "https://en.wikipedia.org/wiki/List_of_Grammy_Hall_of_Fame_Award_recipients_(Q%E2%80%93Z)"
     ],
-    "notes": "Day conflict: Wikipedia says 16 Oct 1924, the Red Hot Jazz list says 15 Oct 1924 (a further source also gives 16 Oct for this side and 15 Oct for Jealous Hearted Blues); month only stated. Wikipedia says the record was released in 1925 (infobox 1924-1925). Duration 3:16 is the Wikipedia infobox length. Matrix number not found. Grammy Hall of Fame 2004."
-  },
-  {
-    "id": "jazz-bix-beiderbecke-davenport-blues",
-    "artist": "Bix Beiderbecke and His Rhythm Jugglers",
-    "title": "Davenport Blues",
-    "composer": "Bix Beiderbecke",
-    "recording_date": "1925-01-26",
-    "recording_year": 1925,
-    "release_year": 1925,
-    "original_issue": "Gennett 5654 (78 rpm, b/w Toddlin' Blues)",
-    "personnel": "Bix Beiderbecke (cornet), Tommy Dorsey (trombone), Don Murray (clarinet), Paul Mertz (piano), Howdy Quicksell (banjo), Tom Gargano (drums)",
-    "style": "chicago",
-    "year": 1925,
-    "year_lo": 1925,
-    "year_hi": 1925,
-    "year_label": "1925",
-    "trivia": "Bix named this piece after his home town of Davenport, Iowa. Hoagy Carmichael was present at the Gennett session in Richmond, Indiana.",
-    "tags": [
-      "1920s",
-      "chicago",
-      "gennett",
-      "bix",
-      "early-jazz"
-    ],
-    "track": {
-      "artist": "Bix Beiderbecke and His Rhythm Jugglers",
-      "title": "Davenport Blues",
-      "album": "Davenport Blues / Toddlin' Blues (Gennett 78 rpm single)",
-      "duration": "2:55",
-      "isrc": null,
-      "query": "Bix Beiderbecke Rhythm Jugglers Davenport Blues 1925 Gennett",
-      "notes": "The 1925 Gennett original by Bix and His Rhythm Jugglers, not the 1927 Red Nichols or Miff Mole covers nor later versions"
-    },
-    "confidence": "high",
-    "sources": [
-      "https://en.wikipedia.org/wiki/Davenport_Blues"
-    ],
-    "notes": "Everything from the Wikipedia article (date 26 Jan 1925, Gennett 5654, personnel). The article's wording puts Davenport Blues on the A side of 5654; the B side is Toddlin' Blues. Duration approximate."
+    "notes": "Day conflict: Wikipedia says 16 Oct 1924 (New York), the Red Hot Jazz list says 15 Oct 1924; month only stated. Wikipedia says the record was released in 1925 (infobox 1924-1925). Duration 3:16 is the Wikipedia infobox length. Matrix number not found. Grammy Hall of Fame 2004 (also National Recording Registry 2004)."
   },
   {
     "id": "jazz-ben-bernie-sweet-georgia-brown",
@@ -1177,13 +802,13 @@
     "recording_year": 1925,
     "release_year": 1925,
     "original_issue": "Vocalion 15002 (78 rpm, b/w Yearning Just for You), take 575W, released June 1925",
-    "personnel": "Ben Bernie (violin, leader) and His Hotel Roosevelt Orchestra; individual players not verified",
+    "personnel": "Ben Bernie (leader) and His Hotel Roosevelt Orchestra; individual players not verified",
     "style": "big-band",
     "year": 1925,
     "year_lo": 1925,
     "year_hi": 1925,
     "year_label": "1925",
-    "trivia": "This was the first recording of the tune and spent five weeks at number one. It is reportedly inspired by a Georgia legislator's daughter whose name the state assembly had decreed to be Georgia.",
+    "trivia": "The song was first recorded by Ben Bernie's band, and that record spent five weeks at number one. Bernie reportedly got the idea after a Georgia legislator told him his daughter had been formally named Georgia by the state assembly.",
     "tags": [
       "1920s",
       "big-band",
@@ -1198,13 +823,13 @@
       "duration": "2:57",
       "isrc": null,
       "query": "Ben Bernie Hotel Roosevelt Orchestra Sweet Georgia Brown 1925 Vocalion",
-      "notes": "Ben Bernie's March 1925 Vocalion original (15002), not the 1925 California Ramblers or Ethel Waters versions and not Brother Bones's 1949 whistling record"
+      "notes": "Ben Bernie's March 1925 Vocalion original (15002), not later versions such as Brother Bones's 1949 recording"
     },
     "confidence": "medium",
     "sources": [
       "https://en.wikipedia.org/wiki/Sweet_Georgia_Brown"
     ],
-    "notes": "Date, take (575W), release month (June 1925), label number, B-side and duration (2:57) all come from the Wikipedia infobox only; no discography page was reachable. Personnel not documented. Bernie's violin playing is an assumption from his role as leader and is not stated in a source read, so it is not claimed as a verified credit."
+    "notes": "Date, take (575W), New York studio, release month (June 1925), label number, B-side and duration (2:57) all come from the Wikipedia infobox and text only; no discography page was reachable. Personnel not documented in any source read, so none is listed."
   },
   {
     "id": "jazz-ethel-waters-dinah",
@@ -1215,13 +840,13 @@
     "recording_year": 1925,
     "release_year": 1925,
     "original_issue": "Columbia 487-D (78 rpm, b/w Sweet Man), matrix W141164 take 2",
-    "personnel": "Ethel Waters (vocal) with Plantation Orchestra; individual players not verified",
+    "personnel": "Ethel Waters (vocal) with her Plantation Orchestra; individual players not verified",
     "style": "vocal",
     "year": 1925,
     "year_lo": 1925,
     "year_hi": 1925,
     "year_label": "1925",
-    "trivia": "Ethel Waters introduced the song at the Plantation Club on Broadway. The tune later gave Fanny Rose Shore her stage name Dinah Shore after a radio host linked her with the song.",
+    "trivia": "Ethel Waters introduced the song at the Plantation Club on Broadway. The singer Fanny Rose Shore became so identified with it that a disc jockey called her Dinah Shore, a name she kept as her stage name.",
     "tags": [
       "1920s",
       "vocal",
@@ -1236,7 +861,7 @@
       "duration": "3:00",
       "isrc": null,
       "query": "Ethel Waters Dinah 1925 Columbia",
-      "notes": "Ethel Waters's October 1925 Columbia recording (487-D), not Louis Armstrong's 1930 or other later versions"
+      "notes": "Ethel Waters's October 1925 Columbia recording (487-D), not Louis Armstrong's or other later versions"
     },
     "confidence": "medium",
     "sources": [
@@ -1245,10 +870,10 @@
       "https://syncopatedtimes.com/ethel-waters/",
       "https://en.wikipedia.org/wiki/List_of_Grammy_Hall_of_Fame_Award_recipients_(A%E2%80%93D)"
     ],
-    "notes": "Day conflict: 78discography.com gives 20 Oct 1925 (matrix W141164 take 2), the Wikipedia list of versions says 10 Oct 1925; month only stated. 78discography bills the side as Ethel Waters' Plantation Orchestra; no player names were found. Release year 1925 is the Grammy Hall of Fame year (inducted 1998) and was not independently verified. Duration approximate."
+    "notes": "Day conflict: 78discography.com gives 20 Oct 1925 (matrix W141164 take 2; the flip Sweet Man is W141163 take 2), the Wikipedia list of versions says 10 Oct 1925; month only stated. 78discography bills both sides as Ethel Waters' Plantation Orchestra; no player names were found. Release year 1925 follows the Grammy Hall of Fame list (inducted 1998); Wikipedia says hit versions came in 1926, and the exact release date was not verified. Duration is a generic 78 rpm length, not read from a source."
   },
   {
-    "id": "jazz-fletcher-henderson-the-stampede",
+    "id": "jazz-henderson-the-stampede",
     "artist": "Fletcher Henderson and His Orchestra",
     "title": "The Stampede",
     "composer": "Fletcher Henderson",
@@ -1256,13 +881,13 @@
     "recording_year": 1926,
     "release_year": 1926,
     "original_issue": "Columbia 654-D (78 rpm, b/w Jackass Blues), matrix W142205 take 3",
-    "personnel": "Fletcher Henderson (piano, leader) and His Orchestra; session line-up not verified",
+    "personnel": "Fletcher Henderson and His Orchestra; session line-up not verified",
     "style": "big-band",
     "year": 1926,
     "year_lo": 1926,
     "year_hi": 1926,
     "year_label": "1926",
-    "trivia": "Henderson's orchestra cut this for Columbia at its New York session of 14 May 1926, and it was issued coupled with Jackass Blues. Columbia later reissued it in its Hot Jazz Classics album set of Henderson records.",
+    "trivia": "Columbia recorded this Henderson composition on 14 May 1926, the same day as its flip side Jackass Blues, and issued the two together on 654-D.",
     "tags": [
       "1920s",
       "big-band",
@@ -1273,17 +898,18 @@
       "artist": "Fletcher Henderson and His Orchestra",
       "title": "The Stampede",
       "album": "The Stampede / Jackass Blues (Columbia 78 rpm single)",
-      "duration": "3:05",
+      "duration": "3:00",
       "isrc": null,
       "query": "Fletcher Henderson Orchestra The Stampede 1926 Columbia",
-      "notes": "Fletcher Henderson's May 1926 Columbia recording (654-D, take 3), not the Henderson re-recordings of 1927 or later and not covers"
+      "notes": "Fletcher Henderson's May 1926 Columbia recording (654-D, take 3), not his later remakes such as the 1937 Vocalion version"
     },
     "confidence": "medium",
     "sources": [
       "http://www.78discography.com/COL500D.htm",
-      "https://adp.library.ucsb.edu/index.php/matrix/refer/2000031967"
+      "https://adp.library.ucsb.edu/index.php/matrix/refer/2000031967",
+      "https://syncopatedtimes.com/fletcher-henderson-orchestra/"
     ],
-    "notes": "Matrix W142205 take 3 and date 14 May 1926 agree between DAHR (via search summary) and 78discography.com. No source read named the personnel for this session, so none is listed (the usual Henderson line-up was deliberately not written from memory). Trivia limited to what the discography pages show. Duration approximate."
+    "notes": "Matrix W142205 take 3, date 14 May 1926, 654-D, the flip Jackass Blues (W142206 take 2, same date) and the composer credit come from the 78discography.com table; DAHR (via search summary) agrees on the matrix. No source read named the personnel for this session, so none is listed. The Red Hot Jazz list shows a later Henderson Stampede (Vocalion 3534, 1937). Release year 1926 assumed from the recording date. Duration is a generic 78 rpm length, not read from a source."
   },
   {
     "id": "jazz-jelly-roll-morton-dead-man-blues",
@@ -1294,13 +920,13 @@
     "recording_year": 1926,
     "release_year": 1927,
     "original_issue": "Victor 20252 (78 rpm, b/w Sidewalk Blues), matrix BVE-36284, release January 1927",
-    "personnel": "George Mitchell (cornet), Kid Ory (trombone), Omer Simeon, Barney Bigard and Darnell Howard (clarinets), Jelly Roll Morton (piano), Johnny St. Cyr (banjo), John Lindsay (bass), Andrew Hilaire (drums), Marty Bloom (sound effects)",
+    "personnel": "George Mitchell (cornet), Kid Ory (trombone), Omer Simeon, Barney Bigard and Darnell Howard (clarinets), Jelly Roll Morton (piano), Johnny St. Cyr (banjo), John Lindsay (bass), Andrew Hilaire (drums), Marty Bloom (effects, session credit)",
     "style": "new-orleans",
     "year": 1926,
     "year_lo": 1926,
     "year_hi": 1926,
     "year_label": "1926",
-    "trivia": "Recorded at the Webster Hotel in Chicago on 21 September 1926. The Hot Club of New York session listing credits Bigard and Howard on clarinet for this title and for Sidewalk Blues, its flip side.",
+    "trivia": "Recorded at the Webster Hotel in Chicago on 21 September 1926. The Hot Club of New York session listing adds Barney Bigard and Darnell Howard on clarinet for this title and for Sidewalk Blues, its flip side.",
     "tags": [
       "1920s",
       "new-orleans",
@@ -1310,7 +936,7 @@
       "artist": "Jelly Roll Morton's Red Hot Peppers",
       "title": "Dead Man Blues",
       "album": "Dead Man Blues / Sidewalk Blues (Victor 78 rpm single)",
-      "duration": "3:10",
+      "duration": "3:00",
       "isrc": null,
       "query": "Jelly Roll Morton Red Hot Peppers Dead Man Blues 1926 Victor",
       "notes": "The September 1926 Victor recording (20252, matrix BVE-36284), not Morton's later remakes or other bands' covers"
@@ -1320,13 +946,13 @@
       "https://hotclubny.org/jellyrollmorton1",
       "https://adp.library.ucsb.edu/index.php/matrix/refer/800010529"
     ],
-    "notes": "Date 21 Sep 1926, Victor 20252, matrix BVE-36284 (takes 1 and 2, both listed on 20252) and release 1/1927 from DAHR (via search summary) and Hot Club of New York; the 15 Sep 1926 Red Hot Peppers session is a different session. Which take was originally issued is not stated, so either take may appear online. Hot Club lists Simeon as clarinet for the session and Bigard and Howard additionally on this title; whether Simeon plays on this exact title was not confirmed, so the clarinet credit follows the session listing. Duration approximate."
+    "notes": "Date 21 Sep 1926, Victor 20252, matrix BVE-36284 (takes 1 and 2 are both listed by Hot Club of New York) and release 1/1927 from DAHR (via search summary) and Hot Club of New York; the 15 Sep 1926 Red Hot Peppers session is a different session. Which take was issued is not stated, so either take may appear online. Hot Club lists Simeon (clarinet) for the whole session, with Bigard and Howard added on clarinet for this title and Sidewalk Blues; the Bloom effects credit is session-level, not title-specific. Duration is a generic 78 rpm length, not read from a source."
   },
   {
     "id": "jazz-venuti-lang-stringin-the-blues",
     "artist": "Joe Venuti and Eddy Lang",
     "title": "Stringin' the Blues",
-    "composer": "Joe Venuti and Eddie Lang (composer credit not verified)",
+    "composer": "Joe Venuti, Eddie Lang",
     "recording_date": "1926-11-08",
     "recording_year": 1926,
     "release_year": 1927,
@@ -1337,7 +963,7 @@
     "year_lo": 1926,
     "year_hi": 1926,
     "year_label": "1926",
-    "trivia": "Joe Venuti and Eddie Lang are credited with pioneering strings in jazz, and this Columbia duet came before their OKeh series. Their duo was a studio duo for much of the late 1920s.",
+    "trivia": "Violinist Joe Venuti and guitarist Eddie Lang, friends since childhood, are credited with pioneering the use of string instruments in jazz. This Columbia side is a violin and guitar duet.",
     "tags": [
       "1920s",
       "swing",
@@ -1350,55 +976,18 @@
       "artist": "Joe Venuti and Eddie Lang",
       "title": "Stringing the Blues",
       "album": "Stringin' the Blues / Black and Blue Bottom (Columbia 78 rpm single)",
-      "duration": "2:50",
+      "duration": "3:00",
       "isrc": null,
       "query": "Joe Venuti Eddie Lang Stringing the Blues 1926 Columbia",
-      "notes": "The 1926 Columbia violin-guitar duet (914-D), not the later OKeh Blue Four recordings"
+      "notes": "The 1926 Columbia violin-guitar duet (914-D), not the later OKeh recordings by Joe Venuti's Blue Four"
     },
     "confidence": "medium",
     "sources": [
       "http://www.78discography.com/COL500D.htm",
-      "https://adp.library.ucsb.edu/index.php/matrix/refer/",
+      "https://adp.library.ucsb.edu/index.php/matrix/refer/2000032458",
       "https://en.wikipedia.org/wiki/Joe_Venuti"
     ],
-    "notes": "Date conflict: DAHR (via search summary) shows takes recorded 8 Nov 1926, New York, with takes 8 and 11 as masters; 78discography.com lists matrix W142697 under 29 Sep 1926 (probably the first takes). The DAHR date of the issued takes is used. DAHR lists only Venuti (violin) and Lang (guitar). Release year 1927 is inferred from the Columbia catalogue sequence (913-D and 915-D were recorded in February 1927) and not verified. Label billing in 78discography is \"Joe Venuti and Eddy Lang\"; DAHR title spelling is \"Stringing the blues\". Composer unknown. Duration approximate."
-  },
-  {
-    "id": "jazz-jelly-roll-morton-doctor-jazz",
-    "artist": "Jelly Roll Morton's Red Hot Peppers",
-    "title": "Doctor Jazz",
-    "composer": "Joe \"King\" Oliver, Walter Melrose",
-    "recording_date": "1926-12-16",
-    "recording_year": 1926,
-    "release_year": 1927,
-    "original_issue": "Victor 20415 (78 rpm), matrix BVE-37257 take 3",
-    "personnel": "George Mitchell (cornet), Kid Ory (trombone), Omer Simeon (clarinet), Jelly Roll Morton (piano, vocal), Johnny St. Cyr (banjo), John Lindsay (bass), Andrew Hilaire (drums)",
-    "style": "new-orleans",
-    "year": 1926,
-    "year_lo": 1926,
-    "year_hi": 1926,
-    "year_label": "1926",
-    "trivia": "Morton sings as well as plays piano on this King Oliver tune. Wikipedia describes the record as a prime example of New Orleans collective counterpoint, with pre-written stop-time breaks and improvised solos.",
-    "tags": [
-      "1920s",
-      "new-orleans",
-      "victor"
-    ],
-    "track": {
-      "artist": "Jelly Roll Morton's Red Hot Peppers",
-      "title": "Doctor Jazz",
-      "album": "Doctor Jazz (Victor 78 rpm single)",
-      "duration": "3:05",
-      "isrc": null,
-      "query": "Jelly Roll Morton Red Hot Peppers Doctor Jazz 1926 Victor",
-      "notes": "The December 1926 Victor recording (20415), not Morton's later Doctor Jazz remakes, nor Armstrong's 1959 version"
-    },
-    "confidence": "high",
-    "sources": [
-      "https://hotclubny.org/jellyrollmorton1",
-      "https://en.wikipedia.org/wiki/Doctor_Jazz"
-    ],
-    "notes": "Date 16 Dec 1926 (Webster Hotel, Chicago), matrix 37257 take 3 and Victor 20415 from the Hot Club of New York session listing; composer credit and the Morton-record description from Wikipedia. Release year 1927 assumed (Victor 20415 release date not verified). Duration approximate."
+    "notes": "Date conflict: DAHR (via search summary) shows takes recorded 8 Nov 1926, New York, with takes 8 and 11 as masters; 78discography.com lists matrix W142697 under 29 Sep 1926 (probably earlier takes). The DAHR date of the issued takes is used. DAHR lists only Venuti (violin) and Lang (guitar). Composer credit Venuti-Lang and the billing \"Joe Venuti & Eddy Lang\" come from 78discography.com; DAHR spells the title \"Stringing the blues\". Release year 1927 is inferred, not read: neighbouring Columbia numbers 913-D and 915-D were recorded in Feb 1927, so 914-D probably appeared in 1927. Duration is a generic 78 rpm length, not read from a source."
   },
   {
     "id": "jazz-ellington-creole-love-call",
@@ -1408,14 +997,14 @@
     "recording_date": "1927-10-26",
     "recording_year": 1927,
     "release_year": 1928,
-    "original_issue": "Victor 21137 (78 rpm, b/w Black and Tan Fantasie), matrix BVE-39370, released 3 February 1928",
-    "personnel": "Adelaide Hall (vocal), Bubber Miley and Louis Metcalf (trumpets), Rudy Jackson (clarinet), Duke Ellington (piano) with the Ellington orchestra; full line-up not verified",
+    "original_issue": "Victor 21137 (78 rpm, b/w Black and Tan Fantasie), matrix BVE-39370 take 1, released 3 February 1928",
+    "personnel": "Adelaide Hall (vocal), Bubber Miley and Louis Metcalf (trumpets), Rudy Jackson (clarinet, tenor saxophone), Duke Ellington (piano) with the Ellington orchestra; full line-up not verified",
     "style": "big-band",
     "year": 1927,
     "year_lo": 1927,
     "year_hi": 1927,
     "year_label": "1927",
-    "trivia": "Adelaide Hall sings wordlessly over the band, and she later said she created the counter-melody herself. The record entered the Billboard chart in 1928 at number 19.",
+    "trivia": "Adelaide Hall sings wordlessly over the band, and in a 1988 radio interview she explained how she came up with the counter-melody. The record entered the Billboard chart in 1928 at number 19.",
     "tags": [
       "1920s",
       "big-band",
@@ -1426,17 +1015,18 @@
       "artist": "Duke Ellington and His Orchestra",
       "title": "Creole Love Call",
       "album": "Creole Love Call / Black and Tan Fantasie (Victor 78 rpm single)",
-      "duration": "3:10",
+      "duration": "3:00",
       "isrc": null,
       "query": "Duke Ellington Creole Love Call 1927 Adelaide Hall Victor",
-      "notes": "The October 1927 Victor recording with Adelaide Hall's vocal (21137), not Ellington's 1932 or 1940 Creole Love Call remakes"
+      "notes": "The October 1927 Victor recording with Adelaide Hall's vocal (21137), not later Ellington remakes"
     },
     "confidence": "medium",
     "sources": [
       "https://en.wikipedia.org/wiki/Creole_Love_Call",
-      "https://adp.library.ucsb.edu/index.php/matrix/refer/"
+      "https://adp.library.ucsb.edu/index.php/matrix/refer/800013629",
+      "https://fittcollection.macewan.ca/node/16145"
     ],
-    "notes": "Matrix BVE-39370, 26 Oct 1927, Victor 21137 and release date 2/3/1928 from DAHR (read via search summary only). Location conflict: DAHR says Camden, NJ; a second source places the session in New York. Personnel from a MacEwan Ellington listing quoted in the same search summary; DAHR itself notes its instrumentation comes from Victor ledgers and is unconfirmed. Duration approximate."
+    "notes": "Matrix BVE-39370, take 1, 26 Oct 1927, Victor 21137 coupled with BVE-40155 and release date 2/3/1928 from DAHR (read via search summary only). Location conflict: DAHR says Camden, NJ; the MacEwan Ellington listing (also via search summary) says New York and notes that another source says Camden. Personnel from that MacEwan listing; DAHR notes its own instrumentation comes from Victor ledgers and is unconfirmed. Composer credit from DAHR. Duration is a generic 78 rpm length, not read from a source."
   },
   {
     "id": "jazz-hoagy-carmichael-stardust",
@@ -1453,7 +1043,7 @@
     "year_lo": 1927,
     "year_hi": 1927,
     "year_label": "1927",
-    "trivia": "Carmichael had no written music for the new tune and had to whistle it to the musicians in Gennett's Richmond, Indiana studio. This first recording is an instrumental at a medium-fast, jazzy tempo, unlike the slow ballad it later became.",
+    "trivia": "Carmichael had written no sheet music for the new tune and had to whistle it to the musicians in Gennett's Richmond, Indiana studio. This first recording is an instrumental at a medium-fast, jazzy tempo, unlike the slow ballad the song later became.",
     "tags": [
       "1920s",
       "chicago",
@@ -1468,54 +1058,14 @@
       "duration": "3:02",
       "isrc": null,
       "query": "Hoagy Carmichael and His Pals Stardust 1927 Gennett",
-      "notes": "The 31 Oct 1927 Gennett instrumental by Hoagy Carmichael and His Pals (6311), not Louis Armstrong's 1931, Isham Jones's 1930 or Artie Shaw's 1940 versions"
+      "notes": "The 31 Oct 1927 Gennett instrumental by Hoagy Carmichael and His Pals (6311), not Louis Armstrong's 1931 or Artie Shaw's 1940 versions"
     },
     "confidence": "high",
     "sources": [
       "https://en.wikipedia.org/wiki/Stardust_(1927_song)",
       "https://en.wikipedia.org/wiki/List_of_Grammy_Hall_of_Fame_Award_recipients_(Q%E2%80%93Z)"
     ],
-    "notes": "Date, studio, release number 6311, personnel and the 3:02 length all from the Wikipedia article; the infobox gives release in October 1928. Wikipedia says the session was booked for 31 Oct 1927."
-  },
-  {
-    "id": "jazz-bessie-smith-empty-bed-blues",
-    "artist": "Bessie Smith",
-    "title": "Empty Bed Blues",
-    "composer": "J. C. Johnson",
-    "recording_date": "1928-03-20",
-    "recording_year": 1928,
-    "release_year": 1928,
-    "original_issue": "Columbia 14312-D (78 rpm, two parts on two sides), matrices W145785 and W145786",
-    "personnel": "Bessie Smith (vocal), Porter Grainger (piano), Charlie Green (trombone)",
-    "style": "vocal",
-    "year": 1928,
-    "year_lo": 1928,
-    "year_hi": 1928,
-    "year_label": "1928",
-    "trivia": "Wikipedia calls this the most notorious recording of Bessie Smith's career because of its sexual innuendo. It runs across both sides of a 10-inch disc and was inducted into the Grammy Hall of Fame in 1983.",
-    "tags": [
-      "1920s",
-      "vocal",
-      "columbia",
-      "blues",
-      "classic-blues"
-    ],
-    "track": {
-      "artist": "Bessie Smith",
-      "title": "Empty Bed Blues",
-      "album": "Empty Bed Blues Part 1 and Part 2 (Columbia 78 rpm single)",
-      "duration": "6:19",
-      "isrc": null,
-      "query": "Bessie Smith Empty Bed Blues 1928 Columbia Charlie Green",
-      "notes": "Bessie Smith's March 1928 Columbia original (both parts, 14312-D), not later versions by Della Reese, Bette Midler and others"
-    },
-    "confidence": "high",
-    "sources": [
-      "https://en.wikipedia.org/wiki/Empty_Bed_Blues",
-      "https://en.wikipedia.org/wiki/List_of_Grammy_Hall_of_Fame_Award_recipients_(E%E2%80%93I)",
-      "https://adp.library.ucsb.edu/index.php/matrix/refer/"
-    ],
-    "notes": "Date, personnel and composer from Wikipedia and DAHR (via search summary); matrices W145785 (Part 1) and W145786 (Part 2) and Columbia 14312-D from DAHR. Duration 6:19 is the Wikipedia infobox length for both parts together. Release year not stated in the sources read; 1928 assumed."
+    "notes": "Date, studio, release number 6311, personnel and the 3:02 length all from the Wikipedia article; the infobox gives release in October 1928. Wikipedia says the session was booked for 31 Oct 1927. Grammy Hall of Fame 1995 for this recording; the Armstrong (1931) and Shaw (1940) versions are separate Hall of Fame entries."
   },
   {
     "id": "jazz-pine-top-smith-pine-tops-boogie-woogie",
@@ -1526,13 +1076,13 @@
     "recording_year": 1928,
     "release_year": 1929,
     "original_issue": "Vocalion (78 rpm single), released 1 March 1929; catalogue number not verified",
-    "personnel": "Pine Top Smith (piano, spoken vocal)",
+    "personnel": "Pine Top Smith (piano, vocal)",
     "style": "chicago",
     "year": 1928,
     "year_lo": 1928,
     "year_hi": 1928,
     "year_label": "1928",
-    "trivia": "This is the first known record to carry the word \"boogie\" in its title, and Smith talks the dancers through steps over the piano. He was shot dead in a Chicago dance-hall fight in March 1929, the day before a second Vocalion session.",
+    "trivia": "This is the first known recording of a song with \"boogie\" in its title, and its words are instructions to the dancers. Smith died from a gunshot wound in a Chicago dance-hall fight in March 1929, the day before a scheduled second Vocalion session.",
     "tags": [
       "1920s",
       "chicago",
@@ -1548,7 +1098,7 @@
       "duration": "3:08",
       "isrc": null,
       "query": "Pine Top Smith Pine Top's Boogie Woogie 1928 Vocalion",
-      "notes": "Pine Top Smith's December 1928 Vocalion original, not later versions by Tommy Dorsey, Pinetop Perkins or Meade Lux Lewis"
+      "notes": "Pine Top Smith's December 1928 Vocalion original, not later versions such as Tommy Dorsey's 1938 recording"
     },
     "confidence": "medium",
     "sources": [
@@ -1556,46 +1106,7 @@
       "https://en.wikipedia.org/wiki/Pinetop_Smith",
       "https://en.wikipedia.org/wiki/List_of_Grammy_Hall_of_Fame_Award_recipients_(J%E2%80%93P)"
     ],
-    "notes": "Recording date, release date (1 Mar 1929), Vocalion label and the 3:08 length are from the Wikipedia infobox; no Vocalion catalogue number was found in sources read, hence medium. The Grammy Hall of Fame (inducted 1983) lists it as Jazz; boogie-woogie piano is jazz-adjacent. Title spelling varies (Pinetop's / Pine Top's / Pine-Top's)."
-  },
-  {
-    "id": "jazz-armstrong-weather-bird",
-    "artist": "Louis Armstrong and Earl Hines",
-    "title": "Weather Bird",
-    "composer": "Joe \"King\" Oliver; Louis Armstrong (credit disputed)",
-    "recording_date": "1928-12-05",
-    "recording_year": 1928,
-    "release_year": 1930,
-    "original_issue": "OKeh 41454 (78 rpm, b/w Dear Old Southland), matrix W402199 take A",
-    "personnel": "Louis Armstrong (trumpet), Earl Hines (piano)",
-    "style": "chicago",
-    "year": 1928,
-    "year_lo": 1928,
-    "year_hi": 1928,
-    "year_label": "1928",
-    "trivia": "Wikipedia calls it the most famous duet in jazz history, although OKeh issued it as an Armstrong trumpet solo with piano accompaniment. Armstrong had already played the tune as second cornet in King Oliver's band in 1923.",
-    "tags": [
-      "1920s",
-      "chicago",
-      "okeh",
-      "duet"
-    ],
-    "track": {
-      "artist": "Louis Armstrong and Earl Hines",
-      "title": "Weather Bird",
-      "album": "Weather Bird / Dear Old Southland (OKeh 78 rpm single)",
-      "duration": "2:45",
-      "isrc": null,
-      "query": "Louis Armstrong Earl Hines Weather Bird 1928 OKeh",
-      "notes": "The December 1928 Armstrong and Hines duet (OKeh 41454), not Armstrong's later remakes or Oliver's composition played by other groups"
-    },
-    "confidence": "high",
-    "sources": [
-      "https://en.wikipedia.org/wiki/Weather_Bird",
-      "https://en.wikipedia.org/wiki/List_of_Grammy_Hall_of_Fame_Award_recipients_(Q%E2%80%93Z)",
-      "https://adp.library.ucsb.edu/index.php/objects/refer/255856"
-    ],
-    "notes": "GAP: recorded 1928, first released 1930 (2 yrs). Matrix W402199 take A, 5 Dec 1928 and the duet credits from DAHR (via search summary) and Wikipedia; the DAHR record card shows Oliver's composer credit crossed out and Armstrong's written in. GAP: Wikipedia says released \"late 1928 or early 1929\", but DAHR shows 41454 couples it with Dear Old Southland, a matrix dated 5 Apr 1930, so the disc cannot have appeared before 1930; 1930 used. Grammy Hall of Fame 2008. Duration approximate."
+    "notes": "Recording date (Chicago), release date (1 Mar 1929), Vocalion label and the 3:08 length are from the Wikipedia infobox; no Vocalion catalogue number was found in the sources read, hence medium. The Grammy Hall of Fame (inducted 1983) lists it as Jazz; boogie-woogie piano is jazz-adjacent. Title spelling varies (Pinetop's / Pine Top's / Pine-Top's)."
   },
   {
     "id": "jazz-jimmie-noone-apex-blues",
@@ -1612,7 +1123,7 @@
     "year_lo": 1929,
     "year_hi": 1929,
     "year_label": "1929",
-    "trivia": "Noone's Apex Club group, a quintet with clarinet and alto sax but no brass, was unusual for the time, and the Chicago club was raided and shut in 1929. Excerpts of Apex Blues were played on screen in the 1944 East Side Kids film Block Busters.",
+    "trivia": "Noone's Apex Club band, a quintet with clarinet and alto sax but no brass, was unusual for the time, and the Chicago club was raided and shut down in 1929. Excerpts of Apex Blues were played in the 1944 East Side Kids film Block Busters.",
     "tags": [
       "1920s",
       "chicago",
@@ -1624,17 +1135,17 @@
       "artist": "Jimmie Noone's Apex Club Orchestra",
       "title": "Apex Blues",
       "album": "Apex Blues (Vocalion 78 rpm single)",
-      "duration": "3:05",
+      "duration": "3:00",
       "isrc": null,
       "query": "Jimmie Noone Apex Club Orchestra Apex Blues 1929 Vocalion",
-      "notes": "The July 1929 Vocalion recording by Noone's Apex Club band (2779), not the 1944 Capitol quartet remake"
+      "notes": "The July 1929 Vocalion recording by Noone's Apex Club band (2779), not later Noone performances such as the one heard in Block Busters"
     },
     "confidence": "medium",
     "sources": [
       "https://syncopatedtimes.com/jimmie-noones-apex-club-orchestra",
       "https://en.wikipedia.org/wiki/Jimmie_Noone"
     ],
-    "notes": "Date 11 July 1929, Chicago, Vocalion 2779 and the Brunswick reissue numbers from the Red Hot Jazz list (DAHR-linked); no source read lists the sidemen for this exact session. Wikipedia names the regular Apex Club line-up as Joe Poston (alto sax), Earl Hines (piano), Bud Scott (banjo, guitar) and Johnny Wells (drums), and the Red Hot Jazz roster also lists Alex Hill (piano) for 1928-29, so none is claimed. Release year 1929 is assumed, not verified. Duration approximate."
+    "notes": "Date 11 July 1929, Chicago, Vocalion 2779 and the Brunswick reissue numbers from the Red Hot Jazz list; no source read lists the sidemen for this exact session. Wikipedia names the regular Apex Club group as Joe Poston (alto sax), Earl Hines (piano), Bud Scott (banjo, guitar) and Johnny Wells (drums, from 1928), and the Red Hot Jazz roster also lists Alex Hill among the band's pianists, so none is claimed for this date. Release year 1929 is assumed, not verified. Duration is a generic 78 rpm length, not read from a source."
   },
   {
     "id": "jazz-jabbo-smith-jazz-battle",
@@ -1645,13 +1156,13 @@
     "recording_year": 1929,
     "release_year": 1929,
     "original_issue": "Brunswick 4244 (78 rpm)",
-    "personnel": "Jabbo Smith (cornet, vocal) and His Rhythm Aces; sidemen for this session not verified (see notes)",
+    "personnel": "Jabbo Smith (trumpet, vocal) and His Rhythm Aces; sidemen for this session not verified (see notes)",
     "style": "chicago",
     "year": 1929,
     "year_lo": 1929,
     "year_hi": 1929,
     "year_label": "1929",
-    "trivia": "Jabbo Smith recorded about twenty sides for Brunswick in 1929 and was billed as a rival to Louis Armstrong. Most of the records sold too poorly for Brunswick to extend his contract.",
+    "trivia": "Jabbo Smith recorded 20 sides for Brunswick in 1929 (19 were issued) and was billed as a rival to Louis Armstrong. Most of the records did not sell well enough for Brunswick to extend his contract.",
     "tags": [
       "1920s",
       "chicago",
@@ -1662,7 +1173,7 @@
       "artist": "Jabbo Smith's Rhythm Aces",
       "title": "Jazz Battle",
       "album": "Jazz Battle (Brunswick 78 rpm single)",
-      "duration": "3:05",
+      "duration": "3:00",
       "isrc": null,
       "query": "Jabbo Smith Rhythm Aces Jazz Battle 1929 Brunswick",
       "notes": "The January 1929 Brunswick recording by Jabbo Smith's Rhythm Aces (4244), not later reissue compilations"
@@ -1672,6 +1183,87 @@
       "https://syncopatedtimes.com/jabbo-smiths-rhythm-aces/",
       "https://en.wikipedia.org/wiki/Jabbo_Smith"
     ],
-    "notes": "Date 29 Jan 1929, Chicago and Brunswick 4244 from the Red Hot Jazz list; the 1929 sessions run January to August (Wikipedia: 20 recordings, 19 issued). The Red Hot Jazz roster for the whole series lists Omer Simeon, Willard Brown and George James (reeds), Cassino Simpson and Earl Frazier (piano), Ikey Robinson (banjo), Hayes Alvis and Lawson Buford (tuba) but does not map them to dates, so no sidemen are credited. Release year assumed 1929. Duration approximate."
+    "notes": "Date 29 Jan 1929, Chicago and Brunswick 4244 from the Red Hot Jazz list; the 1929 sessions run January to August (Wikipedia: 20 recordings, 19 issued). The Red Hot Jazz roster for the whole series lists Omer Simeon, Willard Brown and George James (reeds), Cassino Simpson and Earl Frazier (piano), Ikey Robinson (banjo), Hayes Alvis and Lawson Buford (tuba) but does not map them to dates, so no sidemen are credited. Release year assumed 1929. Duration is a generic 78 rpm length, not read from a source."
+  },
+  {
+    "id": "jazz-gene-austin-my-blue-heaven",
+    "artist": "Gene Austin",
+    "title": "My Blue Heaven",
+    "composer": "Walter Donaldson (music), George A. Whiting (lyrics)",
+    "recording_date": "1927-09-14",
+    "recording_year": 1927,
+    "release_year": 1927,
+    "original_issue": "Victor 20964 (78 rpm, b/w Are You Thinking of Me To-night?), matrix BVE-39179, released November 1927",
+    "personnel": "Gene Austin (vocal) with the Victor Orchestra directed by Nat Shilkret; individual players not verified",
+    "style": "vocal",
+    "year": 1927,
+    "year_lo": 1927,
+    "year_hi": 1927,
+    "year_label": "1927",
+    "trivia": "Austin gave Victor an ultimatum that he would record no more unless this song was issued, and the record went on to sell more than five million copies. In Austin's own later account, the studio players left before the take and he recorded it with an improvised backing of a cellist, a pianist and a whistler.",
+    "tags": [
+      "1920s",
+      "vocal",
+      "victor",
+      "crooner",
+      "popular-song",
+      "crossover"
+    ],
+    "track": {
+      "artist": "Gene Austin",
+      "title": "My Blue Heaven",
+      "album": "My Blue Heaven / Are You Thinking of Me To-night? (Victor 78 rpm single)",
+      "duration": "3:35",
+      "isrc": null,
+      "query": "Gene Austin My Blue Heaven 1927 Victor",
+      "notes": "Gene Austin's Victor 20964 recording of September 1927 (the Grammy Hall of Fame record), not the Paul Whiteman, Bing Crosby, Fats Domino or later versions"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/My_Blue_Heaven_(song)",
+      "https://en.wikipedia.org/wiki/List_of_Grammy_Hall_of_Fame_Award_recipients_(J%E2%80%93P)"
+    ],
+    "notes": "Recording date (14 Sept 1927, Victor Studios, New York), Victor 20964, matrix BVE-39179 (from the title of the UCSB Victor discography page cited by Wikipedia; that page itself could not be fetched), B-side and the 4 Nov 1927 release date (from a Discogs citation in Wikipedia) are as given in the Wikipedia article. Wikipedia also says the song became a huge hit in 1928; release year 1927 follows the infobox. Grammy Hall of Fame 1978 per the Hall of Fame list (Traditional pop, 1927 single). Conflict in accompaniment: the article credits the Victor Orchestra under Nat Shilkret, while Austin's own recollection quoted there describes a makeshift cello, piano and whistle trio; the orchestra credit is used and the anecdote is attributed to Austin. Duration 3:35 is a MusicBrainz compilation-track length (215 s); reissue lengths range from about 3:34 to 3:42. Crossover pop-vocal pick from the jazz age."
+  },
+  {
+    "id": "jazz-meade-lux-lewis-honky-tonk-train-blues",
+    "artist": "Meade Lux Lewis",
+    "title": "Honky Tonk Train Blues",
+    "composer": "Meade Lux Lewis",
+    "recording_date": "1927-12",
+    "recording_year": 1927,
+    "release_year": 1929,
+    "original_issue": "Paramount (78 rpm, b/w Whistlin' Blues), released 1929; catalogue number not verified",
+    "personnel": "Meade Lux Lewis (piano, solo)",
+    "style": "chicago",
+    "year": 1927,
+    "year_lo": 1927,
+    "year_hi": 1927,
+    "year_label": "1927",
+    "trivia": "Lewis's recording debut imitates a train in rolling boogie-woogie piano and is described as the first recorded use of the word honky-tonk in a song. It sold poorly at first, and Lewis was working in a car wash when John Hammond tracked him down and had him record it again in 1935 and 1937.",
+    "tags": [
+      "1920s",
+      "chicago",
+      "paramount",
+      "boogie-woogie",
+      "piano",
+      "blues"
+    ],
+    "track": {
+      "artist": "Meade Lux Lewis",
+      "title": "Honky Tonk Train Blues",
+      "album": "Honky Tonk Train Blues / Whistlin' Blues (Paramount 78 rpm single)",
+      "duration": "3:10",
+      "isrc": null,
+      "query": "Meade Lux Lewis Honky Tonk Train Blues 1927 Paramount original version",
+      "notes": "The 1927 Paramount original (issued 1929), not Lewis's remakes for Parlophone (1935) and Victor (1937) or later versions such as Bob Crosby/Bob Zurke's 1938 big-band record"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Honky_Tonk_Train_Blues",
+      "https://en.wikipedia.org/wiki/Meade_Lux_Lewis",
+      "https://musicbrainz.org/recording/a6b516b0-1046-44fc-9f88-c6325982ebca"
+    ],
+    "notes": "GAP: recorded 1927, first released 1929 (2 yrs). The Wikipedia infobox gives recorded 1927, released 1929 on Paramount (b/w Whistlin' Blues, 3:10). The month December 1927 comes only from the MusicBrainz recording relation for the Smithsonian Jazz Piano track (2:49 on that CD; other MusicBrainz copies run about 3:10-3:13, the 3:10 of the Wikipedia infobox is used), so the day and the Paramount catalogue number are not verified, hence medium. Wikipedia and the Meade Lux Lewis article say the 1927 recording was his debut, the Parlophone remake is 1935 and the Victor remake 1937. The recording location is not stated in the articles read. Wikipedia reports the original was inducted into the Blues Hall of Fame in 2026. Boogie-woogie piano filed under style chicago, like the Pine Top Smith card."
   }
 ]

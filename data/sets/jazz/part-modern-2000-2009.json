@@ -1,0 +1,854 @@
+[
+  {
+    "id": "jazz-krall-the-look-of-love",
+    "artist": "Diana Krall",
+    "title": "The Look of Love",
+    "composer": "Burt Bacharach, Hal David",
+    "recording_date": "2001",
+    "recording_year": 2001,
+    "release_year": 2001,
+    "original_issue": "Verve (album The Look of Love, 18 Sep 2001)",
+    "personnel": "Diana Krall (vocals, piano); Claus Ogerman (orchestra arrangement, conductor); Tommy LiPuma (producer). The album credits also list Christian McBride (bass), Jeff Hamilton and Peter Erskine (drums), Russell Malone, John Pisano and Romero Lubambo (guitars), Paulinho da Costa and Luis Conte (percussion), not assigned by track in the source",
+    "style": "vocal",
+    "year": 2001,
+    "year_lo": 2001,
+    "year_hi": 2001,
+    "year_label": "2001",
+    "trivia": "Burt Bacharach wrote the tune for the 1967 spoof Casino Royale, where Dusty Springfield sang it and it earned an Academy Award nomination for Best Original Song. Krall's 2001 version, with strings arranged and conducted by Claus Ogerman, comes from the album that became her first to top the Canadian Albums Chart and won her a Juno for Album of the Year.",
+    "tags": [
+      "2000s",
+      "vocal",
+      "verve",
+      "orchestral",
+      "bacharach"
+    ],
+    "track": {
+      "artist": "Diana Krall",
+      "title": "The Look of Love",
+      "album": "The Look of Love",
+      "duration": "4:42",
+      "isrc": null,
+      "query": "Diana Krall The Look of Love 2001",
+      "notes": "album version (4:42)"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Look_of_Love_(Diana_Krall_album)",
+      "https://en.wikipedia.org/wiki/The_Look_of_Love_(1967_song)"
+    ],
+    "notes": "Wikipedia gives two album session blocks, 9 to 11 March 2001 (Avatar, New York) and 3 to 4 June 2001 (Abbey Road, London and Capitol, Hollywood), and does not say which holds the title track, so only the year is recorded. Personnel is the album credit list, not assigned by track."
+  },
+  {
+    "id": "jazz-rollins-why-was-i-born",
+    "artist": "Sonny Rollins",
+    "title": "Why Was I Born?",
+    "composer": "Jerome Kern, Oscar Hammerstein II",
+    "recording_date": "2001-09-15",
+    "recording_year": 2001,
+    "release_year": 2005,
+    "original_issue": "Milestone (live album Without a Song: The 9/11 Concert, 30 Aug 2005)",
+    "personnel": "Sonny Rollins (tenor saxophone); Clifton Anderson (trombone); Stephen Scott (piano); Bob Cranshaw (electric bass); Perry Wilson (drums); Kimati Dinizulu (percussion)",
+    "style": "post-bop",
+    "year": 2001,
+    "year_lo": 2001,
+    "year_hi": 2001,
+    "year_label": "2001",
+    "trivia": "Rollins heard the World Trade Center collapse from his apartment a few blocks away and left with only his saxophone, then played this Berklee Performance Center concert in Boston four days later. His solo on this 1929 Jerome Kern tune won the 2006 Grammy Award for Jazz Instrumental Solo, and the concert reached release four years after it was played.",
+    "tags": [
+      "2000s",
+      "post-bop",
+      "milestone",
+      "live",
+      "9-11"
+    ],
+    "track": {
+      "artist": "Sonny Rollins",
+      "title": "Why Was I Born?",
+      "album": "Without a Song: The 9/11 Concert",
+      "duration": "16:14",
+      "isrc": null,
+      "query": "Sonny Rollins Why Was I Born Without a Song The 9/11 Concert 2001",
+      "notes": "live track (16:14) from the Berklee Performance Center, Boston"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Without_a_Song:_The_9/11_Concert",
+      "https://en.wikipedia.org/wiki/Why_Was_I_Born?"
+    ],
+    "notes": "GAP: recorded 2001, first released 2005 (4 yrs). The album page dates the whole concert to 15 September 2001. Chosen over the title track Without a Song because this is the performance that won the Grammy."
+  },
+  {
+    "id": "jazz-shorter-footprints",
+    "artist": "Wayne Shorter Quartet",
+    "title": "Footprints",
+    "composer": "Wayne Shorter",
+    "recording_date": "2001-07-20",
+    "recording_year": 2001,
+    "release_year": 2002,
+    "original_issue": "Verve (live album Footprints Live!, 2002)",
+    "personnel": "Wayne Shorter (tenor and soprano saxophones); Danilo Perez (piano); John Patitucci (bass); Brian Blade (drums)",
+    "style": "post-bop",
+    "year": 2001,
+    "year_lo": 2001,
+    "year_hi": 2001,
+    "year_label": "2001",
+    "trivia": "This was the first album to feature Shorter's Footprints Quartet with Danilo Perez, John Patitucci and Brian Blade, and the first official live album under his own name. It was recorded at the Festival de Jazz de Vitoria-Gasteiz in Spain on 20 July 2001, and one reviewer pointed out a Rock-A-Bye Baby quote in the title track.",
+    "tags": [
+      "2000s",
+      "post-bop",
+      "verve",
+      "live",
+      "quartet"
+    ],
+    "track": {
+      "artist": "Wayne Shorter Quartet",
+      "title": "Footprints",
+      "album": "Footprints Live!",
+      "duration": "7:55",
+      "isrc": null,
+      "query": "Wayne Shorter Quartet Footprints Footprints Live 2001",
+      "notes": "live album track (7:55)"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Footprints_Live!"
+    ],
+    "notes": "The album page assigns this track to the Vitoria-Gasteiz concert of 20 July 2001. Shorter plays tenor and soprano saxophones on this track. A live remake of his own 1966 tune; no earlier Footprints is in the set."
+  },
+  {
+    "id": "jazz-mehldau-paranoid-android",
+    "artist": "Brad Mehldau",
+    "title": "Paranoid Android",
+    "composer": "Radiohead",
+    "recording_date": "2001-04",
+    "recording_year": 2001,
+    "release_year": 2002,
+    "original_issue": "Warner Bros. (album Largo, 13 Aug 2002)",
+    "personnel": "Brad Mehldau (piano, vibes, prepared piano); Darek Oleszkiewicz (bass); Matt Chamberlain (drums, percussion, tabla); Jim Keltner (drums, snare drum, vibraphone); Jon Brion (guitar synthesizer, guitar treatments, percussion; producer)",
+    "style": "contemporary",
+    "year": 2001,
+    "year_lo": 2001,
+    "year_hi": 2001,
+    "year_label": "2001",
+    "trivia": "Largo was produced by Jon Brion and recorded in April 2001 at Capitol Studio B in Hollywood. On this cover of Radiohead's song from OK Computer, two drummers, Matt Chamberlain and Jim Keltner, join Brion's guitar synthesizer and the piano trio, and it runs just over nine minutes.",
+    "tags": [
+      "2000s",
+      "contemporary",
+      "warner-bros",
+      "radiohead",
+      "rock-cover"
+    ],
+    "track": {
+      "artist": "Brad Mehldau",
+      "title": "Paranoid Android",
+      "album": "Largo",
+      "duration": "9:05",
+      "isrc": null,
+      "query": "Brad Mehldau Paranoid Android Largo 2001",
+      "notes": "album version (9:05)"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Largo_(Brad_Mehldau_album)"
+    ],
+    "notes": "The infobox gives album sessions of 2 to 8 April 2001 at Capitol Studio B; the album followed in August 2002. The song page credits the writing to Radiohead. A second Mehldau card, after Exit Music (For a Film) from 1998, which is also a Radiohead song."
+  },
+  {
+    "id": "jazz-norah-jones-dont-know-why",
+    "artist": "Norah Jones",
+    "title": "Don't Know Why",
+    "composer": "Jesse Harris",
+    "recording_date": null,
+    "recording_year": 2001,
+    "release_year": 2002,
+    "original_issue": "Blue Note (single, 28 Jan 2002; album Come Away with Me, 26 Feb 2002)",
+    "personnel": "Norah Jones (vocals, piano); Jesse Harris (acoustic and electric guitar); Lee Alexander (bass); Dan Rieser (drums); Arif Mardin, Jay Newland and Norah Jones (producers)",
+    "style": "vocal",
+    "year": 2001,
+    "year_lo": 2001,
+    "year_hi": 2001,
+    "year_label": "2001",
+    "trivia": "Jesse Harris first put his song on a 1999 album, but it was Norah Jones's debut single in January 2002 and won Grammys for Record of the Year, Song of the Year and Best Female Pop Vocal Performance. Its parent album Come Away with Me, issued on Blue Note, has sold more than 27 million copies worldwide.",
+    "tags": [
+      "2000s",
+      "vocal",
+      "blue-note",
+      "pop",
+      "crossover"
+    ],
+    "track": {
+      "artist": "Norah Jones",
+      "title": "Don't Know Why",
+      "album": "Come Away with Me",
+      "duration": "3:06",
+      "isrc": null,
+      "query": "Norah Jones Don't Know Why Come Away with Me 2002",
+      "notes": "album version (3:06), not the 3:05 single edit"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Don't_Know_Why",
+      "https://en.wikipedia.org/wiki/Come_Away_with_Me"
+    ],
+    "notes": "Wikipedia gives the whole album sessions as 20 Sep 2000 to Dec 2001 at Sorcerer Sound (New York) and Allaire (Shokan, New York) with no date for this track, and the single is 28 Jan 2002, so 2001 is used as the likely recording year. Tagged crossover: an acoustic-pop record on the Blue Note label rather than a jazz-musician record."
+  },
+  {
+    "id": "jazz-valdes-cigala-lagrimas-negras",
+    "artist": "Bebo Valdés and Diego El Cigala",
+    "title": "Lágrimas negras",
+    "composer": "Miguel Matamoros",
+    "recording_date": null,
+    "recording_year": 2002,
+    "release_year": 2003,
+    "original_issue": "Calle 54/BMG (album Lágrimas negras, 10 Mar 2003)",
+    "personnel": "Bebo Valdés (piano); Diego el Cigala (vocals); Javier Colina (bass); Israel Porrina 'Piraña' (cajón); Paquito D'Rivera (alto saxophone); Tata Güines (congas); Pancho Terry (shekere); Changuito (timbales); Fernando Trueba and Javier Limón (producers)",
+    "style": "latin",
+    "year": 2002,
+    "year_lo": 2002,
+    "year_hi": 2002,
+    "year_label": "2002",
+    "trivia": "Cuban pianist Bebo Valdés, described as one of the founders of Latin jazz, teamed with the Spanish flamenco singer Diego el Cigala on this fusion of Cuban rhythms and flamenco vocals, produced by Fernando Trueba and Javier Limón. Wikipedia counts the album among the seven Grammy wins credited to Valdés.",
+    "tags": [
+      "2000s",
+      "latin",
+      "calle-54",
+      "flamenco",
+      "bolero"
+    ],
+    "track": {
+      "artist": "Bebo Valdés and Diego El Cigala",
+      "title": "Lágrimas negras",
+      "album": "Lágrimas negras",
+      "duration": "5:31",
+      "isrc": null,
+      "query": "Bebo Valdés Diego El Cigala Lágrimas negras 2003",
+      "notes": "album version (5:31)"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/L%C3%A1grimas_Negras_(album)"
+    ],
+    "notes": "The album page gives sessions from September to December 2002 (Madrid, New York, Miami); the track is credited there to Miguel Matamoros, and the guest list for track 3 is used for the personnel line. Not tagged crossover because Valdés is described as a founder of Latin jazz, so this is a jazz-musician record."
+  },
+  {
+    "id": "jazz-redman-jazz-crimes",
+    "artist": "Joshua Redman Elastic Band",
+    "title": "Jazz Crimes",
+    "composer": "Joshua Redman",
+    "recording_date": "2002-03",
+    "recording_year": 2002,
+    "release_year": 2002,
+    "original_issue": "Warner Bros. (album Elastic, 10 Sep 2002)",
+    "personnel": "Joshua Redman (tenor saxophone); Sam Yahel (keyboards); Brian Blade (drums); Bashiri Johnson (tambourine, shaker)",
+    "style": "jazz-funk",
+    "year": 2002,
+    "year_lo": 2002,
+    "year_hi": 2002,
+    "year_label": "2002",
+    "trivia": "Elastic was Redman's first full record with electric instruments after eight acoustic albums, cut with keyboardist Sam Yahel and drummer Brian Blade at Sear Sound in New York in March 2002. AllMusic's review said it leaned more toward pop and soul-funk than straight jazz.",
+    "tags": [
+      "2000s",
+      "jazz-funk",
+      "warner-bros",
+      "electric"
+    ],
+    "track": {
+      "artist": "Joshua Redman Elastic Band",
+      "title": "Jazz Crimes",
+      "album": "Elastic",
+      "duration": "6:42",
+      "isrc": null,
+      "query": "Joshua Redman Elastic Band Jazz Crimes Elastic 2002",
+      "notes": "album version (6:42; MusicBrainz lists 6:43)"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Elastic_(album)",
+      "https://musicbrainz.org/recording/5051d50d-320c-41ad-9177-cbd0997458e3"
+    ],
+    "notes": "Jazz Crimes is track 2 of the album. Composer credit: Redman wrote everything on the album except Oumou, which is by Sam Yahel, per Wikipedia and a JazzTimes review. Personnel is the quartet credited for the album; the individual track credits are not itemised in the source used."
+  },
+  {
+    "id": "jazz-rh-factor-hardgroove",
+    "artist": "The RH Factor (Roy Hargrove)",
+    "title": "Hardgroove",
+    "composer": "Bernard Wright",
+    "recording_date": null,
+    "recording_year": 2002,
+    "release_year": 2003,
+    "original_issue": "Verve (album Hard Groove, 20 May 2003, credited to the RH Factor)",
+    "personnel": "Roy Hargrove (trumpet, arranger, producer); Jacques Schwarz-Bart (tenor saxophone); Keith Anderson (alto saxophone); Chalmers 'Spanky' Alford and Cornell Dupree (guitars); Bernard Wright and Bobby Sparks (keyboards, clavinet); Pino Palladino (bass); Reggie Washington (electric bass); Daniel Moreno (percussion); Jason Thomas (drums)",
+    "style": "jazz-funk",
+    "year": 2002,
+    "year_lo": 2002,
+    "year_hi": 2002,
+    "year_label": "2002",
+    "trivia": "The album is a tribute to Hargrove's childhood love of hip hop, with guests including Common, Erykah Badu, Q-Tip and D'Angelo. The opening title track is credited to keyboardist Bernard Wright rather than to Hargrove.",
+    "tags": [
+      "2000s",
+      "jazz-funk",
+      "verve",
+      "neo-soul",
+      "hip-hop"
+    ],
+    "track": {
+      "artist": "The RH Factor (Roy Hargrove)",
+      "title": "Hardgroove",
+      "album": "Hard Groove",
+      "duration": "5:31",
+      "isrc": null,
+      "query": "The RH Factor Hardgroove Hard Groove 2003",
+      "notes": "album version (5:31); the track is spelled Hardgroove, the album Hard Groove"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Hard_Groove"
+    ],
+    "notes": "The album page gives sessions from January to September 2002 at Electric Lady Studios (New York); no date for this track, so 2002. Personnel is taken from the album's track-number credits for track 1. A second Hargrove card (after Mambo for Roy, 1997)."
+  },
+  {
+    "id": "jazz-cullum-all-at-sea",
+    "artist": "Jamie Cullum",
+    "title": "All at Sea",
+    "composer": "Jamie Cullum",
+    "recording_date": null,
+    "recording_year": 2003,
+    "release_year": 2003,
+    "original_issue": "UCJ/Candid/Verve (album Twentysomething, 20 Oct 2003 in Europe, May 2004 in the US; lead single)",
+    "personnel": "Jamie Cullum (vocals, piano); Stewart Levine (producer); no other players are credited in the sources used",
+    "style": "vocal",
+    "year": 2003,
+    "year_lo": 2003,
+    "year_hi": 2003,
+    "year_label": "2003",
+    "trivia": "Cullum's own tune was the lead single from Twentysomething, recorded in June and July 2003 at Mayfair Studios in London. The album sold 2.5 million copies, is described as the fastest-selling jazz album in chart history, and made him the country's highest-selling jazz artist of 2003.",
+    "tags": [
+      "2000s",
+      "vocal",
+      "candid",
+      "piano"
+    ],
+    "track": {
+      "artist": "Jamie Cullum",
+      "title": "All at Sea",
+      "album": "Twentysomething",
+      "duration": "4:32",
+      "isrc": null,
+      "query": "Jamie Cullum All at Sea Twentysomething 2003",
+      "notes": "album version (4:32; MusicBrainz lists a 3:48 edit)"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Twentysomething_(album)",
+      "https://musicbrainz.org/recording/224505d6-9f43-4216-b815-7b89aeedf7c9"
+    ],
+    "notes": "The album page dates the sessions to June and July 2003 and gives 4:32 and 4:33 for the track; 4:32 is used. The MusicBrainz work credits Cullum as composer and lyricist."
+  },
+  {
+    "id": "jazz-est-believe-beleft-below",
+    "artist": "Esbjörn Svensson Trio",
+    "title": "Believe, Beleft, Below",
+    "composer": "Esbjörn Svensson, Dan Berglund, Magnus Öström",
+    "recording_date": "2003-06",
+    "recording_year": 2003,
+    "release_year": 2003,
+    "original_issue": "ACT (album Seven Days of Falling, 9 Dec 2003)",
+    "personnel": "Esbjörn Svensson (piano); Dan Berglund (double bass); Magnus Öström (drums)",
+    "style": "contemporary",
+    "year": 2003,
+    "year_lo": 2003,
+    "year_hi": 2003,
+    "year_label": "2003",
+    "trivia": "The Swedish trio's Seven Days of Falling charted on both the jazz and the pop album charts and won a German Jazz Award and a Swedish Grammy in 2004. After the last track of the CD, a hidden track gives a vocal version of this tune sung by Josh Haden.",
+    "tags": [
+      "2000s",
+      "contemporary",
+      "act",
+      "piano-trio",
+      "sweden"
+    ],
+    "track": {
+      "artist": "Esbjörn Svensson Trio",
+      "title": "Believe, Beleft, Below",
+      "album": "Seven Days of Falling",
+      "duration": "4:51",
+      "isrc": null,
+      "query": "Esbjörn Svensson Trio Believe Beleft Below Seven Days of Falling 2003",
+      "notes": "album version (4:51)"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Seven_Days_of_Falling",
+      "https://musicbrainz.org/recording/ffdc2c46-94b1-4604-9b3a-91b656ad2775"
+    ],
+    "notes": "The album page gives June 2003 for the recording and 9 Dec 2003 for release. The MusicBrainz work credits all three trio members as composers."
+  },
+  {
+    "id": "jazz-peyroux-dance-me-to-the-end-of-love",
+    "artist": "Madeleine Peyroux",
+    "title": "Dance Me to the End of Love",
+    "composer": "Leonard Cohen",
+    "recording_date": null,
+    "recording_year": 2004,
+    "release_year": 2004,
+    "original_issue": "Rounder (album Careless Love, 14 Sep 2004)",
+    "personnel": "Madeleine Peyroux (vocals, acoustic guitar); Dean Parks (guitars); Larry Goldings (piano, Wurlitzer, organ, celeste); David Piltch (double bass); Jay Bellerose (drums, percussion); Larry Klein (producer). Album credits, not assigned by track in the source",
+    "style": "vocal",
+    "year": 2004,
+    "year_lo": 2004,
+    "year_hi": 2004,
+    "year_label": "2004",
+    "trivia": "Peyroux opened her 2004 album Careless Love, produced by Larry Klein, with this Leonard Cohen song. The album ranked No. 3 on Billboard's 2005 year-end Top Jazz Albums chart and reached No. 1 on the Swedish jazz albums chart.",
+    "tags": [
+      "2000s",
+      "vocal",
+      "rounder",
+      "cover"
+    ],
+    "track": {
+      "artist": "Madeleine Peyroux",
+      "title": "Dance Me to the End of Love",
+      "album": "Careless Love",
+      "duration": "3:56",
+      "isrc": null,
+      "query": "Madeleine Peyroux Dance Me to the End of Love Careless Love 2004",
+      "notes": "album version (3:56)"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Careless_Love_(album)"
+    ],
+    "notes": "The album page names the studios (Market Street, Venice and Paramount, Hollywood) but gives no recording dates, so the release year is used as the recording year."
+  },
+  {
+    "id": "jazz-nujabes-aruarian-dance",
+    "artist": "Nujabes",
+    "title": "Aruarian Dance",
+    "composer": "Nujabes",
+    "recording_date": null,
+    "recording_year": 2004,
+    "release_year": 2004,
+    "original_issue": "Victor Entertainment (album Samurai Champloo Music Record: Departure, 23 Jun 2004)",
+    "personnel": "Nujabes (composer, producer); no instrumentalists are credited in the sources used",
+    "style": "jazz-rap",
+    "year": 2004,
+    "year_lo": 2004,
+    "year_hi": 2004,
+    "year_label": "2004",
+    "trivia": "Director Shinichiro Watanabe wanted hip hop producers for Samurai Champloo rather than his Cowboy Bebop composer Yoko Kanno, and Nujabes was the first name that came to mind. Wikipedia calls this track an early example of lo-fi hip hop and says it spread virally on the internet.",
+    "tags": [
+      "2000s",
+      "jazz-rap",
+      "victor-entertainment",
+      "lo-fi",
+      "anime",
+      "crossover"
+    ],
+    "track": {
+      "artist": "Nujabes",
+      "title": "Aruarian Dance",
+      "album": "Samurai Champloo Music Record: Departure",
+      "duration": "4:10",
+      "isrc": null,
+      "query": "Nujabes Aruarian Dance Samurai Champloo Music Record Departure 2004",
+      "notes": "album version (4:10)"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Music_of_Samurai_Champloo",
+      "https://en.wikipedia.org/wiki/Nujabes",
+      "https://musicbrainz.org/recording/64d17001-7580-49e2-84a6-b2498afe3ddb"
+    ],
+    "notes": "No recording date is given anywhere; the anime aired in 2004 and the album is dated 23 June 2004, so 2004 is used. Tagged crossover: a hip-hop producer's instrumental built on jazz sampling, not a jazz-musician record."
+  },
+  {
+    "id": "jazz-buble-feeling-good",
+    "artist": "Michael Bublé",
+    "title": "Feeling Good",
+    "composer": "Anthony Newley, Leslie Bricusse",
+    "recording_date": null,
+    "recording_year": 2005,
+    "release_year": 2005,
+    "original_issue": "143/Reprise (single, 4 Apr 2005; album It's Time, 8 Feb 2005)",
+    "personnel": "Michael Bublé (vocals); Randy Waldman (piano); Dean Parks (guitars); Brian Bromberg (bass); Vinnie Colaiuta (drums); Rafael Padilla (percussion); Neil Devor and Jochem van der Saag (programming); arranged by David Foster and Don Sebesky",
+    "style": "vocal",
+    "year": 2005,
+    "year_lo": 2005,
+    "year_hi": 2005,
+    "year_label": "2005",
+    "trivia": "Newley and Bricusse wrote the song for the 1964 stage musical The Roar of the Greasepaint - The Smell of the Crowd, and Nina Simone recorded it in 1965. Bublé's version opens his album It's Time, which topped the charts in Canada, Italy and Spain, and the track was used in ESPN's 2005 World Series of Poker coverage and the 2010 NBA draft broadcast.",
+    "tags": [
+      "2000s",
+      "vocal",
+      "reprise",
+      "pop",
+      "big-band",
+      "crossover"
+    ],
+    "track": {
+      "artist": "Michael Bublé",
+      "title": "Feeling Good",
+      "album": "It's Time",
+      "duration": "3:57",
+      "isrc": null,
+      "query": "Michael Bublé Feeling Good It's Time 2005",
+      "notes": "album version (3:57)"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Feeling_Good",
+      "https://en.wikipedia.org/wiki/It's_Time_(Michael_Bubl%C3%A9_album)"
+    ],
+    "notes": "The album page gives sessions from October 2004 to January 2005 and the track's own date is not stated, so 2005 (the release year) is used as the card year. The personnel is the track-1 credit list from the album page. Tagged crossover: a pop-vocal record, not a jazz-musician record."
+  },
+  {
+    "id": "jazz-hiromi-spiral",
+    "artist": "Hiromi",
+    "title": "Spiral",
+    "composer": "Hiromi Uehara",
+    "recording_date": "2005-05",
+    "recording_year": 2005,
+    "release_year": 2006,
+    "original_issue": "Telarc (album Spiral, 16 Jan 2006)",
+    "personnel": "Hiromi Uehara (piano); Tony Grey (bass); Martin Valihora (drums)",
+    "style": "post-bop",
+    "year": 2005,
+    "year_lo": 2005,
+    "year_hi": 2005,
+    "year_label": "2005",
+    "trivia": "The Japanese pianist recorded this title track with bassist Tony Grey and drummer Martin Valihora at Blackbird Studio in Tennessee on 28 to 31 May 2005. NPR called the album part classical, part jazz and part simply unclassifiable.",
+    "tags": [
+      "2000s",
+      "post-bop",
+      "telarc",
+      "piano-trio"
+    ],
+    "track": {
+      "artist": "Hiromi",
+      "title": "Spiral",
+      "album": "Spiral",
+      "duration": "10:40",
+      "isrc": null,
+      "query": "Hiromi Spiral Spiral 2005",
+      "notes": "album version (10:40)"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Spiral_(Hiromi_album)",
+      "https://en.wikipedia.org/wiki/Hiromi_Uehara"
+    ],
+    "notes": "The album page gives recording on 28 to 31 May 2005 at Blackbird Studio (Berry Hill, Tennessee), so the month is used. All compositions are by Hiromi Uehara per the album page."
+  },
+  {
+    "id": "jazz-reeves-how-high-the-moon",
+    "artist": "Dianne Reeves",
+    "title": "How High the Moon",
+    "composer": "Morgan Lewis, Nancy Hamilton",
+    "recording_date": null,
+    "recording_year": 2005,
+    "release_year": 2005,
+    "original_issue": "Concord (album Good Night, and Good Luck, Music from and Inspired by the Motion Picture, 27 Sep 2005)",
+    "personnel": "Dianne Reeves (vocals) with the combo of Peter Martin, Christoph Luty, Jeff Hamilton and Matt Catingub (instruments not assigned in the source used)",
+    "style": "vocal",
+    "year": 2005,
+    "year_lo": 2005,
+    "year_hi": 2005,
+    "year_label": "2005",
+    "trivia": "Reeves appears as a jazz singer in George Clooney's 2005 film about Edward R. Murrow and Senator Joseph McCarthy, and most of the jazz numbers were recorded live. The soundtrack album won the 2006 Grammy for Best Jazz Vocal Album, and this tune from the 1940 revue Two for the Show is on it.",
+    "tags": [
+      "2000s",
+      "vocal",
+      "concord",
+      "film",
+      "standard"
+    ],
+    "track": {
+      "artist": "Dianne Reeves",
+      "title": "How High the Moon",
+      "album": "Good Night, and Good Luck (Music from and Inspired by the Motion Picture)",
+      "duration": "2:22",
+      "isrc": null,
+      "query": "Dianne Reeves How High the Moon Good Night and Good Luck 2005",
+      "notes": "soundtrack version (2:22; MusicBrainz lists 2:23)"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Good_Night,_and_Good_Luck_(Music_from_and_Inspired_by_the_Motion_Picture)",
+      "https://en.wikipedia.org/wiki/How_High_the_Moon",
+      "https://musicbrainz.org/recording/be792b4a-0265-4a5e-b285-fdca18672f9d"
+    ],
+    "notes": "No recording dates are given for the soundtrack; the film is a 2005 release and the album 27 Sep 2005, so 2005 is used."
+  },
+  {
+    "id": "jazz-ornette-coleman-turnaround",
+    "artist": "Ornette Coleman",
+    "title": "Turnaround",
+    "composer": "Ornette Coleman",
+    "recording_date": "2005-10-14",
+    "recording_year": 2005,
+    "release_year": 2006,
+    "original_issue": "Sound Grammar (live album Sound Grammar, 2006)",
+    "personnel": "Ornette Coleman (alto saxophone); Denardo Coleman (drums); Greg Cohen (bass); Tony Falanga (bass); Ornette Coleman and Michaela Deiss (producers)",
+    "style": "free",
+    "year": 2005,
+    "year_lo": 2005,
+    "year_hi": 2005,
+    "year_label": "2005",
+    "trivia": "Recorded live in Ludwigshafen, Germany, on 14 October 2005, Sound Grammar was Coleman's first new album in almost a decade and won the 2007 Pulitzer Prize for Music. Critics noted that his solo on this blues quotes the standard If I Loved You and Stephen Foster's Beautiful Dreamer.",
+    "tags": [
+      "2000s",
+      "free",
+      "sound-grammar",
+      "live",
+      "pulitzer"
+    ],
+    "track": {
+      "artist": "Ornette Coleman",
+      "title": "Turnaround",
+      "album": "Sound Grammar",
+      "duration": "4:06",
+      "isrc": null,
+      "query": "Ornette Coleman Turnaround Sound Grammar 2005",
+      "notes": "live album track (4:06; MusicBrainz lists 4:07)"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Sound_Grammar"
+    ],
+    "notes": "The album page notes the set mixes new and old originals, some given new titles. Two bassists, Greg Cohen and Tony Falanga, play with Coleman's quartet. Track length 4:06 comes from the earlier track-list pass and was not re-checked against the MusicBrainz 4:07 figure."
+  },
+  {
+    "id": "jazz-hancock-court-and-spark",
+    "artist": "Herbie Hancock feat. Norah Jones",
+    "title": "Court and Spark",
+    "composer": "Joni Mitchell",
+    "recording_date": null,
+    "recording_year": 2007,
+    "release_year": 2007,
+    "original_issue": "Verve (album River: The Joni Letters, 25 Sep 2007)",
+    "personnel": "Herbie Hancock (piano); Norah Jones (vocals); Wayne Shorter (soprano and tenor saxophones); Lionel Loueke (guitar); Dave Holland (bass); Vinnie Colaiuta (drums); Herbie Hancock and Larry Klein (producers)",
+    "style": "contemporary",
+    "year": 2007,
+    "year_lo": 2007,
+    "year_hi": 2007,
+    "year_label": "2007",
+    "trivia": "Hancock's Joni Mitchell tribute won the 2008 Grammy for Album of the Year, only the third jazz album to do so after Mancini in 1959 and Getz/Gilberto in 1965, beating Kanye West, the Foo Fighters and Amy Winehouse. Norah Jones sings on this opening track.",
+    "tags": [
+      "2000s",
+      "contemporary",
+      "verve",
+      "tribute",
+      "grammy-album-of-the-year"
+    ],
+    "track": {
+      "artist": "Herbie Hancock",
+      "title": "Court and Spark",
+      "album": "River: The Joni Letters",
+      "duration": "7:35",
+      "isrc": null,
+      "query": "Herbie Hancock Court and Spark Norah Jones River The Joni Letters 2007",
+      "notes": "album version (7:35)"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/River:_The_Joni_Letters"
+    ],
+    "notes": "The album page gives only 'recorded 2006 to 2007' with no track dates, so the later year (also the release year) is used and the true year could be 2006. Wayne Shorter 'plays throughout the album' per the page; the personnel line is the album quintet plus the credited guest vocalist."
+  },
+  {
+    "id": "jazz-cinematic-orchestra-to-build-a-home",
+    "artist": "The Cinematic Orchestra feat. Patrick Watson",
+    "title": "To Build a Home",
+    "composer": "Patrick Watson, Phil France, Jason Swinscoe",
+    "recording_date": null,
+    "recording_year": 2007,
+    "release_year": 2007,
+    "original_issue": "Ninja Tune (album Ma Fleur, 7 May 2007; 7-inch single, 29 Oct 2007)",
+    "personnel": "Patrick Watson (vocals, piano); Phil France (double bass, string arrangements); Stella Page, Izzi Dunn, Jote Oshan and Antonia Pagulatos (strings); Jason Swinscoe (producer, mixer)",
+    "style": "nu-jazz",
+    "year": 2007,
+    "year_lo": 2007,
+    "year_hi": 2007,
+    "year_label": "2007",
+    "trivia": "Canadian singer Patrick Watson sang and played piano on this ballad by the British nu-jazz group, which was reported to have passed 374 million streams by early 2022. It was used in a 2008 Schweppes advert, and its music video was a 12-minute short film with the actor Peter Mullan.",
+    "tags": [
+      "2000s",
+      "nu-jazz",
+      "ninja-tune",
+      "downtempo",
+      "crossover"
+    ],
+    "track": {
+      "artist": "The Cinematic Orchestra feat. Patrick Watson",
+      "title": "To Build a Home",
+      "album": "Ma Fleur",
+      "duration": "6:11",
+      "isrc": null,
+      "query": "The Cinematic Orchestra To Build a Home Patrick Watson Ma Fleur 2007",
+      "notes": "album version (6:11)"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/To_Build_a_Home",
+      "https://en.wikipedia.org/wiki/Ma_Fleur"
+    ],
+    "notes": "Wikipedia gives no recording dates for Ma Fleur (released 7 May 2007), so the release year is used and the true year could be 2006. Tagged crossover: a nu-jazz and downtempo group on the Ninja Tune label, not a jazz-musician record."
+  },
+  {
+    "id": "jazz-kent-breakfast-on-the-morning-tram",
+    "artist": "Stacey Kent",
+    "title": "Breakfast on the Morning Tram",
+    "composer": "Jim Tomlinson, Kazuo Ishiguro",
+    "recording_date": null,
+    "recording_year": 2007,
+    "release_year": 2007,
+    "original_issue": "Blue Note (album Breakfast on the Morning Tram, 2007)",
+    "personnel": "Stacey Kent (vocals); Jim Tomlinson (saxophones, flute); Graham Harvey (piano, Fender Rhodes); John Parricelli (guitar); Dave Chamberlain (bass); Matt Skelton (drums, percussion). Album credits, not assigned by track",
+    "style": "vocal",
+    "year": 2007,
+    "year_lo": 2007,
+    "year_hi": 2007,
+    "year_label": "2007",
+    "trivia": "The words are by the novelist Kazuo Ishiguro, who wrote the lyrics for four songs on this, Kent's first album for Blue Note. The album was nominated for the 2009 Grammy for Best Jazz Vocal Album.",
+    "tags": [
+      "2000s",
+      "vocal",
+      "blue-note"
+    ],
+    "track": {
+      "artist": "Stacey Kent",
+      "title": "Breakfast on the Morning Tram",
+      "album": "Breakfast on the Morning Tram",
+      "duration": "5:54",
+      "isrc": null,
+      "query": "Stacey Kent Breakfast on the Morning Tram 2007",
+      "notes": "album recording (5:54, MusicBrainz length)"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Breakfast_on_the_Morning_Tram",
+      "https://musicbrainz.org/recording/6042235a-bb2c-41cb-8eae-24372f660c08"
+    ],
+    "notes": "No recording dates are given; MusicBrainz dates the album recording's first release to 7 Sep 2007, so 2007 is used. Wikipedia's track-listing credit is Tomlinson/Ishiguro; the music is Jim Tomlinson's."
+  },
+  {
+    "id": "jazz-spalding-i-know-you-know",
+    "artist": "Esperanza Spalding",
+    "title": "I Know You Know",
+    "composer": "Esperanza Spalding",
+    "recording_date": null,
+    "recording_year": 2007,
+    "release_year": 2008,
+    "original_issue": "Heads Up (album Esperanza, 20 May 2008)",
+    "personnel": "Esperanza Spalding (vocals, Doolin bass); Leo Genovese (piano); Otis Brown (drums); Jamey Haddad (percussion, cymbals); Esperanza Spalding, Niño Josele and Martin Walters (producers)",
+    "style": "contemporary",
+    "year": 2007,
+    "year_lo": 2007,
+    "year_hi": 2007,
+    "year_label": "2007",
+    "trivia": "The bassist and singer sings in English, Spanish and Portuguese on her second album, which spent more than 70 weeks on Billboard's Top Jazz Albums chart. After she won the Best New Artist Grammy in February 2011, Esperanza entered the Billboard 200 at No. 138.",
+    "tags": [
+      "2000s",
+      "contemporary",
+      "heads-up",
+      "bass",
+      "vocal-bass"
+    ],
+    "track": {
+      "artist": "Esperanza Spalding",
+      "title": "I Know You Know",
+      "album": "Esperanza",
+      "duration": "3:46",
+      "isrc": null,
+      "query": "Esperanza Spalding I Know You Know Esperanza 2008",
+      "notes": "album version (3:46)"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Esperanza_(Esperanza_Spalding_album)",
+      "https://search.library.wisc.edu/catalog/9910276536702121"
+    ],
+    "notes": "The album page infobox gives 'recorded 2007' (Wellspring Sound, Acton, Massachusetts and Big Time Audio, Jonesborough, Tennessee) and release on 20 May 2008. The composer credit is from a University of Wisconsin library catalogue record; the personnel line is the track-2 credit from the album page."
+  },
+  {
+    "id": "jazz-gardot-baby-im-a-fool",
+    "artist": "Melody Gardot",
+    "title": "Baby I'm a Fool",
+    "composer": "Melody Gardot",
+    "recording_date": null,
+    "recording_year": 2008,
+    "release_year": 2009,
+    "original_issue": "Verve (album My One and Only Thrill, 16 Mar 2009; second single)",
+    "personnel": "Melody Gardot (vocals); Nico Abondolo and Drew Dembowski (double bass); Ken Pendergast (bass); Charlie Patierno (drums); string section of violins, violas, cellos and harp, arranged by Vince Mendoza; Larry Klein (producer). Credits from MusicBrainz for this recording and the album page",
+    "style": "vocal",
+    "year": 2008,
+    "year_lo": 2008,
+    "year_hi": 2008,
+    "year_label": "2008",
+    "trivia": "Gardot wrote the song herself, and its lyrics are about two flirtatious people who will not admit they are in love. It was the second single from My One and Only Thrill, which has sold over 1.5 million copies worldwide.",
+    "tags": [
+      "2000s",
+      "vocal",
+      "verve",
+      "singer-songwriter"
+    ],
+    "track": {
+      "artist": "Melody Gardot",
+      "title": "Baby I'm a Fool",
+      "album": "My One and Only Thrill",
+      "duration": "3:30",
+      "isrc": null,
+      "query": "Melody Gardot Baby I'm a Fool My One and Only Thrill 2009",
+      "notes": "album version (3:30; MusicBrainz lists 3:31)"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Baby_I'm_a_Fool",
+      "https://en.wikipedia.org/wiki/My_One_and_Only_Thrill",
+      "https://musicbrainz.org/recording/50627981-2224-49e0-9074-81f7ae0b910c"
+    ],
+    "notes": "No source gives session dates. MusicBrainz lists a first release date of 16 Dec 2008 for this recording and the album is dated 16 Mar 2009, so 2008 is used as the probable recording year and release is given as 2009."
+  },
+  {
+    "id": "jazz-caro-emerald-back-it-up",
+    "artist": "Caro Emerald",
+    "title": "Back It Up",
+    "composer": "David Schreurs, Vincent DeGiorgio, Jan van Wieringen, Robin Veldman",
+    "recording_date": null,
+    "recording_year": 2009,
+    "release_year": 2009,
+    "original_issue": "Grandmono (single, 6 Jul 2009, the Netherlands; album Deleted Scenes from the Cutting Room Floor, 29 Jan 2010)",
+    "personnel": "Caro Emerald (vocals); songwriters David Schreurs, Vincent DeGiorgio, Jan van Wieringen and Robin Veldman; the instrumentalists are not credited in the sources used",
+    "style": "vocal",
+    "year": 2009,
+    "year_lo": 2009,
+    "year_hi": 2009,
+    "year_label": "2009",
+    "region": "nl",
+    "trivia": "Caro Emerald was first hired in 2007 only as the demo singer for this song, which then sat unused until 2008. Released on 6 July 2009 as her debut single on the Grandmono label, it led to the album Deleted Scenes from the Cutting Room Floor and was certified gold in Italy.",
+    "tags": [
+      "2000s",
+      "vocal",
+      "grandmono",
+      "jazz-pop",
+      "swing",
+      "crossover",
+      "nl"
+    ],
+    "track": {
+      "artist": "Caro Emerald",
+      "title": "Back It Up",
+      "album": "Deleted Scenes from the Cutting Room Floor",
+      "duration": "3:52",
+      "isrc": null,
+      "query": "Caro Emerald Back It Up Deleted Scenes from the Cutting Room Floor 2009",
+      "notes": "album version (3:52 on the single page, 3:53 on the album page), not the 3:34 radio edit"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Back_It_Up_(Caro_Emerald_song)",
+      "https://en.wikipedia.org/wiki/Deleted_Scenes_from_the_Cutting_Room_Floor"
+    ],
+    "notes": "The album page gives 2009 for the recording; the song had existed as a demo since 2007 and sat unused until 2008, so the final recording year is a little uncertain. Dutch singer Caroline van der Leeuw (Caro Emerald); region nl. Tagged crossover: a jazz-pop and swing record rather than a jazz-musician record. Her A Night Like This is in the regular set."
+  }
+]

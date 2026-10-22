@@ -1,0 +1,2487 @@
+[
+  {
+    "id": "jazz-fitzgerald-mack-the-knife",
+    "artist": "Ella Fitzgerald",
+    "title": "Mack the Knife",
+    "composer": "Kurt Weill, Bertolt Brecht, Marc Blitzstein",
+    "recording_date": "1960-02-13",
+    "recording_year": 1960,
+    "release_year": 1960,
+    "original_issue": "Verve LP \"Ella in Berlin: Mack the Knife\" (July 1960); Wikipedia gives the catalogue number as MG VS-64041",
+    "personnel": "Ella Fitzgerald (vocals), Paul Smith (piano), Jim Hall (guitar), Wilfred Middlebrooks (bass), Gus Johnson (drums)",
+    "style": "vocal",
+    "year": 1960,
+    "year_lo": 1960,
+    "year_hi": 1960,
+    "year_label": "1960",
+    "trivia": "Ella lost the words after the first verse and made up new lyrics on the spot, even name-checking Louis Armstrong and Bobby Darin. The Berlin performance won Grammy awards, and the album entered the Grammy Hall of Fame in 1999.",
+    "tags": [
+      "1960s",
+      "vocal",
+      "verve"
+    ],
+    "track": {
+      "artist": "Ella Fitzgerald",
+      "title": "Mack the Knife",
+      "album": "Ella in Berlin: Mack the Knife",
+      "duration": "4:39",
+      "isrc": null,
+      "query": "Ella Fitzgerald Mack the Knife Ella in Berlin 1960",
+      "notes": "live at the Deutschlandhalle in Berlin, 13 Feb 1960 (4:39 on the album); not her later studio or live remakes"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Ella_in_Berlin:_Mack_the_Knife",
+      "https://en.wikipedia.org/wiki/Mack_the_Knife"
+    ],
+    "notes": "Date, venue (Deutschlandhalle), personnel and 4:39 from the Wikipedia album page; the July release from the Mack the Knife page. The catalogue number is copied as printed on Wikipedia and was not checked against a discography. The two Wikipedia pages word the Grammy category differently, so the trivia only says Grammy awards."
+  },
+  {
+    "id": "jazz-nat-adderley-work-song",
+    "artist": "Nat Adderley",
+    "title": "Work Song",
+    "composer": "Nat Adderley (Oscar Brown Jr. added lyrics later)",
+    "recording_date": "1960-01",
+    "recording_year": 1960,
+    "release_year": 1960,
+    "original_issue": "Riverside RLP 12-318 / RLP 1167 (LP \"Work Song\", 1960)",
+    "personnel": "Nat Adderley (cornet), Wes Montgomery (guitar), Bobby Timmons (piano), Percy Heath (bass), Sam Jones (cello), Louis Hayes (drums)",
+    "style": "soul-jazz",
+    "year": 1960,
+    "year_lo": 1960,
+    "year_hi": 1960,
+    "year_label": "1960",
+    "trivia": "Adderley wrote the tune after remembering convicts singing on a chain gang as they paved the street in front of his family's home in Florida. It became one of his best known compositions, and Oscar Brown Jr. added lyrics the following year.",
+    "tags": [
+      "1960s",
+      "soul-jazz",
+      "riverside"
+    ],
+    "track": {
+      "artist": "Nat Adderley",
+      "title": "Work Song",
+      "album": "Work Song",
+      "duration": "4:15",
+      "isrc": null,
+      "query": "Nat Adderley Work Song Work Song Riverside 1960",
+      "notes": "Nat Adderley sextet studio recording of January 1960 (about 4:15); not the Cannonball Adderley Quintet version on Them Dirty Blues"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://www.jazzdisco.org/wes-montgomery/discography/",
+      "https://en.wikipedia.org/wiki/Work_Song_(Nat_Adderley_album)",
+      "https://en.wikipedia.org/wiki/Work_Song_(Nat_Adderley_song)"
+    ],
+    "notes": "Session (Reeves Sound Studios, 25 and 27 Jan 1960; the day of this track is not given, so the month is used), per-track personnel and issues from jazzdisco; 4:15 and the background story from Wikipedia. I chose Nat's original recording over the Cannonball Adderley Quintet version because Cannonball already has three other cards in the set. Wes Montgomery is only a sideman here; his own card in this slice is Four on Six."
+  },
+  {
+    "id": "jazz-wes-montgomery-four-on-six",
+    "artist": "Wes Montgomery",
+    "title": "Four on Six",
+    "composer": "Wes Montgomery",
+    "recording_date": "1960-01",
+    "recording_year": 1960,
+    "release_year": 1960,
+    "original_issue": "Riverside RLP 12-320 / RLP 1169 (LP \"The Incredible Jazz Guitar of Wes Montgomery\", April 1960)",
+    "personnel": "Wes Montgomery (guitar), Tommy Flanagan (piano), Percy Heath (bass), Albert Heath (drums)",
+    "style": "hard-bop",
+    "year": 1960,
+    "year_lo": 1960,
+    "year_hi": 1960,
+    "year_label": "1960",
+    "trivia": "This Montgomery original comes from the album that showed off his thumb-picked, octave-based guitar sound, with Tommy Flanagan and the Heath brothers behind him. The Library of Congress added the album to the National Recording Registry in 2017.",
+    "tags": [
+      "1960s",
+      "hard-bop",
+      "riverside"
+    ],
+    "track": {
+      "artist": "Wes Montgomery",
+      "title": "Four on Six",
+      "album": "The Incredible Jazz Guitar of Wes Montgomery",
+      "duration": "6:15",
+      "isrc": null,
+      "query": "Wes Montgomery Four on Six The Incredible Jazz Guitar of Wes Montgomery Riverside 1960",
+      "notes": "studio recording of January 1960 (6:15 on the LP); not later remakes or live versions"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://www.jazzdisco.org/wes-montgomery/discography/",
+      "https://en.wikipedia.org/wiki/The_Incredible_Jazz_Guitar_of_Wes_Montgomery"
+    ],
+    "notes": "Session (Reeves Sound Studios, 26 and 28 Jan 1960; the day of this track is not given, so the month is used), personnel and issues from jazzdisco; 6:15, the April 1960 release and the Registry selection from the Wikipedia album page. Only Wes Montgomery card of this slice. The first YouTube hit for a looser query is a different, later version, so the query names the album and label."
+  },
+  {
+    "id": "jazz-jazztet-killer-joe",
+    "artist": "Art Farmer and Benny Golson",
+    "title": "Killer Joe",
+    "composer": "Benny Golson",
+    "recording_date": "1960-02",
+    "recording_year": 1960,
+    "release_year": 1960,
+    "original_issue": "Argo LP-664 (LP \"Meet the Jazztet\", 1960); 45 rpm Argo 5366 (b/w \"Mox Nix\")",
+    "personnel": "Art Farmer (trumpet), Curtis Fuller (trombone), Benny Golson (tenor sax), McCoy Tyner (piano), Addison Farmer (bass), Lex Humphries (drums)",
+    "style": "hard-bop",
+    "year": 1960,
+    "year_lo": 1960,
+    "year_hi": 1960,
+    "year_label": "1960",
+    "trivia": "Killer Joe was the closing track of the debut album by the Jazztet, the sextet Art Farmer and Benny Golson led, which first played in public in November 1959. A single of it backed with Mox Nix was reported to have sold over 40,000 copies by August 1960.",
+    "tags": [
+      "1960s",
+      "hard-bop",
+      "argo"
+    ],
+    "track": {
+      "artist": "The Jazztet",
+      "title": "Killer Joe",
+      "album": "Meet the Jazztet",
+      "duration": "4:57",
+      "isrc": null,
+      "query": "Art Farmer Benny Golson Jazztet Killer Joe Meet the Jazztet 1960",
+      "notes": "album version from Meet the Jazztet (about 4:57); some YouTube uploads of the Argo 45 run shorter (about 3:45)"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://www.jazzdisco.org/art-farmer/discography/",
+      "https://en.wikipedia.org/wiki/Meet_the_Jazztet",
+      "https://musicbrainz.org/recording/778739ce-661e-454d-89df-48630ff8e988"
+    ],
+    "notes": "Session (Nola Penthouse Sound Studios, 6, 9 and 10 Feb 1960, matrix 10019; the day of this track is not given, so the month is used) and issues from jazzdisco; 4:57 and the sales report from the Wikipedia album page, consistent with MusicBrainz lengths of 4:57 to 5:01 for the album track. The LP was billed Art Farmer - Benny Golson, Meet the Jazztet and the single The Jazztet; the group name is the common one."
+  },
+  {
+    "id": "jazz-ammons-canadian-sunset",
+    "artist": "Gene Ammons",
+    "title": "Canadian Sunset",
+    "composer": "Eddie Heywood (music), Norman Gimbel (lyrics)",
+    "recording_date": "1960-06-16",
+    "recording_year": 1960,
+    "release_year": 1960,
+    "original_issue": "Prestige PRLP 7180 / PRST 7180 (LP \"Boss Tenor\", 1960); 45 rpm Prestige 45-176 (which also carries \"Hittin' the Jug\")",
+    "personnel": "Gene Ammons (tenor sax), Tommy Flanagan (piano), Doug Watkins (bass), Art Taylor (drums), Ray Barretto (congas)",
+    "style": "soul-jazz",
+    "year": 1960,
+    "year_lo": 1960,
+    "year_hi": 1960,
+    "year_label": "1960",
+    "trivia": "Eddie Heywood's 1956 pop hit gets a relaxed small-group treatment here, with Ammons as the only horn and Ray Barretto adding congas. Prestige put it out on 45 rpm and again in 1966.",
+    "tags": [
+      "1960s",
+      "soul-jazz",
+      "prestige"
+    ],
+    "track": {
+      "artist": "Gene Ammons",
+      "title": "Canadian Sunset",
+      "album": "Boss Tenor",
+      "duration": "5:24",
+      "isrc": null,
+      "query": "Gene Ammons Canadian Sunset Boss Tenor 1960",
+      "notes": "studio track from Boss Tenor, 16 Jun 1960 (5:24); not the February 1961 Chicago club version or later remakes"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://www.jazzdisco.org/gene-ammons/discography/",
+      "https://en.wikipedia.org/wiki/Boss_Tenor",
+      "https://en.wikipedia.org/wiki/Canadian_Sunset"
+    ],
+    "notes": "Date (Van Gelder Studio), matrix 2308 and issues from jazzdisco; 5:24, composer credits and Ammons being the only horn from Wikipedia. Jazzdisco shows a second single, Prestige 45-390 (with Seed Shack, 1966). Heywood's own 1956 hit instrumental reached No. 2 on the Hot 100 according to Wikipedia."
+  },
+  {
+    "id": "jazz-etta-jones-dont-go-to-strangers",
+    "artist": "Etta Jones",
+    "title": "Don't Go to Strangers",
+    "composer": "Arthur Kent and Dave Mann (music), Redd Evans (lyrics)",
+    "recording_date": "1960-06-21",
+    "recording_year": 1960,
+    "release_year": 1960,
+    "original_issue": "Prestige LP \"Don't Go to Strangers\" (1960; catalogue number not verified)",
+    "personnel": "Etta Jones (vocals), Frank Wess (flute, tenor sax), Richard Wyands (piano), Skeeter Best (guitar), George Duvivier (bass), Roy Haynes (drums)",
+    "style": "vocal",
+    "year": 1960,
+    "year_lo": 1960,
+    "year_hi": 1960,
+    "year_label": "1960",
+    "trivia": "Jones had been making records since 1944, but this ballad from her first Prestige album made her an overnight success, reaching the pop Top 40 and number five on the R&B chart. The album entered the Grammy Hall of Fame in 2008.",
+    "tags": [
+      "1960s",
+      "vocal",
+      "prestige"
+    ],
+    "track": {
+      "artist": "Etta Jones",
+      "title": "Don't Go to Strangers",
+      "album": "Don't Go to Strangers",
+      "duration": "3:51",
+      "isrc": null,
+      "query": "Etta Jones Don't Go to Strangers Don't Go to Strangers 1960",
+      "notes": "studio recording of 21 Jun 1960 (3:51); not later remakes"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Don't_Go_to_Strangers"
+    ],
+    "notes": "Single session of 21 Jun 1960 at Van Gelder Studio, personnel, 3:51 and composer credits from the Wikipedia album page (infobox, overview and track list agree). No jazzdisco page is cached for Jones, so the Prestige catalogue number is left out. Chart figures are as stated on Wikipedia."
+  },
+  {
+    "id": "jazz-blakey-a-night-in-tunisia",
+    "artist": "Art Blakey and the Jazz Messengers",
+    "title": "A Night in Tunisia",
+    "composer": "Dizzy Gillespie and Frank Paparelli",
+    "recording_date": "1960-08-14",
+    "recording_year": 1960,
+    "release_year": 1961,
+    "original_issue": "Blue Note BLP 4049 / BST 84049 (LP \"A Night in Tunisia\", May 1961); 45 rpm Blue Note 45-1796 (Parts 1 and 2, 1961)",
+    "personnel": "Lee Morgan (trumpet), Wayne Shorter (tenor sax), Bobby Timmons (piano), Jymie Merritt (bass), Art Blakey (drums)",
+    "style": "hard-bop",
+    "year": 1960,
+    "year_lo": 1960,
+    "year_hi": 1960,
+    "year_label": "1960",
+    "trivia": "The liner notes describe this album as a showcase for the young talent in Blakey's band, with extended room for solos; every other tune on it was written by a band member. The 1960 line-up includes Lee Morgan and Wayne Shorter.",
+    "tags": [
+      "1960s",
+      "hard-bop",
+      "blue-note"
+    ],
+    "track": {
+      "artist": "Art Blakey and the Jazz Messengers",
+      "title": "A Night in Tunisia",
+      "album": "A Night in Tunisia",
+      "duration": "11:16",
+      "isrc": null,
+      "query": "Art Blakey and the Jazz Messengers A Night in Tunisia A Night in Tunisia 1960",
+      "notes": "Blue Note master (take 54) of 14 Aug 1960, about 11:16 on the LP; not the 1957 Vik version or later live versions"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://www.jazzdisco.org/art-blakey/discography/",
+      "https://en.wikipedia.org/wiki/A_Night_in_Tunisia_(1961_album)"
+    ],
+    "notes": "Date, take number and issues from jazzdisco (Van Gelder Studio, Englewood Cliffs); Wikipedia dates the album sessions to 7 and 14 Aug 1960 and gives 11:16 and the May 1961 release. This is the third version of this tune in the set (also Gillespie 1946 and the Dexter Gordon card in part 5b), so it is the limit if the cap of three applies. Second Blakey card after Moanin'."
+  },
+  {
+    "id": "jazz-coltrane-my-favorite-things",
+    "artist": "John Coltrane",
+    "title": "My Favorite Things",
+    "composer": "Richard Rodgers and Oscar Hammerstein II",
+    "recording_date": "1960-10-21",
+    "recording_year": 1960,
+    "release_year": 1961,
+    "original_issue": "Atlantic LP 1361 / SD 1361 (LP \"My Favorite Things\", March 1961); edited single Atlantic 45-5012 (\"My Favorite Things\" Parts 1 and 2, 1961)",
+    "personnel": "John Coltrane (soprano sax), McCoy Tyner (piano), Steve Davis (bass), Elvin Jones (drums)",
+    "style": "modal",
+    "year": 1960,
+    "year_lo": 1960,
+    "year_hi": 1960,
+    "year_label": "1960",
+    "trivia": "It was the first album to feature Coltrane on soprano saxophone, an instrument Miles Davis had bought for him in Europe in March 1960. An edited version of the title track became a radio hit in 1961.",
+    "tags": [
+      "1960s",
+      "modal",
+      "atlantic"
+    ],
+    "track": {
+      "artist": "John Coltrane",
+      "title": "My Favorite Things",
+      "album": "My Favorite Things",
+      "duration": "13:41",
+      "isrc": null,
+      "query": "John Coltrane My Favorite Things My Favorite Things 1960",
+      "notes": "studio album take of 21 Oct 1960, soprano sax (about 13:41); not the edited two-part single and not the later live versions"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://www.jazzdisco.org/john-coltrane/discography/",
+      "https://en.wikipedia.org/wiki/My_Favorite_Things_(John_Coltrane_album)"
+    ],
+    "notes": "Date, matrix 5120 and issues from jazzdisco (Atlantic Studios, NYC); the album was recorded across 21, 24 and 26 Oct 1960 and the title track comes from the first session. 13:41, the March 1961 release and the soprano-sax background from the Wikipedia album page, which lists the single parts as 2:45 and 3:02. Fourth Coltrane card in the set counting the one with Ellington in part 5b."
+  },
+  {
+    "id": "jazz-gilberto-samba-de-uma-nota-so",
+    "artist": "João Gilberto",
+    "title": "Samba de Uma Nota Só",
+    "composer": "Antônio Carlos Jobim and Newton Mendonça",
+    "recording_date": null,
+    "recording_year": 1960,
+    "release_year": 1960,
+    "original_issue": "Odeon LP \"O Amor, o Sorriso e a Flor\" (Brazil, 1960); US edition Capitol ST 10280 as \"Brazil's Brilliant João Gilberto\" (1960)",
+    "personnel": "João Gilberto (vocal, guitar)",
+    "style": "bossa-nova",
+    "year": 1960,
+    "year_lo": 1960,
+    "year_hi": 1960,
+    "year_label": "1960",
+    "trivia": "Wikipedia credits Gilberto with the first recording of this Jobim and Mendonça song, on the album that introduced bossa nova to North American listeners. The US edition came out almost at once under a different title on Capitol.",
+    "tags": [
+      "1960s",
+      "bossa-nova",
+      "odeon"
+    ],
+    "track": {
+      "artist": "João Gilberto",
+      "title": "Samba de Uma Nota Só",
+      "album": "O Amor, o Sorriso e a Flor",
+      "duration": "1:38",
+      "isrc": null,
+      "query": "João Gilberto Samba de Uma Nota Só O Amor, o Sorriso e a Flor 1960",
+      "notes": "Odeon studio version on the 1960 album (about 1:38); not the later Getz/Gilberto-era or live versions"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/O_Amor,_o_Sorriso_e_a_Flor",
+      "https://en.wikipedia.org/wiki/One_Note_Samba",
+      "https://pt.wikipedia.org/wiki/O_Amor,_o_Sorriso_e_a_Flor"
+    ],
+    "notes": "Recording year is not pinned down: English Wikipedia says the song was first recorded in 1960 for this album and dates the album to 1960, while Portuguese Wikipedia gives recording in 1959 and 1960 in Rio de Janeiro. No exact session date was found, so ry is 1960 and confidence is medium. Duration 1:38 is from the Wikipedia track list (MusicBrainz lists about 1:37 to 1:39). Personnel is the album credit; no session personnel source was found. Gilberto already has Chega de Saudade (1958) and shares The Girl from Ipanema with Getz in part 5b, so this would be a third card: drop it if the cap of two applies strictly."
+  },
+  {
+    "id": "jazz-eddie-harris-exodus",
+    "artist": "Eddie Harris",
+    "title": "Exodus",
+    "composer": "Ernest Gold",
+    "recording_date": "1961-01-17",
+    "recording_year": 1961,
+    "release_year": 1961,
+    "original_issue": "Vee-Jay VJLP 3016 (LP \"Exodus to Jazz\", 1961)",
+    "personnel": "Eddie Harris (tenor sax), Willie Pickens (piano), Joe Diorio (guitar), Bill Yancey (bass), Harold Jones (drums)",
+    "style": "hard-bop",
+    "year": 1961,
+    "year_lo": 1961,
+    "year_hi": 1961,
+    "year_label": "1961",
+    "trivia": "Harris turned Ernest Gold's film theme into a tenor showpiece for his debut album, and a shortened edit became a radio hit that Wikipedia describes as the first jazz record certified gold.",
+    "tags": [
+      "1960s",
+      "hard-bop",
+      "crossover"
+    ],
+    "track": {
+      "artist": "Eddie Harris",
+      "title": "Exodus",
+      "album": "Exodus to Jazz",
+      "duration": "6:38",
+      "isrc": null,
+      "query": "Eddie Harris Exodus Exodus to Jazz 1961",
+      "notes": "album track from Exodus to Jazz, 17 Jan 1961 (6:38); not the shortened single edit"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Exodus_to_Jazz",
+      "https://en.wikipedia.org/wiki/Eddie_Harris"
+    ],
+    "notes": "Tier C pick: the YouTube uploads of the album track have roughly 100,000 views each; it earns its place through the gold-record story and as a 1961 film-theme crossover. Date (Universal, Chicago), issue, personnel and 6:38 from the Wikipedia album page; the gold claim is worded as on the Eddie Harris page. The Hot 100 position on that page is ambiguous, so it is not used. Harris also appears in part 5d with Les McCann (Compared to What)."
+  },
+  {
+    "id": "jazz-nelson-stolen-moments",
+    "artist": "Oliver Nelson",
+    "title": "Stolen Moments",
+    "composer": "Oliver Nelson",
+    "recording_date": "1961-02-23",
+    "recording_year": 1961,
+    "release_year": 1961,
+    "original_issue": "Impulse! A-5 / AS-5 (LP \"The Blues and the Abstract Truth\", August 1961)",
+    "personnel": "Freddie Hubbard (trumpet), Eric Dolphy (alto sax, flute), Oliver Nelson (tenor sax), George Barrow (baritone sax), Bill Evans (piano), Paul Chambers (bass), Roy Haynes (drums)",
+    "style": "post-bop",
+    "year": 1961,
+    "year_lo": 1961,
+    "year_hi": 1961,
+    "year_label": "1961",
+    "trivia": "Nelson's theme had first appeared a few months earlier as The Stolen Moment on an Eddie Lockjaw Davis big-band album, but this septet version, with Freddie Hubbard, Eric Dolphy and Bill Evans, is the one that made it a standard. The tune is 16 bars long, while the solos run over a minor blues.",
+    "tags": [
+      "1960s",
+      "post-bop",
+      "impulse"
+    ],
+    "track": {
+      "artist": "Oliver Nelson",
+      "title": "Stolen Moments",
+      "album": "The Blues and the Abstract Truth",
+      "duration": "8:47",
+      "isrc": null,
+      "query": "Oliver Nelson Stolen Moments The Blues and the Abstract Truth 1961",
+      "notes": "album master of 23 Feb 1961 (about 8:47); not the earlier The Stolen Moment on Eddie Lockjaw Davis's Trane Whistle"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://www.jazzdisco.org/eric-dolphy/discography/",
+      "https://www.jazzdisco.org/bill-evans/discography/",
+      "https://en.wikipedia.org/wiki/The_Blues_and_the_Abstract_Truth",
+      "https://en.wikipedia.org/wiki/Stolen_Moments_(Oliver_Nelson_song)"
+    ],
+    "notes": "Date, personnel and Impulse! A-5 / AS-5 from jazzdisco; 8:47, the August 1961 release and the history of the tune from Wikipedia. Jazzdisco heads the session Oliver Nelson Sextet although it lists seven musicians. The Davis session of 20 Sep 1960 is also in jazzdisco."
+  },
+  {
+    "id": "jazz-brubeck-unsquare-dance",
+    "artist": "The Dave Brubeck Quartet",
+    "title": "Unsquare Dance",
+    "composer": "Dave Brubeck",
+    "recording_date": "1961-06-08",
+    "recording_year": 1961,
+    "release_year": 1961,
+    "original_issue": "Columbia CL 1690 / CS 8490 (LP \"Time Further Out\", November 1961); also issued as a Columbia single b/w \"Camptown Races\" (1961)",
+    "personnel": "Dave Brubeck (piano), Gene Wright (bass), Joe Morello (drums)",
+    "style": "cool",
+    "year": 1961,
+    "year_lo": 1961,
+    "year_hi": 1961,
+    "year_label": "1961",
+    "trivia": "Brubeck said he wrote it on a single drive from his home to the recording studio and recorded it the same day. It is in 7/4 with a country-dance feel, driven by the bass, rim clicks on the snare and hand claps.",
+    "tags": [
+      "1960s",
+      "cool",
+      "columbia"
+    ],
+    "track": {
+      "artist": "The Dave Brubeck Quartet",
+      "title": "Unsquare Dance",
+      "album": "Time Further Out",
+      "duration": "2:00",
+      "isrc": null,
+      "query": "The Dave Brubeck Quartet Unsquare Dance Time Further Out 1961",
+      "notes": "Columbia studio take of 8 Jun 1961 (2:00); not later live versions"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://www.jazzdisco.org/dave-brubeck/discography/",
+      "https://en.wikipedia.org/wiki/Unsquare_Dance",
+      "https://en.wikipedia.org/wiki/Time_Further_Out"
+    ],
+    "notes": "Date, matrix CO67195 and the LP issue from jazzdisco, which lists this session as a Brubeck trio (Brubeck, Wright, Morello); Wikipedia lists the full quartet for the album as a whole, so personnel here follows jazzdisco. 2:00 and the 7/4 time signature from Wikipedia. Wikipedia pages differ on the chart peak (Hot 100 No. 74 on one page, Cash Box No. 93 on another), so no chart figure is used. The single's catalogue number was not verified. Giant slot: third Brubeck card."
+  },
+  {
+    "id": "jazz-evans-waltz-for-debby",
+    "artist": "Bill Evans Trio",
+    "title": "Waltz for Debby",
+    "composer": "Bill Evans",
+    "recording_date": "1961-06-25",
+    "recording_year": 1961,
+    "release_year": 1962,
+    "original_issue": "Riverside RLP 399 / RLP 9399 (LP \"Waltz for Debby\", early 1962)",
+    "personnel": "Bill Evans (piano), Scott LaFaro (bass), Paul Motian (drums)",
+    "style": "post-bop",
+    "year": 1961,
+    "year_lo": 1961,
+    "year_hi": 1961,
+    "year_label": "1961",
+    "trivia": "Recorded in the evening set at the Village Vanguard on 25 June 1961, ten days before bassist Scott LaFaro was killed in a car accident. Evans named the tune for his young niece Debby, and this trio take is usually regarded as the definitive performance.",
+    "tags": [
+      "1960s",
+      "post-bop",
+      "riverside"
+    ],
+    "track": {
+      "artist": "Bill Evans Trio",
+      "title": "Waltz for Debby",
+      "album": "Waltz for Debby",
+      "duration": "7:00",
+      "isrc": null,
+      "query": "Bill Evans Trio Waltz for Debby Waltz for Debby 1961",
+      "notes": "live at the Village Vanguard, evening set of 25 Jun 1961, take 2 (about 7:00); not the 1956 solo version, the Cannonball Adderley/Evans version or the 1964 Zetterlund version"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://www.jazzdisco.org/bill-evans/discography/",
+      "https://en.wikipedia.org/wiki/Waltz_for_Debby_(1962_album)",
+      "https://en.wikipedia.org/wiki/Waltz_for_Debby_(song)"
+    ],
+    "notes": "Date, set (evening set 3, take 2) and Riverside issue from jazzdisco; 7:00, the end-of-February 1962 release and the LaFaro and niece background from Wikipedia (YouTube uploads of the album track run about 6:54). The tune was first recorded as a short solo piece in 1956 on New Jazz Conceptions."
+  },
+  {
+    "id": "jazz-lateef-love-theme-from-spartacus",
+    "artist": "Yusef Lateef",
+    "title": "Love Theme from Spartacus",
+    "composer": "Alex North",
+    "recording_date": "1961-09-05",
+    "recording_year": 1961,
+    "release_year": 1962,
+    "original_issue": "Moodsville MVLP 22 / MVST-22 (LP \"Eastern Sounds\", April 1962 per Wikipedia; jazzdisco lists 1961); 45 rpm Prestige 45-254 (b/w \"Snafu\", 1963)",
+    "personnel": "Yusef Lateef (tenor sax, oboe, flute), Barry Harris (piano), Ernie Farrow (bass, rabat), Lex Humphries (drums)",
+    "style": "hard-bop",
+    "year": 1961,
+    "year_lo": 1961,
+    "year_hi": 1961,
+    "year_label": "1961",
+    "trivia": "Lateef's quartet plays Alex North's love theme from the film Spartacus on Eastern Sounds, an album that blends hard bop with Middle Eastern and Asian instruments. Both film themes on the album were later sampled by the producer Nujabes.",
+    "tags": [
+      "1960s",
+      "hard-bop",
+      "prestige",
+      "world-music"
+    ],
+    "track": {
+      "artist": "Yusef Lateef",
+      "title": "Love Theme from Spartacus",
+      "album": "Eastern Sounds",
+      "duration": "4:15",
+      "isrc": null,
+      "query": "Yusef Lateef Love Theme from Spartacus Eastern Sounds 1961",
+      "notes": "studio version of 5 Sep 1961 on Eastern Sounds (4:15); not later remakes"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://www.jazzdisco.org/yusef-lateef/discography/",
+      "https://en.wikipedia.org/wiki/Eastern_Sounds"
+    ],
+    "notes": "Date, personnel, matrix 3199 and issues from jazzdisco; 4:15, composer credit and Nujabes sampling from Wikipedia. The release year is a conflict: Wikipedia says April 1962 while jazzdisco files Moodsville MVLP 22 under 1961; I used 1962, hence medium. Jazzdisco lists the instruments for the whole session (Lateef on tenor sax, oboe and flute), not per track."
+  },
+  {
+    "id": "jazz-herbie-mann-comin-home-baby",
+    "artist": "Herbie Mann",
+    "title": "Comin' Home Baby",
+    "composer": "Ben Tucker",
+    "recording_date": "1961-11-17",
+    "recording_year": 1961,
+    "release_year": 1962,
+    "original_issue": "Atlantic LP \"Herbie Mann at the Village Gate\" (1962 per most Wikipedia text; catalogue number not verified)",
+    "personnel": "Herbie Mann (flute), Hagood Hardy (vibraphone), Ahmed Abdul-Malik (bass), Ben Tucker (bass), Rudy Collins (drums), Ray Mantilla (congas, percussion), Chief Bey (African drum, percussion)",
+    "style": "latin",
+    "year": 1961,
+    "year_lo": 1961,
+    "year_hi": 1961,
+    "year_label": "1961",
+    "trivia": "Ben Tucker's tune had been recorded for the first time only six weeks earlier by the Dave Bailey Quintet, and Mann's live Village Gate version, again with Tucker on bass, is the one that spread it. Bob Dorough later added lyrics, and Mel Tormé's 1962 vocal version reached No. 36 on the Hot 100.",
+    "tags": [
+      "1960s",
+      "latin",
+      "atlantic",
+      "soul-jazz",
+      "crossover"
+    ],
+    "track": {
+      "artist": "Herbie Mann",
+      "title": "Comin' Home Baby",
+      "album": "Herbie Mann at the Village Gate",
+      "duration": "8:37",
+      "isrc": null,
+      "query": "Herbie Mann Comin' Home Baby Herbie Mann at the Village Gate 1961",
+      "notes": "live at the Village Gate, 17 Nov 1961 (8:37 on the album); not the Dave Bailey Quintet original or the Mel Tormé vocal version"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Herbie_Mann_at_the_Village_Gate",
+      "https://en.wikipedia.org/wiki/Comin'_Home_Baby"
+    ],
+    "notes": "Date, personnel and 8:37 from the Wikipedia album page; the Dave Bailey recording of 6 Oct 1961, the six-week gap and Tormé's chart peak from the Comin' Home Baby page. The release year conflicts inside Wikipedia (album infobox 1961, album text and song page 1962); I used 1962, hence medium. The Atlantic catalogue number is not verified because no jazzdisco page for Mann could be fetched. Crossover flag because the tune became a pop-vocal hit for Tormé."
+  },
+  {
+    "id": "jazz-mcrae-take-five",
+    "artist": "Carmen McRae",
+    "title": "Take Five",
+    "composer": "Paul Desmond (music), Iola Brubeck (lyrics)",
+    "recording_date": "1961-12-15",
+    "recording_year": 1961,
+    "release_year": 1962,
+    "original_issue": "Columbia 4-42292 (45 rpm single, b/w \"Easy as You Go\"); later on LP Columbia CL 2316 (1965)",
+    "personnel": "Carmen McRae (vocal), Paul Desmond (alto sax), Dave Brubeck (piano), Gene Wright (bass), Joe Morello (drums)",
+    "style": "vocal",
+    "year": 1961,
+    "year_lo": 1961,
+    "year_hi": 1961,
+    "year_label": "1961",
+    "trivia": "Wikipedia calls this the first known cover of Take Five, sung to lyrics written by Dave Brubeck's wife Iola, with the Brubeck group accompanying McRae. It was issued as a Columbia single.",
+    "tags": [
+      "1960s",
+      "vocal",
+      "columbia"
+    ],
+    "track": {
+      "artist": "Carmen McRae",
+      "title": "Take Five",
+      "album": "Take Five / Easy as You Go (single)",
+      "duration": "2:16",
+      "isrc": null,
+      "query": "Carmen McRae with the Dave Brubeck Quartet Take Five single 1961",
+      "notes": "Columbia single version with the Brubeck Quartet (about 2:16); not the longer live-album version"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://www.jazzdisco.org/dave-brubeck/discography/",
+      "https://en.wikipedia.org/wiki/Take_Five",
+      "https://en.wikipedia.org/wiki/Take_Five_Live",
+      "https://musicbrainz.org/recording/de0eed43-0e0c-49b2-b9d7-5f73d77cfd7d"
+    ],
+    "notes": "Conflict: jazzdisco lists this track (matrix CO68565, Columbia 4-42292, with Paul Desmond on alto) as a New York session of 15 Dec 1961, while Wikipedia dates the Take Five Live album to Basin Street East on 6 Sep 1961 with the quartet minus Desmond. I followed jazzdisco for the single; the recording year is 1961 either way, but the day and the live or studio status are uncertain, hence medium. The release year of the single is not documented in the sources read; 1962 is Wikipedia's year for the Take Five Live album. Duration 2:16 from MusicBrainz and the YouTube Single Version; MusicBrainz also lists a 2:21 live edition. Second version of the tune in the set after Brubeck 1959."
+  },
+  {
+    "id": "jazz-getz-desafinado",
+    "artist": "Stan Getz and Charlie Byrd",
+    "title": "Desafinado",
+    "composer": "Antônio Carlos Jobim and Newton Mendonça",
+    "recording_date": "1962-02-13",
+    "recording_year": 1962,
+    "release_year": 1962,
+    "original_issue": "Verve V/V6-8432 (LP \"Jazz Samba\", released 20 April 1962); 45 rpm edit on Verve VK-10260 (\"Desafinado\" b/w \"Theme from Dr. Kildare Show\", 1962)",
+    "personnel": "Stan Getz (tenor sax), Charlie Byrd (guitar), Gene Byrd (guitar, bass), Keter Betts (bass), Buddy Deppenschmidt (drums), Bill Reichenbach (drums); producer Creed Taylor",
+    "style": "bossa-nova",
+    "year": 1962,
+    "year_lo": 1962,
+    "year_hi": 1962,
+    "year_label": "1962",
+    "trivia": "Recorded in a Washington, D.C., church hall with guitarist Charlie Byrd, who had brought the music home from a 1961 tour of Brazil, this track set off the American bossa nova craze. The edited single reached No. 15 on the Billboard Hot 100 and won Getz a Grammy for best jazz performance.",
+    "tags": [
+      "1960s",
+      "bossa-nova",
+      "verve"
+    ],
+    "track": {
+      "artist": "Stan Getz and Charlie Byrd",
+      "title": "Desafinado",
+      "album": "Jazz Samba",
+      "duration": "5:51",
+      "isrc": null,
+      "query": "Stan Getz Charlie Byrd Desafinado Jazz Samba 1962",
+      "notes": "Album track from Jazz Samba (5:51), not the 2:00 edit on the 45 rpm single, not Getz's later 1963 remake with João Gilberto and not Quincy Jones's big-band version"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://www.jazzdisco.org/stan-getz/discography/",
+      "https://en.wikipedia.org/wiki/Jazz_Samba",
+      "https://en.wikipedia.org/wiki/Desafinado"
+    ],
+    "notes": "Date, location (Pierce Hall, All Souls Unitarian Church, Washington, D.C.) and personnel from jazzdisco and Wikipedia; the Wikipedia Jazz Samba lead says \"Joe Byrd\" for Charlie Byrd's brother but its personnel list and jazzdisco say Gene Byrd, which is used here. The 2:00 single edit and the 5:51 album track are both given on the Jazz Samba page; the Hot 100 peak of No. 15 is from the Desafinado page. Single catalogue number is jazzdisco's listing for the Dr. Kildare coupling (that B-side was recorded in June 1962, so the single appeared after the album)."
+  },
+  {
+    "id": "jazz-jimmy-smith-walk-on-the-wild-side",
+    "artist": "Jimmy Smith",
+    "title": "Walk on the Wild Side",
+    "composer": "Elmer Bernstein (music), Mack David (lyrics)",
+    "recording_date": "1962-03-28",
+    "recording_year": 1962,
+    "release_year": 1962,
+    "original_issue": "Verve V/V6-8474 (LP \"Bashin': The Unpredictable Jimmy Smith\", May 1962); 45 rpm Verve VK-10255 (\"Walk on the Wild Side Parts 1 & 2\", 1962)",
+    "personnel": "Jimmy Smith (organ); Joe Newman, Ernie Royal, Doc Severinsen, Joe Wilder (trumpet); Jimmy Cleveland, Urbie Green, Britt Woodman (trombone); Tom Mitchell (bass trombone); Jerry Dodgion, Phil Woods (alto sax); Bob Ashton, Babe Clarke (tenor sax); George Barrow (baritone sax); Barry Galbraith (guitar); George Duvivier (bass); Ed Shaughnessy (drums); Oliver Nelson (arranger, conductor)",
+    "style": "soul-jazz",
+    "year": 1962,
+    "year_lo": 1962,
+    "year_hi": 1962,
+    "year_label": "1962",
+    "trivia": "Oliver Nelson's big-band arrangement of the film theme was issued as a two-sided 45 in which Smith's organ does not enter until Part 2. It reached No. 21 on the Billboard Hot 100 in June 1962 and No. 4 on the R&B chart.",
+    "tags": [
+      "1960s",
+      "soul-jazz",
+      "verve",
+      "organ"
+    ],
+    "track": {
+      "artist": "Jimmy Smith",
+      "title": "Walk on the Wild Side",
+      "album": "Bashin': The Unpredictable Jimmy Smith",
+      "duration": "5:55",
+      "isrc": null,
+      "query": "Jimmy Smith Walk on the Wild Side Bashin' The Unpredictable Jimmy Smith Oliver Nelson 1962",
+      "notes": "Album track with the Oliver Nelson big band (5:55, parts joined), not Brook Benton's vocal film theme and not the Parts 1 and 2 split of the 45 rpm single"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://www.jazzdisco.org/jimmy-smith/discography/",
+      "https://en.wikipedia.org/wiki/Bashin':_The_Unpredictable_Jimmy_Smith",
+      "https://en.wikipedia.org/wiki/Walk_on_the_Wild_Side_(David_and_Bernstein_song)",
+      "https://musicbrainz.org/release/7ac8a623-7a86-46d0-be5b-0344f0767ac1"
+    ],
+    "notes": "Date (28 March 1962, Van Gelder Studio, Englewood Cliffs; matrices 62VK376/377) and personnel (same line-up as the 26 March session) are from jazzdisco; Wikipedia gives the album sessions as 26 and 28 March and the LP release as May 1962. MusicBrainz dates the Verve 45 to April 1962. Chart facts are from the song's Wikipedia page. Tier B rather than A: Smith's best-known Verve hit, but a niche title today."
+  },
+  {
+    "id": "jazz-hancock-watermelon-man",
+    "artist": "Herbie Hancock",
+    "title": "Watermelon Man",
+    "composer": "Herbie Hancock",
+    "recording_date": "1962-05-28",
+    "recording_year": 1962,
+    "release_year": 1962,
+    "original_issue": "Blue Note BLP 4109 / BST 84109 (LP \"Takin' Off\", October 1962); 45 rpm Blue Note 45-1862",
+    "personnel": "Herbie Hancock (piano), Freddie Hubbard (trumpet), Dexter Gordon (tenor sax), Butch Warren (bass), Billy Higgins (drums)",
+    "style": "hard-bop",
+    "year": 1962,
+    "year_lo": 1962,
+    "year_hi": 1962,
+    "year_label": "1962",
+    "trivia": "Hancock wrote it to help sell his debut album, the first piece he had composed with a commercial aim. His own single only reached No. 12 on Billboard's Bubbling Under chart in March 1963; Mongo Santamaría's cover was the big hit.",
+    "tags": [
+      "1960s",
+      "hard-bop",
+      "blue-note"
+    ],
+    "track": {
+      "artist": "Herbie Hancock",
+      "title": "Watermelon Man",
+      "album": "Takin' Off",
+      "duration": "7:09",
+      "isrc": null,
+      "query": "Herbie Hancock Watermelon Man Takin' Off 1962",
+      "notes": "Blue Note master take 6 (7:09) of the original 1962 hard-bop quintet, not the alternate take (6:33), Mongo Santamaría's hit or Hancock's 1973 Head Hunters funk remake"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://www.jazzdisco.org/herbie-hancock/discography/",
+      "https://en.wikipedia.org/wiki/Takin'_Off",
+      "https://en.wikipedia.org/wiki/Watermelon_Man_(composition)"
+    ],
+    "notes": "Date, take number and single number from jazzdisco (Van Gelder Studio, Englewood Cliffs; tk.6 master, tk.7 alternate); personnel and durations from the Takin' Off page. Hubbard also plays flugelhorn on one other track of the album, not necessarily this one. Hancock's only 1960s card in the set (the Head Hunters remake is a separate 1973 recording)."
+  },
+  {
+    "id": "jazz-quincy-jones-soul-bossa-nova",
+    "artist": "Quincy Jones",
+    "title": "Soul Bossa Nova",
+    "composer": "Quincy Jones",
+    "recording_date": "1962-09-07",
+    "recording_year": 1962,
+    "release_year": 1962,
+    "original_issue": "Mercury MG 20751 (LP \"Big Band Bossa Nova\", released 20 December 1962; catalogue number from MusicBrainz)",
+    "personnel": "Quincy Jones (arranger, conductor), Roland Kirk (flute), Lalo Schifrin (piano), Chris White (bass), Rudy Collins (drums), Jerome Richardson (alto flute); brass players not named in the liner notes",
+    "style": "big-band",
+    "year": 1962,
+    "year_lo": 1962,
+    "year_hi": 1962,
+    "year_label": "1962",
+    "trivia": "Jones said he wrote it in about twenty minutes, and the cuíca gives the opening its laughing sound. Mike Myers later chose it as the theme of the Austin Powers films.",
+    "tags": [
+      "1960s",
+      "big-band",
+      "mercury",
+      "bossa nova"
+    ],
+    "track": {
+      "artist": "Quincy Jones",
+      "title": "Soul Bossa Nova",
+      "album": "Big Band Bossa Nova",
+      "duration": "2:44",
+      "isrc": null,
+      "query": "Quincy Jones Soul Bossa Nova Big Band Bossa Nova 1962",
+      "notes": "Album track from Big Band Bossa Nova (Mercury, 2:44 on the LP listing), not the Dream Warriors sample or later live versions"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Soul_Bossa_Nova",
+      "https://en.wikipedia.org/wiki/Big_Band_Bossa_Nova_(Quincy_Jones_album)",
+      "https://musicbrainz.org/release/64ba0d61-cb2f-40ab-8837-dca3fcea7a5e"
+    ],
+    "notes": "The 7 September 1962 date (A&R Studios, New York) comes from the song page's infobox; the album page gives sessions between 15 June and 8 September 1962 and no other source for this track was reachable, hence medium. Duration conflict: the album track list says 2:44, the song infobox says 2:50 (the common YouTube upload runs about 2:48); 2:44 is used. The song page names the soloists and rhythm section from the liner notes; the brass roster is not given."
+  },
+  {
+    "id": "jazz-ellington-in-a-sentimental-mood",
+    "artist": "Duke Ellington & John Coltrane",
+    "title": "In a Sentimental Mood",
+    "composer": "Duke Ellington (lyrics Manny Kurtz; publisher credit Irving Mills)",
+    "recording_date": "1962-09-26",
+    "recording_year": 1962,
+    "release_year": 1963,
+    "original_issue": "Impulse! A-30 / AS-30 (LP \"Duke Ellington & John Coltrane\", January 1963)",
+    "personnel": "Duke Ellington (piano), John Coltrane (tenor sax), Aaron Bell (bass), Elvin Jones (drums); producer Bob Thiele",
+    "style": "post-bop",
+    "year": 1962,
+    "year_lo": 1962,
+    "year_hi": 1962,
+    "year_label": "1962",
+    "trivia": "Ellington wrote this ballad in 1935 and recorded it with his orchestra that year; here he plays it in a quartet with Coltrane on tenor sax. The album paired the two leaders with rhythm-section players drawn from both of their bands.",
+    "tags": [
+      "1960s",
+      "post-bop",
+      "impulse"
+    ],
+    "track": {
+      "artist": "Duke Ellington & John Coltrane",
+      "title": "In a Sentimental Mood",
+      "album": "Duke Ellington & John Coltrane",
+      "duration": "4:14",
+      "isrc": null,
+      "query": "Duke Ellington John Coltrane In a Sentimental Mood Duke Ellington & John Coltrane 1962",
+      "notes": "Impulse! studio master of 26 Sep 1962 (4:14), not Ellington's 1935 orchestra version or Coltrane's other ballad albums"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://www.jazzdisco.org/john-coltrane/discography/",
+      "https://en.wikipedia.org/wiki/Duke_Ellington_&_John_Coltrane",
+      "https://en.wikipedia.org/wiki/In_a_Sentimental_Mood"
+    ],
+    "notes": "Date, matrix 11115 and Aaron Bell / Elvin Jones for this track from jazzdisco (Van Gelder Studio, Englewood Cliffs); Wikipedia's track-by-track personnel agrees. Jazzdisco also lists an edited version (matrix 11295, made in New York on 15 January 1963) that was not examined further. This is Ellington's 7th and Coltrane's 4th card in the set (giant slot approved by the coordinator)."
+  },
+  {
+    "id": "jazz-cannonball-jive-samba",
+    "artist": "Cannonball Adderley",
+    "title": "Jive Samba",
+    "composer": "Nat Adderley",
+    "recording_date": "1962-09",
+    "recording_year": 1962,
+    "release_year": 1962,
+    "original_issue": "Riverside RM 444 / RS 9444 (LP \"Jazz Workshop Revisited\", recorded live at the Jazz Workshop, San Francisco, 22-23 September 1962)",
+    "personnel": "Cannonball Adderley (alto sax), Nat Adderley (cornet), Yusef Lateef (tenor sax, flute, oboe), Joe Zawinul (piano), Sam Jones (bass), Louis Hayes (drums); producer Orrin Keepnews",
+    "style": "soul-jazz",
+    "year": 1962,
+    "year_lo": 1962,
+    "year_hi": 1962,
+    "year_label": "1962",
+    "trivia": "Nat Adderley's samba-flavoured tune is the 11-minute centrepiece of a live set from San Francisco's Jazz Workshop, with Cannonball introducing the numbers from the stage. The album reached No. 11 on Billboard's Top LPs and stayed on the chart for 25 weeks.",
+    "tags": [
+      "1960s",
+      "soul-jazz",
+      "riverside",
+      "live"
+    ],
+    "track": {
+      "artist": "Cannonball Adderley",
+      "title": "Jive Samba",
+      "album": "Jazz Workshop Revisited",
+      "duration": "11:00",
+      "isrc": null,
+      "query": "Cannonball Adderley Jive Samba Jazz Workshop Revisited 1962 live",
+      "notes": "Live version from Jazz Workshop Revisited (about 11:00), not a studio recording or the 1962 Birdland broadcast"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://www.jazzdisco.org/cannonball-adderley/discography/",
+      "https://en.wikipedia.org/wiki/Jazz_Workshop_Revisited"
+    ],
+    "notes": "The session spans 22 and 23 September 1962 and the day of this track is not stated, so the month is used. Release year conflict: Wikipedia's infobox and chart text imply 1962 (the album entered the chart that year, peaking in 1963), while jazzdisco lists the Riverside LP as 1963; 1962 is used. Jazzdisco's track title is \"The Jive Samba\", the Wikipedia track list says \"Jive Samba\". Cannonball's 2nd card in the set."
+  },
+  {
+    "id": "jazz-peterson-hymn-to-freedom",
+    "artist": "The Oscar Peterson Trio",
+    "title": "Hymn to Freedom",
+    "composer": "Oscar Peterson",
+    "recording_date": "1962-12",
+    "recording_year": 1962,
+    "release_year": 1963,
+    "original_issue": "Verve V/V6-8538 (LP \"Night Train\", 1963)",
+    "personnel": "Oscar Peterson (piano), Ray Brown (bass), Ed Thigpen (drums); producer Norman Granz",
+    "style": "hard-bop",
+    "year": 1962,
+    "year_lo": 1962,
+    "year_hi": 1962,
+    "year_label": "1962",
+    "trivia": "Peterson wrote it on the spot in the studio to close the album, naming it in honour of Martin Luther King Jr.; after Harriette Hamilton added words a year later it became an unofficial anthem of the Civil Rights Movement.",
+    "tags": [
+      "1960s",
+      "hard-bop",
+      "verve",
+      "piano-trio"
+    ],
+    "track": {
+      "artist": "Oscar Peterson Trio",
+      "title": "Hymn to Freedom",
+      "album": "Night Train",
+      "duration": "5:38",
+      "isrc": null,
+      "query": "Oscar Peterson Trio Hymn to Freedom Night Train 1962",
+      "notes": "Studio recording from the Night Train sessions of December 1962 (5:38), not the different August 1963 New York version issued on the Verve single \"Hallelujah Time\" b/w \"Hymn to Freedom\""
+    },
+    "confidence": "high",
+    "sources": [
+      "https://www.jazzdisco.org/oscar-peterson/discography/",
+      "https://en.wikipedia.org/wiki/Night_Train_(Oscar_Peterson_album)"
+    ],
+    "notes": "Jazzdisco lists the Night Train sessions as 15 and 16 December 1962 in Los Angeles (matrix 62VK766 is the last of the session); the day for this track is not given, so the month is used. Jazzdisco also lists a separate recording of Hymn to Freedom made in New York on 3 August 1963 (Verve VK-10302), so make sure the Night Train album track is the one played. Release year 1963 per Wikipedia and jazzdisco."
+  },
+  {
+    "id": "jazz-guaraldi-cast-your-fate-to-the-wind",
+    "artist": "Vince Guaraldi Trio",
+    "title": "Cast Your Fate to the Wind",
+    "composer": "Vince Guaraldi",
+    "recording_date": "1962-02",
+    "recording_year": 1962,
+    "release_year": 1962,
+    "original_issue": "Fantasy LP \"Jazz Impressions of Black Orpheus\" (released 18 April 1962); 45 rpm Fantasy 563X as listed on Wikipedia, B-side of \"Samba de Orpheus\"",
+    "personnel": "Vince Guaraldi (piano), Monty Budwig (bass), Colin Bailey (drums)",
+    "style": "west-coast",
+    "year": 1962,
+    "year_lo": 1962,
+    "year_hi": 1962,
+    "year_label": "1962",
+    "trivia": "Issued as the B-side of a bossa nova single, it took off through radio play in Sacramento, reached No. 22 on the Hot 100 and won the first Grammy for Best Original Jazz Composition. Producer Lee Mendelson heard it on the radio and hired Guaraldi to score a Peanuts documentary, which led to A Charlie Brown Christmas.",
+    "tags": [
+      "1960s",
+      "west-coast",
+      "fantasy"
+    ],
+    "track": {
+      "artist": "Vince Guaraldi Trio",
+      "title": "Cast Your Fate to the Wind",
+      "album": "Jazz Impressions of Black Orpheus",
+      "duration": "3:10",
+      "isrc": null,
+      "query": "Vince Guaraldi Trio Cast Your Fate to the Wind Jazz Impressions of Black Orpheus 1962",
+      "notes": "Original 1962 Fantasy trio recording (3:10 on the LP), not Mel Tormé's vocal, the Sounds Orchestral hit or the alternate take 3 on the 2010 reissue"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Cast_Your_Fate_to_the_Wind",
+      "https://en.wikipedia.org/wiki/Jazz_Impressions_of_Black_Orpheus"
+    ],
+    "notes": "Wikipedia says the album was recorded in two KQED-TV sessions in November 1961 and February 1962, and that the February session produced the final album tracks including the two Guaraldi originals; February 1962 is therefore inferred for this track (month only) and no discography confirmed it. LP catalogue number not verified (MusicBrainz shows a later Fantasy 3337 pressing), single number is Wikipedia's. The single was issued in July 1962 per the song infobox. Wikipedia calls it the first winner of the Grammy for Best Original Jazz Composition (1963 ceremony)."
+  },
+  {
+    "id": "jazz-puente-oye-como-va",
+    "artist": "Tito Puente",
+    "title": "Oye Cómo Va",
+    "composer": "Tito Puente",
+    "recording_date": null,
+    "recording_year": 1962,
+    "release_year": 1962,
+    "original_issue": "Tico LP 1086 (LP \"El Rey Bravo\", 1962; catalogue number from MusicBrainz)",
+    "personnel": "Tito Puente (timbales, leader, chorus); Jimmy Frisaura, Pedro \"Puchi\" Boulong, Pat Russo (trumpet); Barry Rogers (trombone); Shep Pullman (baritone sax); Rafael \"Tata\" Palau, Jesús Caunedo, Al Abreu (tenor sax); Pete Fanelli (alto sax); Johnny Pacheco (flute); Gil López (piano); Pupi Legarreta (violin); Bobby Rodríguez (bass); Juan \"Papi\" Cadavieco (congas); José Mangual Sr. (bongos); Santos Colón, Rudy Calzado (vocals)",
+    "style": "latin",
+    "year": 1962,
+    "year_lo": 1962,
+    "year_hi": 1962,
+    "year_label": "1962",
+    "trivia": "This cha-cha-chá was cut in 1962 and made world-famous when Santana covered it on Abraxas in 1970; Puente publicly thanked Santana for crediting him as composer. Its block-chord ostinato was most likely borrowed from Cachao's 1957 mambo \"Chanchullo\".",
+    "tags": [
+      "1960s",
+      "latin",
+      "tico",
+      "crossover"
+    ],
+    "track": {
+      "artist": "Tito Puente",
+      "title": "Oye Cómo Va",
+      "album": "El Rey Bravo",
+      "duration": "4:26",
+      "isrc": null,
+      "query": "Tito Puente Oye Como Va El Rey Bravo 1962",
+      "notes": "Tito Puente's original 1962 Tico recording (cha-cha-chá), not Santana's 1970 cover or Puente's later live versions"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Oye_C%C3%B3mo_Va",
+      "https://musicbrainz.org/release/f3aa8709-1c1f-498c-a85b-8a0d910479f1"
+    ],
+    "notes": "Recording year conflict on the Wikipedia page: the infobox says recorded 1961, the Original version section says it was written and recorded in 1962 for Tico, and the album is dated 1962 on MusicBrainz; 1962 is used with no day or month (hence medium). The musician list is the \"lineup in the original recording\" printed on Wikipedia and is not independently confirmed; the Wikipedia infobox length is 4:26. Marked cross:true because it is a cha-cha-chá dance orchestra record rather than a jazz small-group date."
+  },
+  {
+    "id": "jazz-getz-gilberto-the-girl-from-ipanema",
+    "artist": "Stan Getz and João Gilberto",
+    "title": "The Girl from Ipanema",
+    "composer": "Antônio Carlos Jobim (music), Vinícius de Moraes (Portuguese lyrics), Norman Gimbel (English lyrics)",
+    "recording_date": "1963-03",
+    "recording_year": 1963,
+    "release_year": 1964,
+    "original_issue": "Verve V/V6-8545 (LP \"Getz/Gilberto\", March 1964); 45 rpm edit on Verve VK-10323 (1964, b/w \"Blowin' in the Wind\"; jazzdisco also lists VK-10322 with \"Corcovado\")",
+    "personnel": "Stan Getz (tenor sax), João Gilberto (guitar, vocal), Antônio Carlos Jobim (piano), Sebastião Neto (bass; jazzdisco and some reissue credits give Tommy Williams), Milton Banana (drums), Astrud Gilberto (vocal)",
+    "style": "bossa-nova",
+    "year": 1963,
+    "year_lo": 1963,
+    "year_hi": 1963,
+    "year_label": "1963",
+    "trivia": "While the album was being cut, the idea of an English-language verse came up and João's wife Astrud, the only Brazilian in the studio who spoke good English, sang it in her first recorded vocal. The single reached No. 5 on the Hot 100, and the song won Record of the Year at the 1965 Grammys.",
+    "tags": [
+      "1960s",
+      "bossa-nova",
+      "verve"
+    ],
+    "track": {
+      "artist": "Stan Getz and João Gilberto",
+      "title": "The Girl from Ipanema",
+      "album": "Getz/Gilberto",
+      "duration": "5:21",
+      "isrc": null,
+      "query": "Stan Getz João Gilberto The Girl from Ipanema Getz/Gilberto 1963 Astrud Gilberto",
+      "notes": "Album version from Getz/Gilberto (5:21, João sings the Portuguese verse first, then Astrud sings in English), not the 2:54 single edit, not the 1964 TV/live performance with Astrud Gilberto"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://www.jazzdisco.org/stan-getz/discography/",
+      "https://en.wikipedia.org/wiki/Getz/Gilberto",
+      "https://en.wikipedia.org/wiki/The_Girl_from_Ipanema"
+    ],
+    "notes": "Session on 18 and 19 March 1963 at A&R Studios, New York (jazzdisco and Wikipedia); the day for this track is not given, so the month is used. Release: the LP in March 1964 per Wikipedia, so about a one-year gap; the single edit (2:54) came later in 1964. Bassist conflict: jazzdisco lists Tommy Williams, Wikipedia says Sebastião Neto played and that reissues incorrectly list Williams; Sebastião Neto is used and the conflict is flagged. Wikipedia reports the song's Grammy Hall of Fame induction for the 1964 single and Album of the Year for the LP. Getz's 2nd and last card in the set."
+  },
+  {
+    "id": "jazz-joe-henderson-blue-bossa",
+    "artist": "Joe Henderson",
+    "title": "Blue Bossa",
+    "composer": "Kenny Dorham",
+    "recording_date": "1963-06-03",
+    "recording_year": 1963,
+    "release_year": 1963,
+    "original_issue": "Blue Note BLP 4140 / BST 84140 (LP \"Page One\", October 1963); 45 rpm Blue Note 45-1901 (\"Blue Bossa\" b/w \"Recorda-Me\")",
+    "personnel": "Kenny Dorham (trumpet), Joe Henderson (tenor sax), McCoy Tyner (piano), Butch Warren (bass), Pete La Roca (drums)",
+    "style": "hard-bop",
+    "year": 1963,
+    "year_lo": 1963,
+    "year_hi": 1963,
+    "year_label": "1963",
+    "trivia": "Kenny Dorham's tune, possibly inspired by his 1961 visit to the Rio de Janeiro Jazz Festival, became a jazz standard after this debut album by Henderson. McCoy Tyner is credited on the cover only as \"ETC.\" because he was under contract to rival Impulse!.",
+    "tags": [
+      "1960s",
+      "hard-bop",
+      "blue-note",
+      "bossa nova"
+    ],
+    "track": {
+      "artist": "Joe Henderson",
+      "title": "Blue Bossa",
+      "album": "Page One",
+      "duration": "8:03",
+      "isrc": null,
+      "query": "Joe Henderson Blue Bossa Page One 1963",
+      "notes": "Blue Note master take 14 of 3 June 1963 (8:03), not Henderson's 1970 Lighthouse live version or later covers"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://www.jazzdisco.org/joe-henderson/discography/",
+      "https://en.wikipedia.org/wiki/Page_One_(Joe_Henderson_album)",
+      "https://en.wikipedia.org/wiki/Blue_Bossa"
+    ],
+    "notes": "Date, take (tk.14) and single number from jazzdisco (Van Gelder Studio, Englewood Cliffs); personnel, 8:03 and mid-October 1963 release from the Page One page. Dorham composed it, but the recording is billed to Henderson."
+  },
+  {
+    "id": "jazz-lee-morgan-the-sidewinder",
+    "artist": "Lee Morgan",
+    "title": "The Sidewinder",
+    "composer": "Lee Morgan",
+    "recording_date": "1963-12-21",
+    "recording_year": 1963,
+    "release_year": 1964,
+    "original_issue": "Blue Note BLP 4157 / BST 84157 (LP \"The Sidewinder\", 1964); 45 rpm Blue Note 45-1911",
+    "personnel": "Lee Morgan (trumpet), Joe Henderson (tenor sax), Barry Harris (piano), Bob Cranshaw (bass), Billy Higgins (drums)",
+    "style": "soul-jazz",
+    "year": 1963,
+    "year_lo": 1963,
+    "year_hi": 1963,
+    "year_label": "1963",
+    "trivia": "The title track became Blue Note's biggest seller up to then and climbed to No. 81 on the Hot 100. Part of it was used in a Chrysler commercial during the 1965 World Series, which Morgan had not authorised; the company withdrew the ad after he threatened to sue.",
+    "tags": [
+      "1960s",
+      "soul-jazz",
+      "blue-note",
+      "boogaloo"
+    ],
+    "track": {
+      "artist": "Lee Morgan",
+      "title": "The Sidewinder",
+      "album": "The Sidewinder",
+      "duration": "10:25",
+      "isrc": null,
+      "query": "Lee Morgan The Sidewinder The Sidewinder 1963",
+      "notes": "Blue Note master take 25 (10:25 on the LP), not the Lee Morgan 1970 Lighthouse live version or Kai Winding's 1966 cover"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://www.jazzdisco.org/lee-morgan/discography/",
+      "https://en.wikipedia.org/wiki/The_Sidewinder",
+      "https://en.wikipedia.org/wiki/The_Sidewinder_(composition)"
+    ],
+    "notes": "Date, take and single number from jazzdisco (Van Gelder Studio, Englewood Cliffs, 21 December 1963); personnel, 10:25 and chart facts from Wikipedia. The LP page says the single reached No. 81 in January 1965 (the composition page says it entered the chart on 19 December 1964)."
+  },
+  {
+    "id": "jazz-armstrong-hello-dolly",
+    "artist": "Louis Armstrong",
+    "title": "Hello, Dolly!",
+    "composer": "Jerry Herman",
+    "recording_date": "1963-12-03",
+    "recording_year": 1963,
+    "release_year": 1964,
+    "original_issue": "Kapp K-573 (45 rpm single, January 1964, b/w \"A Lot of Livin' to Do\"); LP \"Hello, Dolly!\", Kapp KL-1364 / KS-3364 (1964)",
+    "personnel": "Louis Armstrong (trumpet, vocal) with his All Stars (the album page names Joe Darensbourg, Billy Kyle, Russell \"Big Chief\" Moore, Arvell Shaw, Danny Barcelona and Trummy Young as the band of the time; whether that exact line-up played on this demo session is unconfirmed); producer Michael Kapp",
+    "style": "vocal",
+    "year": 1963,
+    "year_lo": 1963,
+    "year_hi": 1963,
+    "year_label": "1963",
+    "trivia": "Armstrong cut it as a publishing demo at his manager's urging to promote the Broadway show; Kapp released the demo as a single in January 1964. It went to No. 1, ending the Beatles' run of three straight chart-toppers, and won Song of the Year and Best Male Vocal at the 1965 Grammys.",
+    "tags": [
+      "1960s",
+      "vocal",
+      "kapp",
+      "musical-theatre"
+    ],
+    "track": {
+      "artist": "Louis Armstrong",
+      "title": "Hello, Dolly!",
+      "album": "Hello, Dolly! (Kapp single K-573)",
+      "duration": "2:27",
+      "isrc": null,
+      "query": "Louis Armstrong Hello, Dolly! Kapp single 1963",
+      "notes": "Original Kapp single/album recording from December 1963 (2:27), not Armstrong's later remakes or the 1969 film duet with Barbra Streisand"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Hello,_Dolly!_(song)",
+      "https://en.wikipedia.org/wiki/Hello,_Dolly!_(Louis_Armstrong_album)",
+      "https://musicbrainz.org/release/4cdb67d8-d155-45dd-9c10-bba7b81bf7e7"
+    ],
+    "notes": "The song page says the demo was made in December 1963 and the LP page says the album was mostly recorded on 3 December 1963 and 18 April 1964, so 3 December 1963 is the likely day but is not confirmed for this track. No discography (jazzdisco has no Armstrong page) was reached, so the personnel is the All Stars roster from the album page, flagged as unconfirmed. Single number K-573 and January 1964 date are from MusicBrainz; the song infobox gives 2:27 and Columbia 30th Street studio. Wikipedia says the Armstrong record made him the oldest artist at No. 1 until December 2023. Billing: single credited to Louis Armstrong; MusicBrainz lists the album as Louis Armstrong and the All Stars. Armstrong's giant slot approved by the coordinator."
+  },
+  {
+    "id": "jazz-mancini-the-pink-panther-theme",
+    "artist": "Henry Mancini",
+    "title": "The Pink Panther Theme",
+    "composer": "Henry Mancini",
+    "recording_date": "1963-09",
+    "recording_year": 1963,
+    "release_year": 1964,
+    "original_issue": "RCA Victor LPM-2795 / LSP-2795 (LP \"The Pink Panther: Music from the Film Score\", 1964); also issued as an RCA Victor single (US, 1964; catalogue number not verified)",
+    "personnel": "Henry Mancini (composer, conductor); Plas Johnson (tenor sax); Gene Cipriano, Harry Klee, Ronny Lang, Ted Nash (flute, saxes); Frank Beach, Conrad Gozzo, Jack Sheldon, Ray Triscari (trumpet); Karl DeKarske, Dick Nash, Jimmy Priddy (trombone); John Halliburton (bass trombone); Al Hendrickson (guitar); Larry Bunker, Frank Flynn (vibes, percussion); Jimmy Rowles (piano); Rolly Bundock (bass); Shelly Manne (drums); Ramon Rivera (congas, percussion); producer Joe Reisman",
+    "style": "big-band",
+    "year": 1963,
+    "year_lo": 1963,
+    "year_hi": 1963,
+    "year_label": "1963",
+    "trivia": "Mancini cast Plas Johnson's tenor sax for the theme before writing it, and the animators timed the cartoon panther's moves to the music. It was nominated for an Oscar but lost to Mary Poppins.",
+    "tags": [
+      "1960s",
+      "big-band",
+      "rca",
+      "film-theme",
+      "crossover"
+    ],
+    "track": {
+      "artist": "Henry Mancini",
+      "title": "The Pink Panther Theme",
+      "album": "The Pink Panther: Music from the Film Score",
+      "duration": "2:37",
+      "isrc": null,
+      "query": "Henry Mancini The Pink Panther Theme The Pink Panther 1963",
+      "notes": "Original 1963 film-score recording with Plas Johnson on tenor sax (2:37 on the LP; the single is listed at 2:40), not the cartoon-short versions or later remakes"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Pink_Panther_Theme",
+      "https://en.wikipedia.org/wiki/The_Pink_Panther_(soundtrack)"
+    ],
+    "notes": "The soundtrack page gives recording on 16-18 September 1963 at RCA Victor, Hollywood; the exact day of the theme is not stated, so the month is used. Release year: the album page's infobox says 1964 (Billboard chart entry 25 April 1964; its category says 1963 soundtrack albums) and the song page says the single came out in the US in 1964; 1964 is used. Accordion conflict: the song page names Pete Jolly, the soundtrack page Carl Fortina, so accordion is left out of the personnel. Film-theme crossover (jazz composition by Mancini played by a Hollywood session band); the soundtrack album entered the Grammy Hall of Fame in 2001."
+  },
+  {
+    "id": "jazz-kenny-burrell-midnight-blue",
+    "artist": "Kenny Burrell",
+    "title": "Midnight Blue",
+    "composer": "Kenny Burrell",
+    "recording_date": "1963-01-08",
+    "recording_year": 1963,
+    "release_year": 1963,
+    "original_issue": "Blue Note BLP 4123 / BST 84123 (LP \"Midnight Blue\", early May 1963)",
+    "personnel": "Kenny Burrell (guitar), Major Holley Jr. (bass), Bill English (drums), Ray Barretto (congas)",
+    "style": "soul-jazz",
+    "year": 1963,
+    "year_lo": 1963,
+    "year_hi": 1963,
+    "year_label": "1963",
+    "trivia": "This slow blues is the title piece of an album that NPR later put in its Basic Jazz Library as one of the great jazzy blues records. Elvis Costello's 1981 album Almost Blue borrowed its sleeve design from the cover.",
+    "tags": [
+      "1960s",
+      "soul-jazz",
+      "blue-note"
+    ],
+    "track": {
+      "artist": "Kenny Burrell",
+      "title": "Midnight Blue",
+      "album": "Midnight Blue",
+      "duration": "4:02",
+      "isrc": null,
+      "query": "Kenny Burrell Midnight Blue Midnight Blue 1963",
+      "notes": "Title track from Midnight Blue (4:02; quartet without Stanley Turrentine), not Burrell's other recordings and not the album's opener \"Chitlins con Carne\""
+    },
+    "confidence": "high",
+    "sources": [
+      "https://www.jazzdisco.org/kenny-burrell/discography/",
+      "https://en.wikipedia.org/wiki/Midnight_Blue_(Kenny_Burrell_album)"
+    ],
+    "notes": "Date, tk.31 and the track-by-track personnel (Turrentine only on tracks 1-5; Holley, English and Barretto on this track) from jazzdisco, matching the Wikipedia personnel notes (Van Gelder Studio, Englewood Cliffs). Burrell is the composer per the album track list. Chosen the title track rather than \"Chitlins con Carne\" (the issued single) for name recognition."
+  },
+  {
+    "id": "jazz-grant-green-idle-moments",
+    "artist": "Grant Green",
+    "title": "Idle Moments",
+    "composer": "Duke Pearson",
+    "recording_date": "1963-11-04",
+    "recording_year": 1963,
+    "release_year": 1965,
+    "original_issue": "Blue Note BLP 4154 / BST 84154 (LP \"Idle Moments\", released February 1965)",
+    "personnel": "Grant Green (guitar), Joe Henderson (tenor sax), Bobby Hutcherson (vibraphone), Duke Pearson (piano), Bob Cranshaw (bass), Al Harewood (drums)",
+    "style": "hard-bop",
+    "year": 1963,
+    "year_lo": 1963,
+    "year_hi": 1963,
+    "year_label": "1963",
+    "trivia": "Duke Pearson's tune was meant to be much shorter, but the musicians stated the melody twice and it stretched to nearly 15 minutes. Two other tunes were therefore recut in shorter versions so that the album would fit on one LP.",
+    "tags": [
+      "1960s",
+      "hard-bop",
+      "blue-note"
+    ],
+    "track": {
+      "artist": "Grant Green",
+      "title": "Idle Moments",
+      "album": "Idle Moments",
+      "duration": "14:56",
+      "isrc": null,
+      "query": "Grant Green Idle Moments Idle Moments 1963",
+      "notes": "Title track from Idle Moments (14:56, Blue Note master take 14), not the alternate takes on the CD reissue"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://www.jazzdisco.org/grant-green/discography/",
+      "https://en.wikipedia.org/wiki/Idle_Moments"
+    ],
+    "notes": "GAP: recorded 1963, first released 1965 (2 yrs). Date and take (tk.14, 4 November 1963; Van Gelder Studio, Englewood Cliffs) from jazzdisco; Wikipedia gives the album sessions as 4 and 15 November 1963 and release in February 1965 (jazzdisco also lists the LP as 1965), so the gap of about 15 months to the next calendar year is real but the reason it sat unreleased was not sourced. Duration 14:56 from the Wikipedia track list."
+  },
+  {
+    "id": "jazz-gordon-a-night-in-tunisia",
+    "artist": "Dexter Gordon",
+    "title": "A Night in Tunisia",
+    "composer": "Dizzy Gillespie (Frank Paparelli co-credited)",
+    "recording_date": "1963-05-23",
+    "recording_year": 1963,
+    "release_year": 1963,
+    "original_issue": "Blue Note BLP 4146 / BST 84146 (LP \"Our Man in Paris\", December 1963)",
+    "personnel": "Dexter Gordon (tenor sax), Bud Powell (piano), Pierre Michelot (bass), Kenny Clarke (drums); producer Francis Wolff",
+    "style": "bebop",
+    "year": 1963,
+    "year_lo": 1963,
+    "year_hi": 1963,
+    "year_label": "1963",
+    "trivia": "Gordon had just moved to Copenhagen when he cut this Paris session with fellow expatriates Bud Powell and Kenny Clarke. The plan for new Gordon compositions was dropped because Powell would not play new material, so standards were chosen at rehearsal.",
+    "tags": [
+      "1960s",
+      "bebop",
+      "blue-note"
+    ],
+    "track": {
+      "artist": "Dexter Gordon",
+      "title": "A Night in Tunisia",
+      "album": "Our Man in Paris",
+      "duration": "8:15",
+      "isrc": null,
+      "query": "Dexter Gordon A Night in Tunisia Our Man in Paris 1963",
+      "notes": "Blue Note album track from Our Man in Paris (8:15; tk.1 of 23 May 1963), not Dizzy Gillespie's 1946 original or Charlie Parker's recording"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://www.jazzdisco.org/dexter-gordon/discography/",
+      "https://en.wikipedia.org/wiki/Our_Man_in_Paris"
+    ],
+    "notes": "Date and Blue Note catalogue number from jazzdisco (CBS Studios, Paris, as \"Dexter Gordon With The Three Bosses\"); personnel, 8:15 and December 1963 release from Wikipedia. The Penguin Guide to Jazz gave the album a maximum rating and a core-collection place, calling this performance one of Gordon's finest. Dexter Gordon's 2nd card in the set and the tune's 2nd version after Gillespie's 1946 recording."
+  },
+  {
+    "id": "jazz-davis-my-funny-valentine",
+    "artist": "Miles Davis",
+    "title": "My Funny Valentine",
+    "composer": "Richard Rodgers, Lorenz Hart",
+    "recording_date": "1964-02-12",
+    "recording_year": 1964,
+    "release_year": 1965,
+    "original_issue": "Columbia CL 2306 (mono) / CS 9106 (stereo), LP \"My Funny Valentine: Miles Davis in Concert\", released 23 February 1965",
+    "personnel": "Miles Davis (trumpet), George Coleman (tenor sax), Herbie Hancock (piano), Ron Carter (bass), Tony Williams (drums)",
+    "style": "post-bop",
+    "year": 1964,
+    "year_lo": 1964,
+    "year_hi": 1964,
+    "year_label": "1964",
+    "trivia": "Recorded live at New York's Philharmonic Hall as a benefit for civil-rights organisations (NAACP, CORE and SNCC) supporting voter registration in the South. It was the last recording George Coleman made with Davis.",
+    "tags": [
+      "1960s",
+      "post-bop",
+      "columbia",
+      "live"
+    ],
+    "track": {
+      "artist": "Miles Davis",
+      "title": "My Funny Valentine",
+      "album": "My Funny Valentine: Miles Davis in Concert",
+      "duration": "15:03",
+      "isrc": null,
+      "query": "Miles Davis My Funny Valentine My Funny Valentine Miles Davis in Concert 1964",
+      "notes": "Live take from the Lincoln Center concert of 12 Feb 1964 (15:03 on the LP), not the 1956 Prestige studio version on Cookin' nor Davis's other live versions"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://www.jazzdisco.org/miles-davis/discography/",
+      "https://en.wikipedia.org/wiki/My_Funny_Valentine:_Miles_Davis_in_Concert"
+    ],
+    "notes": "Date, venue and personnel from jazzdisco (second set of the evening) and the album's Wikipedia page, which gives the release as 23 Feb 1965. YouTube: the Miles Davis channel upload is 901 s (about 265k views). Set-level note: this is the 6th Davis card in the set (assignment slot), and the 2nd version of the tune after Mulligan's 1952 recording."
+  },
+  {
+    "id": "jazz-coltrane-a-love-supreme-part-i-acknowledgement",
+    "artist": "John Coltrane",
+    "title": "A Love Supreme, Part I: Acknowledgement",
+    "composer": "John Coltrane",
+    "recording_date": "1964-12-09",
+    "recording_year": 1964,
+    "release_year": 1965,
+    "original_issue": "Impulse! A-77 (mono) / AS-77 (stereo), LP \"A Love Supreme\", released January 1965",
+    "personnel": "John Coltrane (tenor sax, vocal overdub), McCoy Tyner (piano), Jimmy Garrison (bass), Elvin Jones (drums)",
+    "style": "modal",
+    "year": 1964,
+    "year_lo": 1964,
+    "year_hi": 1964,
+    "year_label": "1964",
+    "trivia": "Jimmy Garrison's four-note bass figure carries the chant of the album's title, which Coltrane sang himself by overdubbing his own voice. The quartet recorded the whole suite in one session at Van Gelder's studio.",
+    "tags": [
+      "1960s",
+      "modal",
+      "impulse"
+    ],
+    "track": {
+      "artist": "John Coltrane",
+      "title": "A Love Supreme, Part I: Acknowledgement",
+      "album": "A Love Supreme",
+      "duration": "7:42",
+      "isrc": null,
+      "query": "John Coltrane A Love Supreme, Part I: Acknowledgement A Love Supreme 1964",
+      "notes": "Quartet master of 9 Dec 1964 (7:42), the album version; not the 10 Dec sextet alternate takes with Archie Shepp and Art Davis nor the vocal-overdub alternates"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://www.jazzdisco.org/john-coltrane/discography/",
+      "https://en.wikipedia.org/wiki/A_Love_Supreme",
+      "https://en.wikipedia.org/wiki/List_of_Grammy_Hall_of_Fame_Award_recipients_(A%E2%80%93D)"
+    ],
+    "notes": "Session date, personnel and the Dec 10 sextet date from jazzdisco; the album is in the Grammy Hall of Fame (ghof). Coltrane slot assigned in the brief. The Part I title track on YouTube is 464 s (Coltrane channel)."
+  },
+  {
+    "id": "jazz-guaraldi-linus-and-lucy",
+    "artist": "Vince Guaraldi Trio",
+    "title": "Linus and Lucy",
+    "composer": "Vince Guaraldi",
+    "recording_date": "1964-10-26",
+    "recording_year": 1964,
+    "release_year": 1964,
+    "original_issue": "Fantasy 7-inch single (December 1964, \"Oh, Good Grief\" / \"Linus and Lucy\"; catalogue number not verified); LP \"Jazz Impressions of A Boy Named Charlie Brown\" (Fantasy, December 1964)",
+    "personnel": "Vince Guaraldi (piano), Monty Budwig (bass), Colin Bailey (drums)",
+    "style": "west-coast",
+    "year": 1964,
+    "year_lo": 1964,
+    "year_hi": 1964,
+    "year_label": "1964",
+    "trivia": "Guaraldi's piano theme became the signature music of the Charlie Brown television specials. The same 1964 trio recording was reused on the A Charlie Brown Christmas album.",
+    "tags": [
+      "1960s",
+      "west-coast",
+      "fantasy",
+      "tv-theme",
+      "crossover"
+    ],
+    "track": {
+      "artist": "Vince Guaraldi Trio",
+      "title": "Linus and Lucy",
+      "album": "Jazz Impressions of A Boy Named Charlie Brown",
+      "duration": "3:03",
+      "isrc": null,
+      "query": "Vince Guaraldi Trio Linus and Lucy A Charlie Brown Christmas 1964",
+      "notes": "The 26 Oct 1964 Budwig/Bailey trio recording (about 3:05 on YouTube), as on the 1964 Jazz Impressions LP and the 1965 A Charlie Brown Christmas LP; not the 17 Sep 1965 re-recording with Fred Marshall and Jerry Granelli made for the TV special"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Linus_and_Lucy",
+      "https://en.wikipedia.org/wiki/Jazz_Impressions_of_A_Boy_Named_Charlie_Brown",
+      "https://en.wikipedia.org/wiki/A_Charlie_Brown_Christmas_(soundtrack)"
+    ],
+    "notes": "Medium: Wikipedia-only (no discography). The brief assumed the Christmas-album track was a different recording; Wikipedia's soundtrack page says the album uses the Oct 1964 Budwig/Bailey take, so the 1964 card is correct. The q uses the Christmas album title because the Jazz Impressions title returned unrelated hits; the top result of that query is the Vince Guaraldi channel upload (about 3:05, about 10.8M views). Single catalogue number not verified. Set-level: Guaraldi is at 2 cards with Cast Your Fate to the Wind (part 5b); the second A-tier Guaraldi pick (Christmas Time Is Here, 1965) was dropped for the 2-card cap."
+  },
+  {
+    "id": "jazz-silver-song-for-my-father",
+    "artist": "Horace Silver Quintet",
+    "title": "Song for My Father",
+    "composer": "Horace Silver",
+    "recording_date": "1964-10-26",
+    "recording_year": 1964,
+    "release_year": 1965,
+    "original_issue": "Blue Note BLP 4185 (mono) / BST 84185 (stereo), LP \"Song for My Father\", released end of January 1965 per Wikipedia; 45 rpm Blue Note 45-1912 (\"Parts 1 and 2\") per jazzdisco",
+    "personnel": "Horace Silver (piano), Carmell Jones (trumpet), Joe Henderson (tenor sax), Teddy Smith (bass), Roger Humphries (drums)",
+    "style": "hard-bop",
+    "year": 1964,
+    "year_lo": 1964,
+    "year_hi": 1964,
+    "year_label": "1964",
+    "trivia": "Silver wrote it for his Cape Verdean-Portuguese father after a trip to Brazil, and its opening bass figure was borrowed by Steely Dan for Rikki Don't Lose That Number in 1974. The album is in the Grammy Hall of Fame.",
+    "tags": [
+      "1960s",
+      "hard-bop",
+      "blue-note"
+    ],
+    "track": {
+      "artist": "Horace Silver Quintet",
+      "title": "Song for My Father",
+      "album": "Song for My Father",
+      "duration": "7:17",
+      "isrc": null,
+      "query": "Horace Silver Quintet Song for My Father Song for My Father 1964",
+      "notes": "Van Gelder studio master (matrix 1457 take 26) of 26 Oct 1964, the title track of the LP; not Silver's later live remakes"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://www.jazzdisco.org/horace-silver/discography/",
+      "https://en.wikipedia.org/wiki/Song_for_My_Father_(album)",
+      "https://en.wikipedia.org/wiki/Song_for_My_Father_(composition)",
+      "https://en.wikipedia.org/wiki/List_of_Grammy_Hall_of_Fame_Award_recipients_(Q%E2%80%93Z)"
+    ],
+    "notes": "Medium only because of a release-year conflict: Wikipedia says the LP came out at the end of January 1965, jazzdisco dates both the LP and the 45 to 1964; 1965 is used. Recording date, matrix and personnel from jazzdisco. Set-level: this is Silver's 3rd card (Doodlin' and The Preacher already exist), above the 2-card cap; it was a must-try in the brief, so it is kept for the orchestrator to decide. YouTube: about 9.5M views for the best-known upload."
+  },
+  {
+    "id": "jazz-tjader-soul-sauce-guachi-guaro",
+    "artist": "Cal Tjader",
+    "title": "Soul Sauce (Guachi Guaro)",
+    "composer": "Dizzy Gillespie, Chano Pozo",
+    "recording_date": "1964-11-20",
+    "recording_year": 1964,
+    "release_year": 1965,
+    "original_issue": "Verve V6-8614 (stereo LP \"Soul Sauce\", 1965)",
+    "personnel": "Cal Tjader (vibraphone), Lonnie Hewitt (piano), John Hilliard (bass), Johnny Rae (drums), Willie Bobo, Armando Peraza and Alberto Valdes (percussion)",
+    "style": "latin",
+    "year": 1964,
+    "year_lo": 1964,
+    "year_hi": 1964,
+    "year_label": "1964",
+    "trivia": "Willie Bobo's remark that Tjader's treatment was spicier than the original supplied the title, and the track became a radio hit in spring 1965. The album sold more than 100,000 copies.",
+    "tags": [
+      "1960s",
+      "latin",
+      "verve"
+    ],
+    "track": {
+      "artist": "Cal Tjader",
+      "title": "Soul Sauce (Guachi Guaro)",
+      "album": "Soul Sauce",
+      "duration": "2:24",
+      "isrc": null,
+      "query": "Cal Tjader Soul Sauce Soul Sauce 1964",
+      "notes": "Verve studio recording of 20 Nov 1964 as on the LP (about 2:24; some uploads run a little longer), not the Gillespie/Pozo original Guachi Guaro nor other Tjader Latin-jazz recordings"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Soul_Sauce",
+      "https://en.wikipedia.org/wiki/Cal_Tjader"
+    ],
+    "notes": "Medium: Wikipedia-only. The Soul Sauce page credits June Magruder with the vocal call-outs, while the Cal Tjader page attributes them to Bobo; the vocalist is therefore left out of the personnel line. The single's catalogue number was not verified. The track charted on New York radio (WMCA top 20, May 1965)."
+  },
+  {
+    "id": "jazz-basie-fly-me-to-the-moon-in-other-words",
+    "artist": "Frank Sinatra with Count Basie and His Orchestra",
+    "title": "Fly Me to the Moon (In Other Words)",
+    "composer": "Bart Howard",
+    "recording_date": "1964-06",
+    "recording_year": 1964,
+    "release_year": 1964,
+    "original_issue": "Reprise FS 1012 (LP \"It Might as Well Be Swing\", August 1964)",
+    "personnel": "Frank Sinatra (vocal), Count Basie (piano) and His Orchestra: Al Porcino, Don Rader, Wallace Davenport, Al Aarons, George Cohn, Harry \"Sweets\" Edison (trumpets); Henry Coker, Grover Mitchell, Bill Hughes, Henderson Chambers, Kenny Shroyer (trombones); Marshal Royal, Frank Wess, Frank Foster, Charles Fowlkes, Eric Dixon (reeds); Emil Richards (vibraphone), Freddie Green (guitar), George Catlett (bass), Sonny Payne (drums); arranged and conducted by Quincy Jones. Album-level credits, not verified per track",
+    "style": "big-band",
+    "year": 1964,
+    "year_lo": 1964,
+    "year_hi": 1964,
+    "year_label": "1964",
+    "trivia": "Quincy Jones turned Bart Howard's song, written in waltz time, into a swinging four-beat chart for Sinatra and the Basie band. It became closely associated with the Apollo space missions.",
+    "tags": [
+      "1960s",
+      "big-band",
+      "reprise",
+      "vocal",
+      "crossover"
+    ],
+    "track": {
+      "artist": "Frank Sinatra with Count Basie and His Orchestra",
+      "title": "Fly Me to the Moon (In Other Words)",
+      "album": "It Might as Well Be Swing",
+      "duration": "2:30",
+      "isrc": null,
+      "query": "Frank Sinatra Count Basie Fly Me to the Moon It Might as Well Be Swing 1964",
+      "notes": "Studio version from the 1964 Reprise album with the Quincy Jones arrangement, not the 1966 live version on Sinatra at the Sands nor the many other Fly Me to the Moon covers"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/It_Might_as_Well_Be_Swing",
+      "https://en.wikipedia.org/wiki/Fly_Me_to_the_Moon"
+    ],
+    "notes": "Correction to the brief: the album sessions were 9-12 June 1964 in Hollywood (Wikipedia), not October 1964. The exact day of this track is not documented in the sources read, so only the month is given (MusicBrainz was unavailable); hence medium. Personnel is album-level and a string section is listed for the album, its use on this track is unverified. Basie slot per assignment (Basie is 5th counting the Kansas City Seven card; Sinatra 2nd). YouTube: official upload about 10.9M views, 148 s."
+  },
+  {
+    "id": "jazz-peterson-you-look-good-to-me",
+    "artist": "The Oscar Peterson Trio",
+    "title": "You Look Good to Me",
+    "composer": "Seymour Lefco, Clement Wells",
+    "recording_date": "1964-10-20",
+    "recording_year": 1964,
+    "release_year": 1965,
+    "original_issue": "Verve V/V6-8606, LP \"We Get Requests\", 1965 per jazzdisco (Wikipedia says 1964)",
+    "personnel": "Oscar Peterson (piano), Ray Brown (bass), Ed Thigpen (drums)",
+    "style": "post-bop",
+    "year": 1964,
+    "year_lo": 1964,
+    "year_hi": 1964,
+    "year_label": "1964",
+    "trivia": "The album ended Peterson's 14-year partnership with Verve. At the same session on 20 October 1964 the trio also recorded People, My One and Only Love and The Days of Wine and Roses.",
+    "tags": [
+      "1960s",
+      "post-bop",
+      "verve"
+    ],
+    "track": {
+      "artist": "The Oscar Peterson Trio",
+      "title": "You Look Good to Me",
+      "album": "We Get Requests",
+      "duration": "4:49",
+      "isrc": null,
+      "query": "The Oscar Peterson Trio You Look Good to Me We Get Requests 1964",
+      "notes": "Studio take of 20 Oct 1964 from We Get Requests (4:49), not the live 1965 trio performances nor Peterson's other recordings of the tune"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://www.jazzdisco.org/oscar-peterson/discography/",
+      "https://en.wikipedia.org/wiki/We_Get_Requests"
+    ],
+    "notes": "Medium: release-year conflict (Wikipedia 1964, jazzdisco 1965; 1965 used). Date, matrix 64VK514 and personnel from jazzdisco. Style is a judgement call: the allowed list has no mainstream-piano entry, so post-bop was used (swing is the alternative). Peterson is the 2nd card in the set after Hymn to Freedom (part 5b). The track gets about 800k views on YouTube."
+  },
+  {
+    "id": "jazz-shorter-speak-no-evil",
+    "artist": "Wayne Shorter",
+    "title": "Speak No Evil",
+    "composer": "Wayne Shorter",
+    "recording_date": "1964-12-24",
+    "recording_year": 1964,
+    "release_year": 1966,
+    "original_issue": "Blue Note BLP 4194 (mono) / BST 84194 (stereo), LP \"Speak No Evil\", released June 1966",
+    "personnel": "Wayne Shorter (tenor sax), Freddie Hubbard (trumpet), Herbie Hancock (piano), Ron Carter (bass), Elvin Jones (drums)",
+    "style": "post-bop",
+    "year": 1964,
+    "year_lo": 1964,
+    "year_hi": 1964,
+    "year_label": "1964",
+    "trivia": "Recorded during Shorter's first year in Miles Davis's quintet, with Hancock and Carter from that band. The woman on the album cover is his first wife, Teruko (Irene) Nakagami.",
+    "tags": [
+      "1960s",
+      "post-bop",
+      "blue-note"
+    ],
+    "track": {
+      "artist": "Wayne Shorter",
+      "title": "Speak No Evil",
+      "album": "Speak No Evil",
+      "duration": "8:23",
+      "isrc": null,
+      "query": "Wayne Shorter Speak No Evil Speak No Evil 1964",
+      "notes": "Van Gelder studio master (matrix 1501 take 14) of 24 Dec 1964, the title track of the LP; not the earlier 2 Nov 1964 session with Billy Higgins, which was rejected"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://www.jazzdisco.org/wayne-shorter/discography/",
+      "https://en.wikipedia.org/wiki/Speak_No_Evil_(Wayne_Shorter_album)"
+    ],
+    "notes": "GAP: recorded 1964, first released 1966 (2 yrs). Recording date, matrix and personnel from jazzdisco (Hubbard plays on the title track); jazzdisco and Wikipedia agree on a 1966 release (June 1966 per Wikipedia), a gap of 2 years from the Dec 1964 session. The title track gets about 1.4M YouTube views."
+  },
+  {
+    "id": "jazz-ayler-ghosts-first-variation",
+    "artist": "Albert Ayler Trio",
+    "title": "Ghosts: First Variation",
+    "composer": "Albert Ayler",
+    "recording_date": "1964-07-10",
+    "recording_year": 1964,
+    "release_year": 1965,
+    "original_issue": "ESP-Disk ESP 1002, LP \"Spiritual Unity\", released May 1965",
+    "personnel": "Albert Ayler (tenor sax), Gary Peacock (bass), Sunny Murray (percussion)",
+    "style": "free",
+    "year": 1964,
+    "year_lo": 1964,
+    "year_hi": 1964,
+    "year_label": "1964",
+    "trivia": "It was the first album recorded for Bernard Stollman's ESP-Disk label. Ayler had already played the Ghosts theme live at the Cellar Cafe a month earlier.",
+    "tags": [
+      "1960s",
+      "free",
+      "esp-disk"
+    ],
+    "track": {
+      "artist": "Albert Ayler Trio",
+      "title": "Ghosts: First Variation",
+      "album": "Spiritual Unity",
+      "duration": "5:12",
+      "isrc": null,
+      "query": "Albert Ayler Trio Ghosts First Variation Spiritual Unity 1964",
+      "notes": "Studio version on Spiritual Unity (ESP 1002) of 10 Jul 1964, not the 14 Jun 1964 Cellar Cafe live version (ESP 3030) nor Ayler's later Ghosts versions"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://www.jazzdisco.org/albert-ayler/discography/",
+      "https://en.wikipedia.org/wiki/Spiritual_Unity"
+    ],
+    "notes": "Tier C on purpose: the one free-jazz marker in the slice; it earns its place as a landmark free-jazz trio recording and the first session recorded for ESP-Disk (about 97k views on the Topic upload). Date and personnel from jazzdisco and the album page; jazzdisco names Murray's role as percussion."
+  },
+  {
+    "id": "jazz-desmond-bossa-antigua",
+    "artist": "Paul Desmond",
+    "title": "Bossa Antigua",
+    "composer": "Paul Desmond",
+    "recording_date": "1964-07-28",
+    "recording_year": 1964,
+    "release_year": 1965,
+    "original_issue": "RCA Victor LPM-3320 (LP \"Bossa Antigua\", 1965)",
+    "personnel": "Paul Desmond (alto sax), Jim Hall (guitar), Gene Wright (bass), Connie Kay (drums)",
+    "style": "cool",
+    "year": 1964,
+    "year_lo": 1964,
+    "year_hi": 1964,
+    "year_label": "1964",
+    "trivia": "The title is a pun on bossa nova, the new thing, with antigua suggesting the old. Desmond cut it with Jim Hall at the height of the American bossa nova craze, a year after his Take Ten album.",
+    "tags": [
+      "1960s",
+      "cool",
+      "rca",
+      "bossa-nova"
+    ],
+    "track": {
+      "artist": "Paul Desmond",
+      "title": "Bossa Antigua",
+      "album": "Bossa Antigua",
+      "duration": "4:43",
+      "isrc": null,
+      "query": "Paul Desmond Bossa Antigua Bossa Antigua 1964",
+      "notes": "Studio take of 28 Jul 1964 (matrix PRA1-6042, 4:43) from the Desmond-Hall quartet album, not Desmond's Brubeck-quartet recordings"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://www.jazzdisco.org/paul-desmond/discography/",
+      "https://en.wikipedia.org/wiki/Bossa_Antigua"
+    ],
+    "notes": "Jazzdisco dates the session of this track to 28 Jul 1964 (the Wikipedia infobox lists four dates between 28 Jul and 8 Sep for the whole album). Wikipedia names Eugene Wright on bass for this track (Gene Cherico only on track 8). The Topic upload has about 1.3M views (283 s)."
+  },
+  {
+    "id": "jazz-dolphy-hat-and-beard",
+    "artist": "Eric Dolphy",
+    "title": "Hat and Beard",
+    "composer": "Eric Dolphy",
+    "recording_date": "1964-02-25",
+    "recording_year": 1964,
+    "release_year": 1964,
+    "original_issue": "Blue Note BLP 4163 (mono) / BST 84163 (stereo), LP \"Out to Lunch!\", August 1964",
+    "personnel": "Eric Dolphy (bass clarinet), Freddie Hubbard (trumpet), Bobby Hutcherson (vibraphone), Richard Davis (bass), Tony Williams (drums)",
+    "style": "post-bop",
+    "year": 1964,
+    "year_lo": 1964,
+    "year_hi": 1964,
+    "year_label": "1964",
+    "trivia": "A tribute to Thelonious Monk, driven by wild bass clarinet and a percussion interlude for Williams and Hutcherson. Dolphy died four months after recording it, before the album appeared.",
+    "tags": [
+      "1960s",
+      "post-bop",
+      "blue-note",
+      "avant-garde"
+    ],
+    "track": {
+      "artist": "Eric Dolphy",
+      "title": "Hat and Beard",
+      "album": "Out to Lunch!",
+      "duration": "8:24",
+      "isrc": null,
+      "query": "Eric Dolphy Hat and Beard Out to Lunch! 1964",
+      "notes": "Blue Note master take 10 (matrix 1310, 8:24), not the alternate take (8:35) issued on a 2013 Japanese reissue"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://www.jazzdisco.org/eric-dolphy/discography/",
+      "https://en.wikipedia.org/wiki/Out_to_Lunch!"
+    ],
+    "notes": "Tier C justified as a landmark: the album is in the Penguin Guide's Core Collection and is regularly ranked among the best Blue Note records (about 300k views for the opener). It is Dolphy's only Blue Note album as leader. Date, matrix and personnel from jazzdisco and the album page; release August 1964 per Wikipedia."
+  },
+  {
+    "id": "jazz-ramsey-lewis-the-in-crowd",
+    "artist": "The Ramsey Lewis Trio",
+    "title": "The 'In' Crowd",
+    "composer": "Billy Page",
+    "recording_date": "1965-05",
+    "recording_year": 1965,
+    "release_year": 1965,
+    "original_issue": "Argo LP 757, LP \"The In Crowd\", released July 1965; the edited 45 rpm single came out in June 1965 (catalogue number not verified)",
+    "personnel": "Ramsey Lewis (piano), Eldee Young (bass), Redd Holt (drums)",
+    "style": "soul-jazz",
+    "year": 1965,
+    "year_lo": 1965,
+    "year_hi": 1965,
+    "year_label": "1965",
+    "trivia": "The trio's live take on Dobie Gray's song, recorded at Washington's Bohemian Caverns, reached No. 5 on the Hot 100 and No. 2 on the R&B chart. It won the 1966 Grammy for Best Instrumental Jazz Performance.",
+    "tags": [
+      "1960s",
+      "soul-jazz",
+      "argo",
+      "live"
+    ],
+    "track": {
+      "artist": "The Ramsey Lewis Trio",
+      "title": "The 'In' Crowd",
+      "album": "The In Crowd",
+      "duration": "5:50",
+      "isrc": null,
+      "query": "The Ramsey Lewis Trio The 'In' Crowd The In Crowd Bohemian Caverns 1965",
+      "notes": "Live Bohemian Caverns performance (5:50 on the LP); the shorter 45 rpm single is an edit of the same performance. Not Dobie Gray's original"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_In_Crowd_(Ramsey_Lewis_album)",
+      "https://en.wikipedia.org/wiki/The_'In'_Crowd",
+      "https://en.wikipedia.org/wiki/List_of_Grammy_Hall_of_Fame_Award_recipients_(E%E2%80%93I)"
+    ],
+    "notes": "Recorded live on 13 and 15 May 1965, so the month is used. The single was listed in the Grammy Hall of Fame (2009). The Topic upload of the live LP version is 352 s (about 579k views); the 197 s uploads are the single edit. Ramsey Lewis is at 2 cards with Wade in the Water (part 5d)."
+  },
+  {
+    "id": "jazz-simone-feeling-good",
+    "artist": "Nina Simone",
+    "title": "Feeling Good",
+    "composer": "Leslie Bricusse, Anthony Newley",
+    "recording_date": "1965-01",
+    "recording_year": 1965,
+    "release_year": 1965,
+    "original_issue": "Philips LP \"I Put a Spell on You\", released June 1965 (catalogue number not verified); not issued as a single at the time",
+    "personnel": "Nina Simone (vocals) with orchestra; Hal Mooney arranged and produced the album, per-track personnel not verified",
+    "style": "vocal",
+    "year": 1965,
+    "year_lo": 1965,
+    "year_hi": 1965,
+    "year_label": "1965",
+    "trivia": "The song comes from the 1964 musical The Roar of the Greasepaint - The Smell of the Crowd. A 1994 Volkswagen television commercial made it a hit in Britain, where it reached number 40 that July.",
+    "tags": [
+      "1960s",
+      "vocal",
+      "philips"
+    ],
+    "track": {
+      "artist": "Nina Simone",
+      "title": "Feeling Good",
+      "album": "I Put a Spell on You",
+      "duration": "2:53",
+      "isrc": null,
+      "query": "Nina Simone Feeling Good I Put a Spell on You album 1965",
+      "notes": "Philips album track from I Put a Spell on You (about 2:53), not the album's title track nor the 1994 UK single release"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Feeling_Good",
+      "https://en.wikipedia.org/wiki/I_Put_a_Spell_on_You_(album)"
+    ],
+    "notes": "Medium: Wikipedia-only; only the month of the sessions is known, and the album credits Rudy Stevenson (guitar) and Horace Ott (arranger) without saying who plays on this track. Search note: without the word album in q the top hit is the I Put a Spell on You video, the Feeling Good official video is the right one (183 s, about 50M views). Nina Simone is at 2 cards with I Loves You, Porgy (1957)."
+  },
+  {
+    "id": "jazz-wes-montgomery-goin-out-of-my-head",
+    "artist": "Wes Montgomery",
+    "title": "Goin' Out of My Head",
+    "composer": "Teddy Randazzo, Bobby Weinstein",
+    "recording_date": "1965-11-20",
+    "recording_year": 1965,
+    "release_year": 1966,
+    "original_issue": "Verve single VK-10384 (\"Goin' Out of My Head\" / \"Boss City\"); LP Verve V/V6-8642, \"Goin' Out of My Head\", released February 1966",
+    "personnel": "Wes Montgomery (guitar) with Oliver Nelson's orchestra: Donald Byrd, Danny Moore, Joe Newman, Ernie Royal (trumpets); Wayne Andre, Jimmy Cleveland, Quentin Jackson, Tony Studd (trombones); Phil Woods, Jerry Dodgion, Romeo Penque, Dan Bank, Bob Ashton (reeds); Herbie Hancock, Roger Kellaway (piano); George Duvivier (bass); Sol Gubin, Grady Tate (drums); Candido (conga)",
+    "style": "smooth",
+    "year": 1965,
+    "year_lo": 1965,
+    "year_hi": 1965,
+    "year_label": "1965",
+    "trivia": "Producer Creed Taylor's idea was to cover the 1964 hit by Little Anthony and the Imperials. The album became Montgomery's first big commercial success and won a Grammy in 1967.",
+    "tags": [
+      "1960s",
+      "smooth",
+      "verve"
+    ],
+    "track": {
+      "artist": "Wes Montgomery",
+      "title": "Goin' Out of My Head",
+      "album": "Goin' Out of My Head",
+      "duration": "2:14",
+      "isrc": null,
+      "query": "Wes Montgomery Goin' Out of My Head Goin' Out of My Head 1965",
+      "notes": "Verve studio recording of 20 Nov 1965 with the Oliver Nelson arrangement (about 2:14), not Little Anthony and the Imperials' original nor Montgomery's later live versions"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://www.jazzdisco.org/wes-montgomery/discography/",
+      "https://en.wikipedia.org/wiki/Goin'_Out_of_My_Head_(album)"
+    ],
+    "notes": "Date, matrix 65VK547, single number and personnel from jazzdisco. Style smooth is a judgement call (the arrangement is orchestral and pop-oriented; post-bop would be the alternative). Set-level: Wes Montgomery is at 3 cards with Four on Six (part 5a) and Road Song (part 5d), one above the cap; the assignment allowed one in this slice. The Wes Montgomery channel upload has about 80k views."
+  },
+  {
+    "id": "jazz-astrud-gilberto-agua-de-beber",
+    "artist": "Astrud Gilberto",
+    "title": "Água de Beber",
+    "composer": "Antônio Carlos Jobim, Vinicius de Moraes",
+    "recording_date": "1965-01",
+    "recording_year": 1965,
+    "release_year": 1965,
+    "original_issue": "Verve V6-8608 (stereo LP \"The Astrud Gilberto Album\", 1965)",
+    "personnel": "Astrud Gilberto (vocals), Antônio Carlos Jobim (guitar, vocal), Joe Mondragon (bass), Bud Shank (alto sax, flute), João Donato (piano), Stu Williamson (trumpet), Milt Bernhart (trombone), Guildhall String Ensemble; arranged by Marty Paich. Album-level credits, not verified per track",
+    "style": "bossa-nova",
+    "year": 1965,
+    "year_lo": 1965,
+    "year_hi": 1965,
+    "year_label": "1965",
+    "trivia": "Jobim and Vinicius de Moraes wrote the song in 1959 while Brasilia was being built; it is said to be the first piece composed there. This is the version from Astrud Gilberto's debut solo album, produced by Creed Taylor with Jobim on guitar.",
+    "tags": [
+      "1960s",
+      "bossa-nova",
+      "verve",
+      "vocal",
+      "crossover"
+    ],
+    "track": {
+      "artist": "Astrud Gilberto",
+      "title": "Água de Beber",
+      "album": "The Astrud Gilberto Album",
+      "duration": "2:20",
+      "isrc": null,
+      "query": "Astrud Gilberto Água de Beber The Astrud Gilberto Album 1965",
+      "notes": "Astrud Gilberto's 1965 Verve version (2:20) with Jobim on guitar, not Jobim's own 1963 instrumental recording nor later covers"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Astrud_Gilberto_Album",
+      "https://en.wikipedia.org/wiki/%C3%81gua_de_Beber",
+      "https://musicbrainz.org/release/7e2d20dc-b863-4b2b-bae5-7f74425165f4"
+    ],
+    "notes": "Medium: Wikipedia plus MusicBrainz only. The sessions were 27-28 January 1965 at RCA Studios, Hollywood, so the month is used; personnel is album-level (Wikipedia credits Jobim with vocals on track 2, which is this track). Verve V6-8608 is the 1965 US release listed on MusicBrainz. The Wikipedia track length (2:20) matches the YouTube uploads (141 s, about 4M and 2M views). Crossover bossa nova pick, the only bossa card of this slice."
+  },
+  {
+    "id": "jazz-wilson-how-glad-i-am",
+    "artist": "Nancy Wilson",
+    "title": "(You Don't Know) How Glad I Am",
+    "composer": "Jimmy Williams, Larry Harrison",
+    "recording_date": null,
+    "recording_year": 1964,
+    "release_year": 1964,
+    "original_issue": "Capitol single 5198 (released 8 June 1964, B-side \"Never Less Than Yesterday\"); LP \"How Glad I Am\", Capitol ST 2155 (August 1964)",
+    "personnel": "Nancy Wilson (vocals); the accompanying orchestra and arranger of this track are not documented in the sources read",
+    "style": "vocal",
+    "year": 1964,
+    "year_lo": 1964,
+    "year_hi": 1964,
+    "year_label": "1964",
+    "trivia": "Wilson's biggest hit, it reached No. 11 on the Hot 100 and No. 2 on the pop-standards chart. It won the Grammy for Best Rhythm & Blues Recording, although she thought of it as a pop record.",
+    "tags": [
+      "1960s",
+      "vocal",
+      "capitol",
+      "crossover"
+    ],
+    "track": {
+      "artist": "Nancy Wilson",
+      "title": "(You Don't Know) How Glad I Am",
+      "album": "How Glad I Am",
+      "duration": "2:39",
+      "isrc": null,
+      "query": "Nancy Wilson (You Don't Know) How Glad I Am How Glad I Am 1964",
+      "notes": "Capitol studio version, as on the single and the How Glad I Am LP (about 2:39), not the Kiki Dee, Aretha Franklin or other covers"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/(You_Don't_Know)_How_Glad_I_Am",
+      "https://en.wikipedia.org/wiki/How_Glad_I_Am_(album)",
+      "https://musicbrainz.org/release/d5bb4b28-382a-410f-b604-61b7f5d240e4"
+    ],
+    "notes": "Medium: the album sessions ran March to May 1964, so only the year is given; the song page lists 2:39, the album page 2:37 and MusicBrainz about 2:41. Single date and catalogue numbers from MusicBrainz and the album page; personnel for the track was not found. The least jazz-flavoured card of the slice (Wikipedia calls the single easy listening), kept as a vocal crossover pick."
+  },
+  {
+    "id": "jazz-mendes-mas-que-nada",
+    "artist": "Sérgio Mendes & Brasil '66",
+    "title": "Mas Que Nada",
+    "composer": "Jorge Ben",
+    "recording_date": null,
+    "recording_year": 1966,
+    "release_year": 1966,
+    "original_issue": "A&M SP-4116 (stereo LP \"Herb Alpert Presents Sergio Mendes & Brasil '66\", August 1966; MusicBrainz also lists the mono LP-116)",
+    "personnel": "Sérgio Mendes (piano, keyboards, arranger, backing vocals), Lani Hall (lead vocal), Bibi Vogel (backing vocals), Bob Matthews (bass, backing vocals), José Soares (percussion, backing vocals), João Palma (drums); these are the album credits, not a per-track breakdown",
+    "style": "bossa-nova",
+    "year": 1966,
+    "year_lo": 1966,
+    "year_hi": 1966,
+    "year_label": "1966",
+    "trivia": "Jorge Ben's 1963 samba became a worldwide hit in Mendes's arrangement, which Mendes later called the first Portuguese-language song to be a hit in America. The album it opens entered the Grammy Hall of Fame in 2011.",
+    "tags": [
+      "1960s",
+      "bossa-nova",
+      "a-and-m",
+      "samba",
+      "crossover"
+    ],
+    "track": {
+      "artist": "Sérgio Mendes & Brasil '66",
+      "title": "Mas Que Nada",
+      "album": "Herb Alpert Presents Sergio Mendes & Brasil '66",
+      "duration": "2:38",
+      "isrc": null,
+      "query": "Sérgio Mendes & Brasil '66 Mas Que Nada Herb Alpert Presents Sergio Mendes & Brasil '66 1966",
+      "notes": "Brasil '66 studio version with Lani Hall's lead vocal from the 1966 A&M album (2:38), not Jorge Ben's 1963 original, the Tamba Trio version, TV performances or Mendes's 2006 remake with the Black Eyed Peas"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Herb_Alpert_Presents_Sergio_Mendes_&_Brasil_'66",
+      "https://en.wikipedia.org/wiki/Mas_que_nada",
+      "https://en.wikipedia.org/wiki/S%C3%A9rgio_Mendes",
+      "https://musicbrainz.org/release/9de857e4-178f-36f0-a274-6a9d5bb72e8c"
+    ],
+    "notes": "No recording date was found in any source read (the album's Wikipedia infobox has no recorded field), so only the year is given: 1966 follows from the August 1966 release and from Wikipedia's wording that Mendes's version dates from 1966. The A&M single's catalogue number was not verified, so only the LP number is cited. Duration is Wikipedia's 2:38 (MusicBrainz: 2:37). Mendes's 2014 remark is quoted on the album's Wikipedia page."
+  },
+  {
+    "id": "jazz-cannonball-mercy-mercy-mercy",
+    "artist": "The Cannonball Adderley Quintet",
+    "title": "Mercy, Mercy, Mercy",
+    "composer": "Joe Zawinul",
+    "recording_date": "1966-10-20",
+    "recording_year": 1966,
+    "release_year": 1967,
+    "original_issue": "Capitol T 2663 / ST 2663 (LP \"Mercy, Mercy, Mercy! Live at The Club\", February 1967); the song's Wikipedia page dates the single December 1966 (single catalogue number not verified)",
+    "personnel": "Cannonball Adderley (alto sax), Nat Adderley (cornet), Joe Zawinul (electric piano), Victor Gaskin (bass), Roy McCurdy (drums)",
+    "style": "soul-jazz",
+    "year": 1966,
+    "year_lo": 1966,
+    "year_hi": 1966,
+    "year_label": "1966",
+    "trivia": "The liner notes placed this \"live at The Club\" set in a Chicago nightclub, but it was recorded in Capitol's Hollywood studio before an invited audience with an open bar. Zawinul plays the theme on a Wurlitzer electric piano that had previously been used by Ray Charles.",
+    "tags": [
+      "1960s",
+      "soul-jazz",
+      "capitol",
+      "live"
+    ],
+    "track": {
+      "artist": "The Cannonball Adderley Quintet",
+      "title": "Mercy, Mercy, Mercy",
+      "album": "Mercy, Mercy, Mercy! Live at \"The Club\"",
+      "duration": "5:10",
+      "isrc": null,
+      "query": "Cannonball Adderley Quintet Mercy, Mercy, Mercy Mercy, Mercy, Mercy! Live at The Club 1966",
+      "notes": "Live in-studio album recording of 20 Oct 1966 (5:10), not the Cannonball Adderley Quintet's Tokyo or Monterey 1966 live versions, nor the Buckinghams or other vocal covers"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://www.jazzdisco.org/cannonball-adderley/discography/",
+      "https://en.wikipedia.org/wiki/Mercy,_Mercy,_Mercy!_Live_at_%22The_Club%22",
+      "https://en.wikipedia.org/wiki/Mercy,_Mercy,_Mercy"
+    ],
+    "notes": "Date, matrix 56778 and personnel from jazzdisco (live at Capitol Tower, Los Angeles); the album page gives Capitol Studios, Hollywood. Release year conflict: the album page and jazzdisco say February 1967, the song page infobox says December 1966; 1967 is used. The song reached number 11 on the Billboard Hot 100 and number 2 on the soul chart; the album won the 1968 Grammy for Best Instrumental Jazz Performance and entered the Grammy Hall of Fame in 2021. Cannonball Adderley already has Autumn Leaves (1958) in the set, so this is his second card."
+  },
+  {
+    "id": "jazz-lloyd-forest-flower",
+    "artist": "Charles Lloyd Quartet",
+    "title": "Forest Flower: Sunrise / Sunset",
+    "composer": "Charles Lloyd",
+    "recording_date": "1966-09-18",
+    "recording_year": 1966,
+    "release_year": 1967,
+    "original_issue": "Atlantic LP 1473 / SD 1473 (\"Forest Flower: Charles Lloyd at Monterey\", 21 February 1967); edited single Atlantic 45-5078",
+    "personnel": "Charles Lloyd (tenor sax, flute), Keith Jarrett (piano), Cecil McBee (bass), Jack DeJohnette (drums)",
+    "style": "post-bop",
+    "year": 1966,
+    "year_lo": 1966,
+    "year_hi": 1966,
+    "year_label": "1966",
+    "trivia": "Recorded live at the Monterey Jazz Festival by a young quartet that included Keith Jarrett and Jack DeJohnette, the album crossed over to FM rock radio and is counted among the first jazz LPs to sell a million copies.",
+    "tags": [
+      "1960s",
+      "post-bop",
+      "atlantic",
+      "live"
+    ],
+    "track": {
+      "artist": "Charles Lloyd Quartet",
+      "title": "Forest Flower: Sunrise / Sunset",
+      "album": "Forest Flower: Charles Lloyd at Monterey",
+      "duration": "17:55",
+      "isrc": null,
+      "query": "Charles Lloyd Quartet Forest Flower Sunrise Sunset Forest Flower: Charles Lloyd at Monterey 1966",
+      "notes": "Two-part suite from the Atlantic LP, live at Monterey on 18 Sep 1966 (Sunrise 7:18 plus Sunset 10:37), not the 1964 Columbia studio \"Forest Flower\" on Discovery! nor the edited Atlantic single"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://www.jazzdisco.org/charles-lloyd/discography/",
+      "https://en.wikipedia.org/wiki/Forest_Flower",
+      "https://musicbrainz.org/release/55250094-1a15-4bd8-b709-e83b1bcaa8e0"
+    ],
+    "notes": "Date, matrix 11240 and personnel from jazzdisco (Monterey Jazz Festival, 18 September 1966); Wikipedia's infobox agrees. Wikipedia lists Sunrise and Sunset as two tracks (7:18 and 10:37), jazzdisco as one performance, so the duration here is their sum. Release date 21 February 1967 is from Wikipedia. Other tracks on the LP were recorded in New York on 8 September 1966."
+  },
+  {
+    "id": "jazz-ramsey-lewis-wade-in-the-water",
+    "artist": "The Ramsey Lewis Trio",
+    "title": "Wade in the Water",
+    "composer": "Traditional (spiritual)",
+    "recording_date": null,
+    "recording_year": 1966,
+    "release_year": 1966,
+    "original_issue": "Cadet LPS-774 (LP \"Wade in the Water\", 1966); the title track was also a hit single (catalogue number not verified)",
+    "personnel": "Ramsey Lewis (keyboards), Cleveland Eaton (bass), Maurice White (drums); the album also credits John Avant (trombone) and Richard Evans (arranger, conductor) without a per-track breakdown",
+    "style": "soul-jazz",
+    "year": 1966,
+    "year_lo": 1966,
+    "year_hi": 1966,
+    "year_label": "1966",
+    "trivia": "Lewis turned the old spiritual into a pop hit, number 19 on the Billboard Hot 100 and number 3 on the soul singles chart. Maurice White, later the founder of Earth, Wind & Fire, is the drummer credited on the album.",
+    "tags": [
+      "1960s",
+      "soul-jazz",
+      "cadet",
+      "crossover"
+    ],
+    "track": {
+      "artist": "The Ramsey Lewis Trio",
+      "title": "Wade in the Water",
+      "album": "Wade in the Water",
+      "duration": "3:46",
+      "isrc": null,
+      "query": "Ramsey Lewis Trio Wade in the Water Wade in the Water 1966",
+      "notes": "Cadet studio recording from the 1966 LP (3:46), not other singers' versions of the spiritual or Lewis's later remakes"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Wade_in_the_Water_(album)",
+      "https://en.wikipedia.org/wiki/Ramsey_Lewis",
+      "https://en.wikipedia.org/wiki/Wade_in_the_Water",
+      "https://en.wikipedia.org/wiki/Maurice_White"
+    ],
+    "notes": "The album sessions ran from 26 May to 29 June 1966 at Universal Recording Studio, Chicago (Wikipedia), so only the year is given. The Hot 100 and soul chart peaks are from the album page; the Ramsey Lewis page says the single sold over a million and went gold. Which of the album's credited musicians play on this track is not stated."
+  },
+  {
+    "id": "jazz-armstrong-what-a-wonderful-world",
+    "artist": "Louis Armstrong",
+    "title": "What a Wonderful World",
+    "composer": "George David Weiss and Bob Thiele (as George Douglas)",
+    "recording_date": "1967-08-16",
+    "recording_year": 1967,
+    "release_year": 1967,
+    "original_issue": "ABC single, September 1967 (b/w \"Cabaret\"; catalogue number not verified); LP \"What a Wonderful World\", ABCS-650 (1968)",
+    "personnel": "Louis Armstrong (vocal) with an orchestra arranged by Artie Butler; produced by Bob Thiele; the orchestra's members are not documented in the sources read",
+    "style": "vocal",
+    "year": 1967,
+    "year_lo": 1967,
+    "year_hi": 1967,
+    "year_label": "1967",
+    "trivia": "ABC's president Larry Newton disliked the song and refused to promote it, so it stalled in the US yet reached number one in Britain in April 1968. Armstrong recorded it in Las Vegas between hotel gigs, and passing freight trains forced the orchestra to start over twice.",
+    "tags": [
+      "1960s",
+      "vocal"
+    ],
+    "track": {
+      "artist": "Louis Armstrong",
+      "title": "What a Wonderful World",
+      "album": "What a Wonderful World (ABC single, 1967)",
+      "duration": "2:21",
+      "isrc": null,
+      "query": "Louis Armstrong What a Wonderful World ABC single 1967",
+      "notes": "Original 1967 ABC recording (about 2:20), not the longer uploads with a spoken introduction, the 1988 Good Morning, Vietnam promotion or later covers such as Eva Cassidy and Katie Melua"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/What_a_Wonderful_World"
+    ],
+    "notes": "Date, studio (United Recording, Las Vegas), arranger and anecdotes from Wikipedia's song page. It peaked at number 116 on the Bubbling Under chart in the US, reached number one in the UK in April 1968, was reissued in 1988 after Good Morning, Vietnam and entered the Grammy Hall of Fame in 1999. Duration is the infobox's 2:21 (YouTube's official video runs 2:19). This is Armstrong's giant slot for 1960s."
+  },
+  {
+    "id": "jazz-jobim-wave",
+    "artist": "Antônio Carlos Jobim",
+    "title": "Wave",
+    "composer": "Antônio Carlos Jobim",
+    "recording_date": null,
+    "recording_year": 1967,
+    "release_year": 1967,
+    "original_issue": "A&M SP-3002 (LP \"Wave\", October 1967; produced by Creed Taylor)",
+    "personnel": "Antônio Carlos Jobim (piano, guitar), Claus Ogerman (arranger, conductor), Urbie Green and Jimmy Cleveland (trombone), Jerome Richardson, Romeo Penque and Raymond Beckenstein (flutes), Ron Carter (bass), Dom Um Romão, Bobby Rosengarden and Claudio Slon (drums, percussion), strings; these are the album credits, not a per-track breakdown",
+    "style": "bossa-nova",
+    "year": 1967,
+    "year_lo": 1967,
+    "year_hi": 1967,
+    "year_label": "1967",
+    "trivia": "Jobim recorded his instrumental in New Jersey with Claus Ogerman's orchestration and wrote the English lyrics later in 1967, but the first release of the tune was Sérgio Mendes's vocal version. Tom Lord's discography counts nearly 500 jazz recordings of it.",
+    "tags": [
+      "1960s",
+      "bossa-nova",
+      "a-and-m"
+    ],
+    "track": {
+      "artist": "Antônio Carlos Jobim",
+      "title": "Wave",
+      "album": "Wave",
+      "duration": "2:56",
+      "isrc": null,
+      "query": "Antônio Carlos Jobim Wave Wave 1967",
+      "notes": "Jobim's own instrumental with Claus Ogerman's orchestra from the LP Wave (2:56), not the Mendes and Brasil '66 vocal version or Frank Sinatra's version"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Wave_(Ant%C3%B4nio_Carlos_Jobim_album)",
+      "https://en.wikipedia.org/wiki/Wave_(Ant%C3%B4nio_Carlos_Jobim_song)",
+      "https://musicbrainz.org/release/8a70ca33-60a8-445e-a760-7f06f2e0c990"
+    ],
+    "notes": "The album was recorded at Van Gelder Studio, Englewood Cliffs, on 22-24 May and 15 June 1967 (Wikipedia), so only the year is given; the song page says May-June 1967. LP number A&M SP-3002 is from MusicBrainz (another US pressing there carries CTI OR-3002); release month October 1967 is from Wikipedia. The song page lists 2:58, the album page 2:56; the album track length is used."
+  },
+  {
+    "id": "jazz-schifrin-mission-impossible",
+    "artist": "Lalo Schifrin",
+    "title": "Theme from Mission: Impossible",
+    "composer": "Lalo Schifrin",
+    "recording_date": "1967-10",
+    "recording_year": 1967,
+    "release_year": 1967,
+    "original_issue": "Dot single, 1967 (b/w \"Jim on the Move\"; catalogue number not verified); LP \"Music from Mission: Impossible\", Dot DLP 25831",
+    "personnel": "Lalo Schifrin (piano, harpsichord, arranger, conductor) leading a studio orchestra; the album credits include Bud Shank and Jack Nimitz (reeds), Ray Brown (bass), Carol Kaye (electric bass), Shelly Manne and Earl Palmer (drums) and Bill Plummer (sitar), plus trumpets, trombones, horns and strings, with no per-track breakdown",
+    "style": "big-band",
+    "year": 1967,
+    "year_lo": 1967,
+    "year_hi": 1967,
+    "year_label": "1967",
+    "trivia": "Schifrin wrote the theme in 5/4 time and joked that it was meant for mutants with five legs; his working title was \"Burning Fuse\". The theme won the 1968 Grammy for Best Instrumental Theme, and his 1967 recording entered the Grammy Hall of Fame in 2017.",
+    "tags": [
+      "1960s",
+      "big-band",
+      "tv-theme",
+      "crossover"
+    ],
+    "track": {
+      "artist": "Lalo Schifrin",
+      "title": "Theme from Mission: Impossible",
+      "album": "Single (Dot, 1967) / Music from Mission: Impossible",
+      "duration": "2:31",
+      "isrc": null,
+      "query": "Lalo Schifrin Theme from Mission: Impossible Music from Mission: Impossible 1967",
+      "notes": "Schifrin's 1967 Dot recording (2:31), not the version heard in the TV series, the 1994 live performance or later film and orchestral remakes"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Theme_from_Mission:_Impossible",
+      "https://en.wikipedia.org/wiki/Music_from_Mission:_Impossible",
+      "https://musicbrainz.org/release/43c5390f-7f9a-45ee-8375-0128430a14fa"
+    ],
+    "notes": "The album sessions were 4, 5 and 7 October 1967 (Wikipedia); which day the theme was cut is not stated, so the month is used. The single reached number 41 on the Hot 100 and number 7 on the easy listening chart; its Dot catalogue number was not found. LP number DLP 25831 is from Wikipedia and MusicBrainz. Per-track personnel is not documented, hence the partial album roster. Jazz-adjacent TV theme included as a crossover pick; its 5/4 groove and the Manne, Brown and Shank lineup give it genuine jazz credentials."
+  },
+  {
+    "id": "jazz-lou-donaldson-alligator-bogaloo",
+    "artist": "Lou Donaldson",
+    "title": "Alligator Bogaloo",
+    "composer": "Lou Donaldson",
+    "recording_date": "1967-04-07",
+    "recording_year": 1967,
+    "release_year": 1967,
+    "original_issue": "Blue Note BLP 4263 / BST 84263 (LP \"Alligator Bogaloo\", August 1967); single Blue Note 45-1934 (b/w \"Rev. Moses\")",
+    "personnel": "Lou Donaldson (alto sax), Melvin Lastie (cornet), Lonnie Smith (organ), George Benson (guitar), Leo Morris (drums)",
+    "style": "soul-jazz",
+    "year": 1967,
+    "year_lo": 1967,
+    "year_hi": 1967,
+    "year_label": "1967",
+    "trivia": "The session ran three minutes short, so Donaldson improvised this riff on the spot to fill the time, and it turned out to be the only track on the LP that sold. Drummer Leo Morris is the man better known later as Idris Muhammad.",
+    "tags": [
+      "1960s",
+      "soul-jazz",
+      "blue-note",
+      "boogaloo"
+    ],
+    "track": {
+      "artist": "Lou Donaldson",
+      "title": "Alligator Bogaloo",
+      "album": "Alligator Bogaloo",
+      "duration": "6:57",
+      "isrc": null,
+      "query": "Lou Donaldson Alligator Bogaloo Alligator Bogaloo 1967",
+      "notes": "Blue Note studio master (matrix 1869, take 8) from the LP (6:57), not the 1970 live version from the Cadillac Club in Newark"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://www.jazzdisco.org/lou-donaldson/discography/",
+      "https://en.wikipedia.org/wiki/Alligator_Bogaloo"
+    ],
+    "notes": "Date, matrix 1869 take 8, personnel and the 45-1934 single from jazzdisco (Van Gelder Studio, Englewood Cliffs); release month and 6:57 duration from Wikipedia. Blue Note spells the title Bogaloo, the dance is usually written boogaloo. The Donaldson quote about the filler comes from the album's Wikipedia page, which also says the LP entered the Billboard chart in October 1967."
+  },
+  {
+    "id": "jazz-ann-burton-go-away-little-boy",
+    "artist": "Ann Burton with the Louis van Dijk Trio",
+    "title": "Go Away Little Boy",
+    "composer": "Gerry Goffin and Carole King",
+    "recording_date": null,
+    "recording_year": 1967,
+    "release_year": 1967,
+    "original_issue": "Artone MDJ S-3063 (LP \"Blue Burton\", Netherlands, 1967)",
+    "personnel": "Ann Burton (vocal), Louis van Dijk (piano), Jacques Schols and John Engels (the rest of his trio; instruments not stated in the source), Piet Noordijk (saxophone) on some or all tracks",
+    "style": "vocal",
+    "year": 1967,
+    "year_lo": 1967,
+    "year_hi": 1967,
+    "year_label": "1967",
+    "region": "nl",
+    "trivia": "Blue Burton was the first album by the Dutch singer Ann Burton (born Johanna de Paauw), produced by Artone's John Vis, and it won an Edison Award in 1969. Here she turns the Goffin and King song into a slow ballad of nearly seven minutes, singing it as \"boy\" instead of \"girl\".",
+    "tags": [
+      "1960s",
+      "vocal",
+      "nl"
+    ],
+    "track": {
+      "artist": "Ann Burton",
+      "title": "Go Away Little Boy",
+      "album": "Blue Burton",
+      "duration": "6:50",
+      "isrc": null,
+      "query": "Ann Burton Go Away Little Boy Blue Burton 1967",
+      "notes": "Original 1967 Artone album track (6:50 per Wikipedia and MusicBrainz), not Steve Lawrence's or Nancy Wilson's versions; uploads of later CD transfers run about 7:20"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Ann_Burton",
+      "https://en.wikipedia.org/wiki/Go_Away_Little_Girl",
+      "https://musicbrainz.org/release/29dafacf-896d-40cd-a46a-5bb6c84498ac"
+    ],
+    "notes": "Dutch pick. No recording date was found: Wikipedia says only that Vis produced the album in 1967, and the Artone LP (MDJ S-3063) is dated 1967 on Wikipedia and MusicBrainz, so 1967 is used for both recording and release. Personnel is from the English Wikipedia (trio plus Noordijk); which tracks Noordijk plays on is not stated, and Schols and Engels are not given instruments. Track length 6:50 appears on Wikipedia and in the MusicBrainz 1967 release (the 1988 Japanese CD recording is listed at 7:23). Tier C on global recognition (small YouTube counts), kept as the Dutch representative; she is a Dutch jazz-vocal landmark and the album won an Edison."
+  },
+  {
+    "id": "jazz-masekela-grazing-in-the-grass",
+    "artist": "Hugh Masekela",
+    "title": "Grazing in the Grass",
+    "composer": "Philemon Hou",
+    "recording_date": "1968-03-12",
+    "recording_year": 1968,
+    "release_year": 1968,
+    "original_issue": "Uni 55066 (45 rpm single, May 1968, b/w \"Bajabula Bonke (Healing Song)\"); LP \"The Promise of a Future\", Uni 73028 (1968)",
+    "personnel": "Hugh Masekela (trumpet), Bruce Langhorne (guitar), Al Abreu (saxophone), William Henderson (piano), Henry Franklin (bass), Chuck Carter (drums, cowbell)",
+    "style": "soul-jazz",
+    "year": 1968,
+    "year_lo": 1968,
+    "year_hi": 1968,
+    "year_label": "1968",
+    "trivia": "The tune began as filler: Masekela's label wanted three more minutes for the record, and actor-singer Philemon Hou, who was in the studio, invented the melody while the backing track was being cut. It reached number one on the Billboard Hot 100 in 1968 and entered the Grammy Hall of Fame in 2018.",
+    "tags": [
+      "1960s",
+      "soul-jazz",
+      "south-african",
+      "crossover"
+    ],
+    "track": {
+      "artist": "Hugh Masekela",
+      "title": "Grazing in the Grass",
+      "album": "Single (Uni, 1968) / The Promise of a Future",
+      "duration": "2:40",
+      "isrc": null,
+      "query": "Hugh Masekela Grazing in the Grass The Promise of a Future 1968",
+      "notes": "Masekela's 1968 Uni recording (2:40), not the Friends of Distinction vocal version of 1969 or Masekela's later remakes of 2001-2006"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Grazing_in_the_Grass",
+      "https://en.wikipedia.org/wiki/The_Promise_of_a_Future"
+    ],
+    "notes": "South African artist: no region field is set. Date 12 March 1968 is from the song page; the album page gives 12-14 March 1968 at Gold Star Studios, Hollywood. Wikipedia's song page lists Al Abreu on alto sax and the album page on tenor and soprano, so only \"saxophone\" is given. The single was released in May 1968 per Wikipedia; the instrumental is the 18th biggest hit of 1968 per the song page."
+  },
+  {
+    "id": "jazz-umiliani-mah-na-mah-na",
+    "artist": "Piero Umiliani",
+    "title": "Mah Nà Mah Nà",
+    "composer": "Piero Umiliani",
+    "recording_date": null,
+    "recording_year": 1968,
+    "release_year": 1968,
+    "original_issue": "From the soundtrack of the Italian film \"Svezia, inferno e paradiso\" (\"Sweden: Heaven and Hell\", 1968); US single Ariel AR-500 (b/w \"You Tried to Warn Me\"); UK single Pye International 7N 25499",
+    "personnel": "Marc 4 (four session musicians from the RAI orchestra, names not given), with vocals by Alessandro Alessandroni and his wife Giulia; composed by Piero Umiliani",
+    "style": "vocal",
+    "year": 1968,
+    "year_lo": 1968,
+    "year_hi": 1968,
+    "year_label": "1968",
+    "trivia": "Written for a sauna scene in an Italian mondo documentary, this scat tune became famous when the Muppets performed it on Sesame Street on 27 November 1969 and later through The Benny Hill Show. Sesame Street producer Joan Ganz Cooney first heard it on the radio.",
+    "tags": [
+      "1960s",
+      "vocal",
+      "scat",
+      "film-score",
+      "italian",
+      "crossover"
+    ],
+    "track": {
+      "artist": "Piero Umiliani",
+      "title": "Mah Nà Mah Nà",
+      "album": "Svezia, inferno e paradiso (film soundtrack; Ariel single AR-500)",
+      "duration": "2:08",
+      "isrc": null,
+      "query": "Piero Umiliani Mah Nà Mah Nà Sweden: Heaven and Hell 1968",
+      "notes": "Umiliani's original 1968 soundtrack recording with Marc 4 (about 2:08), not the Muppets versions, Giorgio Moroder's \"Great Unknowns\" cover or later remakes"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Mah_N%C3%A0_Mah_N%C3%A0",
+      "https://en.wikipedia.org/wiki/Piero_Umiliani",
+      "https://en.wikipedia.org/wiki/Sweden:_Heaven_and_Hell",
+      "https://musicbrainz.org/recording/fd91b6d0-46da-4af8-bf0c-90ed6a1e1b6a"
+    ],
+    "notes": "Weakest card: the exact recording date is not documented, so 1968 follows from the 1968 film and Wikipedia's statement that the song debuted in it. Release conflict: Wikipedia dates the US single and soundtrack album 1968, MusicBrainz dates the US single Ariel AR 500 and the US LP \"Sweden Heaven and Hell\" 1969, and the Italian Omicron LP (LPM 0014, 1968) track list there does not include this title; 1968 is kept. Jazz status is marginal: Wikipedia calls Umiliani a film composer and the tune is a scat novelty from a studio combo, so it is a pure crossover pick. Duration is the MusicBrainz length (128 s) of the US LP track; the original UK single is not timed."
+  },
+  {
+    "id": "jazz-wes-montgomery-road-song",
+    "artist": "Wes Montgomery",
+    "title": "Road Song",
+    "composer": "Wes Montgomery",
+    "recording_date": "1968-05-08",
+    "recording_year": 1968,
+    "release_year": 1968,
+    "original_issue": "A&M SP-3012 (LP \"Road Song\", October 1968; produced by Creed Taylor)",
+    "personnel": "Wes Montgomery (guitar), Herbie Hancock (piano), Richard Davis (bass), Ed Shaughnessy (drums), Ray Barretto and Jack Jennings (percussion), Sivert Johnson Jr. (harpsichord), brass, woodwinds and strings under arranger Don Sebesky; jazzdisco gives one roster for the whole 8 May session",
+    "style": "smooth",
+    "year": 1968,
+    "year_lo": 1968,
+    "year_hi": 1968,
+    "year_label": "1968",
+    "trivia": "Montgomery's last album was recorded about five weeks before he died of a heart attack on 15 June 1968, and this self-written title tune shows the lush orchestral setting that Creed Taylor gave his guitar in his A&M years. The LP reached number one on Billboard's jazz album chart.",
+    "tags": [
+      "1960s",
+      "smooth",
+      "a-and-m",
+      "orchestral"
+    ],
+    "track": {
+      "artist": "Wes Montgomery",
+      "title": "Road Song",
+      "album": "Road Song",
+      "duration": "3:53",
+      "isrc": null,
+      "query": "Wes Montgomery Road Song Road Song 1968",
+      "notes": "A&M studio recording of 8 May 1968 (3:53), not Montgomery's Riverside or Verve-era recordings"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://www.jazzdisco.org/wes-montgomery/discography/",
+      "https://en.wikipedia.org/wiki/Road_Song"
+    ],
+    "notes": "Date and the personnel roster from jazzdisco (Van Gelder Studio, Englewood Cliffs, 8 May 1968, A&M SP-3012); Wikipedia's album page gives 7-9 May and lists drummer Grady Tate as well, and its track list gives the 3:53 length and Montgomery's writing credit. Chosen as Montgomery's single card (California Dreaming of 1966 was the alternative) to fill 1968. Style set to smooth as the closest listed tag for the orchestral A&M/CTI sound."
+  },
+  {
+    "id": "jazz-davis-bitches-brew",
+    "artist": "Miles Davis",
+    "title": "Bitches Brew",
+    "composer": "Miles Davis",
+    "recording_date": "1969-08-19",
+    "recording_year": 1969,
+    "release_year": 1970,
+    "original_issue": "Columbia GP 26 (2-LP set \"Bitches Brew\", 30 March 1970)",
+    "personnel": "Miles Davis (trumpet), Wayne Shorter (soprano sax), Bennie Maupin (bass clarinet), Joe Zawinul (electric piano, left), Chick Corea (electric piano, right), John McLaughlin (electric guitar), Dave Holland (bass), Harvey Brooks (electric bass), Lenny White (drums, left), Jack DeJohnette (drums, right), Don Alias (congas), Juma Santos credited as Jim Riley (shaker); produced by Teo Macero",
+    "style": "fusion",
+    "year": 1969,
+    "year_lo": 1969,
+    "year_hi": 1969,
+    "year_label": "1969",
+    "trivia": "Davis's own voice is audible on the studio tape giving instructions, such as telling the band to keep it tight and calling out \"John\" when it was McLaughlin's turn to solo. Electric bassist Harvey Brooks came from rock and pop and had almost no jazz experience.",
+    "tags": [
+      "1960s",
+      "fusion",
+      "columbia"
+    ],
+    "track": {
+      "artist": "Miles Davis",
+      "title": "Bitches Brew",
+      "album": "Bitches Brew",
+      "duration": "27:00",
+      "isrc": null,
+      "query": "Miles Davis Bitches Brew Bitches Brew 1969 album version",
+      "notes": "27-minute studio title track of 19 Aug 1969 from the Columbia double LP, not the live 1969 Copenhagen versions or the alternate takes issued later"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://www.jazzdisco.org/davis/discography/",
+      "https://en.wikipedia.org/wiki/Bitches_Brew"
+    ],
+    "notes": "Davis giant slot. Date, personnel and the GP 26 issue from jazzdisco (Columbia Studio B, New York, matrix CO103745) and Wikipedia; jazzdisco lists the conga player as Charles Alias, Wikipedia as Don Alias. Recorded 19 August 1969, released 30 March 1970 (a one-year gap). Album won the 1971 Grammy for Best Large Jazz Ensemble Album and was certified gold in 1976. The first YouTube hits for a plain query are live Copenhagen versions, so the album track needs the \"album version\" wording."
+  },
+  {
+    "id": "jazz-mccann-harris-compared-to-what",
+    "artist": "Les McCann and Eddie Harris",
+    "title": "Compared to What",
+    "composer": "Gene McDaniels",
+    "recording_date": "1969-06-21",
+    "recording_year": 1969,
+    "release_year": 1969,
+    "original_issue": "Atlantic SD 1537 (live LP \"Swiss Movement\", 1969); also issued as a single (catalogue number not verified)",
+    "personnel": "Les McCann (piano, vocal), Eddie Harris (tenor sax), Benny Bailey (trumpet), Leroy Vinnegar (bass), Donald Dean (drums)",
+    "style": "soul-jazz",
+    "year": 1969,
+    "year_lo": 1969,
+    "year_hi": 1969,
+    "year_label": "1969",
+    "trivia": "This impromptu Montreux set was taped by the festival and passed to Atlantic, which reportedly paid less than $100 for the tapes; the album went gold. Roberta Flack had cut Gene McDaniels's protest song in February 1969, but McCann and Harris's live version made it famous.",
+    "tags": [
+      "1960s",
+      "soul-jazz",
+      "atlantic",
+      "live",
+      "protest-song"
+    ],
+    "track": {
+      "artist": "Les McCann and Eddie Harris",
+      "title": "Compared to What",
+      "album": "Swiss Movement",
+      "duration": "8:41",
+      "isrc": null,
+      "query": "Les McCann Eddie Harris Compared to What Swiss Movement 1969",
+      "notes": "Live Montreux Jazz Festival performance of 21 Jun 1969 (8:41), not Roberta Flack's studio version, Ray Charles's cover or McCann's later Montreux 1972 remake"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Swiss_Movement",
+      "https://en.wikipedia.org/wiki/Compared_to_What",
+      "https://musicbrainz.org/release/bfdd3c5e-e5cc-42d1-9553-c09d6df3c867"
+    ],
+    "notes": "Date, personnel and 8:41 from Wikipedia (album and song pages); catalogue SD 1537 from MusicBrainz. The Wikipedia album page says album and single both sold in the millions and the album was certified gold in the US; the $100 fee is a Wikipedia-reported claim attributed to AllMusic. Eddie Harris may also get Cold Duck Time from the same album elsewhere, so this counts as his first card."
+  },
+  {
+    "id": "jazz-pharoah-sanders-the-creator-has-a-master-plan",
+    "artist": "Pharoah Sanders",
+    "title": "The Creator Has a Master Plan",
+    "composer": "Pharoah Sanders and Leon Thomas",
+    "recording_date": "1969-02-14",
+    "recording_year": 1969,
+    "release_year": 1969,
+    "original_issue": "Impulse! AS-9181 (LP \"Karma\", May 1969; issued in two parts, 19:20 and 13:36)",
+    "personnel": "Pharoah Sanders (tenor sax), Leon Thomas (vocal, percussion), Julius Watkins (French horn), James Spaulding (flute), Lonnie Liston Smith (piano), Richard Davis and Reggie Workman (bass), William Hart (drums), Nathaniel Bettis (percussion)",
+    "style": "modal",
+    "year": 1969,
+    "year_lo": 1969,
+    "year_hi": 1969,
+    "year_label": "1969",
+    "trivia": "Co-written with vocalist Leon Thomas, whose yodelling chant rides a loping groove, this 32-minute piece became the best-known statement of spiritual jazz, and its melody has been sampled and covered. Pitchfork ranked Karma 53rd on its list of the greatest albums of the 1960s.",
+    "tags": [
+      "1960s",
+      "modal",
+      "impulse",
+      "spiritual-jazz"
+    ],
+    "track": {
+      "artist": "Pharoah Sanders",
+      "title": "The Creator Has a Master Plan",
+      "album": "Karma",
+      "duration": "32:46",
+      "isrc": null,
+      "query": "Pharoah Sanders The Creator Has a Master Plan Karma 1969",
+      "notes": "Studio recording of 14 Feb 1969 from Karma, about 32:46 in one piece as on the CD edit (the original LP splits it into Parts 1 and 2), not the 2003 Tokyo live version or Sanders's later remakes"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://www.jazzdisco.org/pharoah-sanders/discography/",
+      "https://en.wikipedia.org/wiki/Karma_(Pharoah_Sanders_album)",
+      "https://en.wikipedia.org/wiki/The_Creator_Has_a_Master_Plan"
+    ],
+    "notes": "Date (14 February 1969, RCA Studios, New York), matrix 90992 and personnel from jazzdisco; Wikipedia gives 14 and 19 February for the whole album and also lists Ron Carter and Freddie Waits, who are not on jazzdisco's 14 February roster for this piece. Wikipedia says the 1995 CD reissue re-edited the piece into a single 32:46 track, and gives the LP parts as 19:20 and 13:36. Style set to modal as the closest listed tag for spiritual jazz."
+  },
+  {
+    "id": "jazz-roland-kirk-volunteered-slavery",
+    "artist": "Roland Kirk",
+    "title": "Volunteered Slavery",
+    "composer": "Roland Kirk",
+    "recording_date": "1969-07-23",
+    "recording_year": 1969,
+    "release_year": 1969,
+    "original_issue": "Atlantic SD 1534 (LP \"Volunteered Slavery\", 1969; MusicBrainz dates it 8 November 1969, jazzdisco 1970)",
+    "personnel": "Roland Kirk (tenor sax, manzello, stritch, clarinet, flute, nose flute, whistle, vocal), Charles McGhee (trumpet), Dick Griffin (trombone), Ron Burton (piano), Vernon Martin (bass), Charles Crosby (drums), Joe Habad Texidor (tambourine), the Roland Kirk Spirit Choir (vocals)",
+    "style": "post-bop",
+    "year": 1969,
+    "year_lo": 1969,
+    "year_hi": 1969,
+    "year_label": "1969",
+    "trivia": "Kirk cut the title track in the studio with his Spirit Choir in July 1969 and opened an LP whose second half is his live 1968 Newport Jazz Festival set. A multi-instrumentalist known for playing several horns at once, he mixed political commentary into his shows.",
+    "tags": [
+      "1960s",
+      "post-bop",
+      "atlantic",
+      "spiritual"
+    ],
+    "track": {
+      "artist": "Roland Kirk",
+      "title": "Volunteered Slavery",
+      "album": "Volunteered Slavery",
+      "duration": "5:43",
+      "isrc": null,
+      "query": "Roland Kirk Volunteered Slavery Volunteered Slavery 1969",
+      "notes": "Studio recording of 23 Jul 1969 (5:43) from the Atlantic LP, not the 1968 Newport live tracks on the same LP or his later live versions such as Montreux 1972"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://www.jazzdisco.org/roland-kirk/discography/",
+      "https://en.wikipedia.org/wiki/Volunteered_Slavery",
+      "https://en.wikipedia.org/wiki/Rahsaan_Roland_Kirk",
+      "https://musicbrainz.org/release/531319cc-441d-405b-903b-48c0ba1f3cfb"
+    ],
+    "notes": "Date, matrix 17403 and per-track roster from jazzdisco (Regent Sound Studios, New York, 23 July 1969; Crosby on drums and Texidor on tambourine for this track); Wikipedia lists the title track as the studio piece (track 1, 5:43). The LP's release is 1969 per Wikipedia and MusicBrainz (8 November 1969), 1970 per jazzdisco. Tier C on recognition (about 55,000 views for the album track), kept as the soul-gospel and avant strand of the late 1960s; Kirk is not otherwise in the set."
+  }
+]

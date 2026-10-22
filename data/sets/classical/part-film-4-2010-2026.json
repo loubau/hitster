@@ -1,0 +1,642 @@
+[
+  {
+    "id": "cls-lunn-downton-abbey",
+    "composer": "John Lunn",
+    "composer_short": "Lunn",
+    "work": "Downton Abbey (TV score)",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "tv",
+    "accept_work": "Downton Abbey",
+    "excerpt": "Downton Abbey Theme (piano and strings)",
+    "year": 2010,
+    "year_lo": 2010,
+    "year_hi": 2010,
+    "year_label": "2010",
+    "premiere_or_publication": "Series premiered 26 September 2010 (ITV)",
+    "dating_note": "Lunn composed the theme in 2010, for the series premiere in September 2010 (Wikipedia).",
+    "recording": {
+      "performers": "Orchestra (original TV soundtrack)",
+      "conductor": null,
+      "label": null,
+      "year": 2010,
+      "why": "The original television soundtrack recording."
+    },
+    "trivia": "Lunn's piano-led theme conjures the grandeur of an Edwardian country house, with a rhythmic pulse like a steam train. He later won two Emmys for his music for the show.",
+    "tags": [
+      "21st-century",
+      "tv",
+      "filmtop400",
+      "tier-b",
+      "piano",
+      "strings",
+      "period-drama"
+    ],
+    "track": {
+      "query": "John Lunn Downton Abbey Theme",
+      "album": "Downton Abbey (Music from the Television Series)",
+      "duration": "~1:12",
+      "start": null,
+      "isrc": null,
+      "notes": "Album and duration are approximate hints from memory and aggregator data; start is an estimate (about 15 s either way). If this exact recording is not on the service, any good recording of the same cue will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Downton_Abbey",
+      "https://en.wikipedia.org/wiki/John_Lunn",
+      "https://nl.wikipedia.org/wiki/Lijst_van_Filmmuziek_Top_400_in_2026"
+    ],
+    "notes": "Filmmuziek Top 400 rank 27 (listed as 'Downton Abbey (serie)'). Duration approximate."
+  },
+  {
+    "id": "cls-powell-how-to-train-your-dragon",
+    "composer": "John Powell",
+    "composer_short": "Powell",
+    "work": "How to Train Your Dragon (film score)",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "film",
+    "accept_work": "How to Train Your Dragon",
+    "excerpt": "Test Drive (the flying theme)",
+    "year": 2010,
+    "year_lo": 2010,
+    "year_hi": 2010,
+    "year_label": "2010",
+    "premiere_or_publication": "Film released 26 March 2010 (US)",
+    "dating_note": "Powell scored the film in 2009-10, for its March 2010 release; the soundtrack album came out on 23 March 2010 (Wikipedia).",
+    "recording": {
+      "performers": "John Powell with orchestra (original soundtrack)",
+      "conductor": null,
+      "label": "Varèse Sarabande",
+      "year": 2010,
+      "why": "The original soundtrack recording."
+    },
+    "trivia": "The score earned John Powell his first Academy Award nomination, though it lost to The Social Network. 'Test Drive', the first flight with the dragon, was nominated for Film Music Composition of the Year by the film music critics' association.",
+    "tags": [
+      "21st-century",
+      "film",
+      "filmtop400",
+      "tier-b",
+      "orchestral",
+      "animation",
+      "fantasy"
+    ],
+    "track": {
+      "query": "John Powell Test Drive How to Train Your Dragon",
+      "album": "How to Train Your Dragon (Music from the Motion Picture)",
+      "duration": "2:44",
+      "start": null,
+      "isrc": null,
+      "notes": "Duration is the length of this OST track (MusicBrainz release data); start is an estimate (about 15 s either way). If this exact recording is not on the service, any good recording of the same cue will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/How_to_Train_Your_Dragon_(2010_film)",
+      "https://en.wikipedia.org/wiki/How_to_Train_Your_Dragon_(2010_soundtrack)",
+      "https://en.wikipedia.org/wiki/John_Powell_(film_composer)",
+      "https://nl.wikipedia.org/wiki/Lijst_van_Filmmuziek_Top_400_in_2026"
+    ],
+    "notes": "Filmmuziek Top 400 rank 29 (listed for the franchise). 'Forbidden Friendship' is the other signature cue."
+  },
+  {
+    "id": "cls-zimmer-inception",
+    "composer": "Hans Zimmer",
+    "composer_short": "Zimmer",
+    "work": "Inception (film score)",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "film",
+    "accept_work": "Inception",
+    "excerpt": "Time",
+    "year": 2010,
+    "year_lo": 2010,
+    "year_hi": 2010,
+    "year_label": "2010",
+    "premiere_or_publication": "Film released 16 July 2010",
+    "dating_note": "Zimmer scored the film in 2010, for its July 2010 release (Wikipedia).",
+    "recording": {
+      "performers": "Hans Zimmer with orchestra and guitars (original soundtrack)",
+      "conductor": null,
+      "label": "Reprise",
+      "year": 2010,
+      "why": "The original soundtrack recording."
+    },
+    "trivia": "The film's iconic brass fanfare resembles a slowed-down version of the instrumentation of Edith Piaf's 'Non, je ne regrette rien', a song that also plays in the film. 'Time' is the closing piece.",
+    "tags": [
+      "21st-century",
+      "film",
+      "top400",
+      "filmtop400",
+      "tier-a",
+      "orchestral",
+      "electronic",
+      "sci-fi"
+    ],
+    "track": {
+      "query": "Hans Zimmer Time Inception",
+      "album": "Inception (Music from the Motion Picture)",
+      "duration": "4:38",
+      "start": null,
+      "isrc": null,
+      "notes": "Duration is the length of this OST track (MusicBrainz release data); start is an estimate (about 15 s either way). If this exact recording is not on the service, any good recording of the same cue will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Inception",
+      "https://en.wikipedia.org/wiki/Inception_(soundtrack)",
+      "https://nl.wikipedia.org/wiki/Lijst_van_Filmmuziek_Top_400_in_2026"
+    ],
+    "notes": "Top 400 best rank 293; Filmmuziek Top 400 rank 18."
+  },
+  {
+    "id": "cls-djawadi-game-of-thrones",
+    "composer": "Ramin Djawadi",
+    "composer_short": "Djawadi",
+    "work": "Game of Thrones (TV score)",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "tv",
+    "accept_work": "Game of Thrones",
+    "excerpt": "Main Title (the cello theme)",
+    "year": 2011,
+    "year_lo": 2011,
+    "year_hi": 2011,
+    "year_label": "2011",
+    "premiere_or_publication": "Series premiered 17 April 2011 (HBO)",
+    "dating_note": "Djawadi composed the main title in 2010-11, for the series premiere in April 2011 (Wikipedia).",
+    "recording": {
+      "performers": "Orchestra with solo cello (original TV soundtrack)",
+      "conductor": null,
+      "label": "Varese Sarabande",
+      "year": 2011,
+      "why": "The original television soundtrack recording."
+    },
+    "trivia": "The driving cello theme accompanies a title sequence that shows the show's map coming to life. The series' soundtrack later became a touring concert event.",
+    "tags": [
+      "21st-century",
+      "tv",
+      "filmtop400",
+      "tier-a",
+      "cello",
+      "fantasy",
+      "orchestral"
+    ],
+    "track": {
+      "query": "Ramin Djawadi Game of Thrones Main Title",
+      "album": "Game of Thrones (Music from the HBO Series)",
+      "duration": "1:46",
+      "start": null,
+      "isrc": null,
+      "notes": "Duration is the length of this OST track (MusicBrainz release data); start is an estimate (about 15 s either way). If this exact recording is not on the service, any good recording of the same cue will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Game_of_Thrones",
+      "https://en.wikipedia.org/wiki/Ramin_Djawadi",
+      "https://nl.wikipedia.org/wiki/Lijst_van_Filmmuziek_Top_400_in_2026"
+    ],
+    "notes": "Filmmuziek Top 400 rank 26 (listed as 'Game of Thrones (serie)')."
+  },
+  {
+    "id": "cls-soule-skyrim",
+    "composer": "Jeremy Soule",
+    "composer_short": "Soule",
+    "work": "The Elder Scrolls V: Skyrim (game score)",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "game",
+    "accept_work": "Skyrim",
+    "excerpt": "Dragonborn (the main theme with male choir)",
+    "year": 2011,
+    "year_lo": 2011,
+    "year_hi": 2011,
+    "year_label": "2011",
+    "premiere_or_publication": "Game released 11 November 2011",
+    "dating_note": "Soule composed the score in 2010-11, for the November 2011 release (Wikipedia).",
+    "recording": {
+      "performers": "Jeremy Soule and male choir (original game soundtrack)",
+      "conductor": null,
+      "label": null,
+      "year": 2011,
+      "why": "The original soundtrack release."
+    },
+    "trivia": "The huge male choir sings in the invented dragon language of the game world. The track also appeared on the Classic FM Hall of Fame 2014 album.",
+    "tags": [
+      "21st-century",
+      "game",
+      "tier-b",
+      "orchestral",
+      "choir",
+      "fantasy",
+      "rpg"
+    ],
+    "track": {
+      "query": "Jeremy Soule Dragonborn Skyrim main theme",
+      "album": "The Elder Scrolls V: Skyrim (Original Game Soundtrack)",
+      "duration": "3:58",
+      "start": null,
+      "isrc": null,
+      "notes": "Duration is the length of this OST track (MusicBrainz release data); start is an estimate (about 15 s either way). If this exact recording is not on the service, any good recording of the same cue will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Elder_Scrolls_V:_Skyrim",
+      "https://en.wikipedia.org/wiki/Jeremy_Soule"
+    ],
+    "notes": "Not on the Filmmuziek Top 400."
+  },
+  {
+    "id": "cls-wintory-journey",
+    "composer": "Austin Wintory",
+    "composer_short": "Wintory",
+    "work": "Journey (game score)",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "game",
+    "accept_work": "Journey",
+    "excerpt": "Nascence (the opening cello theme)",
+    "year": 2012,
+    "year_lo": 2012,
+    "year_hi": 2012,
+    "year_label": "2012",
+    "premiere_or_publication": "Game released 13 March 2012 (PlayStation 3)",
+    "dating_note": "Wintory composed the score in 2010-12, for the March 2012 release; the soundtrack album followed in April 2012 (Wikipedia).",
+    "recording": {
+      "performers": "Austin Wintory with Tina Guo (cello) and orchestra (original game soundtrack)",
+      "conductor": null,
+      "label": null,
+      "year": 2012,
+      "why": "The original soundtrack release."
+    },
+    "trivia": "Wintory's cello-led score adapts to the player's progress, so every pilgrim hears it differently. It was the first video-game score nominated for a Grammy.",
+    "tags": [
+      "21st-century",
+      "game",
+      "tier-c",
+      "cello",
+      "orchestral",
+      "indie",
+      "ambient"
+    ],
+    "track": {
+      "query": "Austin Wintory Nascence Journey",
+      "album": "Journey (Original Video Game Soundtrack)",
+      "duration": "1:47",
+      "start": null,
+      "isrc": null,
+      "notes": "Duration is the length of this OST track (MusicBrainz release data); start is an estimate (about 15 s either way). If this exact recording is not on the service, any good recording of the same cue will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Journey_(2012_video_game)",
+      "https://en.wikipedia.org/wiki/Austin_Wintory"
+    ],
+    "notes": "Landmark (tier C) pick. Not on the Filmmuziek Top 400."
+  },
+  {
+    "id": "cls-santaolalla-the-last-of-us",
+    "composer": "Gustavo Santaolalla",
+    "composer_short": "Santaolalla",
+    "work": "The Last of Us (game score)",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "game",
+    "accept_work": "The Last of Us",
+    "excerpt": "The Last of Us (the main theme)",
+    "year": 2013,
+    "year_lo": 2013,
+    "year_hi": 2013,
+    "year_label": "2013",
+    "premiere_or_publication": "Game released 14 June 2013 (PlayStation 3)",
+    "dating_note": "Santaolalla composed the score in 2012-13, for the June 2013 release (Wikipedia).",
+    "recording": {
+      "performers": "Gustavo Santaolalla (ronroco, guitar)",
+      "conductor": null,
+      "label": null,
+      "year": 2013,
+      "why": "The original score release."
+    },
+    "trivia": "Santaolalla, a double Oscar winner, built the sparse score around the ronroco, a small Andean guitar. The same theme opens the 2023 HBO series.",
+    "tags": [
+      "21st-century",
+      "game",
+      "filmtop400",
+      "tier-b",
+      "guitar",
+      "ambient",
+      "drama"
+    ],
+    "track": {
+      "query": "Gustavo Santaolalla The Last of Us theme",
+      "album": "The Last of Us (Video Game Soundtrack)",
+      "duration": "3:03",
+      "start": null,
+      "isrc": null,
+      "notes": "Duration is the length of this OST track (MusicBrainz release data); start is an estimate (about 15 s either way). If this exact recording is not on the service, any good recording of the same cue will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Last_of_Us",
+      "https://en.wikipedia.org/wiki/Gustavo_Santaolalla",
+      "https://nl.wikipedia.org/wiki/Lijst_van_Filmmuziek_Top_400_in_2026"
+    ],
+    "notes": "The Filmmuziek Top 400 lists 'The Last of Us' (Santaolalla & Fleming), rank 266, without saying game or series; tagged as a match."
+  },
+  {
+    "id": "cls-zimmer-interstellar",
+    "composer": "Hans Zimmer",
+    "composer_short": "Zimmer",
+    "work": "Interstellar (film score)",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "film",
+    "accept_work": "Interstellar",
+    "excerpt": "Cornfield Chase (the pulsing organ theme)",
+    "year": 2014,
+    "year_lo": 2014,
+    "year_hi": 2014,
+    "year_label": "2014",
+    "premiere_or_publication": "Film released 5 November 2014",
+    "dating_note": "Zimmer composed the score in 2013-14, for the film's November 2014 release (Wikipedia).",
+    "recording": {
+      "performers": "Hans Zimmer with orchestra and organ (original soundtrack)",
+      "conductor": null,
+      "label": "WaterTower Music",
+      "year": 2014,
+      "why": "The original soundtrack recording."
+    },
+    "trivia": "Christopher Nolan reportedly gave Zimmer only a short letter about a father and child, with no plot details, and Zimmer composed from that. The organ in the score was recorded at the Temple Church in London.",
+    "tags": [
+      "21st-century",
+      "film",
+      "top400",
+      "filmtop400",
+      "tier-a",
+      "organ",
+      "orchestral",
+      "sci-fi"
+    ],
+    "track": {
+      "query": "Hans Zimmer Cornfield Chase Interstellar",
+      "album": "Interstellar (Original Motion Picture Soundtrack)",
+      "duration": "~2:06",
+      "start": null,
+      "isrc": null,
+      "notes": "Album and duration are approximate hints from memory and aggregator data; start is an estimate (about 15 s either way). If this exact recording is not on the service, any good recording of the same cue will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Interstellar_(film)",
+      "https://en.wikipedia.org/wiki/Interstellar_(soundtrack)",
+      "https://nl.wikipedia.org/wiki/Lijst_van_Filmmuziek_Top_400_in_2026"
+    ],
+    "notes": "Top 400 best rank 113; Filmmuziek Top 400 rank 4. Duration approximate."
+  },
+  {
+    "id": "cls-hurwitz-la-la-land",
+    "composer": "Justin Hurwitz",
+    "composer_short": "Hurwitz",
+    "work": "La La Land (film score)",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "film",
+    "accept_work": "La La Land",
+    "excerpt": "Mia & Sebastian's Theme (piano)",
+    "year": 2016,
+    "year_lo": 2016,
+    "year_hi": 2016,
+    "year_label": "2016",
+    "premiere_or_publication": "Film premiered 31 August 2016 (Venice); US release December 2016",
+    "dating_note": "Hurwitz composed the score in 2015-16, for the film's 2016 release (Wikipedia).",
+    "recording": {
+      "performers": "Justin Hurwitz (piano and orchestra), original soundtrack",
+      "conductor": null,
+      "label": "Interscope",
+      "year": 2016,
+      "why": "The original soundtrack recording."
+    },
+    "trivia": "Hurwitz, a university friend of director Damien Chazelle, wrote the recurring piano theme before filming began. He won two Oscars for the film, for Best Score and for the song 'City of Stars'.",
+    "tags": [
+      "21st-century",
+      "film",
+      "filmtop400",
+      "tier-a",
+      "piano",
+      "jazz",
+      "romantic"
+    ],
+    "track": {
+      "query": "Justin Hurwitz Mia & Sebastian's Theme La La Land",
+      "album": "La La Land (Original Motion Picture Soundtrack)",
+      "duration": "1:38",
+      "start": null,
+      "isrc": null,
+      "notes": "Duration is the length of this OST track (MusicBrainz release data); start is an estimate (about 15 s either way). If this exact recording is not on the service, any good recording of the same cue will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/La_La_Land",
+      "https://en.wikipedia.org/wiki/Justin_Hurwitz",
+      "https://nl.wikipedia.org/wiki/Lijst_van_Filmmuziek_Top_400_in_2026"
+    ],
+    "notes": "Instrumental theme, not the song City of Stars. Filmmuziek Top 400 rank 79."
+  },
+  {
+    "id": "cls-goransson-the-mandalorian",
+    "composer": "Ludwig Göransson",
+    "composer_short": "Göransson",
+    "work": "The Mandalorian (TV score)",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "tv",
+    "accept_work": "The Mandalorian",
+    "excerpt": "The Mandalorian main theme",
+    "year": 2019,
+    "year_lo": 2019,
+    "year_hi": 2019,
+    "year_label": "2019",
+    "premiere_or_publication": "Series premiered 12 November 2019 (Disney+)",
+    "dating_note": "Göransson composed the theme in 2019, for the series premiere in November 2019 (Wikipedia).",
+    "recording": {
+      "performers": "Ludwig Göransson (original score)",
+      "conductor": null,
+      "label": "Walt Disney Records",
+      "year": 2019,
+      "why": "The original score release."
+    },
+    "trivia": "Göransson gave a galaxy far, far away a lone-gunslinger sound, with electronic textures and Western flavour. He won two Primetime Emmys for the series' music.",
+    "tags": [
+      "21st-century",
+      "tv",
+      "filmtop400",
+      "tier-a",
+      "electronic",
+      "western",
+      "sci-fi",
+      "star-wars"
+    ],
+    "track": {
+      "query": "Ludwig Goransson The Mandalorian main theme",
+      "album": "The Mandalorian: Chapter 1 (Original Score)",
+      "duration": "~1:30",
+      "start": null,
+      "isrc": null,
+      "notes": "Album and duration are approximate hints from memory and aggregator data; start is an estimate (about 15 s either way). If this exact recording is not on the service, any good recording of the same cue will do."
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Mandalorian",
+      "https://en.wikipedia.org/wiki/Ludwig_G%C3%B6ransson",
+      "https://nl.wikipedia.org/wiki/Lijst_van_Filmmuziek_Top_400_in_2026"
+    ],
+    "notes": "Filmmuziek Top 400 rank 105 (listed as 'The Mandalorian (serie)'). Album and duration approximate."
+  },
+  {
+    "id": "cls-gudnadottir-joker",
+    "composer": "Hildur Guðnadóttir",
+    "composer_short": "Guðnadóttir",
+    "work": "Joker (film score)",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "film",
+    "accept_work": "Joker",
+    "excerpt": "Bathroom Dance (solo cello)",
+    "year": 2019,
+    "year_lo": 2019,
+    "year_hi": 2019,
+    "year_label": "2019",
+    "premiere_or_publication": "Film released 4 October 2019",
+    "dating_note": "Guðnadóttir composed the score in 2018-19, ahead of the film's October 2019 release (Wikipedia).",
+    "recording": {
+      "performers": "Hildur Guðnadóttir (cello)",
+      "conductor": null,
+      "label": "WaterTower Music",
+      "year": 2019,
+      "why": "The original soundtrack recording."
+    },
+    "trivia": "Guðnadóttir wrote the cello music from the script, before filming, and Joaquin Phoenix danced in the bathroom scene to her track. She won the Oscar for Best Original Score.",
+    "tags": [
+      "21st-century",
+      "film",
+      "filmtop400",
+      "tier-b",
+      "cello",
+      "dark",
+      "drama"
+    ],
+    "track": {
+      "query": "Hildur Gudnadottir Bathroom Dance Joker",
+      "album": "Joker (Original Motion Picture Soundtrack)",
+      "duration": "2:08",
+      "start": null,
+      "isrc": null,
+      "notes": "Duration is the length of this OST track (MusicBrainz release data); start is an estimate (about 15 s either way). If this exact recording is not on the service, any good recording of the same cue will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Joker_(2019_film)",
+      "https://en.wikipedia.org/wiki/Hildur_Gu%C3%B0nad%C3%B3ttir",
+      "https://nl.wikipedia.org/wiki/Lijst_van_Filmmuziek_Top_400_in_2026"
+    ],
+    "notes": "Filmmuziek Top 400 rank 288."
+  },
+  {
+    "id": "cls-zimmer-dune",
+    "composer": "Hans Zimmer",
+    "composer_short": "Zimmer",
+    "work": "Dune (film score)",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "film",
+    "accept_work": "Dune",
+    "excerpt": "Paul's Dream",
+    "year": 2021,
+    "year_lo": 2021,
+    "year_hi": 2021,
+    "year_label": "2021",
+    "premiere_or_publication": "Film released 22 October 2021",
+    "dating_note": "Zimmer composed the score in 2019-21, for the film's October 2021 release (Wikipedia).",
+    "recording": {
+      "performers": "Hans Zimmer with orchestra and voices (The Dune Sketchbook)",
+      "conductor": null,
+      "label": "WaterTower Music",
+      "year": 2021,
+      "why": "The Dune Sketchbook release of the cue."
+    },
+    "trivia": "Zimmer reportedly turned down Nolan's Tenet to score Dune, and built new instruments and sounds for the desert world. The score won him his second Academy Award.",
+    "tags": [
+      "21st-century",
+      "film",
+      "filmtop400",
+      "tier-b",
+      "orchestral",
+      "electronic",
+      "sci-fi",
+      "voices"
+    ],
+    "track": {
+      "query": "Hans Zimmer Paul's Dream Dune Sketchbook",
+      "album": "The Dune Sketchbook (Music from the Soundtrack)",
+      "duration": "7:03",
+      "start": null,
+      "isrc": null,
+      "notes": "Duration is the length of this OST track (MusicBrainz release data); start is an estimate (about 15 s either way). If this exact recording is not on the service, any good recording of the same cue will do."
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Dune_(2021_film)",
+      "https://en.wikipedia.org/wiki/Music_of_Dune_(2021_film)",
+      "https://nl.wikipedia.org/wiki/Lijst_van_Filmmuziek_Top_400_in_2026"
+    ],
+    "notes": "Cue chosen from The Dune Sketchbook release; the main film soundtrack has 'Dream of Arrakis' instead. Filmmuziek Top 400 rank 68."
+  },
+  {
+    "id": "cls-goransson-oppenheimer",
+    "composer": "Ludwig Göransson",
+    "composer_short": "Göransson",
+    "work": "Oppenheimer (film score)",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "film",
+    "accept_work": "Oppenheimer",
+    "excerpt": "Can You Hear the Music (the violin theme)",
+    "year": 2023,
+    "year_lo": 2023,
+    "year_hi": 2023,
+    "year_label": "2023",
+    "premiere_or_publication": "Film released 21 July 2023",
+    "dating_note": "Göransson composed the score in 2022-23, for the film's July 2023 release (Wikipedia).",
+    "recording": {
+      "performers": "Ludwig Göransson with orchestra (original soundtrack)",
+      "conductor": null,
+      "label": "Back Lot Music",
+      "year": 2023,
+      "why": "The original soundtrack recording."
+    },
+    "trivia": "Nolan's only direction was to represent Oppenheimer with a solo violin, and Göransson experimented with microtonal glissandi together with his wife Serena, a violinist. He won the Oscar for Best Original Score.",
+    "tags": [
+      "21st-century",
+      "film",
+      "filmtop400",
+      "tier-b",
+      "orchestral",
+      "violin",
+      "drama"
+    ],
+    "track": {
+      "query": "Ludwig Goransson Can You Hear the Music Oppenheimer",
+      "album": "Oppenheimer (Original Motion Picture Soundtrack)",
+      "duration": "1:50",
+      "start": null,
+      "isrc": null,
+      "notes": "Duration is the length of this OST track (MusicBrainz release data); start is an estimate (about 15 s either way). If this exact recording is not on the service, any good recording of the same cue will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Oppenheimer_(film)",
+      "https://en.wikipedia.org/wiki/Ludwig_G%C3%B6ransson",
+      "https://nl.wikipedia.org/wiki/Lijst_van_Filmmuziek_Top_400_in_2026"
+    ],
+    "notes": "Filmmuziek Top 400 rank 86."
+  }
+]

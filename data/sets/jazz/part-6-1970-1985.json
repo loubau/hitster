@@ -1,42 +1,5 @@
 [
   {
-    "id": "jazz-davis-right-off",
-    "artist": "Miles Davis",
-    "title": "Right Off",
-    "composer": "Miles Davis",
-    "recording_date": "1970-04-07",
-    "recording_year": 1970,
-    "release_year": 1971,
-    "original_issue": "Columbia S 30455 (LP, Jack Johnson soundtrack, 24 Feb 1971); reissued as Columbia KC 30455 (A Tribute to Jack Johnson)",
-    "personnel": "Miles Davis (trumpet), Steve Grossman (soprano saxophone), John McLaughlin (electric guitar), Herbie Hancock (organ), Michael Henderson (electric bass), Billy Cobham (drums)",
-    "style": "fusion",
-    "year": 1970,
-    "year_lo": 1970,
-    "year_hi": 1970,
-    "year_label": "1970",
-    "trivia": "Producer Teo Macero stitched this side-long jam together from several takes, and it includes a riff borrowed from Sly and the Family Stone. It was written for a documentary about the boxer Jack Johnson and is a showcase for McLaughlin's guitar.",
-    "tags": [
-      "1970s",
-      "fusion",
-      "columbia"
-    ],
-    "track": {
-      "artist": "Miles Davis",
-      "title": "Right Off",
-      "album": "Jack Johnson (A Tribute to Jack Johnson)",
-      "duration": "26:53",
-      "isrc": null,
-      "query": "Miles Davis Right Off Jack Johnson 1971",
-      "notes": "full album track Right Off (about 26:53) from Jack Johnson, not the live or box-set versions"
-    },
-    "confidence": "high",
-    "sources": [
-      "https://www.jazzdisco.org/davis/discography/",
-      "https://en.wikipedia.org/wiki/Jack_Johnson_(album)"
-    ],
-    "notes": "Date is the main session of 7 Apr 1970 (jazzdisco and Wikipedia agree). Wikipedia says the released track was edited from that session plus a Feb 1970 session and a Nov 1969 Davis solo, so the personnel line is for the April session only (Brock Peters narration is on the album, not on this track). Released Feb 1971, one year after recording, so no gap note needed."
-  },
-  {
     "id": "jazz-hubbard-red-clay",
     "artist": "Freddie Hubbard",
     "title": "Red Clay",
@@ -1420,5 +1383,253 @@
       "https://en.wikipedia.org/wiki/Birdland_(Weather_Report_song)"
     ],
     "notes": "No recording date is given anywhere: the Wikipedia infobox recorded field is empty (basic tracks at Dawnbreaker, San Fernando; overdubs at Garden Rake, Studio City). Year 1979 is INFERRED because the album was released 31 Oct 1979 and is the first with Cheryl Bentyne, who replaced Laurel Masse in early 1979. Hence medium. Per-track credits taken from the Wikipedia track-numbered personnel list for track 1 (Birdland is track 1). Single source for sessions; catalogue number not verified."
+  },
+  {
+    "id": "jazz-byrd-black-byrd",
+    "artist": "Donald Byrd",
+    "title": "Black Byrd",
+    "composer": "Larry Mizell",
+    "recording_date": "1972-11-24",
+    "recording_year": 1972,
+    "release_year": 1973,
+    "original_issue": "Blue Note BN-LA047-F (LP \"Black Byrd\", 1973); 45 rpm Blue Note BN-XW212-W (b/w Slop Jar Blues, 1973)",
+    "personnel": "Donald Byrd (flugelhorn, trumpet, vocal), Fonce Mizell (trumpet, vocal), Roger Glenn (flute, alto flute, saxophone), Joe Sample (piano, electric piano), Fred Perren (electric piano, synthesizer, vocal), David T. Walker (guitar), Chuck Rainey (electric bass), Harvey Mason (drums), Stephanie Spruill (congas, tambourine), Larry Mizell (vocal, arranger)",
+    "style": "jazz-funk",
+    "year": 1972,
+    "year_lo": 1972,
+    "year_hi": 1972,
+    "year_label": "1972",
+    "trivia": "This was Byrd's first album produced by Larry Mizell, assisted by his brother Fonce, and it became one of the best-selling releases in Blue Note's history. The title also gave Byrd's student group, The Blackbyrds, their name.",
+    "tags": [
+      "1970s",
+      "jazz-funk",
+      "blue-note",
+      "mizell-brothers"
+    ],
+    "track": {
+      "artist": "Donald Byrd",
+      "title": "Black Byrd",
+      "album": "Black Byrd",
+      "duration": "7:21",
+      "isrc": null,
+      "query": "Donald Byrd Black Byrd Black Byrd 1972",
+      "notes": "Studio title track from the LP Black Byrd (about 7:21), not the live version from Montreux, 5 July 1973"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://www.jazzdisco.org/donald-byrd/discography/",
+      "https://en.wikipedia.org/wiki/Black_Byrd",
+      "https://musicbrainz.org/recording/a3cc8ea8-4633-48b0-afcb-4a84311fca13"
+    ],
+    "notes": "Date, matrix 11247, session personnel and the BN-XW212-W single come from jazzdisco: Black Byrd was cut on 24 Nov 1972 at The Sound Factory, Los Angeles (Wikipedia gives April 3-4 and Nov 24, 1972 for the album as a whole; jazzdisco puts Mr. Thomas on 3 April and Flight-Time on 4 April). Wikipedia's album-wide personnel list is longer (Kevin Toney, Dean Parks, Wilton Felder and others), so the jazzdisco session line-up is used. Duration 7:21 is the MusicBrainz length of the album track (440,560 ms) and matches YouTube uploads; Wikipedia's track list says 8:00, which looks rounded. Release year 1973 per both Wikipedia and jazzdisco; one-year gap only. Byrd chosen over Think Twice (1974): both have about 300-500k YouTube views, but Black Byrd is the better documented."
+  },
+  {
+    "id": "jazz-dibango-soul-makossa",
+    "artist": "Manu Dibango",
+    "title": "Soul Makossa",
+    "composer": "Manu Dibango",
+    "recording_date": null,
+    "recording_year": 1972,
+    "release_year": 1972,
+    "original_issue": "First issued in 1972 as the B-side of the Cameroon football anthem 45 \"Hymne de la 8e Coupe d'Afrique des Nations\" (label African, 90.571, per French Wikipedia); also Fiesta 51.199 (45 rpm, b/w Lily, France, 1972); licensed to Atlantic Records in the US in late 1972 (single b/w Lily; Billboard Hot 100 No. 35 in 1973)",
+    "personnel": "Manu Dibango (saxophone, vocal, arranger), Georges Arvanitas (piano), Patrice Galas (piano), Joby Jobs (drums), Manfred Long (bass guitar), Freddy Mars (percussion), Manu Rodanet (electric guitar), Pierre Zogo (acoustic guitar)",
+    "style": "jazz-funk",
+    "year": 1972,
+    "year_lo": 1972,
+    "year_hi": 1972,
+    "year_label": "1972",
+    "trivia": "Dibango wrote it as the B-side of a Cameroonian anthem for the 1972 African Cup of Nations. New York DJ David Mancuso found a copy in a Brooklyn record shop and played it at The Loft, after which Atlantic licensed it; its chanted refrain was later borrowed for Michael Jackson's Wanna Be Startin' Somethin'.",
+    "tags": [
+      "1970s",
+      "jazz-funk",
+      "fiesta",
+      "makossa",
+      "afro-funk",
+      "cameroon",
+      "crossover"
+    ],
+    "track": {
+      "artist": "Manu Dibango",
+      "title": "Soul Makossa",
+      "album": "Soul Makossa (Fiesta / Atlantic single)",
+      "duration": "4:30",
+      "isrc": null,
+      "query": "Manu Dibango Soul Makossa Soul Makossa 1972",
+      "notes": "Manu Dibango's original 1972 recording (about 4:30), not the many quick 1972-73 cover versions (for example by Afrique) or Dibango's later remakes (Mouvement Ewondo 1994, Soul Makossa 2.0 2011)"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Soul_Makossa",
+      "https://en.wikipedia.org/wiki/Manu_Dibango",
+      "https://en.wikipedia.org/wiki/1972_African_Cup_of_Nations",
+      "https://fr.wikipedia.org/wiki/Soul_Makossa",
+      "https://musicbrainz.org/recording/1c2c627c-ec89-4343-93d4-2e32587dd616"
+    ],
+    "notes": "YEAR CONFLICT: the English Wikipedia infobox says recorded 1971 and released 1972, but the anthem it was coupled with celebrates the 1972 African Cup of Nations (23 Feb to 5 Mar 1972 in Cameroon, per Wikipedia), and French Wikipedia (read through a fetch summary, not the page itself) says Dibango went into the Decca studio in Paris after Cameroon's elimination (2 Mar 1972), giving no other date. 1972 is used (year only, no exact date) and the card is medium. Release: 1972 by both. Label 90.571 and Fiesta 51.199 come from the French page summary; the English page says the original B-side coupling was with the Hymne, the French page lists 51.199 as Soul Makossa / Lily, so the exact first pressing is uncertain. Personnel and 4:30 length are from the English article's section on the 1973 US single (4:30 also matches the MusicBrainz length of the Atlantic LP's original version). Chart facts (Hot 100 No. 35, 1973) from Wikipedia. Cross:true (Cameroonian makossa with jazz and funk, a global disco-era hit); most-sampled African song per Wikipedia."
+  },
+  {
+    "id": "jazz-gil-scott-heron-the-revolution-will-not-be-televised",
+    "artist": "Gil Scott-Heron",
+    "title": "The Revolution Will Not Be Televised",
+    "composer": "Gil Scott-Heron",
+    "recording_date": "1971-04-19",
+    "recording_year": 1971,
+    "release_year": 1971,
+    "original_issue": "Flying Dutchman (LP \"Pieces of a Man\", 1971, opening track; also the B-side of the 45 \"Home Is Where the Hatred Is\"); catalogue numbers not verified",
+    "personnel": "Gil Scott-Heron (vocal), Hubert Laws (flute), Ron Carter (bass), Bernard Purdie (drums)",
+    "style": "vocal",
+    "year": 1971,
+    "year_lo": 1971,
+    "year_hi": 1971,
+    "year_label": "1971",
+    "trivia": "Scott-Heron first recorded the poem for his 1970 live album Small Talk at 125th and Lenox, accompanied by congas and bongos only; this 1971 remake adds Ron Carter's bass line, Bernard Purdie's drums and Hubert Laws's flute. It entered the Library of Congress National Recording Registry in 2005 and the Grammy Hall of Fame in 2014.",
+    "tags": [
+      "1970s",
+      "vocal",
+      "flying-dutchman",
+      "spoken-word",
+      "proto-rap",
+      "jazz-funk",
+      "protest",
+      "crossover"
+    ],
+    "track": {
+      "artist": "Gil Scott-Heron",
+      "title": "The Revolution Will Not Be Televised",
+      "album": "Pieces of a Man (B-side of the single \"Home Is Where the Hatred Is\")",
+      "duration": "3:07",
+      "isrc": null,
+      "query": "Gil Scott-Heron The Revolution Will Not Be Televised Pieces of a Man 1971",
+      "notes": "The April 1971 studio band version (with Ron Carter, Hubert Laws and Bernard Purdie) from Pieces of a Man and the single B-side, not the 1970 conga and bongo version on Small Talk at 125th and Lenox"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Revolution_Will_Not_Be_Televised",
+      "https://en.wikipedia.org/wiki/Pieces_of_a_Man",
+      "https://en.wikipedia.org/wiki/Small_Talk_at_125th_and_Lenox",
+      "https://en.wikipedia.org/wiki/List_of_Grammy_Hall_of_Fame_Award_recipients_(Q%E2%80%93Z)"
+    ],
+    "notes": "VERSION CHOICE: the brief mentioned the 1970 Flying Dutchman album Small Talk at 125th and Lenox; this card is the 1971 band version because the jazz players (Carter, Laws, Purdie) are on it and the Grammy Hall of Fame lists the Flying Dutchman 1971 single (inducted 2014). Recording date 19 April 1971 (RCA Studios, New York) is from the song's infobox; the Pieces of a Man page gives the album sessions as April 19-20, 1971. Wikipedia says the track has only flute, bass and drums behind the vocal, so Brian Jackson (who plays piano on other tracks of the album) is not listed and the billing is Gil Scott-Heron alone, as on the 1971 single and LP. Length 3:07 from the song infobox; the album track list says 3:10 and MusicBrainz copies run 3:01-3:07. Flying Dutchman catalogue numbers were not read, so none are given. Crossover spoken-word and funk pick."
+  },
+  {
+    "id": "jazz-santana-samba-pa-ti",
+    "artist": "Santana",
+    "title": "Samba Pa Ti",
+    "composer": "Carlos Santana",
+    "recording_date": null,
+    "recording_year": 1970,
+    "release_year": 1970,
+    "original_issue": "Columbia (LP \"Abraxas\", released 23 September 1970); catalogue number not verified; issued as a single only in 1973 (b/w Se Acabó)",
+    "personnel": "Carlos Santana (electric guitar), Gregg Rolie (Hammond organ), David Brown (bass), Michael Shrieve (drums), Michael Carabello (congas), José Areas (timbales)",
+    "style": "latin",
+    "year": 1970,
+    "year_lo": 1970,
+    "year_hi": 1970,
+    "year_label": "1970",
+    "trivia": "Carlos Santana has said he conceived the tune on a Sunday afternoon in New York after watching a drunk street saxophonist from his window, and called it the first song he could call his own. It reached the UK top 30 only when it was released as a single in 1973.",
+    "tags": [
+      "1970s",
+      "latin",
+      "columbia",
+      "latin-rock",
+      "instrumental",
+      "jazz-rock",
+      "crossover"
+    ],
+    "track": {
+      "artist": "Santana",
+      "title": "Samba Pa Ti",
+      "album": "Abraxas",
+      "duration": "4:45",
+      "isrc": null,
+      "query": "Santana Samba Pa Ti Abraxas 1970",
+      "notes": "Studio album track from Abraxas (1970, 4:45), not later live versions or the 1973 single issue"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Samba_Pa_Ti",
+      "https://en.wikipedia.org/wiki/Abraxas_(album)",
+      "https://en.wikipedia.org/wiki/List_of_Grammy_Hall_of_Fame_Award_recipients_(A%E2%80%93D)"
+    ],
+    "notes": "The Abraxas sessions ran 17 April to 2 May 1970 (Wally Heider Studios, San Francisco, plus Pacific Recorders, San Mateo; Wikipedia), so only the year is stated for this track. Personnel is from the song article (album-wide credits add backing vocalists and a guest pianist on other tracks). Abraxas is in the Grammy Hall of Fame (1999) and the National Recording Registry (2015); Wikipedia lists the album as latin rock, jazz fusion and others, hence the latin style with jazz-rock tag and cross:true. The single release in 1973 (UK No. 27, Netherlands No. 11) is per the song article; the card is the album recording. The song article's categories wrongly list 1969/1967 dates and are ignored. Catalogue number not read, so none given."
+  },
+  {
+    "id": "jazz-ayers-everybody-loves-the-sunshine",
+    "artist": "Roy Ayers Ubiquity",
+    "title": "Everybody Loves the Sunshine",
+    "composer": "Roy Ayers",
+    "recording_date": null,
+    "recording_year": 1976,
+    "release_year": 1976,
+    "original_issue": "Polydor (LP \"Everybody Loves the Sunshine\", released 12 May 1976); catalogue number not verified",
+    "personnel": "Roy Ayers (vibraphone, lead vocal, electric piano, synthesizer), Philip Woo (piano, electric piano, synthesizer), Chano O'Ferral (congas, percussion, vocal), Ronald \"Head\" Drayton (guitar), John \"Shaun\" Solomon (electric bass), Doug Rhodes (drums), Debbie Darby \"Chicas\" (vocal); album-wide credits, track-by-track assignment not documented",
+    "style": "soul-jazz",
+    "year": 1976,
+    "year_lo": 1976,
+    "year_hi": 1976,
+    "year_label": "1976",
+    "trivia": "Pitchfork placed this number 72 on its 2016 list of the 200 best songs of the 1970s. It has been sampled nearly 200 times, by artists including Tupac Shakur, Mary J. Blige and Dr. Dre, and covered by D'Angelo and the Robert Glasper Experiment.",
+    "tags": [
+      "1970s",
+      "soul-jazz",
+      "polydor",
+      "jazz-funk",
+      "vibraphone",
+      "sampled"
+    ],
+    "track": {
+      "artist": "Roy Ayers Ubiquity",
+      "title": "Everybody Loves the Sunshine",
+      "album": "Everybody Loves the Sunshine",
+      "duration": "3:59",
+      "isrc": null,
+      "query": "Roy Ayers Ubiquity Everybody Loves the Sunshine 1976",
+      "notes": "Roy Ayers Ubiquity studio title track from the 1976 Polydor LP (about 3:59), not the long live versions or covers by D'Angelo, Takuya Kuroda or the Robert Glasper Experiment"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Everybody_Loves_the_Sunshine",
+      "https://en.wikipedia.org/wiki/Roy_Ayers"
+    ],
+    "notes": "No recording date was found in any source read (as an earlier agent also found); the year 1976 follows the documented release (Polydor, 12 May 1976, Wikipedia) and a MusicBrainz appearance on a compilation of 1976 songs, so the recording itself could date from late 1975. Studios were Electric Lady (New York) and Larrabee (West Hollywood) per the album article, without a track split. Length 3:59 from the Wikipedia track list; other copies run about 3:41-4:01. Style soul-jazz with jazz-funk tag: Wikipedia calls Ayers a jazz-funk pioneer and lists the album as R&B, soul and jazz. YouTube views (over 20 million on one upload) support tier B."
+  },
+  {
+    "id": "jazz-franks-popsicle-toes",
+    "artist": "Michael Franks",
+    "title": "Popsicle Toes",
+    "composer": "Michael Franks",
+    "recording_date": null,
+    "recording_year": 1975,
+    "release_year": 1975,
+    "original_issue": "Reprise MS 2230 (LP \"The Art of Tea\", 1975); 45 rpm Reprise single b/w I Don't Know Why I'm So Happy I'm Sad, 1976",
+    "personnel": "Michael Franks (vocal) with Joe Sample (keyboards), Larry Carlton (guitar), Wilton Felder (bass), John Guerin and Steve Gadd (drums), Jerry Steinholtz (congas), Larry Bunker (vibraphone), strings arranged by Nick DeCaro; album-wide credits, track-by-track assignment not documented",
+    "style": "smooth",
+    "year": 1975,
+    "year_lo": 1975,
+    "year_hi": 1975,
+    "year_label": "1975",
+    "trivia": "This was Franks's only Billboard Hot 100 entry, peaking at number 43, and it came from his first album for Reprise, produced by Tommy LiPuma. The Manhattan Transfer covered it in 1976 and Diana Krall in 1999.",
+    "tags": [
+      "1970s",
+      "smooth",
+      "reprise",
+      "vocal-jazz",
+      "jazz-pop"
+    ],
+    "track": {
+      "artist": "Michael Franks",
+      "title": "Popsicle Toes",
+      "album": "The Art of Tea",
+      "duration": "4:35",
+      "isrc": null,
+      "query": "Michael Franks Popsicle Toes The Art of Tea 1975",
+      "notes": "Album version (4:35) from The Art of Tea, not the 3:30 length listed for the single, nor the covers by The Manhattan Transfer or Diana Krall"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Popsicle_Toes",
+      "https://en.wikipedia.org/wiki/The_Art_of_Tea"
+    ],
+    "notes": "The Art of Tea sessions ran 22 May to 9 June 1975 at Capitol Studios, Hollywood (album infobox), so only the year is given. Wikipedia calls the album a jazz vocal album and the single a pop release (Hot 100 No. 43, Easy Listening No. 45); the single page dates the 45 to 1976 while the album page gives 1975 for the single, so rel 1975 follows the LP (Reprise MS 2230, from the liner-note citation in the album article). Per-track personnel is not documented: the album credits list only Sanborn (tracks 3 and 9) and Michael Brecker (track 6) by track, so, if the credits use continuous LP numbering, neither is on this track. Length 4:35 matches the album track list and MusicBrainz; the single page gives 3:30. Borderline tier B (about 380k YouTube views on the topic upload, Hot 100 hit, covered by Krall and The Manhattan Transfer)."
   }
 ]

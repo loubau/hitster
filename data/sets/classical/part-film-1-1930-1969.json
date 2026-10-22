@@ -1,0 +1,684 @@
+[
+  {
+    "id": "cls-korngold-the-adventures-of-robin-hood",
+    "composer": "Erich Wolfgang Korngold",
+    "composer_short": "Korngold",
+    "work": "The Adventures of Robin Hood (film score)",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "film",
+    "accept_work": "The Adventures of Robin Hood",
+    "excerpt": "Main title",
+    "year": 1938,
+    "year_lo": 1938,
+    "year_hi": 1938,
+    "year_label": "1938",
+    "premiere_or_publication": "Film released May 1938",
+    "dating_note": "Korngold scored the film in early 1938 for its May 1938 release (Wikipedia).",
+    "recording": {
+      "performers": "National Philharmonic Orchestra (stereo re-recording)",
+      "conductor": "Charles Gerhardt",
+      "label": "RCA Victor",
+      "year": 1972,
+      "why": "Pre-1950 score: the Gerhardt/RCA stereo re-recording is the standard clean presentation. Flagged as a re-recording."
+    },
+    "trivia": "Korngold, a Viennese child prodigy turned Hollywood composer, won an Academy Award for this score. He treated film music as opera without the singing, and the swashbuckling main title is its calling card.",
+    "tags": [
+      "20th-century",
+      "film",
+      "tier-c",
+      "orchestral",
+      "hollywood",
+      "swashbuckler"
+    ],
+    "track": {
+      "query": "Korngold The Adventures of Robin Hood main title Gerhardt",
+      "album": "The Sea Hawk: The Classic Film Scores of Erich Wolfgang Korngold",
+      "duration": "~1:32",
+      "start": null,
+      "isrc": null,
+      "notes": "Album and duration are approximate hints from memory and aggregator data; start is an estimate (about 15 s either way). If this exact recording is not on the service, any good recording of the same cue will do."
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Adventures_of_Robin_Hood_(film)",
+      "https://en.wikipedia.org/wiki/Erich_Wolfgang_Korngold"
+    ],
+    "notes": "Re-recording (flagged); album and duration unverified. Landmark (tier C) pick. The Filmmuziek Top 400 has Michael Kamen's 1991 Robin Hood: Prince of Thieves, a different score."
+  },
+  {
+    "id": "cls-steiner-gone-with-the-wind",
+    "composer": "Max Steiner",
+    "composer_short": "Steiner",
+    "work": "Gone with the Wind (film score)",
+    "nickname": "Tara's Theme",
+    "catalogue_only": false,
+    "form": "film",
+    "accept_work": "Gone with the Wind",
+    "excerpt": "Tara's Theme (the sweeping main theme)",
+    "year": 1939,
+    "year_lo": 1939,
+    "year_hi": 1939,
+    "year_label": "1939",
+    "premiere_or_publication": "Film premiered 15 December 1939 in Atlanta",
+    "dating_note": "Steiner wrote the score in 1939 for the film's December 1939 release (Wikipedia).",
+    "recording": {
+      "performers": "National Philharmonic Orchestra (stereo re-recording)",
+      "conductor": "Charles Gerhardt",
+      "label": "RCA Victor",
+      "year": 1974,
+      "why": "Pre-1950 score: the clean Gerhardt/RCA stereo re-recording stands in for the 1939 mono soundtrack. Flagged as a re-recording."
+    },
+    "trivia": "Steiner wrote close to three hours of music, among the longest scores of its day, built on recurring themes for people and places. Tara's Theme, the music of the O'Hara plantation, is the one everybody hums.",
+    "tags": [
+      "20th-century",
+      "film",
+      "filmtop400",
+      "tier-a",
+      "orchestral",
+      "hollywood",
+      "epic"
+    ],
+    "track": {
+      "query": "Max Steiner Tara's Theme Gone with the Wind Gerhardt National Philharmonic",
+      "album": "Gone with the Wind: The Classic Film Scores of Max Steiner",
+      "duration": "~4:10",
+      "start": null,
+      "isrc": null,
+      "notes": "Album and duration are approximate hints from memory and aggregator data; start is an estimate (about 15 s either way). If this exact recording is not on the service, any good recording of the same cue will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Gone_with_the_Wind_(film)",
+      "https://en.wikipedia.org/wiki/Max_Steiner",
+      "https://nl.wikipedia.org/wiki/Lijst_van_Filmmuziek_Top_400_in_2026"
+    ],
+    "notes": "Re-recording (Gerhardt/RCA), not the 1939 soundtrack: flagged. Album title and duration are approximate."
+  },
+  {
+    "id": "cls-karas-the-third-man",
+    "composer": "Anton Karas",
+    "composer_short": "Karas",
+    "work": "The Third Man (film score)",
+    "nickname": "The Harry Lime Theme",
+    "catalogue_only": false,
+    "form": "film",
+    "accept_work": "The Third Man",
+    "excerpt": "The Harry Lime Theme on solo zither",
+    "year": 1949,
+    "year_lo": 1949,
+    "year_hi": 1949,
+    "year_label": "1949",
+    "premiere_or_publication": "Film released September 1949 (UK)",
+    "dating_note": "Karas recorded the zither score in London in 1948-49 for the film's 1949 release (Wikipedia).",
+    "recording": {
+      "performers": "Anton Karas (zither)",
+      "conductor": null,
+      "label": "Decca",
+      "year": 1949,
+      "why": "Karas's own zither playing is the whole score; the 1949 recording is the one that became a hit."
+    },
+    "trivia": "Director Carol Reed heard Karas playing in a Vienna wine tavern and built the film's entire soundtrack around his zither. The Harry Lime Theme became a worldwide hit record in 1950.",
+    "tags": [
+      "20th-century",
+      "film",
+      "filmtop400",
+      "tier-b",
+      "zither",
+      "vienna",
+      "noir"
+    ],
+    "track": {
+      "query": "Anton Karas The Third Man Theme Harry Lime Theme",
+      "album": null,
+      "duration": "~2:20",
+      "start": null,
+      "isrc": null,
+      "notes": "Album and duration are approximate hints from memory and aggregator data; start is an estimate (about 15 s either way). If this exact recording is not on the service, any good recording of the same cue will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Third_Man",
+      "https://en.wikipedia.org/wiki/Anton_Karas",
+      "https://nl.wikipedia.org/wiki/Lijst_van_Filmmuziek_Top_400_in_2026"
+    ],
+    "notes": "Dated by the 1949 film; the 1950 hit single is not the composition year."
+  },
+  {
+    "id": "cls-herrmann-vertigo",
+    "composer": "Bernard Herrmann",
+    "composer_short": "Herrmann",
+    "work": "Vertigo (film score)",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "film",
+    "accept_work": "Vertigo",
+    "excerpt": "Prelude and Rooftop (the spiralling main title)",
+    "year": 1958,
+    "year_lo": 1958,
+    "year_hi": 1958,
+    "year_label": "1958",
+    "premiere_or_publication": "Film premiered 9 May 1958 in San Francisco",
+    "dating_note": "Herrmann scored the film in early 1958, for its May 1958 release (Wikipedia).",
+    "recording": {
+      "performers": "Orchestra under Muir Mathieson (recorded in London and Vienna)",
+      "conductor": "Muir Mathieson",
+      "label": "Mercury",
+      "year": 1958,
+      "why": "The 1958 Mercury recording under Muir Mathieson is the classic presentation of the Prelude; any recording of the main title will do."
+    },
+    "trivia": "Herrmann's swirling harp and string figures mirror the film's spirals and the hero's fear of heights. The score was reportedly recorded in Europe because of a musicians' strike in the US.",
+    "tags": [
+      "20th-century",
+      "film",
+      "filmtop400",
+      "tier-b",
+      "orchestral",
+      "hitchcock",
+      "noir"
+    ],
+    "track": {
+      "query": "Bernard Herrmann Vertigo Prelude and Rooftop Muir Mathieson",
+      "album": "Vertigo (original soundtrack recording, Muir Mathieson)",
+      "duration": "4:38",
+      "start": null,
+      "isrc": null,
+      "notes": "Duration is the length of this OST track (MusicBrainz release data); start is an estimate (about 15 s either way). If this exact recording is not on the service, any good recording of the same cue will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Vertigo_(film)",
+      "https://en.wikipedia.org/wiki/Bernard_Herrmann",
+      "https://nl.wikipedia.org/wiki/Lijst_van_Filmmuziek_Top_400_in_2026"
+    ],
+    "notes": "Mercury 1958 Muir Mathieson album; exact album title on streaming varies. Filmmuziek Top 400 rank 260."
+  },
+  {
+    "id": "cls-rozsa-ben-hur",
+    "composer": "Miklós Rózsa",
+    "composer_short": "Rózsa",
+    "work": "Ben-Hur (film score)",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "film",
+    "accept_work": "Ben-Hur",
+    "excerpt": "Parade of the Charioteers",
+    "year": 1959,
+    "year_lo": 1959,
+    "year_hi": 1959,
+    "year_label": "1959",
+    "premiere_or_publication": "Film premiered 18 November 1959 in New York",
+    "dating_note": "Rózsa composed the score in 1959 during post-production, for the film's November 1959 release (Wikipedia).",
+    "recording": {
+      "performers": "MGM studio orchestra (original soundtrack)",
+      "conductor": null,
+      "label": "MGM Records",
+      "year": 1959,
+      "why": "The original MGM soundtrack recording; Rózsa's own later re-recordings are also fine."
+    },
+    "trivia": "The score runs well over two hours and won an Academy Award. The chariot race itself, the film's famous set piece, is played without any music at all.",
+    "tags": [
+      "20th-century",
+      "film",
+      "tier-c",
+      "orchestral",
+      "epic",
+      "hollywood"
+    ],
+    "track": {
+      "query": "Miklos Rozsa Ben-Hur Parade of the Charioteers",
+      "album": "Ben-Hur (Original Soundtrack)",
+      "duration": "~3:28",
+      "start": null,
+      "isrc": null,
+      "notes": "Album and duration are approximate hints from memory and aggregator data; start is an estimate (about 15 s either way). If this exact recording is not on the service, any good recording of the same cue will do."
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Ben-Hur_(1959_film)",
+      "https://en.wikipedia.org/wiki/Mikl%C3%B3s_R%C3%B3zsa"
+    ],
+    "notes": "Landmark (tier C) pick. Not on the Filmmuziek Top 400 (checked). Album title and duration approximate."
+  },
+  {
+    "id": "cls-herrmann-psycho",
+    "composer": "Bernard Herrmann",
+    "composer_short": "Herrmann",
+    "work": "Psycho (film score)",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "film",
+    "accept_work": "Psycho",
+    "excerpt": "Prelude (the agitated main-title strings)",
+    "year": 1960,
+    "year_lo": 1960,
+    "year_hi": 1960,
+    "year_label": "1960",
+    "premiere_or_publication": "Film released 16 June 1960",
+    "dating_note": "Herrmann scored the film in 1960, for its June 1960 release (Wikipedia).",
+    "recording": {
+      "performers": "Studio string orchestra (original soundtrack)",
+      "conductor": "Bernard Herrmann",
+      "label": null,
+      "year": 1960,
+      "why": "Strings-only original; Herrmann's later stereo re-recording of the Prelude is also fine."
+    },
+    "trivia": "Herrmann wrote the score for strings alone, which gives the shower-scene shrieks their piercing edge. Hitchcock reportedly wanted no music there at first and changed his mind on hearing it.",
+    "tags": [
+      "20th-century",
+      "film",
+      "filmtop400",
+      "tier-a",
+      "orchestral",
+      "strings",
+      "hitchcock"
+    ],
+    "track": {
+      "query": "Bernard Herrmann Psycho Prelude",
+      "album": null,
+      "duration": "~2:10",
+      "start": null,
+      "isrc": null,
+      "notes": "Album and duration are approximate hints from memory and aggregator data; start is an estimate (about 15 s either way). If this exact recording is not on the service, any good recording of the same cue will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Psycho_(1960_film)",
+      "https://en.wikipedia.org/wiki/Bernard_Herrmann",
+      "https://nl.wikipedia.org/wiki/Lijst_van_Filmmuziek_Top_400_in_2026"
+    ],
+    "notes": "Second Herrmann/Hitchcock card (after Vertigo): different decades of sound, same composer. Filmmuziek Top 400 rank 237."
+  },
+  {
+    "id": "cls-jarre-lawrence-of-arabia",
+    "composer": "Maurice Jarre",
+    "composer_short": "Jarre",
+    "work": "Lawrence of Arabia (film score)",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "film",
+    "accept_work": "Lawrence of Arabia",
+    "excerpt": "Main title (the desert theme)",
+    "year": 1962,
+    "year_lo": 1962,
+    "year_hi": 1962,
+    "year_label": "1962",
+    "premiere_or_publication": "Film premiered 10 December 1962 in London",
+    "dating_note": "Jarre composed the score in 1962 for the film's December 1962 premiere (Wikipedia).",
+    "recording": {
+      "performers": "London Philharmonic Orchestra (original soundtrack)",
+      "conductor": "Maurice Jarre",
+      "label": "Colpix",
+      "year": 1962,
+      "why": "The original film recording. Sir Adrian Boult is credited as conductor in the film titles, but Jarre conducted most of the score."
+    },
+    "trivia": "Jarre was given just six weeks to compose about two hours of orchestral music. The score won him the first of three Academy Awards.",
+    "tags": [
+      "20th-century",
+      "film",
+      "filmtop400",
+      "tier-b",
+      "orchestral",
+      "epic",
+      "desert"
+    ],
+    "track": {
+      "query": "Maurice Jarre Lawrence of Arabia Main Title",
+      "album": "Lawrence of Arabia (Original Soundtrack)",
+      "duration": "1:54",
+      "start": null,
+      "isrc": null,
+      "notes": "Duration is the length of this OST track (MusicBrainz release data); start is an estimate (about 15 s either way). If this exact recording is not on the service, any good recording of the same cue will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Lawrence_of_Arabia_(film)",
+      "https://en.wikipedia.org/wiki/Maurice_Jarre",
+      "https://nl.wikipedia.org/wiki/Lijst_van_Filmmuziek_Top_400_in_2026"
+    ],
+    "notes": "Not to be confused with Sakamoto's \"Merry Christmas, Mr. Lawrence\" on the same Filmmuziek list. Filmmuziek Top 400 rank 147."
+  },
+  {
+    "id": "cls-norman-dr-no",
+    "composer": "Monty Norman (arranged by John Barry)",
+    "composer_short": "Norman",
+    "work": "Dr. No (film score), the James Bond Theme",
+    "nickname": "The James Bond Theme",
+    "catalogue_only": false,
+    "form": "film",
+    "accept_work": "James Bond Theme",
+    "excerpt": "The James Bond Theme (twangy guitar and brass)",
+    "year": 1962,
+    "year_lo": 1962,
+    "year_hi": 1962,
+    "year_label": "1962",
+    "premiere_or_publication": "Film released 5 October 1962 (UK)",
+    "dating_note": "Norman wrote the theme in 1962 for Dr. No (released 5 October 1962); the famous guitar-and-brass arrangement is by John Barry (Wikipedia).",
+    "recording": {
+      "performers": "John Barry Orchestra",
+      "conductor": "John Barry",
+      "label": "United Artists",
+      "year": 1962,
+      "why": "The 1962 John Barry arrangement is the version heard in the film and is the definitive recording."
+    },
+    "trivia": "The theme is credited to Monty Norman, while John Barry arranged the electric-guitar sound that defines it. Norman won a libel case in 2001 over the question of who wrote it.",
+    "tags": [
+      "20th-century",
+      "film",
+      "filmtop400",
+      "tier-a",
+      "spy",
+      "guitar",
+      "theme"
+    ],
+    "track": {
+      "query": "John Barry Orchestra James Bond Theme Dr. No 1962",
+      "album": "Dr. No (Original Soundtrack)",
+      "duration": "1:48",
+      "start": null,
+      "isrc": null,
+      "notes": "Duration is the length of this OST track (MusicBrainz release data); start is an estimate (about 15 s either way). If this exact recording is not on the service, any good recording of the same cue will do."
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Dr._No_(film)",
+      "https://en.wikipedia.org/wiki/James_Bond_Theme",
+      "https://en.wikipedia.org/wiki/Monty_Norman",
+      "https://nl.wikipedia.org/wiki/Lijst_van_Filmmuziek_Top_400_in_2026"
+    ],
+    "notes": "Attribution flagged: filed under Monty Norman (credited composer; Wikipedia), with John Barry as arranger. Accept either name; 'Dr. No' is also an acceptable answer. Filmmuziek Top 400 lists 'Dr. No' (Norman), rank 63."
+  },
+  {
+    "id": "cls-grainer-doctor-who",
+    "composer": "Ron Grainer (realised by Delia Derbyshire)",
+    "composer_short": "Grainer",
+    "work": "Doctor Who (TV theme)",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "tv",
+    "accept_work": "Doctor Who",
+    "excerpt": "The original 1963 title theme",
+    "year": 1963,
+    "year_lo": 1963,
+    "year_hi": 1963,
+    "year_label": "1963",
+    "premiere_or_publication": "First broadcast 23 November 1963 (BBC)",
+    "dating_note": "Grainer's score was realised at the BBC Radiophonic Workshop in 1963, ahead of the first broadcast on 23 November 1963 (Wikipedia).",
+    "recording": {
+      "performers": "BBC Radiophonic Workshop (realisation by Delia Derbyshire, with Dick Mills)",
+      "conductor": null,
+      "label": null,
+      "year": 1963,
+      "why": "The original 1963 realisation, not a later re-arrangement."
+    },
+    "trivia": "Grainer wrote the theme as a few lines of notation, and Delia Derbyshire built the sound from oscillators and spliced tape without a synthesizer. She was not credited on screen at the time.",
+    "tags": [
+      "20th-century",
+      "tv",
+      "tier-b",
+      "electronic",
+      "bbc",
+      "sci-fi"
+    ],
+    "track": {
+      "query": "Doctor Who theme original 1963 Delia Derbyshire Ron Grainer",
+      "album": null,
+      "duration": "~2:20",
+      "start": null,
+      "isrc": null,
+      "notes": "Album and duration are approximate hints from memory and aggregator data; start is an estimate (about 15 s either way). If this exact recording is not on the service, any good recording of the same cue will do."
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Doctor_Who_theme_music",
+      "https://en.wikipedia.org/wiki/Ron_Grainer",
+      "https://en.wikipedia.org/wiki/Delia_Derbyshire"
+    ],
+    "notes": "Attribution trap: composed by Grainer, electronic realisation by Derbyshire (uncredited on screen at first). Many later arrangements exist; the 1963 version is the target. Not on the Filmmuziek Top 400."
+  },
+  {
+    "id": "cls-mancini-the-pink-panther",
+    "composer": "Henry Mancini",
+    "composer_short": "Mancini",
+    "work": "The Pink Panther (film score)",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "film",
+    "accept_work": "The Pink Panther",
+    "excerpt": "The Pink Panther Theme (tenor sax)",
+    "year": 1963,
+    "year_lo": 1963,
+    "year_hi": 1963,
+    "year_label": "1963",
+    "premiere_or_publication": "Film released December 1963",
+    "dating_note": "Mancini wrote the theme in 1963 for the animated title sequence of The Pink Panther (released December 1963) (Wikipedia).",
+    "recording": {
+      "performers": "Henry Mancini and his orchestra, Plas Johnson (tenor saxophone)",
+      "conductor": "Henry Mancini",
+      "label": "RCA Victor",
+      "year": 1964,
+      "why": "The 1964 RCA album recording with Plas Johnson on sax is the definitive take."
+    },
+    "trivia": "Mancini wrote it for the cartoon panther of the title sequence, which then became a series of its own. The sly tenor sax line is played by Plas Johnson.",
+    "tags": [
+      "20th-century",
+      "film",
+      "filmtop400",
+      "tier-a",
+      "jazz",
+      "comedy",
+      "saxophone"
+    ],
+    "track": {
+      "query": "Henry Mancini The Pink Panther Theme",
+      "album": "The Pink Panther (Music from the Film Score)",
+      "duration": "2:40",
+      "start": null,
+      "isrc": null,
+      "notes": "Duration is the length of this OST track (MusicBrainz release data); start is an estimate (about 15 s either way). If this exact recording is not on the service, any good recording of the same cue will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Pink_Panther_(1963_film)",
+      "https://en.wikipedia.org/wiki/Henry_Mancini",
+      "https://nl.wikipedia.org/wiki/Lijst_van_Filmmuziek_Top_400_in_2026"
+    ],
+    "notes": "Filmmuziek Top 400 lists 'Pink Panther' (Mancini), rank 36."
+  },
+  {
+    "id": "cls-jarre-doctor-zhivago",
+    "composer": "Maurice Jarre",
+    "composer_short": "Jarre",
+    "work": "Doctor Zhivago (film score)",
+    "nickname": "Lara's Theme",
+    "catalogue_only": false,
+    "form": "film",
+    "accept_work": "Doctor Zhivago",
+    "excerpt": "Lara's Theme (balalaika and strings)",
+    "year": 1965,
+    "year_lo": 1965,
+    "year_hi": 1965,
+    "year_label": "1965",
+    "premiere_or_publication": "Film premiered 22 December 1965 in New York",
+    "dating_note": "Jarre composed the score in 1965 for the film's December 1965 premiere (Wikipedia).",
+    "recording": {
+      "performers": "Original film orchestra with balalaikas",
+      "conductor": "Maurice Jarre",
+      "label": "MGM Records",
+      "year": 1965,
+      "why": "The original MGM soundtrack recording."
+    },
+    "trivia": "Lara's Theme became a pop hit in 1966 when words were added as 'Somewhere, My Love'. Jarre's balalaika-coloured score won him a second Academy Award.",
+    "tags": [
+      "20th-century",
+      "film",
+      "filmtop400",
+      "tier-b",
+      "orchestral",
+      "romantic",
+      "balalaika"
+    ],
+    "track": {
+      "query": "Maurice Jarre Lara's Theme Doctor Zhivago",
+      "album": "Doctor Zhivago (Original Soundtrack)",
+      "duration": "2:50",
+      "start": null,
+      "isrc": null,
+      "notes": "Duration is the length of this OST track (MusicBrainz release data); start is an estimate (about 15 s either way). If this exact recording is not on the service, any good recording of the same cue will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Doctor_Zhivago_(film)",
+      "https://en.wikipedia.org/wiki/Maurice_Jarre",
+      "https://nl.wikipedia.org/wiki/Lijst_van_Filmmuziek_Top_400_in_2026"
+    ],
+    "notes": "Filmmuziek Top 400 rank 62. Do not date by the 1966 song 'Somewhere, My Love'."
+  },
+  {
+    "id": "cls-courage-star-trek",
+    "composer": "Alexander Courage",
+    "composer_short": "Courage",
+    "work": "Star Trek: The Original Series (TV main title)",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "tv",
+    "accept_work": "Star Trek",
+    "excerpt": "Main title fanfare with wordless soprano",
+    "year": 1966,
+    "year_lo": 1965,
+    "year_hi": 1966,
+    "year_label": "1966",
+    "premiere_or_publication": "Series premiered 8 September 1966 (NBC)",
+    "dating_note": "Dated by the series premiere on 8 September 1966; Courage wrote the main title during the early pilot period, so a slightly earlier date (1965) is defensible (Wikipedia).",
+    "recording": {
+      "performers": "Studio orchestra with soprano Loulie Jean Norman",
+      "conductor": "Alexander Courage",
+      "label": null,
+      "year": 1966,
+      "why": "The original-series version with the wordless soprano, not the film or later-series themes."
+    },
+    "trivia": "The fanfare and soaring wordless soprano set the tone for the whole franchise. Gene Roddenberry added lyrics, never used on screen, which entitled him to a share of the royalties.",
+    "tags": [
+      "20th-century",
+      "tv",
+      "tier-a",
+      "sci-fi",
+      "orchestral",
+      "fanfare"
+    ],
+    "track": {
+      "query": "Star Trek The Original Series main title theme Alexander Courage",
+      "album": null,
+      "duration": "~0:55",
+      "start": null,
+      "isrc": null,
+      "notes": "Album and duration are approximate hints from memory and aggregator data; start is an estimate (about 15 s either way). If this exact recording is not on the service, any good recording of the same cue will do."
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Star_Trek:_The_Original_Series",
+      "https://en.wikipedia.org/wiki/Alexander_Courage"
+    ],
+    "notes": "Short cue. The Filmmuziek Top 400 lists other Star Trek scores (Giacchino, Goldsmith), not Courage's TV theme, so no 'filmtop400' tag."
+  },
+  {
+    "id": "cls-morricone-the-good-the-bad-and-the-ugly",
+    "composer": "Ennio Morricone",
+    "composer_short": "Morricone",
+    "work": "The Good, the Bad and the Ugly (film score)",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "film",
+    "accept_work": "The Good, the Bad and the Ugly",
+    "excerpt": "Main title (the coyote-howl theme)",
+    "year": 1966,
+    "year_lo": 1966,
+    "year_hi": 1966,
+    "year_label": "1966",
+    "premiere_or_publication": "Film premiered 23 December 1966 in Rome",
+    "dating_note": "Morricone composed the score in 1966 for the film's December 1966 premiere (Wikipedia).",
+    "recording": {
+      "performers": "Ennio Morricone with orchestra and voices (original soundtrack)",
+      "conductor": "Ennio Morricone",
+      "label": "United Artists",
+      "year": 1967,
+      "why": "The original LP recording (the 1967 UA album)."
+    },
+    "trivia": "The main title imitates coyote howls with voices, flute and ocarina, and is one of the most quoted themes in all of film. 'The Ecstasy of Gold' from the same score has opened countless live concerts.",
+    "tags": [
+      "20th-century",
+      "film",
+      "top400",
+      "filmtop400",
+      "tier-a",
+      "western",
+      "orchestral",
+      "theme"
+    ],
+    "track": {
+      "query": "Ennio Morricone The Good the Bad and the Ugly Main Title",
+      "album": "The Good, the Bad and the Ugly (Original Motion Picture Soundtrack)",
+      "duration": "2:38",
+      "start": null,
+      "isrc": null,
+      "notes": "Duration is the length of this OST track (MusicBrainz release data); start is an estimate (about 15 s either way). If this exact recording is not on the service, any good recording of the same cue will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Good,_the_Bad_and_the_Ugly",
+      "https://en.wikipedia.org/wiki/The_Good,_the_Bad_and_the_Ugly_(soundtrack)",
+      "https://nl.wikipedia.org/wiki/Lijst_van_Filmmuziek_Top_400_in_2026"
+    ],
+    "notes": "Length is for the original LP (2:41 on the remaster). Top 400 best rank 120; Filmmuziek Top 400 rank 10."
+  },
+  {
+    "id": "cls-morricone-once-upon-a-time-in-the-west",
+    "composer": "Ennio Morricone",
+    "composer_short": "Morricone",
+    "work": "Once Upon a Time in the West (film score)",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "film",
+    "accept_work": "Once Upon a Time in the West",
+    "excerpt": "Man with a Harmonica (L'uomo dell'armonica)",
+    "year": 1968,
+    "year_lo": 1967,
+    "year_hi": 1968,
+    "year_label": "1968 (written 1967-68)",
+    "premiere_or_publication": "Film premiered 21 December 1968 in Rome",
+    "dating_note": "Morricone wrote the score before shooting began and Leone played it on set; the film opened in December 1968, so 1967-68 is the composition window (Wikipedia).",
+    "recording": {
+      "performers": "Ennio Morricone with orchestra and chorus (original soundtrack)",
+      "conductor": "Ennio Morricone",
+      "label": "RCA",
+      "year": 1969,
+      "why": "The original soundtrack recording."
+    },
+    "trivia": "Leone had Morricone write the music in advance and played it on set to set the pace of the actors. Each lead has a theme of his or her own: the harmonica for Harmonica, and Edda Dell'Orso's soaring voice for Jill.",
+    "tags": [
+      "20th-century",
+      "film",
+      "top400",
+      "filmtop400",
+      "tier-a",
+      "western",
+      "orchestral",
+      "harmonica"
+    ],
+    "track": {
+      "query": "Ennio Morricone Once Upon a Time in the West L'uomo dell'armonica",
+      "album": "C'era una volta il West (Original Soundtrack)",
+      "duration": "3:27",
+      "start": null,
+      "isrc": null,
+      "notes": "Album and duration are approximate hints from memory and aggregator data; start is an estimate (about 15 s either way). If this exact recording is not on the service, any good recording of the same cue will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Once_Upon_a_Time_in_the_West",
+      "https://en.wikipedia.org/wiki/Once_Upon_a_Time_in_the_West_(soundtrack)",
+      "https://nl.wikipedia.org/wiki/Lijst_van_Filmmuziek_Top_400_in_2026"
+    ],
+    "notes": "Cue chosen: the harmonica theme; the alternative is Jill's Theme (a 6 min suite on compilations). Top 400 best rank 33; Filmmuziek Top 400 rank 2. Duration approximate."
+  }
+]

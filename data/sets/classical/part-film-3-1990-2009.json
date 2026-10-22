@@ -1,0 +1,995 @@
+[
+  {
+    "id": "cls-badalamenti-twin-peaks",
+    "composer": "Angelo Badalamenti",
+    "composer_short": "Badalamenti",
+    "work": "Twin Peaks (TV score)",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "tv",
+    "accept_work": "Twin Peaks",
+    "excerpt": "Twin Peaks Theme (the main title)",
+    "year": 1990,
+    "year_lo": 1989,
+    "year_hi": 1990,
+    "year_label": "1990",
+    "premiere_or_publication": "Series premiered 8 April 1990 (ABC)",
+    "dating_note": "Badalamenti composed the theme in 1989-90 for the series premiere in April 1990 (Wikipedia).",
+    "recording": {
+      "performers": "Angelo Badalamenti and orchestra",
+      "conductor": "Angelo Badalamenti",
+      "label": "Warner Bros.",
+      "year": 1990,
+      "why": "The original soundtrack album recording."
+    },
+    "trivia": "Badalamenti's slow, dreamy theme is an instrumental cousin of the song 'Falling', which has lyrics by David Lynch and was sung by Julee Cruise. The pair's partnership defined the sound of the show.",
+    "tags": [
+      "20th-century",
+      "tv",
+      "filmtop400",
+      "tier-b",
+      "synthesizer",
+      "dreamy",
+      "lynch"
+    ],
+    "track": {
+      "query": "Angelo Badalamenti Twin Peaks Theme",
+      "album": "Soundtrack from Twin Peaks",
+      "duration": "5:10",
+      "start": null,
+      "isrc": null,
+      "notes": "Duration is the length of this OST track (MusicBrainz release data); start is an estimate (about 15 s either way). If this exact recording is not on the service, any good recording of the same cue will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Twin_Peaks",
+      "https://en.wikipedia.org/wiki/Angelo_Badalamenti",
+      "https://nl.wikipedia.org/wiki/Lijst_van_Filmmuziek_Top_400_in_2026"
+    ],
+    "notes": "Filmmuziek Top 400 rank 47 (listed as 'Twin Peaks (serie)')."
+  },
+  {
+    "id": "cls-barry-dances-with-wolves",
+    "composer": "John Barry",
+    "composer_short": "Barry",
+    "work": "Dances with Wolves (film score)",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "film",
+    "accept_work": "Dances with Wolves",
+    "excerpt": "The John Dunbar Theme",
+    "year": 1990,
+    "year_lo": 1990,
+    "year_hi": 1990,
+    "year_label": "1990",
+    "premiere_or_publication": "Film released in the US in November 1990",
+    "dating_note": "Barry scored the film in 1990, for its November 1990 release (Wikipedia).",
+    "recording": {
+      "performers": "Hollywood Studio Symphony",
+      "conductor": "John Barry",
+      "label": "Epic",
+      "year": 1990,
+      "why": "The original 1990 soundtrack recording."
+    },
+    "trivia": "Barry wrote it after a two-year break caused by a ruptured oesophagus. He studied Native American music but deliberately left it out of the score, because the story is seen through the eyes of the hero. The score won him an Oscar.",
+    "tags": [
+      "20th-century",
+      "film",
+      "filmtop400",
+      "tier-a",
+      "orchestral",
+      "western",
+      "epic"
+    ],
+    "track": {
+      "query": "John Barry The John Dunbar Theme Dances with Wolves",
+      "album": "Dances with Wolves (Original Motion Picture Soundtrack)",
+      "duration": "2:16",
+      "start": null,
+      "isrc": null,
+      "notes": "Duration is the length of this OST track (MusicBrainz release data); start is an estimate (about 15 s either way). If this exact recording is not on the service, any good recording of the same cue will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Dances_with_Wolves",
+      "https://en.wikipedia.org/wiki/Dances_with_Wolves_(soundtrack)",
+      "https://en.wikipedia.org/wiki/John_Barry_(composer)",
+      "https://nl.wikipedia.org/wiki/Lijst_van_Filmmuziek_Top_400_in_2026"
+    ],
+    "notes": "Filmmuziek Top 400 rank 22. Duration is the original 1990 release; the opening track 'Main Title - Looks Like a Suicide' is a different cue."
+  },
+  {
+    "id": "cls-vangelis-1492-conquest-of-paradise",
+    "composer": "Vangelis",
+    "composer_short": "Vangelis",
+    "work": "1492: Conquest of Paradise (film score)",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "film",
+    "accept_work": "1492: Conquest of Paradise",
+    "excerpt": "Conquest of Paradise (the main theme)",
+    "year": 1992,
+    "year_lo": 1992,
+    "year_hi": 1992,
+    "year_label": "1992",
+    "premiere_or_publication": "Film released October 1992",
+    "dating_note": "Vangelis wrote the score for Ridley Scott's 1992 film; the theme only became a pan-European hit in 1995, which is not the composition year (Wikipedia).",
+    "recording": {
+      "performers": "Vangelis (synthesizers and choir)",
+      "conductor": null,
+      "label": null,
+      "year": 1992,
+      "why": "The 1992 soundtrack recording. Do not confuse it with the many 1995 'Conquest of Paradise' remixes."
+    },
+    "trivia": "The theme became a huge European hit in 1995, partly as the entrance music of German boxer Henry Maske. Vangelis recorded it with synthesizers and a choir, in a style that feels both ancient and futuristic.",
+    "tags": [
+      "20th-century",
+      "film",
+      "filmtop400",
+      "tier-a",
+      "electronic",
+      "synthesizer",
+      "epic",
+      "dating-trap"
+    ],
+    "track": {
+      "query": "Vangelis Conquest of Paradise 1492",
+      "album": "1492: Conquest of Paradise (Original Soundtrack)",
+      "duration": "~4:48",
+      "start": null,
+      "isrc": null,
+      "notes": "Album and duration are approximate hints from memory and aggregator data; start is an estimate (about 15 s either way). If this exact recording is not on the service, any good recording of the same cue will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/1492:_Conquest_of_Paradise",
+      "https://en.wikipedia.org/wiki/Vangelis",
+      "https://nl.wikipedia.org/wiki/Lijst_van_Filmmuziek_Top_400_in_2026"
+    ],
+    "notes": "Date trap flagged: dated by the 1992 film, not the 1995 hit. Filmmuziek Top 400 rank 23. Duration approximate."
+  },
+  {
+    "id": "cls-nyman-the-piano",
+    "composer": "Michael Nyman",
+    "composer_short": "Nyman",
+    "work": "The Piano (film score)",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "film",
+    "accept_work": "The Piano",
+    "excerpt": "The Heart Asks Pleasure First",
+    "year": 1993,
+    "year_lo": 1993,
+    "year_hi": 1993,
+    "year_label": "1993",
+    "premiere_or_publication": "Film premiered at Cannes in May 1993 (Palme d'Or)",
+    "dating_note": "Nyman composed the score in 1992-93 for the film's May 1993 premiere (Wikipedia).",
+    "recording": {
+      "performers": "Michael Nyman Band; Michael Nyman (piano)",
+      "conductor": "Michael Nyman",
+      "label": "Virgin",
+      "year": 1993,
+      "why": "The 1993 album recording, on which Nyman himself plays the piano (in the film it is Holly Hunter)."
+    },
+    "trivia": "Nyman said 'The Heart Asks Pleasure First' is based on a Scottish song, 'Gloomy Winter's Noo Awa'. In the film the piano is played by Holly Hunter herself, while Nyman plays it on the album.",
+    "tags": [
+      "20th-century",
+      "film",
+      "top400",
+      "filmtop400",
+      "tier-b",
+      "piano",
+      "minimalist",
+      "romantic"
+    ],
+    "track": {
+      "query": "Michael Nyman The Heart Asks Pleasure First The Piano",
+      "album": "The Piano (Music from the Motion Picture)",
+      "duration": "1:33",
+      "start": null,
+      "isrc": null,
+      "notes": "Duration is the length of this OST track (MusicBrainz release data); start is an estimate (about 15 s either way). If this exact recording is not on the service, any good recording of the same cue will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Piano",
+      "https://en.wikipedia.org/wiki/Michael_Nyman",
+      "https://nl.wikipedia.org/wiki/Lijst_van_Filmmuziek_Top_400_in_2026"
+    ],
+    "notes": "Film cue only; Nyman's concert works (including the 1994 Piano Concerto, which reworks this music) belong to the concert-music agent. Top 400 best rank 309; Filmmuziek Top 400 rank 37."
+  },
+  {
+    "id": "cls-williams-jurassic-park",
+    "composer": "John Williams",
+    "composer_short": "Williams",
+    "work": "Jurassic Park (film score)",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "film",
+    "accept_work": "Jurassic Park",
+    "excerpt": "Theme from Jurassic Park",
+    "year": 1993,
+    "year_lo": 1993,
+    "year_hi": 1993,
+    "year_label": "1993",
+    "premiere_or_publication": "Film released 11 June 1993",
+    "dating_note": "Williams scored the film in 1993, for its June 1993 release (Wikipedia).",
+    "recording": {
+      "performers": "Studio orchestra conducted by John Williams (original soundtrack)",
+      "conductor": "John Williams",
+      "label": "MCA",
+      "year": 1993,
+      "why": "The original soundtrack recording."
+    },
+    "trivia": "Williams wrote both Jurassic Park and Schindler's List in the same year, 1993, two completely opposite scores for Spielberg. The soaring horn theme accompanies the first sight of the dinosaurs.",
+    "tags": [
+      "20th-century",
+      "film",
+      "filmtop400",
+      "tier-a",
+      "orchestral",
+      "adventure",
+      "sci-fi"
+    ],
+    "track": {
+      "query": "John Williams Theme from Jurassic Park",
+      "album": "Jurassic Park (Original Motion Picture Soundtrack)",
+      "duration": "3:27",
+      "start": null,
+      "isrc": null,
+      "notes": "Duration is the length of this OST track (MusicBrainz release data); start is an estimate (about 15 s either way). If this exact recording is not on the service, any good recording of the same cue will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Jurassic_Park_(film)",
+      "https://en.wikipedia.org/wiki/Jurassic_Park_(film_score)",
+      "https://nl.wikipedia.org/wiki/Lijst_van_Filmmuziek_Top_400_in_2026"
+    ],
+    "notes": "Filmmuziek Top 400 rank 15."
+  },
+  {
+    "id": "cls-williams-schindlers-list",
+    "composer": "John Williams",
+    "composer_short": "Williams",
+    "work": "Schindler's List (film score)",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "film",
+    "accept_work": "Schindler's List",
+    "excerpt": "Theme from Schindler's List (solo violin)",
+    "year": 1993,
+    "year_lo": 1993,
+    "year_hi": 1993,
+    "year_label": "1993",
+    "premiere_or_publication": "Film released 15 December 1993",
+    "dating_note": "Williams scored the film in 1993, for its December 1993 release (Wikipedia).",
+    "recording": {
+      "performers": "Itzhak Perlman (violin), Boston Symphony Orchestra",
+      "conductor": "John Williams",
+      "label": "MCA",
+      "year": 1993,
+      "why": "The original soundtrack recording with Perlman."
+    },
+    "trivia": "After seeing a rough cut, Williams reportedly told Spielberg that he needed a better composer; Spielberg is said to have replied that all of them were dead. The violin solo is played by Itzhak Perlman.",
+    "tags": [
+      "20th-century",
+      "film",
+      "top400",
+      "filmtop400",
+      "tier-a",
+      "orchestral",
+      "violin",
+      "drama"
+    ],
+    "track": {
+      "query": "Itzhak Perlman Theme from Schindler's List John Williams",
+      "album": "Schindler's List (Original Motion Picture Soundtrack)",
+      "duration": "4:14",
+      "start": null,
+      "isrc": null,
+      "notes": "Duration is the length of this OST track (MusicBrainz release data); start is an estimate (about 15 s either way). If this exact recording is not on the service, any good recording of the same cue will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Schindler's_List",
+      "https://en.wikipedia.org/wiki/Schindler's_List_(soundtrack)",
+      "https://nl.wikipedia.org/wiki/Lijst_van_Filmmuziek_Top_400_in_2026"
+    ],
+    "notes": "Top 400 best rank 6; Filmmuziek Top 400 rank 1. Release year of the MCA album is 1993 per Wikipedia (some aggregator editions show 1994)."
+  },
+  {
+    "id": "cls-silvestri-forrest-gump",
+    "composer": "Alan Silvestri",
+    "composer_short": "Silvestri",
+    "work": "Forrest Gump (film score)",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "film",
+    "accept_work": "Forrest Gump",
+    "excerpt": "I'm Forrest... Forrest Gump (the feather theme)",
+    "year": 1994,
+    "year_lo": 1994,
+    "year_hi": 1994,
+    "year_label": "1994",
+    "premiere_or_publication": "Film released 6 July 1994",
+    "dating_note": "Silvestri scored the film in 1994, for its July 1994 release (Wikipedia).",
+    "recording": {
+      "performers": "Orchestra conducted by Alan Silvestri (original score album)",
+      "conductor": "Alan Silvestri",
+      "label": "Epic Soundtrax",
+      "year": 1994,
+      "why": "The original score album recording."
+    },
+    "trivia": "The gentle piano theme follows a drifting feather at the start and end of the film. Silvestri's music is a separate album from the famous compilation of 1950s and 1960s songs.",
+    "tags": [
+      "20th-century",
+      "film",
+      "filmtop400",
+      "tier-a",
+      "piano",
+      "orchestral",
+      "drama"
+    ],
+    "track": {
+      "query": "Alan Silvestri Forrest Gump Suite feather theme",
+      "album": "Forrest Gump (Original Motion Picture Score)",
+      "duration": "2:41",
+      "start": null,
+      "isrc": null,
+      "notes": "Duration is the length of this OST track (MusicBrainz release data); start is an estimate (about 15 s either way). If this exact recording is not on the service, any good recording of the same cue will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Forrest_Gump",
+      "https://en.wikipedia.org/wiki/Alan_Silvestri",
+      "https://nl.wikipedia.org/wiki/Lijst_van_Filmmuziek_Top_400_in_2026"
+    ],
+    "notes": "Filmmuziek Top 400 rank 41. The score album, not the song compilation."
+  },
+  {
+    "id": "cls-zimmer-the-lion-king",
+    "composer": "Hans Zimmer (score); Elton John and Tim Rice (songs)",
+    "composer_short": "Zimmer",
+    "work": "The Lion King (film score), including Circle of Life",
+    "nickname": "Circle of Life",
+    "catalogue_only": false,
+    "form": "film",
+    "accept_work": "The Lion King",
+    "excerpt": "Circle of Life (opening 'Nants ingonyama' chant and song)",
+    "year": 1994,
+    "year_lo": 1994,
+    "year_hi": 1994,
+    "year_label": "1994",
+    "premiere_or_publication": "Film released 24 June 1994",
+    "dating_note": "Zimmer scored the film in 1993-94; 'Circle of Life' is a song by Elton John (music) and Tim Rice (lyrics), with Zimmer and Lebo M arranging the choral opening (Wikipedia).",
+    "recording": {
+      "performers": "Carmen Twillie and Lebo M with choir and orchestra (original soundtrack)",
+      "conductor": null,
+      "label": "Walt Disney Records",
+      "year": 1994,
+      "why": "The original soundtrack recording with the Zulu opening chant."
+    },
+    "trivia": "Zimmer's score won the Oscar for Best Original Score, while Elton John won Best Original Song for a different tune, 'Can You Feel the Love Tonight'. The Zulu chant that opens the film was written and sung by Lebo M.",
+    "tags": [
+      "20th-century",
+      "film",
+      "filmtop400",
+      "tier-a",
+      "orchestral",
+      "disney",
+      "african-choir"
+    ],
+    "track": {
+      "query": "Circle of Life The Lion King Carmen Twillie Lebo M original soundtrack",
+      "album": "The Lion King (Original Motion Picture Soundtrack)",
+      "duration": "4:00",
+      "start": null,
+      "isrc": null,
+      "notes": "Duration is the length of this OST track (MusicBrainz release data); start is an estimate (about 15 s either way). If this exact recording is not on the service, any good recording of the same cue will do."
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Lion_King",
+      "https://en.wikipedia.org/wiki/Circle_of_Life",
+      "https://en.wikipedia.org/wiki/Hans_Zimmer",
+      "https://nl.wikipedia.org/wiki/Lijst_van_Filmmuziek_Top_400_in_2026"
+    ],
+    "notes": "Attribution flagged: filed under Hans Zimmer (score composer), but the song 'Circle of Life' is by Elton John and Tim Rice. Accept Zimmer, Elton John or Rice. Filmmuziek Top 400 rank 19."
+  },
+  {
+    "id": "cls-horner-braveheart",
+    "composer": "James Horner",
+    "composer_short": "Horner",
+    "work": "Braveheart (film score)",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "film",
+    "accept_work": "Braveheart",
+    "excerpt": "Main Title (pipes and strings)",
+    "year": 1995,
+    "year_lo": 1995,
+    "year_hi": 1995,
+    "year_label": "1995",
+    "premiere_or_publication": "Film released 24 May 1995",
+    "dating_note": "Horner scored the film in 1995, for its May 1995 release (Wikipedia).",
+    "recording": {
+      "performers": "London Symphony Orchestra",
+      "conductor": "James Horner",
+      "label": "London / Decca",
+      "year": 1995,
+      "why": "The original soundtrack recording."
+    },
+    "trivia": "Horner brought a Celtic colour to the epic with uilleann pipes and the London Symphony Orchestra. The score was nominated for an Academy Award.",
+    "tags": [
+      "20th-century",
+      "film",
+      "filmtop400",
+      "tier-b",
+      "orchestral",
+      "celtic",
+      "epic"
+    ],
+    "track": {
+      "query": "James Horner Braveheart Main Title",
+      "album": "Braveheart (Original Motion Picture Soundtrack)",
+      "duration": "2:51",
+      "start": null,
+      "isrc": null,
+      "notes": "Duration is the length of this OST track (MusicBrainz release data); start is an estimate (about 15 s either way). If this exact recording is not on the service, any good recording of the same cue will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Braveheart",
+      "https://en.wikipedia.org/wiki/James_Horner",
+      "https://nl.wikipedia.org/wiki/Lijst_van_Filmmuziek_Top_400_in_2026"
+    ],
+    "notes": "Filmmuziek Top 400 rank 70."
+  },
+  {
+    "id": "cls-horner-titanic",
+    "composer": "James Horner",
+    "composer_short": "Horner",
+    "work": "Titanic (film score)",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "film",
+    "accept_work": "Titanic",
+    "excerpt": "Rose (the love-theme cue)",
+    "year": 1997,
+    "year_lo": 1997,
+    "year_hi": 1997,
+    "year_label": "1997",
+    "premiere_or_publication": "Film released 19 December 1997",
+    "dating_note": "Horner scored the film in 1997, for its December 1997 release (Wikipedia).",
+    "recording": {
+      "performers": "Orchestra conducted by James Horner (original soundtrack)",
+      "conductor": "James Horner",
+      "label": "Sony Classical",
+      "year": 1997,
+      "why": "The original soundtrack recording."
+    },
+    "trivia": "Horner secretly wrote and recorded the song 'My Heart Will Go On' with Will Jennings and Celine Dion, then convinced a doubtful James Cameron. The orchestral cue here is built on the same theme, without the song.",
+    "tags": [
+      "20th-century",
+      "film",
+      "filmtop400",
+      "tier-a",
+      "orchestral",
+      "romantic",
+      "epic"
+    ],
+    "track": {
+      "query": "James Horner Rose Titanic soundtrack",
+      "album": "Titanic: Music from the Motion Picture",
+      "duration": "2:52",
+      "start": null,
+      "isrc": null,
+      "notes": "Duration is the length of this OST track (MusicBrainz release data); start is an estimate (about 15 s either way). If this exact recording is not on the service, any good recording of the same cue will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Titanic_(1997_film)",
+      "https://en.wikipedia.org/wiki/Titanic:_Music_from_the_Motion_Picture",
+      "https://nl.wikipedia.org/wiki/Lijst_van_Filmmuziek_Top_400_in_2026"
+    ],
+    "notes": "Judgment call: an instrumental Horner cue, not the Celine Dion song. Filmmuziek Top 400 rank 39."
+  },
+  {
+    "id": "cls-uematsu-final-fantasy-vii",
+    "composer": "Nobuo Uematsu",
+    "composer_short": "Uematsu",
+    "work": "Final Fantasy VII (game score)",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "game",
+    "accept_work": "Final Fantasy VII",
+    "excerpt": "One-Winged Angel (the final-boss theme with Latin chant)",
+    "year": 1997,
+    "year_lo": 1996,
+    "year_hi": 1997,
+    "year_label": "1997",
+    "premiere_or_publication": "Game released in Japan on 31 January 1997 (PlayStation)",
+    "dating_note": "Uematsu composed the score during development in 1996-97, for the January 1997 release (Wikipedia).",
+    "recording": {
+      "performers": "Nobuo Uematsu (original game soundtrack)",
+      "conductor": null,
+      "label": "DigiCube",
+      "year": 1997,
+      "why": "The original soundtrack release; orchestral concert versions are also familiar."
+    },
+    "trivia": "The Latin chant uses sections of the Carmina Burana text. Uematsu has described the piece as a fusion of Stravinsky and the rock guitarist Jimi Hendrix.",
+    "tags": [
+      "20th-century",
+      "game",
+      "tier-b",
+      "orchestral",
+      "rock",
+      "jrpg",
+      "choir"
+    ],
+    "track": {
+      "query": "Nobuo Uematsu One-Winged Angel Final Fantasy VII original soundtrack",
+      "album": "Final Fantasy VII Original Soundtrack",
+      "duration": "~7:06",
+      "start": null,
+      "isrc": null,
+      "notes": "Album and duration are approximate hints from memory and aggregator data; start is an estimate (about 15 s either way). If this exact recording is not on the service, any good recording of the same cue will do."
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Final_Fantasy_VII",
+      "https://en.wikipedia.org/wiki/One-Winged_Angel",
+      "https://en.wikipedia.org/wiki/Nobuo_Uematsu"
+    ],
+    "notes": "Duration approximate (original OST release); Final Fantasy has no Filmmuziek Top 400 entry."
+  },
+  {
+    "id": "cls-mansell-requiem-for-a-dream",
+    "composer": "Clint Mansell",
+    "composer_short": "Mansell",
+    "work": "Requiem for a Dream (film score)",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "film",
+    "accept_work": "Requiem for a Dream",
+    "excerpt": "Lux Aeterna",
+    "year": 2000,
+    "year_lo": 2000,
+    "year_hi": 2000,
+    "year_label": "2000",
+    "premiere_or_publication": "Film premiered at Cannes in May 2000; released October 2000",
+    "dating_note": "Mansell composed the score in 2000 for the film's 2000 release (Wikipedia).",
+    "recording": {
+      "performers": "Kronos Quartet",
+      "conductor": null,
+      "label": "Nonesuch",
+      "year": 2000,
+      "why": "The original soundtrack recording, played by Kronos Quartet."
+    },
+    "trivia": "The string-quartet theme was performed by the Kronos Quartet for the soundtrack. Its melody was reused in countless trailers, including one for The Lord of the Rings: The Two Towers.",
+    "tags": [
+      "21st-century",
+      "film",
+      "filmtop400",
+      "tier-a",
+      "strings",
+      "quartet",
+      "dark"
+    ],
+    "track": {
+      "query": "Clint Mansell Kronos Quartet Lux Aeterna Requiem for a Dream",
+      "album": "Requiem for a Dream (Soundtrack from the Motion Picture)",
+      "duration": "3:54",
+      "start": null,
+      "isrc": null,
+      "notes": "Duration is the length of this OST track (MusicBrainz release data); start is an estimate (about 15 s either way). If this exact recording is not on the service, any good recording of the same cue will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Requiem_for_a_Dream",
+      "https://en.wikipedia.org/wiki/Clint_Mansell",
+      "https://nl.wikipedia.org/wiki/Lijst_van_Filmmuziek_Top_400_in_2026"
+    ],
+    "notes": "Filmmuziek Top 400 rank 106."
+  },
+  {
+    "id": "cls-zimmer-gladiator",
+    "composer": "Hans Zimmer (with Lisa Gerrard)",
+    "composer_short": "Zimmer",
+    "work": "Gladiator (film score)",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "film",
+    "accept_work": "Gladiator",
+    "excerpt": "Now We Are Free (Gerrard's wordless vocal)",
+    "year": 2000,
+    "year_lo": 2000,
+    "year_hi": 2000,
+    "year_label": "2000",
+    "premiere_or_publication": "Film released 5 May 2000",
+    "dating_note": "Zimmer and Lisa Gerrard scored the film in 1999-2000, for its May 2000 release (Wikipedia).",
+    "recording": {
+      "performers": "Lisa Gerrard (vocals), Hans Zimmer (orchestra)",
+      "conductor": null,
+      "label": "Decca",
+      "year": 2000,
+      "why": "The original soundtrack recording."
+    },
+    "trivia": "Lisa Gerrard sings in a language of her own invention, which gives the closing piece its other-worldly quality. The score was nominated for an Academy Award.",
+    "tags": [
+      "21st-century",
+      "film",
+      "top400",
+      "filmtop400",
+      "tier-a",
+      "orchestral",
+      "vocal",
+      "epic"
+    ],
+    "track": {
+      "query": "Hans Zimmer Lisa Gerrard Now We Are Free Gladiator",
+      "album": "Gladiator (Music from the Motion Picture)",
+      "duration": "~4:14",
+      "start": null,
+      "isrc": null,
+      "notes": "Album and duration are approximate hints from memory and aggregator data; start is an estimate (about 15 s either way). If this exact recording is not on the service, any good recording of the same cue will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Gladiator_(2000_film)",
+      "https://en.wikipedia.org/wiki/Lisa_Gerrard",
+      "https://en.wikipedia.org/wiki/Hans_Zimmer",
+      "https://nl.wikipedia.org/wiki/Lijst_van_Filmmuziek_Top_400_in_2026"
+    ],
+    "notes": "Top 400 best rank 232; Filmmuziek Top 400 rank 11. Duration of the OST cut is approximate."
+  },
+  {
+    "id": "cls-shore-the-fellowship-of-the-ring",
+    "composer": "Howard Shore",
+    "composer_short": "Shore",
+    "work": "The Lord of the Rings: The Fellowship of the Ring (film score)",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "film",
+    "accept_work": "The Lord of the Rings",
+    "excerpt": "Concerning Hobbits (the Shire theme)",
+    "year": 2001,
+    "year_lo": 2001,
+    "year_hi": 2001,
+    "year_label": "2001",
+    "premiere_or_publication": "Film released 19 December 2001",
+    "dating_note": "Shore composed and recorded the score in 2001, for the film's December 2001 release (Wikipedia).",
+    "recording": {
+      "performers": "London Philharmonic Orchestra with choirs",
+      "conductor": "Howard Shore",
+      "label": "Reprise",
+      "year": 2001,
+      "why": "The original soundtrack recording."
+    },
+    "trivia": "Shore wrote a web of recurring themes for each people and place of Middle-earth, the Shire theme being the gentlest. The first score won him an Academy Award.",
+    "tags": [
+      "21st-century",
+      "film",
+      "top400",
+      "filmtop400",
+      "tier-a",
+      "orchestral",
+      "fantasy",
+      "epic"
+    ],
+    "track": {
+      "query": "Howard Shore Concerning Hobbits Fellowship of the Ring",
+      "album": "The Lord of the Rings: The Fellowship of the Ring (Original Motion Picture Soundtrack)",
+      "duration": "2:55",
+      "start": null,
+      "isrc": null,
+      "notes": "Duration is the length of this OST track (MusicBrainz release data); start is an estimate (about 15 s either way). If this exact recording is not on the service, any good recording of the same cue will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring",
+      "https://en.wikipedia.org/wiki/Howard_Shore",
+      "https://nl.wikipedia.org/wiki/Lijst_van_Filmmuziek_Top_400_in_2026"
+    ],
+    "notes": "Top 400 best rank 95; Filmmuziek Top 400 rank 3."
+  },
+  {
+    "id": "cls-tiersen-amelie",
+    "composer": "Yann Tiersen",
+    "composer_short": "Tiersen",
+    "work": "Le Fabuleux Destin d'Amélie Poulain (film score)",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "film",
+    "accept_work": "Amélie",
+    "excerpt": "Comptine d'un autre été: L'après-midi (piano)",
+    "year": 2001,
+    "year_lo": 2001,
+    "year_hi": 2001,
+    "year_label": "2001",
+    "premiere_or_publication": "Film released 25 April 2001 (France)",
+    "dating_note": "Comptine d'un autre été was written for the film; several other soundtrack tracks come from Tiersen's earlier albums of the 1990s and are therefore not used here (Wikipedia).",
+    "recording": {
+      "performers": "Yann Tiersen (piano)",
+      "conductor": null,
+      "label": "Virgin",
+      "year": 2001,
+      "why": "The original soundtrack recording."
+    },
+    "trivia": "Tiersen reused several pieces from his earlier albums and wrote 'Comptine d'un autre été' specifically for the film. The soundtrack turned him from an indie musician into an international star.",
+    "tags": [
+      "21st-century",
+      "film",
+      "top400",
+      "filmtop400",
+      "tier-a",
+      "piano",
+      "french",
+      "whimsical"
+    ],
+    "track": {
+      "query": "Yann Tiersen Comptine d'un autre été L'après-midi Amélie",
+      "album": "Le Fabuleux Destin d'Amélie Poulain (Original Soundtrack)",
+      "duration": "2:20",
+      "start": null,
+      "isrc": null,
+      "notes": "Duration is the length of this OST track (MusicBrainz release data); start is an estimate (about 15 s either way). If this exact recording is not on the service, any good recording of the same cue will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Am%C3%A9lie",
+      "https://en.wikipedia.org/wiki/Yann_Tiersen",
+      "https://nl.wikipedia.org/wiki/Lijst_van_Filmmuziek_Top_400_in_2026"
+    ],
+    "notes": "Judgment call: a cue written for the film, not the reused 1990s tracks. Top 400 best rank 83; Filmmuziek Top 400 rank 8."
+  },
+  {
+    "id": "cls-williams-harry-potter",
+    "composer": "John Williams",
+    "composer_short": "Williams",
+    "work": "Harry Potter and the Philosopher's Stone (film score)",
+    "nickname": "Hedwig's Theme",
+    "catalogue_only": false,
+    "form": "film",
+    "accept_work": "Harry Potter",
+    "excerpt": "Hedwig's Theme (the celesta opening)",
+    "year": 2001,
+    "year_lo": 2001,
+    "year_hi": 2001,
+    "year_label": "2001",
+    "premiere_or_publication": "Film released 16 November 2001",
+    "dating_note": "Williams scored the film in 2001, for its November 2001 release (Wikipedia).",
+    "recording": {
+      "performers": "London Symphony Orchestra",
+      "conductor": "John Williams",
+      "label": "Atlantic",
+      "year": 2001,
+      "why": "The original soundtrack recording."
+    },
+    "trivia": "The celesta-led theme was written for the first film and returned in every later instalment, whoever composed the rest. The US title of the film is Sorcerer's Stone.",
+    "tags": [
+      "21st-century",
+      "film",
+      "top400",
+      "filmtop400",
+      "tier-a",
+      "orchestral",
+      "fantasy",
+      "celesta"
+    ],
+    "track": {
+      "query": "John Williams Hedwig's Theme Harry Potter Sorcerer's Stone Prologue",
+      "album": "Harry Potter and the Sorcerer's Stone (Original Motion Picture Soundtrack)",
+      "duration": "~2:13",
+      "start": null,
+      "isrc": null,
+      "notes": "Album and duration are approximate hints from memory and aggregator data; start is an estimate (about 15 s either way). If this exact recording is not on the service, any good recording of the same cue will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Philosopher's_Stone_(film)",
+      "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Philosopher's_Stone_(soundtrack)",
+      "https://nl.wikipedia.org/wiki/Lijst_van_Filmmuziek_Top_400_in_2026"
+    ],
+    "notes": "OST cue is titled 'Prologue (Hedwig's Flight)'; track lookup approximate. Top 400 best rank 123; Filmmuziek Top 400 rank 6 (listed as 'Harry Potter 1-3')."
+  },
+  {
+    "id": "cls-glass-the-hours",
+    "composer": "Philip Glass",
+    "composer_short": "Glass",
+    "work": "The Hours (film score)",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "film",
+    "accept_work": "The Hours",
+    "excerpt": "Morning Passages",
+    "year": 2002,
+    "year_lo": 2002,
+    "year_hi": 2002,
+    "year_label": "2002",
+    "premiere_or_publication": "Film released December 2002 (limited), January 2003 (wide)",
+    "dating_note": "Glass composed the score in 2002, for the film's December 2002 release (Wikipedia).",
+    "recording": {
+      "performers": "Philip Glass Ensemble with orchestra",
+      "conductor": "Michael Riesman",
+      "label": "Nonesuch",
+      "year": 2002,
+      "why": "The original soundtrack recording."
+    },
+    "trivia": "Glass gave all three of the film's time periods one repeating minimalist idea, which gently links the three stories. The score earned him an Academy Award nomination.",
+    "tags": [
+      "21st-century",
+      "film",
+      "top400",
+      "filmtop400",
+      "tier-b",
+      "minimalist",
+      "piano",
+      "drama"
+    ],
+    "track": {
+      "query": "Philip Glass Morning Passages The Hours",
+      "album": "The Hours (Music from the Motion Picture)",
+      "duration": "5:34",
+      "start": null,
+      "isrc": null,
+      "notes": "Duration is the length of this OST track (MusicBrainz release data); start is an estimate (about 15 s either way). If this exact recording is not on the service, any good recording of the same cue will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Hours_(film)",
+      "https://en.wikipedia.org/wiki/Philip_Glass",
+      "https://nl.wikipedia.org/wiki/Lijst_van_Filmmuziek_Top_400_in_2026"
+    ],
+    "notes": "Possible overlap with the concert-music agent (Philip Glass). Top 400 best rank 44; Filmmuziek Top 400 rank 34."
+  },
+  {
+    "id": "cls-badelt-pirates-of-the-caribbean",
+    "composer": "Klaus Badelt (with Hans Zimmer)",
+    "composer_short": "Badelt",
+    "work": "Pirates of the Caribbean: The Curse of the Black Pearl (film score)",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "film",
+    "accept_work": "Pirates of the Caribbean",
+    "excerpt": "He's a Pirate (the main theme)",
+    "year": 2003,
+    "year_lo": 2003,
+    "year_hi": 2003,
+    "year_label": "2003",
+    "premiere_or_publication": "Film released 9 July 2003",
+    "dating_note": "Badelt and Zimmer's Remote Control team scored the film in 2003, for its July 2003 release (Wikipedia).",
+    "recording": {
+      "performers": "Orchestra (Remote Control Productions)",
+      "conductor": null,
+      "label": "Walt Disney Records",
+      "year": 2003,
+      "why": "The original soundtrack recording."
+    },
+    "trivia": "The film credits Klaus Badelt, while the album credits Hans Zimmer, whose Remote Control team wrote it on a very tight schedule. The swashbuckling theme became the franchise's calling card.",
+    "tags": [
+      "21st-century",
+      "film",
+      "filmtop400",
+      "tier-a",
+      "orchestral",
+      "adventure",
+      "swashbuckler"
+    ],
+    "track": {
+      "query": "Klaus Badelt He's a Pirate Pirates of the Caribbean",
+      "album": "Pirates of the Caribbean: The Curse of the Black Pearl (Soundtrack)",
+      "duration": "~1:30",
+      "start": null,
+      "isrc": null,
+      "notes": "Album and duration are approximate hints from memory and aggregator data; start is an estimate (about 15 s either way). If this exact recording is not on the service, any good recording of the same cue will do."
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Pirates_of_the_Caribbean:_The_Curse_of_the_Black_Pearl",
+      "https://en.wikipedia.org/wiki/Klaus_Badelt",
+      "https://nl.wikipedia.org/wiki/Lijst_van_Filmmuziek_Top_400_in_2026"
+    ],
+    "notes": "Attribution flagged: Badelt is credited on the film, Zimmer on the soundtrack artist line; Filmmuziek Top 400 lists 'Hans Zimmer & Klaus Badelt' (rank 5). Accept either composer."
+  },
+  {
+    "id": "cls-einaudi-una-mattina",
+    "composer": "Ludovico Einaudi",
+    "composer_short": "Einaudi",
+    "work": "Una Mattina (famous through the film Intouchables)",
+    "nickname": "Intouchables",
+    "catalogue_only": false,
+    "form": "film",
+    "accept_work": "Una Mattina",
+    "excerpt": "The piano theme (Una Mattina)",
+    "year": 2004,
+    "year_lo": 2004,
+    "year_hi": 2004,
+    "year_label": "2004 (used in the 2011 film Intouchables)",
+    "premiere_or_publication": "Album Una Mattina released 2004; the film Intouchables was released 2 November 2011 (France)",
+    "dating_note": "Einaudi composed 'Una Mattina' for his 2004 album of the same name; the 2011 film Intouchables used it among several existing Einaudi pieces, so the film year is NOT the composition year (Wikipedia).",
+    "recording": {
+      "performers": "Ludovico Einaudi (piano)",
+      "conductor": null,
+      "label": null,
+      "year": 2004,
+      "why": "The 2004 album recording, as also used on the Intouchables soundtrack release."
+    },
+    "trivia": "The French comedy Intouchables (2011) used several existing Einaudi pieces, and the film's huge success carried 'Una Mattina' to a worldwide audience. Players guessing the year of the film will be seven years off.",
+    "tags": [
+      "21st-century",
+      "film",
+      "top400",
+      "filmtop400",
+      "tier-a",
+      "piano",
+      "minimalist",
+      "dating-trap"
+    ],
+    "track": {
+      "query": "Ludovico Einaudi Una Mattina Intouchables",
+      "album": "Intouchables (Original Soundtrack)",
+      "duration": "~6:41",
+      "start": null,
+      "isrc": null,
+      "notes": "Album and duration are approximate hints from memory and aggregator data; start is an estimate (about 15 s either way). If this exact recording is not on the service, any good recording of the same cue will do."
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Intouchables",
+      "https://en.wikipedia.org/wiki/Ludovico_Einaudi",
+      "https://nl.wikipedia.org/wiki/Lijst_van_Filmmuziek_Top_400_in_2026"
+    ],
+    "notes": "Date trap flagged: dated 2004 (composition). A film-written piece such as 'Cache-cache', which appears only on Intouchables releases, was considered but its composition year could not be confirmed. Accept 'Intouchables' as an answer. Possible overlap with the concert-music agent. Top 400 best rank 56; Filmmuziek Top 400 rank 13."
+  },
+  {
+    "id": "cls-zimmer-the-da-vinci-code",
+    "composer": "Hans Zimmer",
+    "composer_short": "Zimmer",
+    "work": "The Da Vinci Code (film score)",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "film",
+    "accept_work": "The Da Vinci Code",
+    "excerpt": "Chevaliers de Sangreal",
+    "year": 2006,
+    "year_lo": 2006,
+    "year_hi": 2006,
+    "year_label": "2006",
+    "premiere_or_publication": "Film released 19 May 2006 (opened the Cannes Film Festival); soundtrack album 9 May 2006",
+    "dating_note": "Zimmer scored the film in 2005-06, for its May 2006 release (Wikipedia).",
+    "recording": {
+      "performers": "Orchestra and choir (original soundtrack)",
+      "conductor": null,
+      "label": "Decca",
+      "year": 2006,
+      "why": "The original soundtrack recording."
+    },
+    "trivia": "The piece builds from a quiet string ostinato to a huge choral and brass climax. 'Sangreal' is an old spelling of 'Holy Grail', hence the knights of the title.",
+    "tags": [
+      "21st-century",
+      "film",
+      "top400",
+      "filmtop400",
+      "tier-b",
+      "orchestral",
+      "thriller",
+      "choir"
+    ],
+    "track": {
+      "query": "Hans Zimmer Chevaliers de Sangreal The Da Vinci Code",
+      "album": "The Da Vinci Code (Original Motion Picture Soundtrack)",
+      "duration": "~4:07",
+      "start": null,
+      "isrc": null,
+      "notes": "Album and duration are approximate hints from memory and aggregator data; start is an estimate (about 15 s either way). If this exact recording is not on the service, any good recording of the same cue will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Da_Vinci_Code_(film)",
+      "https://en.wikipedia.org/wiki/Hans_Zimmer",
+      "https://nl.wikipedia.org/wiki/Lijst_van_Filmmuziek_Top_400_in_2026"
+    ],
+    "notes": "Top 400 best rank 285; Filmmuziek Top 400 rank 31. Duration approximate."
+  }
+]

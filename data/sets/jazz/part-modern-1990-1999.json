@@ -1,0 +1,753 @@
+[
+  {
+    "id": "jazz-us3-cantaloop-flip-fantasia",
+    "artist": "Us3",
+    "title": "Cantaloop (Flip Fantasia)",
+    "composer": "Herbie Hancock, Rahsaan Kelly, Geoff Wilkinson, Mel Simpson",
+    "recording_date": null,
+    "recording_year": 1992,
+    "release_year": 1992,
+    "original_issue": "Blue Note (single, October 1992; also on the LP Hand On the Torch, November 1993)",
+    "personnel": "Us3 (Geoff Wilkinson and Mel Simpson, producers); Rahsaan Kelly (rap); Gerard Presencer (trumpet); the album credits also list Dennis Rollins (trombone), Mike Smith and Ed Jones (saxophones), Tony Remy (guitar) and Matt Cooper (piano), not assigned by track in the source",
+    "style": "jazz-rap",
+    "year": 1992,
+    "year_lo": 1992,
+    "year_hi": 1992,
+    "year_label": "1992",
+    "trivia": "A London group signed to Blue Note built this record on a sample of Herbie Hancock's tune Cantaloupe Island, with live trumpet from Gerard Presencer over the loop. It reached No. 9 on the US Hot 100 in 1993 even though it did not chart in the UK on first release.",
+    "tags": [
+      "1990s",
+      "jazz-rap",
+      "blue-note",
+      "hip-hop",
+      "sampling",
+      "crossover"
+    ],
+    "track": {
+      "artist": "Us3",
+      "title": "Cantaloop (Flip Fantasia)",
+      "album": "Hand On the Torch",
+      "duration": "4:41",
+      "isrc": null,
+      "query": "Us3 Cantaloop Flip Fantasia Hand On the Torch 1992",
+      "notes": "album version (4:41), not the 3:42 single edit"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Cantaloop_(Flip_Fantasia)",
+      "https://en.wikipedia.org/wiki/Hand_On_the_Torch"
+    ],
+    "notes": "Wikipedia says only that the song was recorded as a demo a year before the group's first release in October 1992, and gives no recording dates (the album was made at Flame Studios, London), so the release year is used as the recording year and the true year could be 1991. The album page lists 4:39 for the album track and the single page 4:41; 4:41 is used. Writers are the Wikipedia infobox list. Tagged crossover: a jazz-rap pop hit rather than a jazz-musician record."
+  },
+  {
+    "id": "jazz-digable-planets-rebirth-of-slick-cool-like-dat",
+    "artist": "Digable Planets",
+    "title": "Rebirth of Slick (Cool Like Dat)",
+    "composer": "Ishmael Butler, Craig Irving, Mariana Vieira",
+    "recording_date": null,
+    "recording_year": 1992,
+    "release_year": 1992,
+    "original_issue": "Pendulum/Elektra (single, 9 Nov 1992; also on the LP Reachin' (A New Refutation of Time and Space), 9 Feb 1993)",
+    "personnel": "Ishmael Butler, Craig Irving and Mariana Vieira (raps); contains a sample of Art Blakey and the Jazz Messengers' Stretching",
+    "style": "jazz-rap",
+    "year": 1992,
+    "year_lo": 1992,
+    "year_hi": 1992,
+    "year_label": "1992",
+    "trivia": "The trio's debut single laid relaxed rhymes over a loop from Art Blakey and the Jazz Messengers, and Cleveland.com later called it the pinnacle of jazz rap. It peaked at No. 15 on the US Hot 100 in March 1993, topped the Hot Rap Singles chart and won the Grammy for Best Rap Performance by a Duo or Group.",
+    "tags": [
+      "1990s",
+      "jazz-rap",
+      "elektra",
+      "hip-hop",
+      "sampling",
+      "crossover"
+    ],
+    "track": {
+      "artist": "Digable Planets",
+      "title": "Rebirth of Slick (Cool Like Dat)",
+      "album": "Reachin' (A New Refutation of Time and Space)",
+      "duration": "4:22",
+      "isrc": null,
+      "query": "Digable Planets Rebirth of Slick Cool Like Dat Reachin 1992",
+      "notes": "album version (4:22), not the 4:05 seven-inch mix"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Rebirth_of_Slick_(Cool_Like_Dat)",
+      "https://en.wikipedia.org/wiki/Reachin'_(A_New_Refutation_of_Time_and_Space)"
+    ],
+    "notes": "Wikipedia gives 1992-1993 for the album sessions (Palatial Sound Doctor Studio, North Bergen, New Jersey) without dates and the single came out in the US on 9 Nov 1992, so 1992 is used. The personnel line is the rap trio only, since the source does not credit sidemen. Tagged crossover: a hip-hop single built on a jazz sample, not a jazz-musician record."
+  },
+  {
+    "id": "jazz-brand-new-heavies-never-stop",
+    "artist": "The Brand New Heavies feat. N'Dea Davenport",
+    "title": "Never Stop",
+    "composer": "The Brand New Heavies (individual writing credits not verified)",
+    "recording_date": null,
+    "recording_year": 1991,
+    "release_year": 1991,
+    "original_issue": "FFRR (single, 23 Sep 1991, David Morales remix; the song was added to the 1991 reissue of the LP The Brand New Heavies)",
+    "personnel": "N'Dea Davenport (vocals), Jan Kincaid (drums, keyboards), Andrew Levy (bass, keyboards), Simon Bartholomew (guitar), Jim Wellman (tenor and soprano saxophones, keyboards), Lascelles Gordon (percussion, guitar); David Morales (remix)",
+    "style": "acid-jazz",
+    "year": 1991,
+    "year_lo": 1991,
+    "year_hi": 1991,
+    "year_label": "1991",
+    "trivia": "The London acid-jazz band's first crossover hit paired its funk groove with the voice of American singer N'Dea Davenport, who joined in 1991. The David Morales remix reached No. 43 in the UK and No. 54 on the US Hot 100, and its drum beat was sampled for George Michael's 1992 hit Too Funky.",
+    "tags": [
+      "1990s",
+      "acid-jazz",
+      "ffrr",
+      "funk",
+      "soul"
+    ],
+    "track": {
+      "artist": "The Brand New Heavies feat. N'Dea Davenport",
+      "title": "Never Stop",
+      "album": "The Brand New Heavies",
+      "duration": "3:39",
+      "isrc": null,
+      "query": "The Brand New Heavies Never Stop N'Dea Davenport 1991",
+      "notes": "single radio edit (3:39) of the David Morales remix, not the longer album and extended versions"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Never_Stop_(Brand_New_Heavies_song)",
+      "https://en.wikipedia.org/wiki/The_Brand_New_Heavies_(album)"
+    ],
+    "notes": "The song page and the album page place the Davenport version in 1991 (the original album was recorded 1989-90 with other vocalists). Neither page names the songwriters, so the composer field names the band only. The personnel line is the 1991 band line-up from the album page, not credited by track. Acid jazz sits on the funk edge of jazz, so this is a borderline jazz card."
+  },
+  {
+    "id": "jazz-incognito-always-there",
+    "artist": "Incognito feat. Jocelyn Brown",
+    "title": "Always There",
+    "composer": "Ronnie Laws, William Jeffrey, Paul B. Allen III",
+    "recording_date": null,
+    "recording_year": 1991,
+    "release_year": 1991,
+    "original_issue": "Talkin' Loud/Mercury (single, 17 Jun 1991; also on the LP Inside Life, 1991)",
+    "personnel": "Jean-Paul 'Bluey' Maunick (guitar, producer, band leader), Jocelyn Brown (lead vocals); the other players are not credited in the sources used",
+    "style": "acid-jazz",
+    "year": 1991,
+    "year_lo": 1991,
+    "year_hi": 1991,
+    "year_label": "1991",
+    "trivia": "Incognito turned a 1975 Ronnie Laws tune, by way of the 1976 Side Effect vocal version, into their breakthrough hit, and bandleader Bluey Maunick said bringing in Jocelyn Brown was Gilles Peterson's idea. It reached No. 6 in the UK and No. 2 in the Netherlands, where only Bryan Adams kept it off the top.",
+    "tags": [
+      "1990s",
+      "acid-jazz",
+      "talkin-loud",
+      "disco",
+      "soul"
+    ],
+    "track": {
+      "artist": "Incognito feat. Jocelyn Brown",
+      "title": "Always There",
+      "album": "Inside Life",
+      "duration": "5:04",
+      "isrc": null,
+      "query": "Incognito Always There Jocelyn Brown Inside Life 1991",
+      "notes": "album version (5:04, MusicBrainz length of the Inside Life recording), not the David Morales remix or the Symphonic Jazz mix"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Always_There_(Side_Effect_song)",
+      "https://musicbrainz.org/recording/c7299839-b6c2-4670-9968-d0e5319a4254"
+    ],
+    "notes": "Wikipedia dates the single to 17 June 1991 (second single from Inside Life) with no recording date, so the release year is used. A second version of the tune already in the set (Ronnie Laws, 1975). It was also No. 8 in Belgium, but the band is British, so no region tag. The personnel line names only the two credited artists."
+  },
+  {
+    "id": "jazz-branford-marsalis-mo-better-blues",
+    "artist": "Branford Marsalis Quartet feat. Terence Blanchard",
+    "title": "Mo' Better Blues",
+    "composer": "Bill Lee",
+    "recording_date": null,
+    "recording_year": 1990,
+    "release_year": 1990,
+    "original_issue": "Columbia CK 46792 (CD, Music from Mo' Better Blues, 31 Jul 1990; soundtrack to the Spike Lee film)",
+    "personnel": "Branford Marsalis (tenor and soprano saxophones), Terence Blanchard (trumpet), Kenny Kirkland (piano), Robert Hurst (bass), Jeff 'Tain' Watts (drums)",
+    "style": "post-bop",
+    "year": 1990,
+    "year_lo": 1990,
+    "year_hi": 1990,
+    "year_label": "1990",
+    "trivia": "The title theme of Spike Lee's 1990 jazz drama is played by the Branford Marsalis Quartet with Terence Blanchard on trumpet. The soundtrack album reached No. 63 on the Billboard 200, and its track Again Never was nominated for a Grammy for Best Jazz Instrumental Performance, Group.",
+    "tags": [
+      "1990s",
+      "post-bop",
+      "columbia",
+      "soundtrack"
+    ],
+    "track": {
+      "artist": "Branford Marsalis Quartet feat. Terence Blanchard",
+      "title": "Mo' Better Blues",
+      "album": "Music from Mo' Better Blues",
+      "duration": "3:39",
+      "isrc": null,
+      "query": "Branford Marsalis Quartet Mo' Better Blues Terence Blanchard 1990",
+      "notes": "studio soundtrack version (3:39) from the 1990 album"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Mo'_Better_Blues_(soundtrack)",
+      "https://www.jazzdisco.org/branford-marsalis/discography/"
+    ],
+    "notes": "Neither Wikipedia nor jazzdisco gives session dates (RCA Studios and Sound On Sound, New York; released 31 Jul 1990), and a Radio Swiss Jazz entry dates the title track to 1989, so 1990 is the release year used as recording year and could be one year late. Composer Bill Lee is listed as Lee III in the Wikipedia track list; one catalogue credits Blanchard and Marsalis instead. The quartet line-up is the album-level credit."
+  },
+  {
+    "id": "jazz-metheny-always-and-forever",
+    "artist": "Pat Metheny",
+    "title": "Always and Forever",
+    "composer": "Pat Metheny",
+    "recording_date": null,
+    "recording_year": 1991,
+    "release_year": 1992,
+    "original_issue": "Geffen GEFD 24468 (CD, Secret Story, 1992)",
+    "personnel": "Pat Metheny (guitars, keyboards), Toots Thielemans (harmonica), Charlie Haden (double bass), Paul Wertico (drums); orchestral parts on the album were arranged by Jeremy Lubbock and recorded in London",
+    "style": "fusion",
+    "year": 1992,
+    "year_lo": 1992,
+    "year_hi": 1992,
+    "year_label": "1992",
+    "trivia": "Belgian harmonica master Toots Thielemans guests on this ballad from Metheny's 1992 album Secret Story, with Charlie Haden on bass. The album won the Grammy for Best Contemporary Jazz Album in 1993 and was certified Gold in the US in December 1995.",
+    "tags": [
+      "1990s",
+      "fusion",
+      "geffen"
+    ],
+    "track": {
+      "artist": "Pat Metheny",
+      "title": "Always and Forever",
+      "album": "Secret Story",
+      "duration": "5:26",
+      "isrc": null,
+      "query": "Pat Metheny Always and Forever Secret Story Toots Thielemans 1992",
+      "notes": "studio version (5:26) from Secret Story, not the live version on the Secret Story Live video"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Secret_Story_(album)",
+      "https://www.jazzdisco.org/pat-metheny/discography/"
+    ],
+    "notes": "The recording straddles two years: jazzdisco says New York, fall-winter 1991, and Wikipedia says 1991-92 at the Power Station with the orchestra at Abbey Road, London. recording_year is 1991, but the card year is the 1992 release year because the date of the final session is unknown and the album is known as a 1992 record. Track-level credits (Thielemans, Haden and Wertico on track 8) are from Wikipedia's personnel list."
+  },
+  {
+    "id": "jazz-corea-mcferrin-spain",
+    "artist": "Chick Corea and Bobby McFerrin",
+    "title": "Spain",
+    "composer": "Chick Corea, Joaquín Rodrigo",
+    "recording_date": "1990-06",
+    "recording_year": 1990,
+    "release_year": 1992,
+    "original_issue": "Blue Note (CD, Play, January 1992; live recording)",
+    "personnel": "Chick Corea (grand piano), Bobby McFerrin (vocals)",
+    "style": "vocal",
+    "year": 1990,
+    "year_lo": 1990,
+    "year_hi": 1990,
+    "year_label": "1990",
+    "trivia": "Corea's tune Spain is taken as a ten-minute duet between his grand piano and McFerrin's voice, credited to Corea and Joaquín Rodrigo. It opens the live album Play, which was taken from two June 1990 performances and came out on Blue Note in 1992.",
+    "tags": [
+      "1990s",
+      "vocal",
+      "blue-note",
+      "duo",
+      "live"
+    ],
+    "track": {
+      "artist": "Chick Corea and Bobby McFerrin",
+      "title": "Spain",
+      "album": "Play",
+      "duration": "10:12",
+      "isrc": null,
+      "query": "Chick Corea Bobby McFerrin Spain Play 1990",
+      "notes": "live album version (10:12) from Play, not other Corea or McFerrin performances of the tune"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Play_(Chick_Corea_and_Bobby_McFerrin_album)",
+      "https://en.wikipedia.org/wiki/Spain_(instrumental)"
+    ],
+    "notes": "GAP: recorded 1990, first released 1992 (2 yrs). Wikipedia dates the recordings to 23 and 27 June 1990 and categorises the album as recorded at Carnegie Hall, but does not say which date is which, so the month is used. Released January 1992. A second version of Spain in the set (Return to Forever, 1972). McFerrin has a separate card (Don't Worry, Be Happy, 1988)."
+  },
+  {
+    "id": "jazz-horn-heres-to-life",
+    "artist": "Shirley Horn",
+    "title": "Here's to Life",
+    "composer": "Artie Butler, Phyllis Molinary",
+    "recording_date": "1991-09",
+    "recording_year": 1991,
+    "release_year": 1992,
+    "original_issue": "Verve (CD, Here's to Life, 1992)",
+    "personnel": "Shirley Horn (vocals, piano), Charles Ables (bass), Steve Williams (drums), Richard Todd (French horn); Johnny Mandel (arranger, conductor)",
+    "style": "vocal",
+    "year": 1991,
+    "year_lo": 1991,
+    "year_hi": 1991,
+    "year_label": "1991",
+    "trivia": "Horn's reading of this Artie Butler and Phyllis Molinary song became her signature piece, and the lyric is regarded as a modern jazz standard. The album was arranged by Johnny Mandel, who won a Grammy for Best Instrumental Arrangement Accompanying Vocal(s) for it.",
+    "tags": [
+      "1990s",
+      "vocal",
+      "verve"
+    ],
+    "track": {
+      "artist": "Shirley Horn",
+      "title": "Here's to Life",
+      "album": "Here's to Life",
+      "duration": "5:37",
+      "isrc": null,
+      "query": "Shirley Horn Here's to Life 1991",
+      "notes": "studio title track (5:37), not later live versions"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Here's_to_Life"
+    ],
+    "notes": "Wikipedia gives September 1991 for the sessions and 1992 for the release, with no day. The French horn credit is for track 1 in the personnel list; Wynton Marsalis plays only on tracks 4 and 9."
+  },
+  {
+    "id": "jazz-jarrett-i-loves-you-porgy",
+    "artist": "Keith Jarrett",
+    "title": "I Loves You, Porgy",
+    "composer": "George Gershwin, Ira Gershwin, DuBose Heyward",
+    "recording_date": null,
+    "recording_year": 1998,
+    "release_year": 1999,
+    "original_issue": "ECM 1675 (CD, The Melody at Night, with You, October 1999)",
+    "personnel": "Keith Jarrett (piano, solo)",
+    "style": "ecm",
+    "year": 1998,
+    "year_lo": 1998,
+    "year_hi": 1998,
+    "year_label": "1998",
+    "trivia": "Jarrett recorded this solo-piano album at his home studio while he was ill with chronic fatigue syndrome, starting in December 1997 as a Christmas present for his wife Rose Anne. It became one of the best-selling jazz instrumental albums of the 2000s.",
+    "tags": [
+      "1990s",
+      "ecm"
+    ],
+    "track": {
+      "artist": "Keith Jarrett",
+      "title": "I Loves You, Porgy",
+      "album": "The Melody at Night, with You",
+      "duration": "5:50",
+      "isrc": null,
+      "query": "Keith Jarrett I Loves You Porgy The Melody at Night with You 1998",
+      "notes": "studio version (5:50) from the solo album, not other Jarrett performances of the song"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Melody_at_Night,_with_You"
+    ],
+    "notes": "Wikipedia gives 1998 for the home-studio sessions (Cavelight Studio, New Jersey) while quoting Jarrett that he began taping in December 1997, so 1998 follows the infobox. Released October 1999. A second version of the song in the set (Nina Simone)."
+  },
+  {
+    "id": "jazz-mehldau-exit-music",
+    "artist": "Brad Mehldau Trio",
+    "title": "Exit Music (For a Film)",
+    "composer": "Radiohead",
+    "recording_date": "1998-05",
+    "recording_year": 1998,
+    "release_year": 1998,
+    "original_issue": "Warner Bros. 9362-47051-2 (CD, Songs: The Art of the Trio Volume Three, 15 Sep 1998)",
+    "personnel": "Brad Mehldau (piano), Larry Grenadier (double bass), Jorge Rossy (drums)",
+    "style": "post-bop",
+    "year": 1998,
+    "year_lo": 1998,
+    "year_hi": 1998,
+    "year_label": "1998",
+    "trivia": "Mehldau's trio treated a track from Radiohead's 1997 album OK Computer as a jazz standard, one of several rock and pop songs on the third volume of his Art of the Trio series. It was recorded in New York in May 1998.",
+    "tags": [
+      "1990s",
+      "post-bop",
+      "warner-bros",
+      "pop-cover"
+    ],
+    "track": {
+      "artist": "Brad Mehldau Trio",
+      "title": "Exit Music (For a Film)",
+      "album": "Songs: The Art of the Trio Volume Three",
+      "duration": "4:23",
+      "isrc": null,
+      "query": "Brad Mehldau Trio Exit Music For a Film Art of the Trio 1998",
+      "notes": "studio version (4:23) from the 1998 album, not the later live versions"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Songs:_The_Art_of_the_Trio_Volume_Three"
+    ],
+    "notes": "Wikipedia gives 27 and 28 May 1998 at Right Track, New York, without saying which day this track was cut, so the month is used. Released 15 Sep 1998."
+  },
+  {
+    "id": "jazz-wilson-strange-fruit",
+    "artist": "Cassandra Wilson",
+    "title": "Strange Fruit",
+    "composer": "Lewis Allan (pseudonym of Abel Meeropol)",
+    "recording_date": null,
+    "recording_year": 1995,
+    "release_year": 1995,
+    "original_issue": "Blue Note (CD, New Moon Daughter, 1995)",
+    "personnel": "Cassandra Wilson (vocals), Chris Whitley (resonator guitar), Graham Haynes (cornet), Lonnie Plaxico (bass); produced by Craig Street",
+    "style": "vocal",
+    "year": 1995,
+    "year_lo": 1995,
+    "year_hi": 1995,
+    "year_label": "1995",
+    "trivia": "Wilson opens New Moon Daughter with a stripped-down reading of the protest song Billie Holiday made famous, using only Chris Whitley's resonator guitar, Graham Haynes's cornet and Lonnie Plaxico's bass. The album reached No. 1 on Billboard's jazz chart and won the Grammy for Best Jazz Vocal Performance.",
+    "tags": [
+      "1990s",
+      "vocal",
+      "blue-note"
+    ],
+    "track": {
+      "artist": "Cassandra Wilson",
+      "title": "Strange Fruit",
+      "album": "New Moon Daughter",
+      "duration": "5:33",
+      "isrc": null,
+      "query": "Cassandra Wilson Strange Fruit New Moon Daughter 1995",
+      "notes": "studio version (5:33) from New Moon Daughter"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/New_Moon_Daughter",
+      "https://stereophile.com/content/recording-june-1996-new-moon-daughter"
+    ],
+    "notes": "No session dates were found (Wikipedia lists Turtle Creek Barn at Bearsville, Sound On Sound, Sear Sound and BearTracks), so the release year 1995 is used as the recording year. The instrumentation for the track is from Wikipedia's track-numbered personnel list and a Stereophile review. A second version of the song in the set (Billie Holiday, 1939)."
+  },
+  {
+    "id": "jazz-krall-peel-me-a-grape",
+    "artist": "Diana Krall",
+    "title": "Peel Me a Grape",
+    "composer": "Dave Frishberg",
+    "recording_date": null,
+    "recording_year": 1997,
+    "release_year": 1997,
+    "original_issue": "Impulse! (CD, Love Scenes, 26 Aug 1997)",
+    "personnel": "Diana Krall (piano, vocals), Russell Malone (guitar), Christian McBride (bass)",
+    "style": "vocal",
+    "year": 1997,
+    "year_lo": 1997,
+    "year_hi": 1997,
+    "year_label": "1997",
+    "trivia": "Krall's piano, Russell Malone's guitar and Christian McBride's bass give Dave Frishberg's wry song a hushed trio treatment on her fourth album, Love Scenes. The record was produced by Tommy LiPuma and recorded and mixed by Al Schmitt.",
+    "tags": [
+      "1990s",
+      "vocal",
+      "impulse"
+    ],
+    "track": {
+      "artist": "Diana Krall",
+      "title": "Peel Me a Grape",
+      "album": "Love Scenes",
+      "duration": "5:52",
+      "isrc": null,
+      "query": "Diana Krall Peel Me a Grape Love Scenes 1997",
+      "notes": "studio version (5:52) from Love Scenes"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Love_Scenes_(Diana_Krall_album)"
+    ],
+    "notes": "Wikipedia gives no session date; library and retail listings place the sessions at Avatar Studios, New York, in 1997, and the album was released 26 Aug 1997, so 1997 is used."
+  },
+  {
+    "id": "jazz-garbarek-hilliard-parce-mihi-domine",
+    "artist": "Jan Garbarek and the Hilliard Ensemble",
+    "title": "Parce mihi domine",
+    "composer": "Cristóbal de Morales",
+    "recording_date": "1993-09",
+    "recording_year": 1993,
+    "release_year": 1994,
+    "original_issue": "ECM New Series 1525 (CD, Officium, September 1994)",
+    "personnel": "Jan Garbarek (soprano and tenor saxophones; the instrument on this track is not stated), Hilliard Ensemble: David James (countertenor), Rogers Covey-Crump and John Potter (tenors), Gordon Jones (baritone)",
+    "style": "ecm",
+    "year": 1993,
+    "year_lo": 1993,
+    "year_hi": 1993,
+    "year_label": "1993",
+    "trivia": "The Norwegian saxophonist weaves a long saxophone line around the Hilliard Ensemble's singing of a Renaissance Spanish chant by Cristóbal de Morales, recorded in an Austrian monastery. Officium became one of the most successful records on the ECM label, with sales of more than 1.5 million.",
+    "tags": [
+      "1990s",
+      "ecm",
+      "early-music",
+      "sacred",
+      "crossover"
+    ],
+    "track": {
+      "artist": "Jan Garbarek and the Hilliard Ensemble",
+      "title": "Parce mihi domine",
+      "album": "Officium",
+      "duration": "6:42",
+      "isrc": null,
+      "query": "Jan Garbarek Hilliard Ensemble Parce mihi domine Officium 1993",
+      "notes": "opening version (track 1, 6:42), not the other two versions of the piece on the album (5:35 and 6:52)"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Officium_(album)"
+    ],
+    "notes": "Recorded September 1993 at the Propstei St. Gerold monastery in Austria (Wikipedia gives no day) and released September 1994. The piece appears three times on the album and the card uses the first. Tagged crossover: an ECM jazz and early-music hybrid rather than a jazz record in the usual sense."
+  },
+  {
+    "id": "jazz-bennett-steppin-out-with-my-baby",
+    "artist": "Tony Bennett",
+    "title": "Steppin' Out with My Baby",
+    "composer": "Irving Berlin",
+    "recording_date": null,
+    "recording_year": 1993,
+    "release_year": 1993,
+    "original_issue": "Columbia (CD, Steppin' Out, 5 Oct 1993)",
+    "personnel": "Tony Bennett (vocals), Ralph Sharon (piano), Doug Richeson (double bass), Clayton Cameron (drums)",
+    "style": "vocal",
+    "year": 1993,
+    "year_lo": 1993,
+    "year_hi": 1993,
+    "year_label": "1993",
+    "trivia": "Bennett turned Irving Berlin's number from Fred Astaire's 1948 film Easter Parade into a jazz standard, and the stylish video for it got airplay on MTV. The album, a tribute to Astaire, won the 1994 Grammy for Best Traditional Pop Vocal Performance.",
+    "tags": [
+      "1990s",
+      "vocal",
+      "columbia",
+      "songbook"
+    ],
+    "track": {
+      "artist": "Tony Bennett",
+      "title": "Steppin' Out with My Baby",
+      "album": "Steppin' Out",
+      "duration": "2:53",
+      "isrc": null,
+      "query": "Tony Bennett Steppin' Out with My Baby 1993",
+      "notes": "studio version (2:53) from Steppin' Out, not the MTV Unplugged version of 1994 (3:12)"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Steppin'_Out_with_My_Baby",
+      "https://en.wikipedia.org/wiki/Steppin'_Out_(Tony_Bennett_album)",
+      "https://en.wikipedia.org/wiki/MTV_Unplugged_(Tony_Bennett_album)"
+    ],
+    "notes": "Wikipedia gives March to July 1993 for the sessions and 5 Oct 1993 for the release, so the year only. The personnel line is the album-level rhythm trio."
+  },
+  {
+    "id": "jazz-fourplay-bali-run",
+    "artist": "Fourplay",
+    "title": "Bali Run",
+    "composer": "Lee Ritenour, Bob James",
+    "recording_date": null,
+    "recording_year": 1991,
+    "release_year": 1991,
+    "original_issue": "Warner Bros. (CD, Fourplay, 17 Sep 1991)",
+    "personnel": "Bob James (piano, keyboards), Lee Ritenour (guitars), Nathan East (bass), Harvey Mason (drums)",
+    "style": "smooth-jazz",
+    "year": 1991,
+    "year_lo": 1991,
+    "year_hi": 1991,
+    "year_label": "1991",
+    "trivia": "The debut of the smooth-jazz supergroup of Bob James, Lee Ritenour, Nathan East and Harvey Mason went to No. 1 on the Contemporary Jazz chart and was certified Gold in the US. Bali Run, co-written by Ritenour and James, is one of its instrumentals.",
+    "tags": [
+      "1990s",
+      "smooth-jazz",
+      "warner-bros"
+    ],
+    "track": {
+      "artist": "Fourplay",
+      "title": "Bali Run",
+      "album": "Fourplay",
+      "duration": "5:32",
+      "isrc": null,
+      "query": "Fourplay Bali Run Fourplay 1991",
+      "notes": "studio version (5:32) from the debut album"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Fourplay_(Fourplay_album)"
+    ],
+    "notes": "Wikipedia gives 1990-1991 for the sessions (Ocean Way, Sunset Sound, Pyramid and Starlight studios) and 17 Sep 1991 for the release, so the release year is used as the recording year. The line-up is the album-level group."
+  },
+  {
+    "id": "jazz-haden-metheny-spiritual",
+    "artist": "Charlie Haden and Pat Metheny",
+    "title": "Spiritual",
+    "composer": "Josh Haden",
+    "recording_date": null,
+    "recording_year": 1996,
+    "release_year": 1997,
+    "original_issue": "Verve (CD, Beyond the Missouri Sky (Short Stories), 25 Feb 1997)",
+    "personnel": "Charlie Haden (double bass), Pat Metheny (acoustic guitars and all other instruments)",
+    "style": "contemporary",
+    "year": 1996,
+    "year_lo": 1996,
+    "year_hi": 1996,
+    "year_label": "1996",
+    "trivia": "A song by Charlie Haden's son Josh, leader of the band Spain, is played here as an eight-minute bass and guitar duet that closes the album. Beyond the Missouri Sky won the Grammy for Best Jazz Instrumental Performance.",
+    "tags": [
+      "1990s",
+      "contemporary",
+      "verve"
+    ],
+    "track": {
+      "artist": "Charlie Haden and Pat Metheny",
+      "title": "Spiritual",
+      "album": "Beyond the Missouri Sky (Short Stories)",
+      "duration": "8:22",
+      "isrc": null,
+      "query": "Charlie Haden Pat Metheny Spiritual Beyond the Missouri Sky 1996",
+      "notes": "studio duet (8:22), not the original band version by Spain"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Beyond_the_Missouri_Sky_(Short_Stories)",
+      "https://www.jazzdisco.org/charlie-haden/discography/",
+      "https://en.wikipedia.org/wiki/Josh_Haden"
+    ],
+    "notes": "Wikipedia says the sessions were at Right Track, New York, on dates before and April 15, 1996, and jazzdisco gives Right Track, 1996, with additional recording at Clinton Recording Studios on 15 Apr 1996, so the year only is used. Released 25 Feb 1997. It is not stated whether this track was the April session."
+  },
+  {
+    "id": "jazz-scofield-a-go-go",
+    "artist": "John Scofield with Medeski Martin & Wood",
+    "title": "A Go Go",
+    "composer": "John Scofield",
+    "recording_date": null,
+    "recording_year": 1997,
+    "release_year": 1998,
+    "original_issue": "Verve (CD, A Go Go, 1998)",
+    "personnel": "John Scofield (electric guitar), John Medeski (piano, organ, Wurlitzer, clavinet), Chris Wood (bass), Billy Martin (drums, tambourine)",
+    "style": "jazz-funk",
+    "year": 1997,
+    "year_lo": 1997,
+    "year_hi": 1997,
+    "year_label": "1997",
+    "trivia": "The title track of Scofield's first collaboration with Medeski Martin and Wood put the guitarist in a groove-heavy organ-trio setting in New York. JazzTimes reported that the sessions took just three days, and Scofield wrote every tune on the album.",
+    "tags": [
+      "1990s",
+      "jazz-funk",
+      "verve",
+      "jam-band"
+    ],
+    "track": {
+      "artist": "John Scofield with Medeski Martin & Wood",
+      "title": "A Go Go",
+      "album": "A Go Go",
+      "duration": "6:36",
+      "isrc": null,
+      "query": "John Scofield Medeski Martin Wood A Go Go 1997",
+      "notes": "studio title track (6:36), not the Japanese-edition bonus tracks or live versions"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/A_Go_Go_(John_Scofield_album)",
+      "https://www.jazztimes.com/features/profiles/medeski-scofield-martin-and-wood-lightning-strikes-twice/"
+    ],
+    "notes": "No session dates were found: Blue Note's bio and JazzTimes place the recording in 1997 at Avatar Studios (the Wikipedia infobox also lists River Sound), with release in 1998, so the year only is used. The line-up is the album-level credit."
+  },
+  {
+    "id": "jazz-hargrove-mambo-for-roy",
+    "artist": "Roy Hargrove's Crisol",
+    "title": "Mambo for Roy",
+    "composer": "Chucho Valdés",
+    "recording_date": "1997-01",
+    "recording_year": 1997,
+    "release_year": 1997,
+    "original_issue": "Verve (CD, Habana, 1997)",
+    "personnel": "Roy Hargrove (trumpet, flugelhorn), Gary Bartz (alto and soprano saxophones), David Sánchez (tenor and soprano saxophones), Frank Lacy (trombone), Chucho Valdés (piano), Russell Malone (guitar), John Benitez (bass), Horacio 'El Negro' Hernandez (drums), Miguel 'Angá' Díaz (congas), José Luis 'Changuito' Quintana (timbales)",
+    "style": "latin",
+    "year": 1997,
+    "year_lo": 1997,
+    "year_hi": 1997,
+    "year_label": "1997",
+    "trivia": "Hargrove's Afro-Cuban band Crisol mixed American players with Cuban stars such as pianist Chucho Valdés, who wrote this eleven-minute track. The album, recorded in Orvieto, Italy in January 1997, won the 1998 Grammy for Best Latin Jazz Performance.",
+    "tags": [
+      "1990s",
+      "latin",
+      "verve",
+      "afro-cuban"
+    ],
+    "track": {
+      "artist": "Roy Hargrove's Crisol",
+      "title": "Mambo for Roy",
+      "album": "Habana",
+      "duration": "11:01",
+      "isrc": null,
+      "query": "Roy Hargrove Crisol Mambo for Roy Habana 1997",
+      "notes": "studio album track (11:01), not later Crisol concert versions"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Habana_(album)"
+    ],
+    "notes": "Wikipedia gives 5 and 6 January 1997 at Teatro Mancinelli, Orvieto, with mixing in New York, and does not say which day each track was cut, so the month is used. The line-up is the album-level credit. The album has no track called Habana, so the card takes the longest track, which Wikipedia credits to Valdés."
+  },
+  {
+    "id": "jazz-henderson-lush-life",
+    "artist": "Joe Henderson",
+    "title": "Lush Life",
+    "composer": "Billy Strayhorn",
+    "recording_date": "1991-09",
+    "recording_year": 1991,
+    "release_year": 1992,
+    "original_issue": "Verve (CD, Lush Life: The Music of Billy Strayhorn, 1992)",
+    "personnel": "Joe Henderson (tenor saxophone); the album credits Wynton Marsalis (trumpet), Stephen Scott (piano), Christian McBride (bass) and Gregory Hutchinson (drums), but the source does not say which of them play on this title track",
+    "style": "post-bop",
+    "year": 1991,
+    "year_lo": 1991,
+    "year_hi": 1991,
+    "year_label": "1991",
+    "trivia": "Henderson's Billy Strayhorn tribute, cut at Rudy Van Gelder's studio in formats ranging from solo to quintet, brought him the first of three Grammys he won on Verve. It had sold nearly 90,000 copies by the time he died in 2001.",
+    "tags": [
+      "1990s",
+      "post-bop",
+      "verve"
+    ],
+    "track": {
+      "artist": "Joe Henderson",
+      "title": "Lush Life",
+      "album": "Lush Life: The Music of Billy Strayhorn",
+      "duration": "5:03",
+      "isrc": null,
+      "query": "Joe Henderson Lush Life The Music of Billy Strayhorn 1991",
+      "notes": "studio title track (5:03) from the 1992 album"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Lush_Life:_The_Music_of_Billy_Strayhorn"
+    ],
+    "notes": "Wikipedia gives 3, 6 and 8 September 1991 at Van Gelder Studio, Englewood Cliffs, NJ, without saying which day this track was cut, so the month is used. Released 1992. The page says the album mixes solo, duet, trio, quartet and quintet settings, so the per-track line-up is unknown."
+  },
+  {
+    "id": "jazz-garrett-sing-a-song-of-song",
+    "artist": "Kenny Garrett",
+    "title": "Sing a Song of Song",
+    "composer": "Kenny Garrett",
+    "recording_date": "1997-01",
+    "recording_year": 1997,
+    "release_year": 1997,
+    "original_issue": "Warner Bros. (CD, Songbook, May 1997)",
+    "personnel": "Kenny Garrett (alto saxophone), Kenny Kirkland (piano), Nat Reeves (double bass), Jeff 'Tain' Watts (drums)",
+    "style": "post-bop",
+    "year": 1997,
+    "year_lo": 1997,
+    "year_hi": 1997,
+    "year_label": "1997",
+    "trivia": "Garrett's original is played by a quartet whose pianist Kenny Kirkland and drummer Jeff 'Tain' Watts were both known from Branford Marsalis's band. The album, Songbook, was nominated for the 1998 Grammy for Best Jazz Instrumental Performance.",
+    "tags": [
+      "1990s",
+      "post-bop",
+      "warner-bros"
+    ],
+    "track": {
+      "artist": "Kenny Garrett",
+      "title": "Sing a Song of Song",
+      "album": "Songbook",
+      "duration": "7:22",
+      "isrc": null,
+      "query": "Kenny Garrett Sing a Song of Song Songbook 1997",
+      "notes": "studio version (7:22) from Songbook"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Songbook_(Kenny_Garrett_album)"
+    ],
+    "notes": "Wikipedia gives 7 and 8 January 1997 at Sear Sound, New York, without saying which day this track was cut, so the month is used. Released May 1997. Every track on the album is credited to Garrett."
+  }
+]

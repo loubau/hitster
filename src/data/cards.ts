@@ -62,13 +62,13 @@ function normalise(raw: unknown, set: SetId): Card | null {
   if (set === 'classical') {
     const c = raw as RawClassical;
     const rec = c.recording;
-    const film = c.form === 'film' || c.form === 'tv';
+    const screen = { film: 'Film', tv: 'Series', game: 'Game' }[c.form ?? ''];
     return {
       ...base(c, set),
       primary: c.composer,
       secondary: c.work,
       primaryLabel: 'Composer',
-      secondaryLabel: film ? 'Film' : 'Work',
+      secondaryLabel: screen ?? 'Work',
       excerpt: c.excerpt,
       accept: c.accept_work,
       facts: facts([

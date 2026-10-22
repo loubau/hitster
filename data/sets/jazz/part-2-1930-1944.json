@@ -76,43 +76,6 @@
     "notes": "Brunswick catalog number and the full personnel come from memory/standard discographies and were not re-verified; the coupling is also from memory. Date and 3:09 duration from Wikipedia."
   },
   {
-    "id": "jazz-ellington-ko-ko",
-    "artist": "Duke Ellington and His Famous Orchestra",
-    "title": "Ko-Ko",
-    "composer": "Duke Ellington",
-    "recording_date": "1940-03-06",
-    "recording_year": 1940,
-    "release_year": 1940,
-    "original_issue": "Victor 26577 (78 rpm, b/w Me and You)",
-    "personnel": "Duke Ellington (piano, leader), Wallace Jones, Cootie Williams, Rex Stewart (trumpets), Joe Nanton, Lawrence Brown, Juan Tizol (trombones), Barney Bigard, Johnny Hodges, Otto Hardwick, Ben Webster, Harry Carney (reeds), Fred Guy (guitar), Jimmy Blanton (bass), Sonny Greer (drums)",
-    "style": "big-band",
-    "year": 1940,
-    "year_lo": 1940,
-    "year_hi": 1940,
-    "year_label": "1940",
-    "trivia": "A minor-key stomp built on a few tense riffs, with Joe Nanton's growling plunger trombone and Jimmy Blanton's walking bass. Many players cite it as the high point of the \"Blanton-Webster\" band that recorded for Victor in 1940-41.",
-    "tags": [
-      "1940s",
-      "big-band",
-      "victor"
-    ],
-    "track": {
-      "artist": "Duke Ellington and His Famous Orchestra",
-      "title": "Ko-Ko",
-      "album": "Ko-Ko / Me and You (78 rpm single)",
-      "duration": "2:40",
-      "isrc": null,
-      "query": "Duke Ellington and His Famous Orchestra Ko-Ko 1940",
-      "notes": "Ellington's Chicago session of 6 Mar 1940 (Victor); not the Charlie Parker \"Ko-Ko\" of 1945 and not later Ellington remakes"
-    },
-    "confidence": "medium",
-    "sources": [
-      "https://en.wikipedia.org/wiki/Jimmy_Blanton",
-      "https://en.wikipedia.org/wiki/List_of_Grammy_Hall_of_Fame_Award_recipients_(J%E2%80%93P)"
-    ],
-    "notes": "Date conflict: the standard discography gives 1940-03-06 (Chicago); Wikipedia's Jimmy Blanton article says May 1940. March 6 chosen. Catalog number, coupling and personnel from memory, not re-verified. Duration approximate (not taken from a source)."
-  },
-  {
     "id": "jazz-ellington-take-the-a-train",
     "artist": "Duke Ellington and His Famous Orchestra",
     "title": "Take the \"A\" Train",
@@ -1459,5 +1422,1037 @@
       "https://en.wikipedia.org/wiki/Moten_Swing"
     ],
     "notes": "DAHR: Victor matrix BS-74847, 12/13/1932, Camden NJ, Victor 23384 (not 23038). Release year 1933 is an estimate; personnel from memory/Wikipedia, not re-verified (DAHR lists the instrumentation only). Duration approximate (not taken from a source)."
+  },
+  {
+    "id": "jazz-ellington-sophisticated-lady",
+    "artist": "Duke Ellington and His Orchestra",
+    "title": "Sophisticated Lady",
+    "composer": "Duke Ellington (lyrics Mitchell Parish; publisher credit Irving Mills)",
+    "recording_date": "1933-02-15",
+    "recording_year": 1933,
+    "release_year": 1933,
+    "original_issue": "78 rpm single issued 1933 (label and catalogue number not verified)",
+    "personnel": "Duke Ellington (piano, leader), Otto \"Toby\" Hardwick (alto sax), Barney Bigard (clarinet), Lawrence Brown (trombone); the rest of the orchestra was not verified",
+    "style": "big-band",
+    "year": 1933,
+    "year_lo": 1933,
+    "year_hi": 1933,
+    "year_label": "1933",
+    "trivia": "This instrumental entered the US charts on 27 May 1933 and climbed to number three, with solos from Toby Hardwick, Barney Bigard, Lawrence Brown and Ellington himself. Trombonist Lawrence Brown claimed he came up with the main hook of the tune's opening strain.",
+    "tags": [
+      "1930s",
+      "big-band"
+    ],
+    "track": {
+      "artist": "Duke Ellington and His Orchestra",
+      "title": "Sophisticated Lady",
+      "album": "Single (1933)",
+      "duration": "3:13",
+      "isrc": null,
+      "query": "Duke Ellington Sophisticated Lady 1933 original recording",
+      "notes": "Ellington's original 1933 orchestra recording (instrumental), not a later Ellington remake or a vocal version by another singer"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Sophisticated_Lady",
+      "https://musicbrainz.org/recording/860c41a3-5b4e-4830-9ff0-d29e0db0217e"
+    ],
+    "notes": "Date (15 Feb 1933), the chart run and the solo order come from Wikipedia; it names no label or catalogue number, so none is given. MusicBrainz carries a recording credit dated 1933-05-16 (Ellington on piano only) which was not reconciled with the February date. Duration is the MusicBrainz length, approximate. Chosen instead of Caravan (1937), whose session date could not be pinned down from the sources reachable (an archive snippet gave 1937-04-29, other recollection 14 May)."
+  },
+  {
+    "id": "jazz-jimmie-lunceford-rhythm-is-our-business",
+    "artist": "Jimmie Lunceford and His Orchestra",
+    "title": "Rhythm Is Our Business",
+    "composer": "Jimmie Lunceford, Sammy Cahn, Saul Chaplin",
+    "recording_date": "1934-12-18",
+    "recording_year": 1934,
+    "release_year": 1935,
+    "original_issue": "Decca 369 (10-inch 78 rpm; matrix 39172, recorded in New York)",
+    "personnel": "Jimmie Lunceford (leader), Sy Oliver and Tommy Stevenson (trumpet), Russell Bowles (trombone), Earl Carruthers (baritone sax, clarinet), Laforest Dent and Willie Smith (alto sax, clarinet), Al Norris (guitar), Moses Allen (bass), Jimmy Crawford (drums); partial line-up from MusicBrainz credits",
+    "style": "big-band",
+    "year": 1934,
+    "year_lo": 1934,
+    "year_hi": 1934,
+    "year_label": "1934",
+    "trivia": "Co-written by Lunceford with songwriters Sammy Cahn and Saul Chaplin, it became one of the band's best-known tunes and was featured in a 1937 musical short film with singer Myra Johnson. Trumpeter Sy Oliver, who plays in the band here, wrote many of its best-known arrangements.",
+    "tags": [
+      "1930s",
+      "big-band",
+      "decca"
+    ],
+    "track": {
+      "artist": "Jimmie Lunceford and His Orchestra",
+      "title": "Rhythm Is Our Business",
+      "album": "Single (Decca 369)",
+      "duration": "3:13",
+      "isrc": null,
+      "query": "Jimmie Lunceford Rhythm Is Our Business 1934 Decca",
+      "notes": "Original Decca studio recording of December 1934, not the 1937 film-short performance or any later remake"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://adp.library.ucsb.edu/index.php/objects/detail/309319/Decca_369",
+      "http://www.78discography.com/Dec100.htm",
+      "https://musicbrainz.org/recording/ce2f9aa6-694e-4084-b0d8-afbefd145628",
+      "https://en.wikipedia.org/wiki/Jimmie_Lunceford"
+    ],
+    "notes": "Date and matrix from the 78discography Decca listing, MusicBrainz and a DAHR search snippet. The release year (1935) is inferred from Decca numbering and is not verified. Personnel is only the partial list on MusicBrainz (no pianist or full sax and trombone rosters). The 78discography composer line shows the writers' birth surnames (Cohen, Kaplan). Duration is the MusicBrainz length. The 1937 film short and Sy Oliver's arranging role are from Wikipedia's Lunceford article."
+  },
+  {
+    "id": "jazz-fletcher-henderson-wrappin-it-up",
+    "artist": "Fletcher Henderson and His Orchestra",
+    "title": "Wrappin' It Up",
+    "composer": "Fletcher Henderson",
+    "recording_date": "1934-09-12",
+    "recording_year": 1934,
+    "release_year": 1934,
+    "original_issue": "Decca 157 (10-inch 78 rpm; matrix 38604, recorded in New York)",
+    "personnel": "Fletcher Henderson (piano, leader, arranger), Henry \"Red\" Allen, Russell Smith and Irving Randolph (trumpet), Keg Johnson and Claude Jones (trombone), Buster Bailey (clarinet), Hilton Jefferson and Russell Procope (alto sax), Ben Webster (tenor sax), Lawrence Lucie (guitar), Elmer James (bass), Walter Johnson (drums)",
+    "style": "big-band",
+    "year": 1934,
+    "year_lo": 1934,
+    "year_hi": 1934,
+    "year_label": "1934",
+    "trivia": "Henderson cut this original for Decca in September 1934, the year his band split up and he began selling arrangements to Benny Goodman, whose band drew heavily on Henderson charts for its 1935 Let's Dance radio shows. Ben Webster, later a tenor great, is in the sax section here.",
+    "tags": [
+      "1930s",
+      "big-band",
+      "decca"
+    ],
+    "track": {
+      "artist": "Fletcher Henderson and His Orchestra",
+      "title": "Wrappin' It Up",
+      "album": "Single (Decca 157)",
+      "duration": "2:42",
+      "isrc": null,
+      "query": "Fletcher Henderson Wrappin' It Up 1934 Decca",
+      "notes": "Fletcher Henderson's own Decca recording of 12 September 1934 (MusicBrainz subtitles it \"The Lindy Glide\"), not Benny Goodman's version of the tune"
+    },
+    "confidence": "medium",
+    "sources": [
+      "http://www.78discography.com/Dec100.htm",
+      "https://musicbrainz.org/recording/70854083-1312-4443-ae99-0ebd9ff0bca3",
+      "https://en.wikipedia.org/wiki/1934_in_music",
+      "https://en.wikipedia.org/wiki/Fletcher_Henderson"
+    ],
+    "notes": "Date, Decca number (listed as 157B), matrix and composer from the 78discography Decca listing; personnel from MusicBrainz credits for the same session date; Wikipedia's 1934 in music also lists the tune as a Henderson composition of 1934. The release year (1934) is inferred from Decca catalogue sequencing and could be early 1935. The Goodman links are from Wikipedia's Henderson article. Duration is the MusicBrainz length (2:42)."
+  },
+  {
+    "id": "jazz-teddy-wilson-what-a-little-moonlight-can-do",
+    "artist": "Teddy Wilson and His Orchestra (vocal Billie Holiday)",
+    "title": "What a Little Moonlight Can Do",
+    "composer": "Harry Woods",
+    "recording_date": "1935-07-02",
+    "recording_year": 1935,
+    "release_year": 1935,
+    "original_issue": "Brunswick 78 rpm single, 1935 (catalogue number not verified)",
+    "personnel": "Billie Holiday (vocal), Roy Eldridge (trumpet), Benny Goodman (clarinet), Ben Webster (tenor sax), Teddy Wilson (piano), John Trueheart (guitar), John Kirby (bass), Cozy Cole (drums)",
+    "style": "swing",
+    "year": 1935,
+    "year_lo": 1935,
+    "year_hi": 1935,
+    "year_label": "1935",
+    "trivia": "Billie Holiday was 20 at this session, which put her alongside trumpeter Roy Eldridge, clarinettist Benny Goodman and tenor saxophonist Ben Webster, and the record reached the US pop chart. Harry Woods's song was only a year old at the time.",
+    "tags": [
+      "1930s",
+      "swing",
+      "brunswick",
+      "vocal"
+    ],
+    "track": {
+      "artist": "Teddy Wilson and His Orchestra",
+      "title": "What a Little Moonlight Can Do",
+      "album": "Single (Brunswick, 1935)",
+      "duration": "2:56",
+      "isrc": null,
+      "query": "Teddy Wilson Billie Holiday What a Little Moonlight Can Do 1935 Brunswick",
+      "notes": "Original 1935 Teddy Wilson studio recording with Billie Holiday's vocal, not her later remake or the Goodman versions"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/What_a_Little_Moonlight_Can_Do",
+      "https://en.wikipedia.org/wiki/Billie_Holiday_discography",
+      "https://musicbrainz.org/recording/d6da4176-c1e4-4640-8e1b-8d2a00103b30",
+      "https://musicbrainz.org/recording/d0a6672b-57fe-415c-9d12-f87ab6e4aa03"
+    ],
+    "notes": "Date from Wikipedia and MusicBrainz credits (both give 2 July 1935); personnel from MusicBrainz. Wikipedia's Holiday discography gives a US pop chart peak of 12 (not repeated in the trivia). The Brunswick catalogue number was not verified and is left out. Duration is approximate (MusicBrainz lengths for the recording run 2:51 to 3:01). Billie Holiday is already on four existing cards, so this one uses the billing under Wilson and counts as her one extra card."
+  },
+  {
+    "id": "jazz-jones-smith-lady-be-good",
+    "artist": "Jones-Smith Incorporated",
+    "title": "Lady Be Good",
+    "composer": "George Gershwin, Ira Gershwin",
+    "recording_date": "1936-11-09",
+    "recording_year": 1936,
+    "release_year": 1937,
+    "original_issue": "Vocalion 3459 (10-inch 78 rpm; matrix C1660-1; coupled with \"Boogie Woogie\")",
+    "personnel": "Carl \"Tatti\" Smith (trumpet), Lester Young (tenor sax), Count Basie (piano), Walter Page (bass), Jo Jones (drums)",
+    "style": "swing",
+    "year": 1936,
+    "year_lo": 1936,
+    "year_hi": 1936,
+    "year_label": "1936",
+    "trivia": "Lester Young, then 27, takes the tenor solos over Count Basie's rhythm section on this Chicago session, which was issued under the pseudonymous billing Jones-Smith Incorporated rather than Basie's own name. John Hammond produced the date.",
+    "tags": [
+      "1930s",
+      "swing",
+      "vocalion",
+      "small-group",
+      "kansas-city"
+    ],
+    "track": {
+      "artist": "Jones-Smith Incorporated",
+      "title": "Lady Be Good",
+      "album": "Single (Vocalion 3459)",
+      "duration": "3:08",
+      "isrc": null,
+      "query": "Jones-Smith Incorporated Lady Be Good Lester Young 1936 Vocalion",
+      "notes": "Vocalion 3459 master (matrix C1660-1), not the alternate take issued decades later"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Oh,_Lady_Be_Good!",
+      "https://en.wikipedia.org/wiki/Classic_Columbia,_Okeh_and_Vocalion:_Lester_Young_with_Count_Basie_(1936%E2%80%931940)",
+      "http://www.78discography.com/VOC3000.htm",
+      "https://musicbrainz.org/recording/2678af8e-18c1-4487-81bb-4bdc08ebac4e"
+    ],
+    "notes": "DATE CONFLICT: the session ledger and Wikipedia's song page give 9 October 1936; 78discography lists 10 October; MusicBrainz also carries an 8 October entry; the Mosaic Lester Young box (as quoted on Wikipedia's album page and in a search snippet) gives 9 November 1936, saying the ledger date was a clerical error. 9 November is used; this is a judgement call. Vocalion number, matrix and coupling from the 78 listing and Wikipedia; personnel from MusicBrainz and the Mosaic snippet. The release year (1937) is inferred (the 78discography row carries January 1937; one MusicBrainz issue dates it 1937) and is approximate. Duration is the MusicBrainz length (3:08 to 3:11 across entries)."
+  },
+  {
+    "id": "jazz-maxine-sullivan-loch-lomond",
+    "artist": "Maxine Sullivan with Claude Thornhill and His Orchestra",
+    "title": "Loch Lomond",
+    "composer": "Traditional (arranged by Claude Thornhill)",
+    "recording_date": "1937-08-06",
+    "recording_year": 1937,
+    "release_year": 1937,
+    "original_issue": "Vocalion 3654 (10-inch 78 rpm; matrix 21472-1, recorded in New York)",
+    "personnel": "Maxine Sullivan (vocal), Frankie Newton (trumpet), Buster Bailey (clarinet), Pete Brown (alto sax), Irving \"Babe\" Russin (tenor sax), Claude Thornhill (piano, arranger), John Kirby (bass), O'Neill Spencer (drums)",
+    "style": "swing",
+    "year": 1937,
+    "year_lo": 1937,
+    "year_hi": 1937,
+    "year_label": "1937",
+    "trivia": "Maxine Sullivan's swinging treatment of the old Scottish folk song, arranged by pianist Claude Thornhill, was the career-defining hit that set off a wave of swung folk songs. She went on to record it 14 times in all, and Benny Goodman's band copied the Thornhill arrangement when it took the song up.",
+    "tags": [
+      "1930s",
+      "swing",
+      "vocalion",
+      "vocal"
+    ],
+    "track": {
+      "artist": "Maxine Sullivan",
+      "title": "Loch Lomond",
+      "album": "Single (Vocalion 3654)",
+      "duration": "2:52",
+      "isrc": null,
+      "query": "Maxine Sullivan Loch Lomond 1937 Vocalion Claude Thornhill",
+      "notes": "Vocalion studio original of August 1937, not Sullivan's later remakes of the song"
+    },
+    "confidence": "high",
+    "sources": [
+      "http://www.78discography.com/VOC3500.htm",
+      "https://en.wikipedia.org/wiki/The_Bonnie_Banks_o'_Loch_Lomond",
+      "https://en.wikipedia.org/wiki/Maxine_Sullivan"
+    ],
+    "notes": "Date, Vocalion 3654 and matrix from the 78discography Vocalion listing; Wikipedia's Loch Lomond article gives the same date and matrix and the number as 364, which looks like a truncation. Personnel is MusicBrainz's credit list. The 14 recordings, the swung-folk-song trend and the Goodman imitation of the arrangement are from Wikipedia's Loch Lomond article. Duration is the MusicBrainz length (2:51 to 2:54 across issues)."
+  },
+  {
+    "id": "jazz-fats-waller-the-joint-is-jumpin",
+    "artist": "Fats Waller and His Rhythm",
+    "title": "The Joint Is Jumpin'",
+    "composer": "Fats Waller, Andy Razaf, J. C. Johnson",
+    "recording_date": "1937-10-07",
+    "recording_year": 1937,
+    "release_year": 1937,
+    "original_issue": "Victor 25689 (10-inch 78 rpm; matrix BS-014646, recorded in New York); released 20 October 1937",
+    "personnel": "Fats Waller (piano, vocal), Herman Autrey (trumpet), Gene Sedric (clarinet, tenor sax), Al Casey (guitar), Charles Turner (bass), Slick Jones (drums)",
+    "style": "swing",
+    "year": 1937,
+    "year_lo": 1937,
+    "year_hi": 1937,
+    "year_label": "1937",
+    "trivia": "Waller wrote the tune with lyricist Andy Razaf and J. C. Johnson, and Victor had it in the shops two weeks after the session. Waller filmed it again in 1941 as one of four Soundies shorts he made that year.",
+    "tags": [
+      "1930s",
+      "swing",
+      "victor",
+      "stride",
+      "vocal"
+    ],
+    "track": {
+      "artist": "Fats Waller and His Rhythm",
+      "title": "The Joint Is Jumpin'",
+      "album": "Single (Victor 25689)",
+      "duration": "2:49",
+      "isrc": null,
+      "query": "Fats Waller and His Rhythm The Joint Is Jumpin' 1937 Victor",
+      "notes": "Original Victor studio recording of October 1937, not the 1941 Soundies film performance"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://musicbrainz.org/recording/3ba78c80-430b-42df-ae31-76c3f28725bd",
+      "https://en.wikipedia.org/wiki/Fats_Waller"
+    ],
+    "notes": "Date, Victor 25689, matrix and the 20 Oct 1937 release date come from a DAHR search snippet (which spells the title 'joint is jumping') and MusicBrainz; the DAHR page itself could not be opened. DAHR lists only Waller; the rest of the personnel is MusicBrainz's credit list. Wikipedia's Fats Waller article lists the 1941 Soundies including this title. Duration is the MusicBrainz length."
+  },
+  {
+    "id": "jazz-glenn-miller-a-string-of-pearls",
+    "artist": "Glenn Miller and His Orchestra",
+    "title": "A String of Pearls",
+    "composer": "Jerry Gray (music), Eddie DeLange (lyrics)",
+    "recording_date": "1941-11-03",
+    "recording_year": 1941,
+    "release_year": 1941,
+    "original_issue": "Bluebird B-11382 (10-inch 78 rpm; matrix 68068; B-side of \"Day Dreaming\"); released 5 December 1941",
+    "personnel": "Glenn Miller (trombone, leader), Johnny Best, R. D. McMickle, Billy May and Alec Fila (trumpets), Jimmy Priddy, Paul Tanner and Frank D'Annolfo (trombones), Babe Russin, Tex Beneke, Wilbur Schwartz, Ernie Caceres and Al Klink (saxes), Chummy MacGregor (piano), Bobby Hackett (cornet, guitar), Doc Goldberg (bass), Moe Purtill (drums)",
+    "style": "big-band",
+    "year": 1941,
+    "year_lo": 1941,
+    "year_hi": 1941,
+    "year_label": "1941",
+    "trivia": "Jerry Gray's tune, with a cornet solo by Bobby Hackett, was a Billboard number one for two weeks in 1942. It came out on Bluebird less than five weeks after the session.",
+    "tags": [
+      "1940s",
+      "big-band",
+      "bluebird"
+    ],
+    "track": {
+      "artist": "Glenn Miller and His Orchestra",
+      "title": "A String of Pearls",
+      "album": "Single (Bluebird B-11382)",
+      "duration": "3:15",
+      "isrc": null,
+      "query": "Glenn Miller and His Orchestra A String of Pearls 1941 Bluebird",
+      "notes": "Original Bluebird studio recording of 3 November 1941, not the later wartime broadcast versions"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/A_String_of_Pearls",
+      "http://www.78discography.com/BB11000.htm"
+    ],
+    "notes": "Wikipedia's infobox and the 78discography listing give 3 November 1941; Wikipedia's running text says 8 November. 3 November used. Date, number, matrix and 'Day Dreaming' coupling from the 78 listing; release date, chart run, personnel and 3:15 duration from Wikipedia. Glenn Miller is at four cards with this one."
+  },
+  {
+    "id": "jazz-goodman-why-dont-you-do-right",
+    "artist": "Benny Goodman and His Orchestra (vocal Peggy Lee)",
+    "title": "Why Don't You Do Right?",
+    "composer": "Joe McCoy",
+    "recording_date": "1942-07-27",
+    "recording_year": 1942,
+    "release_year": 1942,
+    "original_issue": "Columbia 36652 (10-inch 78 rpm; matrix CO33048-1, recorded in New York)",
+    "personnel": "Peggy Lee (vocal), Benny Goodman (clarinet), Jimmy Maxwell, Tony Faso and Lawrence Stearns (trumpets), Lou McGarity and Charlie Castaldo (trombones), Hymie Shertzer and Clint Neagley (alto sax), Jon Walton and Leonard Sims (tenor sax), Bob Poland (baritone sax), Mel Powell (piano), Dave Barbour (guitar), Cliff Hill (bass), Howard Davis (drums)",
+    "style": "swing",
+    "year": 1942,
+    "year_lo": 1942,
+    "year_hi": 1942,
+    "year_label": "1942",
+    "trivia": "Peggy Lee's cool, understated vocal on this blues, first recorded in 1936 as 'Weed Smoker's Dream' and revived by Lil Green in 1941, sold over a million copies and became one of her signature songs. It was also featured in the 1943 film Stage Door Canteen.",
+    "tags": [
+      "1940s",
+      "swing",
+      "columbia",
+      "vocal"
+    ],
+    "track": {
+      "artist": "Benny Goodman and His Orchestra",
+      "title": "Why Don't You Do Right?",
+      "album": "Single (Columbia 36652)",
+      "duration": "3:15",
+      "isrc": null,
+      "query": "Peggy Lee Benny Goodman Why Don't You Do Right 1942 Columbia",
+      "notes": "Original Columbia studio recording of July 1942, not Peggy Lee's later remakes or the Lil Green or Harlem Hamfats versions"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Why_Don't_You_Do_Right?",
+      "http://www.78discography.com/COL36500.htm",
+      "https://musicbrainz.org/recording/0a48b356-039e-4402-a973-e8935c81d84e"
+    ],
+    "notes": "DATE CONFLICT: 78discography (matrix CO33048=1; neighbouring matrices dated 28 July) gives 27 July 1942, which is used; the MusicBrainz credit list is dated 1942-02-27, probably a typo. The personnel list comes from that MusicBrainz entry and was not matched to the July date, hence medium confidence. Wikipedia supplies the song history, the film appearance and the million-seller claim. Duration is the MusicBrainz length. Goodman is at four cards with this one."
+  },
+  {
+    "id": "jazz-dinah-washington-evil-gal-blues",
+    "artist": "Dinah Washington (with Lionel Hampton's sextet)",
+    "title": "Evil Gal Blues",
+    "composer": "Leonard Feather",
+    "recording_date": "1943-12",
+    "recording_year": 1943,
+    "release_year": 1944,
+    "original_issue": "Keynote 78 rpm single, 1943-44 (catalogue number not verified)",
+    "personnel": "Dinah Washington (vocal), Lionel Hampton (vibraphone) and musicians from his band including Joe Morris (trumpet) and Milt Buckner (piano); the full line-up was not verified",
+    "style": "vocal",
+    "year": 1943,
+    "year_lo": 1943,
+    "year_hi": 1943,
+    "year_label": "1943",
+    "trivia": "Dinah Washington's recording debut, written by critic Leonard Feather (first recorded in 1940 by the Hot Lips Page Trio) and made with musicians from Lionel Hampton's band, reached number nine on the R&B chart in 1944. It was the B-side of the first of her two Keynote discs with the Hampton sextet.",
+    "tags": [
+      "1940s",
+      "vocal",
+      "keynote",
+      "blues",
+      "r-and-b"
+    ],
+    "track": {
+      "artist": "Dinah Washington",
+      "title": "Evil Gal Blues",
+      "album": "Single (Keynote, 1944)",
+      "duration": "2:54",
+      "isrc": null,
+      "query": "Dinah Washington Evil Gal Blues 1943 Keynote Lionel Hampton",
+      "notes": "Original Keynote studio recording of December 1943 with Hampton's musicians, not later remakes of the song"
+    },
+    "confidence": "low",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Dinah_Washington",
+      "https://en.wikipedia.org/wiki/Evil_Man's_Blues",
+      "https://en.wikipedia.org/wiki/Dinah_Washington_discography"
+    ],
+    "notes": "LOW CONFIDENCE ON THE YEAR: Wikipedia's Dinah Washington article says only that she made her debut for Keynote 'that December' (after joining Hampton) and does not print the year; its Evil Man's Blues article says she launched her career in 1944 with a two-disc set of 78s, and the discography shows 1944 R&B peaks (Evil Gal Blues number 9). December 1943 is the date in the standard discographies from memory and is consistent with the Keynote singles series MusicBrainz titles 1943-1953, but it was not confirmed from a source read, so the card is set to low; if wrong the recording would fall in 1944. Personnel (Hampton, Joe Morris, Milt Buckner) is from Wikipedia; the full line-up, Keynote number, exact day and the original label billing were not verified (MusicBrainz credits the reissued track to Lionel Hampton Sextet feat. Dinah Washington, with no dated personnel). Duration is approximate (MusicBrainz lengths run from about 2:52 to 2:55)."
+  },
+  {
+    "id": "jazz-azpiazu-the-peanut-vendor-el-manisero",
+    "artist": "Don Azpiazú and His Havana Casino Orchestra",
+    "title": "The Peanut Vendor (El Manisero)",
+    "composer": "Moisés Simons (English lyrics L. Wolfe Gilbert and Marion Sunshine)",
+    "recording_date": "1930-05-13",
+    "recording_year": 1930,
+    "release_year": 1930,
+    "original_issue": "Victor 22483 (10-inch 78 rpm; matrix 62152-3; b/w \"True Love (Amor sincero)\")",
+    "personnel": "Don Azpiazú (leader), Antonio Machín (vocal), Julio Cueva (trumpet), Mario Bauzá (saxophone); the rest of the band was not verified",
+    "style": "latin",
+    "year": 1930,
+    "year_lo": 1930,
+    "year_hi": 1930,
+    "year_label": "1930",
+    "trivia": "This Cuban street-vendor's cry became the first million-selling 78 rpm record of Cuban music in the United States and set off a rumba craze that lasted into the 1940s. Cuban singer Antonio Machín sang the vocal, and the band included trumpeter Julio Cueva and saxophonist Mario Bauzá.",
+    "tags": [
+      "1930s",
+      "latin",
+      "victor",
+      "rumba",
+      "son-pregon",
+      "afro-cuban",
+      "crossover"
+    ],
+    "track": {
+      "artist": "Don Azpiazú and His Havana Casino Orchestra",
+      "title": "The Peanut Vendor",
+      "album": "The Peanut Vendor / True Love (Victor 22483, 78 rpm single)",
+      "duration": "3:31",
+      "isrc": null,
+      "query": "Don Azpiazu Havana Casino Orchestra The Peanut Vendor Victor 22483 1930",
+      "notes": "Original Victor recording of 13 May 1930 with Antonio Machín's vocal; not the later versions by Stan Kenton or other artists"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Peanut_Vendor",
+      "http://www.78discography.com/vic22000.html"
+    ],
+    "notes": "Date (13 May 1930) and matrix (62152-3) come from the 78discography Victor 22000 listing; Wikipedia agrees on the date and gives September 1930 as the release. Personnel is limited to the names Wikipedia gives (vocalist Machín, trumpeter Cueva, saxophonist Bauzá); no full roster was found. The listing credits the vocal to Antonia Machin (sic). Duration (3:31) is taken from a 78 rpm transfer on YouTube and is approximate; other transfers run from 3:31 to 3:45. Chosen as the record that started the US rumba craze; crossover (Latin pop)."
+  },
+  {
+    "id": "jazz-mills-brothers-tiger-rag",
+    "artist": "The Mills Brothers",
+    "title": "Tiger Rag",
+    "composer": "Nick LaRocca (credited to the Original Dixieland Jass Band members; lyrics Harry DeCosta)",
+    "recording_date": "1931-10-12",
+    "recording_year": 1931,
+    "release_year": 1931,
+    "original_issue": "Brunswick 6197 (10-inch 78 rpm; matrix E37289-A; b/w \"Nobody's Sweetheart\")",
+    "personnel": "Donald, Herbert, Harry and John Jr. Mills (vocals, John Jr. also guitar), the quartet as listed by Wikipedia; no session personnel list was consulted",
+    "style": "vocal",
+    "year": 1931,
+    "year_lo": 1931,
+    "year_hi": 1931,
+    "year_label": "1931",
+    "trivia": "This was the Mills Brothers' first record for Brunswick, and Wikipedia says it went to number one and sold over a million copies. The quartet, first billed as Four Boys and a Guitar, built its act on voices imitating the instruments of a band.",
+    "tags": [
+      "1930s",
+      "vocal",
+      "brunswick",
+      "vocal-group",
+      "dixieland"
+    ],
+    "track": {
+      "artist": "The Mills Brothers",
+      "title": "Tiger Rag",
+      "album": "Tiger Rag / Nobody's Sweetheart (Brunswick 6197, 78 rpm single)",
+      "duration": "1:54",
+      "isrc": null,
+      "query": "The Mills Brothers Tiger Rag Brunswick 6197 1931",
+      "notes": "The Brunswick studio recording (6197), a vocal-quartet version; not the 1918 Original Dixieland Jazz Band original or later remakes"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Tiger_Rag",
+      "https://en.wikipedia.org/wiki/The_Mills_Brothers",
+      "http://www.78discography.com/BRN6000.htm"
+    ],
+    "notes": "Date conflict: the 78discography Brunswick listing gives 12 Oct 1931 (matrix E37289-A, the same date as the flip side), while Wikipedia's Tiger Rag page lists the Mills Brothers recording as 3 Oct 1931; the discography date is used. Release year 1931 follows Wikipedia's statement that the million-selling version came out that year. The line-up is the quartet as named by Wikipedia, not a session list. Chart and sales claims are from Wikipedia's Mills Brothers article. Duration (about 1:54) is from a 78 rpm transfer on YouTube and is approximate. Third version of Tiger Rag in the set (after the ODJB 1918 and Tatum 1933 cards)."
+  },
+  {
+    "id": "jazz-raymond-scott-powerhouse",
+    "artist": "The Raymond Scott Quintette",
+    "title": "Powerhouse",
+    "composer": "Raymond Scott",
+    "recording_date": "1937-02-20",
+    "recording_year": 1937,
+    "release_year": 1937,
+    "original_issue": "Master 111 (78 rpm; matrix M-120-1; b/w \"The Toy Trumpet\"), reissued on Brunswick 7993 and Columbia 36311 (same take)",
+    "personnel": "Raymond Scott (piano, leader), Dave Harris (saxophone), Pete Pumiglio (clarinet), Dave Wade (trumpet), Louis Shoobe (bass), Johnny Williams (drums)",
+    "style": "swing",
+    "year": 1937,
+    "year_lo": 1937,
+    "year_hi": 1937,
+    "year_label": "1937",
+    "trivia": "Billed as a quintette although six men played, Scott's band made this frantic instrumental in 1937, and Warner Bros. composer Carl Stalling later used it dozens of times in cartoons. Its slower middle section became the standard soundtrack for assembly-line gags such as the baby conveyor belt in Baby Bottleneck.",
+    "tags": [
+      "1930s",
+      "swing",
+      "brunswick",
+      "novelty",
+      "cartoon"
+    ],
+    "track": {
+      "artist": "The Raymond Scott Quintette",
+      "title": "Powerhouse",
+      "album": "Powerhouse / The Toy Trumpet (Master 111, 78 rpm single)",
+      "duration": "2:56",
+      "isrc": null,
+      "query": "Raymond Scott Quintette Powerhouse Master 111 1937",
+      "notes": "The 20 Feb 1937 recording first issued on Master 111 (the same take was reissued on Brunswick and Columbia); not the unreleased 1939 version or radio broadcast performances"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Powerhouse_(instrumental)"
+    ],
+    "notes": "Every recording detail here (20 Feb 1937 date, Master 111 and matrix M-120-1, the Brunswick and Columbia reissues, the six-man line-up and the 2:56 length) comes from the single Wikipedia article on the piece; no discography was available to cross-check it, so confidence is medium. Duration is the length in Wikipedia's infobox. The cartoon uses are also from that article."
+  },
+  {
+    "id": "jazz-andrews-sisters-bei-mir-bist-du-schon",
+    "artist": "The Andrews Sisters",
+    "title": "Bei Mir Bist Du Schön",
+    "composer": "Sholom Secunda (Yiddish lyrics Jacob Jacobs; English lyrics Sammy Cahn and Saul Chaplin)",
+    "recording_date": "1937-11-24",
+    "recording_year": 1937,
+    "release_year": 1937,
+    "original_issue": "Decca 1562 (10-inch 78 rpm; matrix 62811-A; b/w \"Nice Work If You Can Get It\")",
+    "personnel": "Patty, Maxene and LaVerne Andrews (vocals); the accompanying musicians were not verified",
+    "style": "vocal",
+    "year": 1937,
+    "year_lo": 1937,
+    "year_hi": 1937,
+    "year_label": "1937",
+    "trivia": "Decca's Jack Kapp insisted the trio sing this Yiddish-theatre song in English, and within thirty days a quarter of a million copies had sold. The record turned the little-known sisters into stars.",
+    "tags": [
+      "1930s",
+      "vocal",
+      "decca",
+      "vocal-group",
+      "yiddish-theatre",
+      "crossover"
+    ],
+    "track": {
+      "artist": "The Andrews Sisters",
+      "title": "Bei Mir Bist Du Schön",
+      "album": "Bei Mir Bist Du Schön / Nice Work If You Can Get It (Decca 1562, 78 rpm single)",
+      "duration": "3:07",
+      "isrc": null,
+      "query": "The Andrews Sisters Bei Mir Bist Du Schön Decca 1562 1937",
+      "notes": "Decca studio recording of 24 Nov 1937 (Decca 1562), the English-language hit; not the Yiddish original or the covers by Ella Fitzgerald, Benny Goodman and others"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Bei_Mir_Bistu_Shein",
+      "http://www.78discography.com/Dec1500.htm",
+      "https://musicbrainz.org/recording/c218faf4-8def-4d7a-97ba-7214c0d76356"
+    ],
+    "notes": "Date (24 Nov 1937) agrees between Wikipedia and the 78discography Decca listing, which gives matrix 62811-A and Decca 1562 (shared with \"Nice Work If You Can Get It\"). The listing spells the title \"Bie Mir Bist Du Schoen\"; any subtitle on the original label was not verified and is left out. Accompaniment not verified. Duration is approximate: MusicBrainz lists 2:40 for the 1937 recording, but a 78 transfer and the later remaster run about 3:07, which is used. Crossover pick: a Yiddish-theatre tune turned pop-swing hit."
+  },
+  {
+    "id": "jazz-slim-and-slam-flat-foot-floogie-with-a-floy-floy",
+    "artist": "Slim & Slam",
+    "title": "Flat Foot Floogie (with a Floy Floy)",
+    "composer": "Slim Gaillard, Slam Stewart and Bud Green",
+    "recording_date": "1938-02-17",
+    "recording_year": 1938,
+    "release_year": 1938,
+    "original_issue": "Vocalion 4021 (10-inch 78 rpm; matrix 22318-4; b/w \"Chinatown, My Chinatown\")",
+    "personnel": "Slim Gaillard (guitar, vocal), Slam Stewart (bass, vocal), Sam Allen (piano), Pompey \"Guts\" Dobson (drums), per the MusicBrainz credits (which also list Gaillard on vibraphone)",
+    "style": "swing",
+    "year": 1938,
+    "year_lo": 1938,
+    "year_hi": 1938,
+    "year_label": "1938",
+    "trivia": "Slim Gaillard and Slam Stewart's nonsense-syllable novelty was their first and biggest hit, peaking at number two on the Billboard chart. An earlier January 1938 recording used the word \"floozie\", and Vocalion asked for the change to \"floogie\" before this February version.",
+    "tags": [
+      "1930s",
+      "swing",
+      "vocalion",
+      "novelty",
+      "vocal",
+      "scat"
+    ],
+    "track": {
+      "artist": "Slim & Slam",
+      "title": "Flat Foot Floogie",
+      "album": "Flat Foot Floogie / Chinatown, My Chinatown (Vocalion 4021, 78 rpm single)",
+      "duration": "2:52",
+      "isrc": null,
+      "query": "Slim & Slam The Flat Foot Floogie Vocalion 4021 1938",
+      "notes": "Vocalion 4021, the February 1938 recording with the \"floogie\" lyric; not the January 1938 \"floozie\" version or the later covers by Benny Goodman, Louis Armstrong and others"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Flat_Foot_Floogie",
+      "http://www.78discography.com/VOC4000.htm",
+      "https://musicbrainz.org/recording/9d63b007-ed64-4238-aa20-391a6659d7c1"
+    ],
+    "notes": "Date and Vocalion 4021 (matrix 22318-4) come from the 78discography Vocalion listing and match Wikipedia's 17 Feb 1938. Personnel is the MusicBrainz credit list for this recording. Duration is the MusicBrainz recording length (2:52). Wikipedia says Benny Goodman's radio performance helped launch its popularity."
+  },
+  {
+    "id": "jazz-goodman-dont-be-that-way",
+    "artist": "Benny Goodman and His Orchestra",
+    "title": "Don't Be That Way",
+    "composer": "Edgar Sampson and Benny Goodman (lyrics Mitchell Parish)",
+    "recording_date": "1938-02-16",
+    "recording_year": 1938,
+    "release_year": 1938,
+    "original_issue": "Victor 25792 (10-inch 78 rpm; matrix 19831; b/w \"One O'Clock Jump\")",
+    "personnel": "Benny Goodman (clarinet, leader) and His Orchestra; the full line-up was not verified",
+    "style": "swing",
+    "year": 1938,
+    "year_lo": 1938,
+    "year_hi": 1938,
+    "year_label": "1938",
+    "trivia": "Edgar Sampson wrote this tune while with Chick Webb's band, and it became a Goodman showpiece. Goodman opened his famous Carnegie Hall concert of 16 January 1938 with it, a month before cutting this studio single.",
+    "tags": [
+      "1930s",
+      "swing",
+      "victor",
+      "big-band"
+    ],
+    "track": {
+      "artist": "Benny Goodman and His Orchestra",
+      "title": "Don't Be That Way",
+      "album": "Don't Be That Way / One O'Clock Jump (Victor 25792, 78 rpm single)",
+      "duration": "3:17",
+      "isrc": null,
+      "query": "Benny Goodman and His Orchestra Don't Be That Way Victor 25792 1938 studio single",
+      "notes": "Victor studio single recorded 16 Feb 1938; not the live performance that opened the Carnegie Hall concert of 16 Jan 1938"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Edgar_Sampson",
+      "https://en.wikipedia.org/wiki/The_Famous_1938_Carnegie_Hall_Jazz_Concert",
+      "http://www.78discography.com/vic25500.html",
+      "https://musicbrainz.org/recording/bfe4750e-b82c-4a5d-bd9c-f9c4219b1faf"
+    ],
+    "notes": "Studio single of 16 Feb 1938 from the 78discography Victor listing (Victor 25792, matrix 19831, b/w \"One O'Clock Jump\"); MusicBrainz gives 1938 and a 3:17 length (used as the duration). This is NOT the live performance that opened the Carnegie Hall concert of 16 Jan 1938. No session personnel list was found (MusicBrainz credits only Goodman), so the line-up is not given and confidence is medium. Composer credit from Wikipedia's Edgar Sampson article; the Carnegie Hall running order from the concert article. Goodman's fifth card in the set, the one extra slot allowed."
+  },
+  {
+    "id": "jazz-armstrong-when-the-saints-go-marching-in",
+    "artist": "Louis Armstrong and His Orchestra",
+    "title": "When the Saints Go Marching In",
+    "composer": "Traditional",
+    "recording_date": "1938-05-13",
+    "recording_year": 1938,
+    "release_year": 1938,
+    "original_issue": "Decca 2230 (10-inch 78 rpm; matrix 63778; b/w \"As Long as You Live (You'll Be Dead If You Die)\")",
+    "personnel": "Louis Armstrong (trumpet, vocal), Shelton \"Scad\" Hemphill (trumpet), J.C. Higginbotham (trombone), Charlie Holmes and Rupert Cole (alto sax), Bingie Madison (tenor sax), Luis Russell (piano), Lee Blair (guitar), George \"Pops\" Foster (bass), Paul Barbarin (drums), per the MusicBrainz credits",
+    "style": "swing",
+    "year": 1938,
+    "year_lo": 1938,
+    "year_hi": 1938,
+    "year_label": "1938",
+    "trivia": "Armstrong's 1938 Decca record helped turn this traditional tune into a jazz standard, and the Library of Congress added it to the National Recording Registry in 2021. It was issued on the flip side of \"As Long as You Live\".",
+    "tags": [
+      "1930s",
+      "swing",
+      "decca",
+      "vocal",
+      "new-orleans-standard"
+    ],
+    "track": {
+      "artist": "Louis Armstrong",
+      "title": "When the Saints Go Marching In",
+      "album": "As Long as You Live (You'll Be Dead If You Die) / When the Saints Go Marching In (Decca 2230, 78 rpm single)",
+      "duration": "2:44",
+      "isrc": null,
+      "query": "Louis Armstrong and His Orchestra When the Saints Go Marching In Decca 2230 1938",
+      "notes": "Decca 2230 studio recording of 13 May 1938 with Armstrong's vocal; not his later live or All Stars versions"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/When_the_Saints_Go_Marching_In",
+      "http://www.78discography.com/Dec2000.htm",
+      "https://musicbrainz.org/recording/2c4a68a1-4fee-4203-a731-c422b70558a3",
+      "https://musicbrainz.org/release/d2483efb-7617-445b-a641-439b693b968d"
+    ],
+    "notes": "Date (13 May 1938), Decca 2230 and matrix 63778 come from the 78discography Decca listing; MusicBrainz agrees on 1938-05-13 and dates the release December 1938. Personnel is MusicBrainz's list and may omit sidemen (only one second trumpeter is named). Wikipedia gives the 2021 National Recording Registry induction. Duration is the MusicBrainz recording length (2:44). Armstrong's Saints slot as assigned in the brief."
+  },
+  {
+    "id": "jazz-tommy-dorsey-boogie-woogie",
+    "artist": "Tommy Dorsey and His Orchestra",
+    "title": "Boogie Woogie",
+    "composer": "Pine Top Smith (adapted for the Dorsey band)",
+    "recording_date": "1938-09-16",
+    "recording_year": 1938,
+    "release_year": 1938,
+    "original_issue": "Victor 26054 (10-inch 78 rpm; matrix 026898-1; b/w \"Weary Blues\")",
+    "personnel": "Tommy Dorsey (trombone, leader) and His Orchestra; the individual players were not verified",
+    "style": "big-band",
+    "year": 1938,
+    "year_lo": 1938,
+    "year_hi": 1938,
+    "year_label": "1938",
+    "trivia": "Dorsey's band updated Pine Top Smith's 1928 piano hit in 1938, and Wikipedia says this recording became a hit in 1943 and again in 1945. It carried the boogie-woogie craze into the big-band repertoire.",
+    "tags": [
+      "1930s",
+      "big-band",
+      "victor",
+      "boogie-woogie"
+    ],
+    "track": {
+      "artist": "Tommy Dorsey and His Orchestra",
+      "title": "Boogie Woogie",
+      "album": "Boogie Woogie / Weary Blues (Victor 26054, 78 rpm single)",
+      "duration": "3:08",
+      "isrc": null,
+      "query": "Tommy Dorsey and His Orchestra Boogie Woogie Victor 26054 1938",
+      "notes": "Victor 26054 original studio recording of Sept 1938; not Pine Top Smith's 1928 piano original"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Boogie-woogie",
+      "http://www.78discography.com/vic26000.html"
+    ],
+    "notes": "Date (16 Sep 1938), Victor 26054 and matrix 026898-1 come from the 78discography Victor listing; no second source confirms the day. The release year 1938 is inferred from the catalogue number (the Victor 26000 series, which the listing dates to 1938-1939) and is not stated anywhere. Line-up not verified. The hits in 1943 and 1945 are from Wikipedia's boogie-woogie article. Duration (3:08) is from a 78 rpm transfer on YouTube and is approximate. Second version of the tune in the set, after Pine Top Smith 1928."
+  },
+  {
+    "id": "jazz-haggart-bauduc-big-noise-from-winnetka",
+    "artist": "Bob Haggart and Ray Bauduc",
+    "title": "Big Noise from Winnetka",
+    "composer": "Bob Haggart and Ray Bauduc",
+    "recording_date": "1938-10-14",
+    "recording_year": 1938,
+    "release_year": 1939,
+    "original_issue": "Decca 2208 (10-inch 78 rpm; matrix C91518, recorded in Chicago; b/w \"Honky Tonk Train Blues\" by Bob Crosby and His Orchestra)",
+    "personnel": "Bob Haggart (bass, whistling), Ray Bauduc (drums)",
+    "style": "swing",
+    "year": 1938,
+    "year_lo": 1938,
+    "year_hi": 1938,
+    "year_label": "1938",
+    "trivia": "Haggart whistles the melody over his bass, and halfway through Bauduc starts drumming on the bass strings while Haggart fingers the notes. It began as an improvisation at the Blackhawk in Chicago while other members of the Bob Crosby band were late back from a break.",
+    "tags": [
+      "1930s",
+      "swing",
+      "decca",
+      "novelty",
+      "duo"
+    ],
+    "track": {
+      "artist": "Bob Haggart and Ray Bauduc",
+      "title": "The Big Noise from Winnetka",
+      "album": "Honky Tonk Train Blues / Big Noise from Winnetka (Decca 2208, 78 rpm single)",
+      "duration": "2:37",
+      "isrc": null,
+      "query": "Bob Haggart Ray Bauduc Big Noise from Winnetka Decca 2208 1938",
+      "notes": "The original bass-and-drums duet of Oct 1938; not the Bob Crosby big-band version with vocal group or later remakes"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Big_Noise_from_Winnetka",
+      "http://www.78discography.com/Dec2000.htm",
+      "https://musicbrainz.org/recording/544bcf43-2552-4fcd-84c3-f78348a7ab78"
+    ],
+    "notes": "Date (14 Oct 1938, Chicago), Decca 2208 and matrix C91518 come from the 78discography Decca listing, and MusicBrainz confirms the date with Haggart on bass and whistling and Bauduc on drums. MusicBrainz gives the first release as May 1939, used for the release year, although the Decca number suggests an earlier issue (not verified). Composer credit and the Blackhawk story are from Wikipedia. Duration (2:37) is from 78 rpm transfers on YouTube and is approximate."
+  },
+  {
+    "id": "jazz-harry-james-ciribiribin",
+    "artist": "Harry James and His Orchestra",
+    "title": "Ciribiribin",
+    "composer": "Alberto Pestalozza (lyrics Carlo Tiochet)",
+    "recording_date": "1939-02-20",
+    "recording_year": 1939,
+    "release_year": 1939,
+    "original_issue": "Brunswick 8327 (10-inch 78 rpm; matrix 24514-1; b/w \"Sweet Georgia Brown\")",
+    "personnel": "Harry James (trumpet, leader) and His Orchestra; the rest of the band was not verified",
+    "style": "big-band",
+    "year": 1939,
+    "year_lo": 1939,
+    "year_hi": 1939,
+    "year_label": "1939",
+    "trivia": "This 1898 Piedmontese ballad by Alberto Pestalozza became Harry James's theme song when he formed his own band in 1939. This is the original instrumental, played over a swing beat in four-four time rather than the waltz time of the original tune.",
+    "tags": [
+      "1930s",
+      "big-band",
+      "brunswick",
+      "theme-song",
+      "trumpet"
+    ],
+    "track": {
+      "artist": "Harry James and His Orchestra",
+      "title": "Ciribiribin",
+      "album": "Ciribiribin / Sweet Georgia Brown (Brunswick 8327, 78 rpm single)",
+      "duration": "2:27",
+      "isrc": null,
+      "query": "Harry James and His Orchestra Ciribiribin Brunswick 8327 1939 instrumental original",
+      "notes": "Brunswick 8327 instrumental (Feb 1939); not the later James recording with Frank Sinatra's vocal"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Ciribiribin",
+      "http://www.78discography.com/BRN8000.htm",
+      "https://musicbrainz.org/recording/9a73e061-1a05-4ee5-a3fd-124989a7ed62"
+    ],
+    "notes": "Date (20 Feb 1939), Brunswick 8327 and matrix 24514-1 come from the 78discography Brunswick listing; MusicBrainz agrees (1939-02-20, an instrumental with Harry James credited on trumpet) and dates the single March 1939. Wikipedia's Ciribiribin article also discusses a James recording with Frank Sinatra's vocal; this card is the instrumental on Brunswick 8327, and I could not confirm which recording the chart claim in that article refers to, so it is not used. Duration (2:27) is the MusicBrainz track length."
+  },
+  {
+    "id": "jazz-harry-james-you-made-me-love-you-i-didnt-want-to-do-it",
+    "artist": "Harry James and His Orchestra",
+    "title": "You Made Me Love You (I Didn't Want to Do It)",
+    "composer": "James V. Monaco (lyrics Joseph McCarthy)",
+    "recording_date": "1941-05-20",
+    "recording_year": 1941,
+    "release_year": 1941,
+    "original_issue": "Columbia 36296 (10-inch 78 rpm; matrix CO30509-1; b/w \"A Sinner Kissed an Angel\")",
+    "personnel": "Harry James (trumpet, leader) and His Orchestra; the rest of the band was not verified",
+    "style": "big-band",
+    "year": 1941,
+    "year_lo": 1941,
+    "year_hi": 1941,
+    "year_label": "1941",
+    "trivia": "Issued as the B-side of \"A Sinner Kissed an Angel\", James's trumpet-led version of the 1913 song proved the far bigger hit, selling a million copies and reaching number five in late 1941. It was inducted into the Grammy Hall of Fame in 2010.",
+    "tags": [
+      "1940s",
+      "big-band",
+      "columbia",
+      "ballad",
+      "trumpet"
+    ],
+    "track": {
+      "artist": "Harry James and His Orchestra",
+      "title": "You Made Me Love You (I Didn't Want to Do It)",
+      "album": "A Sinner Kissed an Angel / You Made Me Love You (Columbia 36296, 78 rpm single)",
+      "duration": "3:13",
+      "isrc": null,
+      "query": "Harry James and His Orchestra You Made Me Love You Columbia 36296 1941",
+      "notes": "Columbia 36296 studio single of 20 May 1941, a trumpet-led instrumental; not the 1913 original, Bing Crosby's vocal or later remakes"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/You_Made_Me_Love_You_(I_Didn't_Want_to_Do_It)",
+      "http://www.78discography.com/COL36000.htm",
+      "https://musicbrainz.org/recording/d5569f56-5450-4d4b-b3e7-caed0f082226"
+    ],
+    "notes": "Date (20 May 1941), Columbia 36296 and matrix CO30509-1 come from the 78discography Columbia listing; Wikipedia gives the B-side status, the million sales, the number-five peak in 1941 and the 2010 Grammy Hall of Fame induction, and notes the recording is used in Woody Allen's Hannah and Her Sisters. Duration: MusicBrainz gives 3:13 for the recording and 3:08 for the track on the single's release; 3:13 is used (it matches several 78 transfers). Personnel beyond James is not verified."
+  },
+  {
+    "id": "jazz-mills-brothers-paper-doll",
+    "artist": "The Mills Brothers",
+    "title": "Paper Doll",
+    "composer": "Johnny S. Black",
+    "recording_date": "1942-02-18",
+    "recording_year": 1942,
+    "release_year": 1942,
+    "original_issue": "Decca 18318 (10-inch 78 rpm; matrix 70348-A; coupled with \"I'll Be Around\")",
+    "personnel": "Donald, Herbert and Harry Mills (vocals) with a guitar accompanist; the guitarist at this session was not verified",
+    "style": "vocal",
+    "year": 1942,
+    "year_lo": 1942,
+    "year_hi": 1942,
+    "year_label": "1942",
+    "trivia": "Johnny S. Black wrote it in 1915 and the song flopped for years; this 1942 record was ignored on release in May 1942, then reached number one on Billboard in November 1943 and stayed there for twelve weeks. Wikipedia counts it among the fewer than 40 singles to have sold ten million copies.",
+    "tags": [
+      "1940s",
+      "vocal",
+      "decca",
+      "vocal-group",
+      "pop",
+      "wartime",
+      "crossover"
+    ],
+    "track": {
+      "artist": "The Mills Brothers",
+      "title": "Paper Doll",
+      "album": "I'll Be Around / Paper Doll (Decca 18318, 78 rpm single)",
+      "duration": "2:38",
+      "isrc": null,
+      "query": "The Mills Brothers Paper Doll Decca 18318 1942",
+      "notes": "Decca 18318 studio recording of 18 Feb 1942; not later Mills Brothers remakes or other artists' versions"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Paper_Doll_(Mills_Brothers_song)",
+      "https://en.wikipedia.org/wiki/The_Mills_Brothers",
+      "http://www.78discography.com/Dec18000.htm",
+      "https://musicbrainz.org/recording/1ba3ee69-e48a-4176-b25d-084c37ceeae1"
+    ],
+    "notes": "Date (18 Feb 1942), Decca 18318 and matrix 70348-A come from the 78discography Decca listing and agree with Wikipedia; the May 1942 release is from Wikipedia. The brief's 1943 refers to the chart year, not the recording (1942). Side conflict: Wikipedia calls \"I'll Be Around\" the A-side while the discography lists Paper Doll as 18318A, so the sides are not stated. John Mills Jr. had died in 1936, so this is not the original four-man line-up; only the three surviving brothers are named. Duration is the MusicBrainz recording length (2:38). Crossover pick: a pop number-one by a vocal group."
+  },
+  {
+    "id": "jazz-jordan-is-you-is-or-is-you-aint-ma-baby",
+    "artist": "Louis Jordan and His Tympany Five",
+    "title": "Is You Is or Is You Ain't (Ma' Baby)",
+    "composer": "Billy Austin and Louis Jordan",
+    "recording_date": "1943-10-04",
+    "recording_year": 1943,
+    "release_year": 1944,
+    "original_issue": "Decca 8659 (10-inch 78 rpm; matrix L3205; b/w \"G.I. Jive\")",
+    "personnel": "Louis Jordan (alto and tenor sax, vocal), Eddie Roane (trumpet), Arnold Thomas (piano), Jesse \"Po\" Simpkins (bass), Shadow Wilson (drums), per the MusicBrainz credits",
+    "style": "swing",
+    "year": 1943,
+    "year_lo": 1943,
+    "year_hi": 1943,
+    "year_label": "1943",
+    "trivia": "Issued as the B-side of \"G.I. Jive\", this Jordan and Billy Austin song still reached number two on the pop chart, and more than 130 artists have recorded it since. A Smithsonian summary quoted by Wikipedia singles out the humour and the call-and-response vocals between Jordan and the band as hallmarks of his style.",
+    "tags": [
+      "1940s",
+      "swing",
+      "decca",
+      "jump-blues",
+      "vocal"
+    ],
+    "track": {
+      "artist": "Louis Jordan and His Tympany Five",
+      "title": "Is You Is or Is You Ain't (Ma' Baby)",
+      "album": "G.I. Jive / Is You Is or Is You Ain't (Ma' Baby) (Decca 8659, 78 rpm single)",
+      "duration": "2:44",
+      "isrc": null,
+      "query": "Louis Jordan and His Tympany Five Is You Is or Is You Ain't (Ma' Baby) Decca 8659 1943",
+      "notes": "Decca 8659 studio recording of 4 Oct 1943; not the Bing Crosby and Andrews Sisters cover of June 1944"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Is_You_Is_or_Is_You_Ain't_My_Baby",
+      "http://www.78discography.com/Dec8500.htm",
+      "https://musicbrainz.org/recording/97c673c3-dbed-4dbb-af14-492ba76b355c"
+    ],
+    "notes": "Date (4 Oct 1943), Decca 8659 and matrix L3205 come from the 78discography Decca listing and agree with Wikipedia and MusicBrainz, which supplies the line-up. The other side, \"G.I. Jive\", was recorded at a separate session. First release: Wikipedia says June 1944 and MusicBrainz April 1944; 1944 is used (the gap to the recording year is under two years). This is Jordan's third card in the set, taken as the explicitly allowed extra slot. Duration is the MusicBrainz recording length (2:44)."
+  },
+  {
+    "id": "jazz-tommy-dorsey-opus-no-1",
+    "artist": "Tommy Dorsey and His Orchestra",
+    "title": "Opus No. 1",
+    "composer": "Sy Oliver",
+    "recording_date": "1944-11-14",
+    "recording_year": 1944,
+    "release_year": 1944,
+    "original_issue": "Victor 20-1608 (10-inch 78 rpm; matrix D4VB1033; b/w \"I Dream of You\")",
+    "personnel": "Tommy Dorsey (trombone, leader) and His Orchestra; the individual players were not verified",
+    "style": "big-band",
+    "year": 1944,
+    "year_lo": 1944,
+    "year_hi": 1944,
+    "year_label": "1944",
+    "trivia": "Sy Oliver wrote this driving instrumental after joining Dorsey as arranger in 1939 from Jimmie Lunceford's band. Wikipedia says the title was changed from \"Opus No. 1\" to \"Opus One\" to suit the lyric added later.",
+    "tags": [
+      "1940s",
+      "big-band",
+      "victor",
+      "instrumental"
+    ],
+    "track": {
+      "artist": "Tommy Dorsey and His Orchestra",
+      "title": "Opus No. 1",
+      "album": "I Dream of You / Opus No. 1 (Victor 20-1608, 78 rpm single)",
+      "duration": "2:55",
+      "isrc": null,
+      "query": "Tommy Dorsey and His Orchestra Opus No. 1 Victor 20-1608 1944",
+      "notes": "Victor 20-1608 original instrumental of 14 Nov 1944; not later versions with lyrics"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Sy_Oliver",
+      "http://www.78discography.com/RCA201500.htm",
+      "https://musicbrainz.org/recording/b7d14105-3f60-4d6b-861e-8ab1fc2e1d52"
+    ],
+    "notes": "Date (14 Nov 1944), Victor 20-1608 and matrix D4VB1033 come from the 78discography RCA Victor listing; MusicBrainz dates the single December 1944, used as the release year. Composer credit, Oliver's arranging role and the title change are from Wikipedia's Sy Oliver article. Personnel is not verified and the date rests on one discography, hence medium. Duration (2:55) is from a YouTube remaster and is approximate."
+  },
+  {
+    "id": "jazz-les-brown-sentimental-journey",
+    "artist": "Les Brown and His Orchestra (vocal Doris Day)",
+    "title": "Sentimental Journey",
+    "composer": "Les Brown and Ben Homer (lyrics Bud Green)",
+    "recording_date": "1944-11-20",
+    "recording_year": 1944,
+    "release_year": 1945,
+    "original_issue": "Columbia 36769 (10-inch 78 rpm; matrix CO33822-1; b/w \"Twilight Time\")",
+    "personnel": "Les Brown (leader) and His Orchestra, Doris Day (vocal); the players were not verified",
+    "style": "big-band",
+    "year": 1944,
+    "year_lo": 1944,
+    "year_hi": 1944,
+    "year_label": "1944",
+    "trivia": "The band could not record it earlier because of the 1942 to 1944 musicians' strike; once the strike ended it became Doris Day's first number one. Its release coincided with the end of the war in Europe, and it became an unofficial homecoming theme for veterans.",
+    "tags": [
+      "1940s",
+      "big-band",
+      "columbia",
+      "vocal",
+      "pop",
+      "wartime",
+      "crossover"
+    ],
+    "track": {
+      "artist": "Les Brown and His Orchestra",
+      "title": "Sentimental Journey",
+      "album": "Sentimental Journey / Twilight Time (Columbia 36769, 78 rpm single)",
+      "duration": "3:08",
+      "isrc": null,
+      "query": "Les Brown and His Orchestra Sentimental Journey Doris Day Columbia 36769 1944",
+      "notes": "Columbia 36769 studio recording of 20 Nov 1944 with Doris Day's vocal; not the 1945 versions by Hal McIntyre or the Merry Macs"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Sentimental_Journey_(song)",
+      "http://www.78discography.com/COL36500.htm",
+      "http://www.78discography.com/COL37000.htm",
+      "https://musicbrainz.org/recording/2ca0d9a8-2201-4c22-b31c-0548ff7977be"
+    ],
+    "notes": "Date 20 Nov 1944, Columbia 36769 and matrix CO33822-1 come from the 78discography Columbia listing and Wikipedia; a later Columbia reissue (37347) is listed with 18 Nov 1944, a conflict resolved in favour of 20 Nov. Release 1945 per Wikipedia (MusicBrainz: 22 Jan 1945). Personnel is limited to Brown and Day. Duration (3:08) is from a YouTube remaster and is approximate. Crossover pick: a pop hit by a dance band."
+  },
+  {
+    "id": "jazz-kenton-and-her-tears-flowed-like-wine",
+    "artist": "Stan Kenton and His Orchestra (vocal Anita O'Day)",
+    "title": "And Her Tears Flowed Like Wine",
+    "composer": "Stan Kenton and Charles Lawrence (lyrics Joe Greene)",
+    "recording_date": "1944-05-20",
+    "recording_year": 1944,
+    "release_year": 1944,
+    "original_issue": "Capitol 166 (10-inch 78 rpm; b/w \"How Many Hearts Have You Broken?\")",
+    "personnel": "Stan Kenton (leader) and His Orchestra, Anita O'Day (vocal); the band personnel was not verified",
+    "style": "big-band",
+    "year": 1944,
+    "year_lo": 1944,
+    "year_hi": 1944,
+    "year_label": "1944",
+    "trivia": "Kenton wrote the music with Charles Lawrence, and this Capitol record with Anita O'Day's vocal was the original version. Ella Fitzgerald's rival cover on Decca appeared the same year, and a V-Disc pressing of Kenton's version went to US troops in November 1944.",
+    "tags": [
+      "1940s",
+      "big-band",
+      "capitol",
+      "vocal"
+    ],
+    "track": {
+      "artist": "Stan Kenton and His Orchestra",
+      "title": "And Her Tears Flowed Like Wine",
+      "album": "And Her Tears Flowed Like Wine / How Many Hearts Have You Broken? (Capitol 166, 78 rpm single)",
+      "duration": "3:08",
+      "isrc": null,
+      "query": "Stan Kenton and His Orchestra Anita O'Day And Her Tears Flowed Like Wine Capitol 166 1944",
+      "notes": "Capitol 166 original with Anita O'Day; not Ella Fitzgerald's Decca cover or other artists' versions"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/And_Her_Tears_Flowed_Like_Wine",
+      "http://www.78discography.com/Capitol100.htm"
+    ],
+    "notes": "Date 20 May 1944 and Capitol 166 come from the 78discography Capitol listing; Wikipedia says only that it was recorded in 1944 and copyrighted on 25 Sep 1944, so the exact day rests on one source, hence medium. Credits, the V-Disc and the Decca cover are from Wikipedia. Band personnel not verified. Duration (3:08) is from 78 rpm transfers on YouTube and is approximate. Anita O'Day also appears in the set on Gene Krupa's \"Let Me Off Uptown\"."
   }
 ]

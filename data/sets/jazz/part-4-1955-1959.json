@@ -113,43 +113,6 @@
     "notes": "Date, matrix and personnel from jazzdisco (Van Gelder Studio, Hackensack). The LP was released March/April 1957 per Wikipedia, so about nine months after the session; the album is in the Grammy Hall of Fame."
   },
   {
-    "id": "jazz-ellington-diminuendo-and-crescendo-in-blue",
-    "artist": "Duke Ellington and His Orchestra",
-    "title": "Diminuendo and Crescendo in Blue",
-    "composer": "Duke Ellington",
-    "recording_date": "1956-07-07",
-    "recording_year": 1956,
-    "release_year": 1956,
-    "original_issue": "Columbia CL 934 (LP \"Ellington at Newport\", November 1956)",
-    "personnel": "Duke Ellington (piano) and his orchestra, with Paul Gonsalves (tenor sax solo), Cat Anderson (trumpet), Jimmy Woode (bass), Sam Woodyard (drums)",
-    "style": "big-band",
-    "year": 1956,
-    "year_lo": 1956,
-    "year_hi": 1956,
-    "year_label": "1956",
-    "trivia": "Paul Gonsalves's 27-chorus tenor solo at the 1956 Newport festival, with Ellington shouting him on, turned a 1937 piece into the revival of Ellington's career; he was on the cover of Time soon afterwards. A tape found in 1996 showed that the LP mixed live music with a studio redo and dubbed-in applause.",
-    "tags": [
-      "1950s",
-      "big-band",
-      "columbia"
-    ],
-    "track": {
-      "artist": "Duke Ellington and His Orchestra",
-      "title": "Diminuendo and Crescendo in Blue",
-      "album": "Ellington at Newport",
-      "duration": "14:56",
-      "isrc": null,
-      "query": "Duke Ellington and His Orchestra Diminuendo and Crescendo in Blue Ellington at Newport 1956",
-      "notes": "The 1956 Columbia LP version of the Newport performance (14:56); not the 1937 original, nor the 1999 complete Newport edition (14:20)"
-    },
-    "confidence": "medium",
-    "sources": [
-      "https://en.wikipedia.org/wiki/Ellington_at_Newport",
-      "https://en.wikipedia.org/wiki/List_of_Grammy_Hall_of_Fame_Award_recipients_(A%E2%80%93D)"
-    ],
-    "notes": "Wikipedia says the band performed at Newport on 7 July 1956; the album page gives 7-8 July for the live and studio work. Because the issued LP is a composite of live tape and studio retakes, treat the date as the festival performance. Catalogue number CL 934 and the Columbia label are from general knowledge/Wikipedia infobox label; the HoF lists the track as a 1956 single."
-  },
-  {
     "id": "jazz-coltrane-blue-train",
     "artist": "John Coltrane",
     "title": "Blue Train",
@@ -865,5 +828,892 @@
       "https://en.wikipedia.org/wiki/Time_Out_(Dave_Brubeck_Quartet_album)"
     ],
     "notes": "Date and matrix from jazzdisco (NYC); Wikipedia describes the tune's two sections and lists durations for the album."
+  },
+  {
+    "id": "jazz-clifford-brown-cherokee",
+    "artist": "Clifford Brown and Max Roach",
+    "title": "Cherokee",
+    "composer": "Ray Noble",
+    "recording_date": "1955-02-25",
+    "recording_year": 1955,
+    "release_year": 1955,
+    "original_issue": "EmArcy MG-36037 (LP \"Study in Brown\", 1955); matrix 11366-2",
+    "personnel": "Clifford Brown (trumpet), Harold Land (tenor sax), Richie Powell (piano), George Morrow (bass), Max Roach (drums)",
+    "style": "hard-bop",
+    "year": 1955,
+    "year_lo": 1955,
+    "year_hi": 1955,
+    "year_label": "1955",
+    "trivia": "Brown's trumpet solo on this breakneck remake of Ray Noble's tune is counted among the most acclaimed solos in jazz. He was 24 when it was cut and died in a car crash sixteen months later.",
+    "tags": [
+      "1950s",
+      "hard-bop",
+      "emarcy"
+    ],
+    "track": {
+      "artist": "Clifford Brown and Max Roach",
+      "title": "Cherokee",
+      "album": "Study in Brown",
+      "duration": "5:44",
+      "isrc": null,
+      "query": "Clifford Brown and Max Roach Cherokee Study in Brown 1955",
+      "notes": "EmArcy studio master of 25 Feb 1955, track 1 of Study in Brown (5:44); not Brown's 1953 Blue Note Cherokee (a different recording) and not Charlie Barnet's 1939 hit"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://www.jazzdisco.org/clifford-brown/discography/",
+      "https://en.wikipedia.org/wiki/Study_in_Brown",
+      "https://en.wikipedia.org/wiki/Cherokee_(Ray_Noble_song)",
+      "https://en.wikipedia.org/wiki/Clifford_Brown"
+    ],
+    "notes": "Date, matrix and personnel from jazzdisco (Capitol Studios, NYC, 25 Feb 1955); Wikipedia's infobox gives the album sessions as 23-25 Feb 1955 and the track length as 5:44. Brown's age and death date (26 June 1956) are from Wikipedia's Clifford Brown page."
+  },
+  {
+    "id": "jazz-baker-lets-get-lost",
+    "artist": "Chet Baker",
+    "title": "Let's Get Lost",
+    "composer": "Jimmy McHugh (music), Frank Loesser (lyrics)",
+    "recording_date": "1955-03-07",
+    "recording_year": 1955,
+    "release_year": 1955,
+    "original_issue": "Pacific Jazz PJ-1202 (LP \"Chet Baker Sings and Plays\", 1955); also on the 7-inch EP Pacific Jazz EP4-30",
+    "personnel": "Chet Baker (trumpet, vocal), Russ Freeman (piano), Carson Smith (bass), Bob Neel (drums)",
+    "style": "cool",
+    "year": 1955,
+    "year_lo": 1955,
+    "year_hi": 1955,
+    "year_label": "1955",
+    "trivia": "Mary Martin introduced this song in the 1943 film \"Happy Go Lucky\", but Baker's own vocal on his 1955 quartet record put it back into the jazz repertoire; an AllMusic reviewer called it the definitive reading. The Oscar-nominated 1988 documentary about Baker shares its title.",
+    "tags": [
+      "1950s",
+      "cool",
+      "pacific-jazz",
+      "vocal"
+    ],
+    "track": {
+      "artist": "Chet Baker",
+      "title": "Let's Get Lost",
+      "album": "Chet Baker Sings and Plays",
+      "duration": "3:43",
+      "isrc": null,
+      "query": "Chet Baker Let's Get Lost Chet Baker Sings and Plays 1955",
+      "notes": "Quartet version on the LP Chet Baker Sings and Plays (3:43, track 1); not the separate 2:57 EP version, the 1943 Mary Martin or Vaughn Monroe records, or Baker's later remakes"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://www.jazzdisco.org/chet-baker/discography/",
+      "https://en.wikipedia.org/wiki/Chet_Baker_Sings_and_Plays",
+      "https://en.wikipedia.org/wiki/Let's_Get_Lost_(song)"
+    ],
+    "notes": "Date, quartet personnel and EP number from jazzdisco (Capitol Melrose Studios, Los Angeles, 7 Mar 1955); Wikipedia gives 28 Feb and 7 Mar 1955 for the whole album, 3:43 for this track and 2:57 for the EP version. The vocal credit follows Wikipedia (jazzdisco's session line lists no vocal). The documentary's title is only noted as a shared title, not claimed as derived from this record."
+  },
+  {
+    "id": "jazz-vaughan-whatever-lola-wants",
+    "artist": "Sarah Vaughan",
+    "title": "Whatever Lola Wants",
+    "composer": "Richard Adler and Jerry Ross",
+    "recording_date": "1955-03-17",
+    "recording_year": 1955,
+    "release_year": 1955,
+    "original_issue": "Mercury 70595 (10-inch 78 rpm single, 1955)",
+    "personnel": "Sarah Vaughan (vocal) with Hugo Peretti's orchestra (individual players not verified)",
+    "style": "vocal",
+    "year": 1955,
+    "year_lo": 1955,
+    "year_hi": 1955,
+    "year_label": "1955",
+    "trivia": "Richard Adler and Jerry Ross wrote it for the 1955 Broadway show \"Damn Yankees\", where the devil's assistant Lola sings it to a baseball player. Vaughan's Mercury single was one of her top-ten pop hits, from the years when she made pop records for Mercury and jazz albums for its EmArcy label.",
+    "tags": [
+      "1950s",
+      "vocal",
+      "mercury",
+      "crossover"
+    ],
+    "track": {
+      "artist": "Sarah Vaughan",
+      "title": "Whatever Lola Wants",
+      "album": "Single (Mercury 70595)",
+      "duration": "2:35",
+      "isrc": null,
+      "query": "Sarah Vaughan Whatever Lola Wants Mercury Hugo Peretti orchestra 1955",
+      "notes": "Sarah Vaughan's 1955 Mercury single with Hugo Peretti's orchestra (about 2:35); not Gwen Verdon's Broadway original or the other 1955 covers by Tony Bennett and others"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://musicbrainz.org/recording/ff310b4f-377c-46a0-ab07-9fbe8e701481",
+      "https://musicbrainz.org/release/31e0256c-6bbc-4c0b-9ef7-8e4112ebfe3a",
+      "https://en.wikipedia.org/wiki/Whatever_Lola_Wants",
+      "https://en.wikipedia.org/wiki/Sarah_Vaughan",
+      "https://en.wikipedia.org/wiki/Sarah_Vaughan_singles_discography"
+    ],
+    "notes": "The 17 Mar 1955 date appears only as the vocal/conductor recording credit on MusicBrainz (conductor and arranger Hugo Peretti); no discography reached confirms it. Mercury 70595 (10-inch shellac, US 1955) is from MusicBrainz's release entry. Wikipedia's Vaughan pages name the song among her biggest Mercury hits. Duration 2:35 is the MusicBrainz length of the single (the same performance on later compilations is 2:37). Flagged crossover: a pop-market single by a jazz singer. Misty (Vaughan) was not used because her recording is from July 1958."
+  },
+  {
+    "id": "jazz-davis-round-midnight",
+    "artist": "Miles Davis",
+    "title": "'Round Midnight",
+    "composer": "Thelonious Monk, Cootie Williams and Bernie Hanighen",
+    "recording_date": "1956-09-10",
+    "recording_year": 1956,
+    "release_year": 1957,
+    "original_issue": "Columbia CL 949 (LP \"'Round About Midnight\", released 4 March 1957)",
+    "personnel": "Miles Davis (trumpet), John Coltrane (tenor sax), Red Garland (piano), Paul Chambers (bass), Philly Joe Jones (drums)",
+    "style": "hard-bop",
+    "year": 1956,
+    "year_lo": 1956,
+    "year_hi": 1956,
+    "year_label": "1956",
+    "trivia": "Davis plays Dizzy Gillespie's arrangement of Monk's ballad, cut at Columbia's 30th Street studio and giving his first Columbia LP its title. His 1955 Newport performance of the tune with Monk had led producer George Avakian to sign him.",
+    "tags": [
+      "1950s",
+      "hard-bop",
+      "columbia"
+    ],
+    "track": {
+      "artist": "Miles Davis",
+      "title": "'Round Midnight",
+      "album": "'Round About Midnight",
+      "duration": "5:58",
+      "isrc": null,
+      "query": "Miles Davis 'Round Midnight 'Round About Midnight 1956",
+      "notes": "Columbia studio take of 10 Sep 1956 (matrix CO56586-1, 5:58), title track of the 1957 LP; not the 6:00 live Newport 1955 version with Monk, nor Monk's own or later Davis versions"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://www.jazzdisco.org/miles-davis/discography/",
+      "https://en.wikipedia.org/wiki/'Round_About_Midnight",
+      "https://en.wikipedia.org/wiki/'Round_Midnight_(song)"
+    ],
+    "notes": "The assignment gave a 1955-09-10 session, but jazzdisco and Wikipedia date this track to 10 September 1956 (the album's other sessions were 26 Oct 1955 and 5 Jun 1956), so it counts as a 1956 recording. Release date (4 Mar 1957) and duration from Wikipedia's album page; matrix, personnel and date from jazzdisco. The Gillespie-arrangement and Newport/Avakian points are from Wikipedia's song and album pages. Composer credit follows the Wikipedia track listing of Mulligan Meets Monk."
+  },
+  {
+    "id": "jazz-sinatra-ive-got-you-under-my-skin",
+    "artist": "Frank Sinatra",
+    "title": "I've Got You Under My Skin",
+    "composer": "Cole Porter",
+    "recording_date": "1956-01-12",
+    "recording_year": 1956,
+    "release_year": 1956,
+    "original_issue": "Capitol W-653 (LP \"Songs for Swingin' Lovers!\", 5 March 1956)",
+    "personnel": "Frank Sinatra (vocal); Nelson Riddle (arranger, conductor) and orchestra, with Milt Bernhart (trombone solo) and Irv Cottler (drums); remaining players not verified for this track",
+    "style": "vocal",
+    "year": 1956,
+    "year_lo": 1956,
+    "year_hi": 1956,
+    "year_label": "1956",
+    "trivia": "Riddle said his arrangement was inspired by Ravel's Boléro, and it features a trombone solo by Milt Bernhart. Sinatra fans commonly rank it among the best of his work with Riddle's orchestra.",
+    "tags": [
+      "1950s",
+      "vocal",
+      "capitol",
+      "crossover"
+    ],
+    "track": {
+      "artist": "Frank Sinatra",
+      "title": "I've Got You Under My Skin",
+      "album": "Songs for Swingin' Lovers!",
+      "duration": "3:43",
+      "isrc": null,
+      "query": "Frank Sinatra I've Got You Under My Skin Songs for Swingin' Lovers! 1956",
+      "notes": "Original Capitol studio recording of 12 Jan 1956 with Nelson Riddle (3:43); not Sinatra's 1963 remake, the 1966 live version with Count Basie or the 1993 Duets version with Bono"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Songs_for_Swingin'_Lovers!",
+      "https://en.wikipedia.org/wiki/I've_Got_You_Under_My_Skin",
+      "https://musicbrainz.org/recording/a18540a1-caa5-433d-ae8a-6bc2f90eba95",
+      "https://musicbrainz.org/release/6ebb996f-da6d-3517-b9be-9c52779572e3",
+      "https://en.wikipedia.org/wiki/List_of_Grammy_Hall_of_Fame_Award_recipients_(E%E2%80%93I)"
+    ],
+    "notes": "Date (12 Jan 1956) is the recording-date credit on MusicBrainz; Wikipedia gives only \"October 1955 to January 1956\" for the album sessions. LP number W-653 and the 5 Mar 1956 US release date are from MusicBrainz and match Wikipedia's release date. The Grammy Hall of Fame (1998) lists the track as a 1956 Capitol single. Wikipedia names Bernhart and Cottler for this recording and says other album players included George Roberts and Sweets Edison without tying them to this track. Crossover flag as instructed: traditional pop/vocal jazz."
+  },
+  {
+    "id": "jazz-reys-its-all-right-with-me",
+    "artist": "Rita Reys",
+    "title": "It's All Right with Me",
+    "composer": "Cole Porter",
+    "recording_date": "1956-02-16",
+    "recording_year": 1956,
+    "release_year": 1956,
+    "original_issue": "Columbia CL 903 (LP \"The Cool Voice of Rita Reys\", 1956); Philips B 08006 L (Netherlands)",
+    "personnel": "Rita Reys (vocal), Ack van Rooyen (trumpet), Herman Schoonderwalt (baritone sax), Rob Madna (piano), Dick Bezemer (bass), Wessel Ilcken (drums)",
+    "style": "vocal",
+    "year": 1956,
+    "year_lo": 1956,
+    "year_hi": 1956,
+    "year_label": "1956",
+    "region": "nl",
+    "trivia": "Promoted as \"Europe's First Lady of Jazz\", Reys opens her debut LP with this Cole Porter tune, recorded in Hilversum with Dutch musicians including her husband, drummer Wessel Ilcken. The other half of the album was cut in New York with Art Blakey's Jazz Messengers.",
+    "tags": [
+      "1950s",
+      "vocal",
+      "columbia",
+      "nl"
+    ],
+    "track": {
+      "artist": "Rita Reys",
+      "title": "It's All Right with Me",
+      "album": "The Cool Voice of Rita Reys",
+      "duration": "2:37",
+      "isrc": null,
+      "query": "Rita Reys It's All Right with Me The Cool Voice of Rita Reys 1956",
+      "notes": "Rita Reys with the Dutch combo, Hilversum 16 Feb 1956, track 1 of The Cool Voice of Rita Reys (2:37); not the New York tracks with the Jazz Messengers or later remakes"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Cool_Voice_of_Rita_Reys",
+      "https://en.wikipedia.org/wiki/Rita_Reys"
+    ],
+    "notes": "Track-level date and personnel (tracks 1, 2 and 4) come from the track-listing note and personnel list on Wikipedia's album page; its infobox lists all five session dates (17 Jan and 16 Aug 1955, 16 Feb, 3 May and 25 Jun 1956). No discography reached covers the Dutch sessions to cross-check them. Catalogue numbers are from the infobox. Tier C: the required Dutch entry, a landmark of Dutch jazz singing rather than a widely known track."
+  },
+  {
+    "id": "jazz-torme-lulus-back-in-town",
+    "artist": "Mel Tormé and the Marty Paich Dek-Tette",
+    "title": "Lulu's Back in Town",
+    "composer": "Harry Warren (music), Al Dubin (lyrics)",
+    "recording_date": "1956-01-20",
+    "recording_year": 1956,
+    "release_year": 1956,
+    "original_issue": "Bethlehem LP \"Mel Tormé and the Marty Paich Dek-Tette\" (1956; catalogue number not verified)",
+    "personnel": "Mel Tormé (vocal), Marty Paich (arranger, conductor); album personnel per Wikipedia, not matched to this track: Pete Candoli and Don Fagerquist (trumpet), Bob Enevoldsen (trombone), Bud Shank (alto sax), Bob Cooper and Jack Montrose (tenor sax), Jack DuLong (baritone sax), Vince DeRosa and John Cave (French horn), Albert Pollan (tuba), Red Mitchell (bass), Mel Lewis (drums)",
+    "style": "west-coast",
+    "year": 1956,
+    "year_lo": 1956,
+    "year_hi": 1956,
+    "year_label": "1956",
+    "trivia": "Fats Waller's 1935 record popularised this Harry Warren song, and Tormé reopened it in 1956 as the first track of his album with Marty Paich's ten-piece band. AllMusic rates the album five stars.",
+    "tags": [
+      "1950s",
+      "west-coast",
+      "bethlehem",
+      "vocal"
+    ],
+    "track": {
+      "artist": "Mel Tormé and the Marty Paich Dek-Tette",
+      "title": "Lulu's Back in Town",
+      "album": "Mel Tormé and the Marty Paich Dek-Tette",
+      "duration": "3:06",
+      "isrc": null,
+      "query": "Mel Tormé Lulu's Back in Town Mel Tormé and the Marty Paich Dek-Tette 1956",
+      "notes": "Tormé with the Marty Paich Dek-Tette, track 1 of the 1956 Bethlehem LP (3:06); not Fats Waller's 1935 version or Tormé's later live remakes"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Mel_Torm%C3%A9_and_the_Marty_Paich_Dek-Tette",
+      "https://en.wikipedia.org/wiki/Lulu's_Back_in_Town",
+      "https://en.wikipedia.org/wiki/Marty_Paich",
+      "https://en.wikipedia.org/wiki/Mel_Torm%C3%A9"
+    ],
+    "notes": "Date (20 Jan 1956), duration and personnel are album-level data from Wikipedia's infobox, track list and personnel list; the list names twelve players for a ten-piece band (some are alternates) and does not assign them to tracks, and jazzdisco's Paich page does not cover this session. Wikipedia's category line calls it a 1955 album but its infobox and text say 1956, which is used. Bethlehem catalogue number not verified. Style set to west-coast (Paich's written-out tentet) with a vocal tag."
+  },
+  {
+    "id": "jazz-pepper-youd-be-so-nice-to-come-home-to",
+    "artist": "Art Pepper",
+    "title": "You'd Be So Nice to Come Home To",
+    "composer": "Cole Porter",
+    "recording_date": "1957-01-19",
+    "recording_year": 1957,
+    "release_year": 1957,
+    "original_issue": "Contemporary C3532 (LP \"Art Pepper Meets the Rhythm Section\", 1957)",
+    "personnel": "Art Pepper (alto sax), Red Garland (piano), Paul Chambers (bass), Philly Joe Jones (drums)",
+    "style": "west-coast",
+    "year": 1957,
+    "year_lo": 1957,
+    "year_hi": 1957,
+    "year_label": "1957",
+    "trivia": "Pepper says he learned of the session only on the morning it took place and had never met Miles Davis's rhythm section, yet the record is considered a milestone of his career. The liner notes and his memoir disagree on how long he had been away from the saxophone.",
+    "tags": [
+      "1950s",
+      "west-coast",
+      "contemporary"
+    ],
+    "track": {
+      "artist": "Art Pepper",
+      "title": "You'd Be So Nice to Come Home To",
+      "album": "Art Pepper Meets the Rhythm Section",
+      "duration": "5:25",
+      "isrc": null,
+      "query": "Art Pepper You'd Be So Nice to Come Home To Art Pepper Meets the Rhythm Section 1957",
+      "notes": "Contemporary master of 19 Jan 1957, opening track of Art Pepper Meets the Rhythm Section (5:25); not Pepper's later remakes or the Rita Reys 1956 vocal"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://www.jazzdisco.org/art-pepper/discography/",
+      "https://en.wikipedia.org/wiki/Art_Pepper_Meets_the_Rhythm_Section"
+    ],
+    "notes": "Date, personnel and catalogue number from jazzdisco (Contemporary's studio, Los Angeles); the session story, the \"milestone\" verdict and the two accounts (two weeks per the liner notes, six months per the memoir \"Straight Life\") are from Wikipedia. A west-coast leader with an East Coast rhythm section, so west-coast is the closest style."
+  },
+  {
+    "id": "jazz-morgan-i-remember-clifford",
+    "artist": "Lee Morgan",
+    "title": "I Remember Clifford",
+    "composer": "Benny Golson",
+    "recording_date": "1957-03-24",
+    "recording_year": 1957,
+    "release_year": 1957,
+    "original_issue": "Blue Note BLP 1557 (LP \"Lee Morgan Vol. 3\", 1957)",
+    "personnel": "Lee Morgan (trumpet), Gigi Gryce (alto sax), Benny Golson (tenor sax), Wynton Kelly (piano), Paul Chambers (bass), Charlie Persip (drums)",
+    "style": "hard-bop",
+    "year": 1957,
+    "year_lo": 1957,
+    "year_hi": 1957,
+    "year_label": "1957",
+    "trivia": "Benny Golson wrote this ballad for Clifford Brown, who died at 25, and Morgan was only 18 on the day he played the melody; Golson composed and arranged everything on the LP. Donald Byrd and Gigi Gryce had made the first recording of the tune in February 1957.",
+    "tags": [
+      "1950s",
+      "hard-bop",
+      "blue-note"
+    ],
+    "track": {
+      "artist": "Lee Morgan",
+      "title": "I Remember Clifford",
+      "album": "Lee Morgan Vol. 3",
+      "duration": "7:07",
+      "isrc": null,
+      "query": "Lee Morgan I Remember Clifford Lee Morgan Vol. 3 1957",
+      "notes": "Blue Note take 5 of 24 Mar 1957 (7:07 on BLP 1557); not the first recording by Donald Byrd and Gigi Gryce (Jazz Lab, Feb 1957) or other later versions"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://www.jazzdisco.org/lee-morgan/discography/",
+      "https://en.wikipedia.org/wiki/Lee_Morgan,_Vol._3",
+      "https://en.wikipedia.org/wiki/I_Remember_Clifford_(song)",
+      "https://en.wikipedia.org/wiki/Lee_Morgan"
+    ],
+    "notes": "Date, take and personnel from jazzdisco (Van Gelder Studio, Hackensack); duration, the all-Golson repertoire and the Byrd/Gryce first recording from Wikipedia. Morgan was born 10 July 1938 (Wikipedia), so he was 18 at the session. Chosen over Candy (1957-11) to pair thematically with the Clifford Brown card."
+  },
+  {
+    "id": "jazz-monk-well-you-neednt",
+    "artist": "Thelonious Monk Septet",
+    "title": "Well, You Needn't",
+    "composer": "Thelonious Monk",
+    "recording_date": "1957-06",
+    "recording_year": 1957,
+    "release_year": 1957,
+    "original_issue": "Riverside RLP 12-242 (LP \"Monk's Music\", November 1957)",
+    "personnel": "Thelonious Monk (piano), Ray Copeland (trumpet), Gigi Gryce (alto sax), Coleman Hawkins (tenor sax), John Coltrane (tenor sax), Wilbur Ware (bass), Art Blakey (drums)",
+    "style": "hard-bop",
+    "year": 1957,
+    "year_lo": 1957,
+    "year_hi": 1957,
+    "year_label": "1957",
+    "trivia": "Monk can be heard calling out for John Coltrane, then newly in his band, to take the first horn solo of this eleven-minute reading. Monk's Music is the only record on which Coleman Hawkins and Art Blakey played together.",
+    "tags": [
+      "1950s",
+      "hard-bop",
+      "riverside"
+    ],
+    "track": {
+      "artist": "Thelonious Monk Septet",
+      "title": "Well, You Needn't",
+      "album": "Monk's Music",
+      "duration": "11:24",
+      "isrc": null,
+      "query": "Thelonious Monk Septet Well You Needn't Monk's Music 1957",
+      "notes": "Studio master from the Monk's Music LP (11:24); not Monk's earlier Blue Note versions or later live remakes"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://www.jazzdisco.org/thelonious-monk/discography/",
+      "https://en.wikipedia.org/wiki/Monk's_Music"
+    ],
+    "notes": "The session ran 25 and 26 June 1957 at Reeves Sound Studios (jazzdisco and Wikipedia infobox; Wikipedia's lead says 26 June) and the day of this track is not given, so the month is used. The assignment named Straight, No Chaser or Ruby, My Dear with Coltrane, but neither fits: the 1957 Straight, No Chaser is the Gerry Mulligan session, the Monk's Music Ruby, My Dear is Monk with Hawkins (no Coltrane), and the Coltrane quartet Ruby, My Dear (July 1957) was first issued on Jazzland in 1961. Well, You Needn't is the Coltrane track with a clean 1957 release; Monk's Music is in the Grammy Hall of Fame (2001) per Wikipedia."
+  },
+  {
+    "id": "jazz-basie-lil-darlin",
+    "artist": "Count Basie and His Orchestra",
+    "title": "Li'l Darlin'",
+    "composer": "Neal Hefti",
+    "recording_date": "1957-10",
+    "recording_year": 1957,
+    "release_year": 1958,
+    "original_issue": "Roulette LP \"Basie\" (also known as \"The Atomic Mr. Basie\" or \"E=MC2\"), first Basie album on Roulette, January 1958 per Wikipedia; catalogue number not verified",
+    "personnel": "Count Basie (piano); trumpets Wendell Culley, Snooky Young, Thad Jones, Joe Newman; trombones Henry Coker, Al Grey, Benny Powell; reeds Marshal Royal, Frank Wess, Eddie \"Lockjaw\" Davis, Frank Foster, Charles Fowlkes; Freddie Green (guitar), Eddie Jones (bass), Sonny Payne (drums); arranger Neal Hefti",
+    "style": "big-band",
+    "year": 1957,
+    "year_lo": 1957,
+    "year_hi": 1957,
+    "year_label": "1957",
+    "trivia": "Neal Hefti's chart is praised by jazz writers for the way it swings at a very slow tempo. The Basie arrangement without lyrics was often used as the closing theme of \"The Tonight Show Starring Johnny Carson\".",
+    "tags": [
+      "1950s",
+      "big-band",
+      "roulette"
+    ],
+    "track": {
+      "artist": "Count Basie and His Orchestra",
+      "title": "Li'l Darlin'",
+      "album": "The Atomic Mr. Basie",
+      "duration": "4:47",
+      "isrc": null,
+      "query": "Count Basie Li'l Darlin' The Atomic Mr. Basie 1957",
+      "notes": "Basie orchestra's original 1957 Roulette studio recording, last track of the original LP (4:47); not the later vocal versions with lyrics or the small-group and guitar covers"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Atomic_Mr._Basie",
+      "https://en.wikipedia.org/wiki/Li'l_Darlin'"
+    ],
+    "notes": "Wikipedia gives 21-22 October 1957 (Capitol studio, New York) for the album tracks without saying which day this one was cut, so the month is used; the LP appeared in 1958 (infobox: January 1958). The track-length and personnel are from the album page (Joe Williams sang only on a bonus track). The Roulette catalogue number was not verified, so the issue line omits it."
+  },
+  {
+    "id": "jazz-mingus-haitian-fight-song",
+    "artist": "Charles Mingus",
+    "title": "Haitian Fight Song",
+    "composer": "Charles Mingus",
+    "recording_date": "1957-03-12",
+    "recording_year": 1957,
+    "release_year": 1957,
+    "original_issue": "Atlantic LP 1260 (LP \"The Clown\", September 1957); matrix 2458",
+    "personnel": "Charles Mingus (bass), Jimmy Knepper (trombone), Shafi Hadi (alto and tenor sax; listed by jazzdisco under his birth name Curtis Porter), Wade Legge (piano), Dannie Richmond (drums)",
+    "style": "post-bop",
+    "year": 1957,
+    "year_lo": 1957,
+    "year_hi": 1957,
+    "year_label": "1957",
+    "trivia": "Mingus said his bass solo here comes from thinking about prejudice and persecution but also carries determination. He chose the four tracks of \"The Clown\" partly to answer critics who said his music did not swing.",
+    "tags": [
+      "1950s",
+      "post-bop",
+      "atlantic"
+    ],
+    "track": {
+      "artist": "Charles Mingus",
+      "title": "Haitian Fight Song",
+      "album": "The Clown",
+      "duration": "12:01",
+      "isrc": null,
+      "query": "Charles Mingus Haitian Fight Song The Clown 1957",
+      "notes": "Atlantic studio master of 12 Mar 1957, opening track of The Clown (12:01); not later versions by other groups"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://www.jazzdisco.org/charles-mingus/discography/",
+      "https://en.wikipedia.org/wiki/The_Clown_(album)",
+      "https://en.wikipedia.org/wiki/Shafi_Hadi"
+    ],
+    "notes": "Date, matrix 2458 and issue from jazzdisco (NYC, 12 Mar 1957); Wikipedia gives 13 Feb and 12 Mar 1957 for the album, 12:01 for the track and Hadi in the saxophone chair (he was born William Curtis Porter). The Mingus quotes are Mingus's own liner-note comments as reproduced on Wikipedia, paraphrased here. The assignment named Pithecanthropus Erectus (Jan 1956) for the Mingus slot; this track replaces it for recognisability (the best YouTube upload of Pithecanthropus Erectus has about 100k views against about 370k for Haitian Fight Song). Tier B is borderline: a Mingus-fan favourite rather than a general-audience tune."
+  },
+  {
+    "id": "jazz-clark-cool-struttin",
+    "artist": "Sonny Clark",
+    "title": "Cool Struttin'",
+    "composer": "Sonny Clark",
+    "recording_date": "1958-01-05",
+    "recording_year": 1958,
+    "release_year": 1958,
+    "original_issue": "Blue Note BLP 1588 (LP \"Cool Struttin'\", August 1958); 45 rpm Blue Note 45-1714 (\"Cool Struttin' Parts 1 & 2\", 1958)",
+    "personnel": "Art Farmer (trumpet), Jackie McLean (alto sax), Sonny Clark (piano), Paul Chambers (bass), Philly Joe Jones (drums)",
+    "style": "hard-bop",
+    "year": 1958,
+    "year_lo": 1958,
+    "year_hi": 1958,
+    "year_label": "1958",
+    "trivia": "Clark's title track was played by a quintet whose rhythm team, Paul Chambers and Philly Joe Jones, came straight from Miles Davis's band. The sleeve photograph by Francis Wolff shows Alfred Lion's wife, Ruth.",
+    "tags": [
+      "1950s",
+      "hard-bop",
+      "blue-note"
+    ],
+    "track": {
+      "artist": "Sonny Clark",
+      "title": "Cool Struttin'",
+      "album": "Cool Struttin'",
+      "duration": "9:23",
+      "isrc": null,
+      "query": "Sonny Clark Cool Struttin' Cool Struttin' 1958",
+      "notes": "Blue Note master take 2 of the title track from 5 Jan 1958 (9:23 on the LP); not the Christmas-themed 1991 \"Yule Struttin'\" CD or later covers"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://www.jazzdisco.org/sonny-clark/discography/",
+      "https://en.wikipedia.org/wiki/Cool_Struttin'"
+    ],
+    "notes": "Date, take number, personnel and issues from jazzdisco (Van Gelder Studio, Hackensack); Wikipedia gives the same date, the August 1958 release and the 9:23 length. A YouTube search for the plain query returns full-album uploads first, but the \"Cool Struttin' (Remastered)\" Topic upload of the title track is among the top hits."
+  },
+  {
+    "id": "jazz-jimmy-smith-the-sermon",
+    "artist": "Jimmy Smith",
+    "title": "The Sermon!",
+    "composer": "Jimmy Smith",
+    "recording_date": "1958-02-25",
+    "recording_year": 1958,
+    "release_year": 1959,
+    "original_issue": "Blue Note BLP 4011 (LP \"The Sermon!\", 1959); 45 rpm Blue Note 45-1879 (\"The Sermon Parts 1 & 2\", 1959)",
+    "personnel": "Jimmy Smith (organ), Lee Morgan (trumpet), Lou Donaldson (alto sax), Tina Brooks (tenor sax), Kenny Burrell (guitar), Art Blakey (drums)",
+    "style": "soul-jazz",
+    "year": 1958,
+    "year_lo": 1958,
+    "year_hi": 1958,
+    "year_label": "1958",
+    "trivia": "This 20-minute Hammond organ blues was cut at the Manhattan Towers hotel ballroom in New York, which Rudy Van Gelder used as an extra studio for larger groups. Blue Note also issued it as a two-part 45 rpm single.",
+    "tags": [
+      "1950s",
+      "soul-jazz",
+      "blue-note",
+      "organ"
+    ],
+    "track": {
+      "artist": "Jimmy Smith",
+      "title": "The Sermon!",
+      "album": "The Sermon!",
+      "duration": "20:12",
+      "isrc": null,
+      "query": "Jimmy Smith The Sermon! The Sermon! 1958",
+      "notes": "The Feb 1958 sextet take 15 (20:12 on the LP), not Smith's 1963 Verve remake with Kenny Burrell or the 1965 live version"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://www.jazzdisco.org/jimmy-smith/discography/",
+      "https://en.wikipedia.org/wiki/The_Sermon_(Jimmy_Smith_album)"
+    ],
+    "notes": "Date, take 15, personnel and issue numbers from jazzdisco (Manhattan Towers, New York); Wikipedia confirms the 25 Feb 1958 date for this track and the 20:12 length. The LP also holds tracks from a separate 25 Aug 1957 session (with George Coleman on alto), which are not the title track. Wikipedia dates the album release 1959 (December); jazzdisco lists both LP and single as 1959. The recording is about 21 months before release, so no gap flag."
+  },
+  {
+    "id": "jazz-mancini-peter-gunn",
+    "artist": "Henry Mancini and His Orchestra",
+    "title": "Peter Gunn",
+    "composer": "Henry Mancini",
+    "recording_date": null,
+    "recording_year": 1958,
+    "release_year": 1959,
+    "original_issue": "RCA Victor LPM-1956 mono / LSP-1956 stereo (LP \"The Music from Peter Gunn\", January 1959); also an RCA Victor single, January 1959 (b/w \"The Brothers Go to Mother's\"; catalogue number not found)",
+    "personnel": "Henry Mancini (composer, conductor); John Williams (piano, the opening riff); Los Angeles studio players on the album include Pete Candoli and Conrad Gozzo (trumpet), Ted Nash and Plas Johnson (reeds), Bob Bain and Al Hendrickson (guitar), Rolly Bundock (bass), Shelly Manne (drums); the line-up varies from track to track",
+    "style": "west-coast",
+    "year": 1958,
+    "year_lo": 1958,
+    "year_hi": 1958,
+    "year_label": "1958",
+    "trivia": "In his autobiography Mancini said the theme owes more to rock and roll than to jazz: one chord throughout, with piano and guitar playing an ostinato in unison. The album it opens won the first Grammy for Album of the Year.",
+    "tags": [
+      "1950s",
+      "west-coast",
+      "rca",
+      "crime-jazz",
+      "tv-theme",
+      "crossover"
+    ],
+    "track": {
+      "artist": "Henry Mancini and His Orchestra",
+      "title": "Peter Gunn",
+      "album": "The Music from Peter Gunn",
+      "duration": "2:06",
+      "isrc": null,
+      "query": "Henry Mancini Peter Gunn The Music from Peter Gunn 1958",
+      "notes": "Mancini's RCA Victor original from the soundtrack LP (2:06), not Ray Anthony's 1959 Capitol hit, Duane Eddy's cover or the Art of Noise remake"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Peter_Gunn_(song)",
+      "https://en.wikipedia.org/wiki/The_Music_from_Peter_Gunn",
+      "https://en.wikipedia.org/wiki/List_of_Grammy_Hall_of_Fame_Award_recipients_(J%E2%80%93P)"
+    ],
+    "notes": "The album sessions were 26 and 31 Aug and 4 and 29 Sep 1958 at Radio Recorders, Hollywood (Wikipedia); which day the theme was cut is not stated, so only the year is given. Wikipedia says the musicians vary by track, so the personnel line is the album roster plus the one track-specific credit it gives (John Williams on the piano riff, later a famous film composer); which horn players are on the theme itself is not documented. Length is 2:06 on the LP track list (the song page infobox says 2:04). Single and LP both January 1959 per Wikipedia; the single's catalogue number was not found. Grammy Hall of Fame has the track (2005) and the album (1998); the album is also in the National Recording Registry (2010). Tier A: widely known TV theme."
+  },
+  {
+    "id": "jazz-blakey-blues-march",
+    "artist": "Art Blakey and the Jazz Messengers",
+    "title": "Blues March",
+    "composer": "Benny Golson",
+    "recording_date": "1958-10-30",
+    "recording_year": 1958,
+    "release_year": 1958,
+    "original_issue": "Blue Note BLP 4003 (LP \"Moanin'\", late 1958); 45 rpm Blue Note 45-1736 (b/w \"Along Came Betty\", 1958)",
+    "personnel": "Lee Morgan (trumpet), Benny Golson (tenor sax), Bobby Timmons (piano), Jymie Merritt (bass), Art Blakey (drums)",
+    "style": "hard-bop",
+    "year": 1958,
+    "year_lo": 1958,
+    "year_hi": 1958,
+    "year_label": "1958",
+    "trivia": "Benny Golson's march-like theme was influenced by New Orleans marching bands, and real marching bands, military ones included, now play it. Trumpeter Blue Mitchell had recorded it first, on 2 and 3 July 1958, four months before this version.",
+    "tags": [
+      "1950s",
+      "hard-bop",
+      "blue-note"
+    ],
+    "track": {
+      "artist": "Art Blakey and the Jazz Messengers",
+      "title": "Blues March",
+      "album": "Moanin'",
+      "duration": "6:17",
+      "isrc": null,
+      "query": "Art Blakey and the Jazz Messengers Blues March Moanin' 1958",
+      "notes": "Blue Note take 19 from 30 Oct 1958 (6:17 on the LP), not Blue Mitchell's July 1958 Riverside original on Big 6 and not the Messengers' live version from the Olympia, Paris (December 1958)"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://www.jazzdisco.org/art-blakey/discography/",
+      "https://en.wikipedia.org/wiki/Blues_March",
+      "https://en.wikipedia.org/wiki/Moanin'"
+    ],
+    "notes": "Date, take 19 and the single (45-1736) from jazzdisco (Van Gelder Studio, Hackensack); the 6:17 length and the Blue Mitchell fact from Wikipedia, which notes that some sources wrongly call Blakey's the first recording. Wikipedia says the album came out \"late 1958\" while some sources give 1959. This is Blakey's second card after \"Moanin'\" from the same session."
+  },
+  {
+    "id": "jazz-evans-peace-piece",
+    "artist": "Bill Evans",
+    "title": "Peace Piece",
+    "composer": "Bill Evans",
+    "recording_date": "1958-12-15",
+    "recording_year": 1958,
+    "release_year": 1959,
+    "original_issue": "Riverside RLP 12-291 / RLP 1129 (LP \"Everybody Digs Bill Evans\", March 1959)",
+    "personnel": "Bill Evans (piano, solo)",
+    "style": "modal",
+    "year": 1958,
+    "year_lo": 1958,
+    "year_hi": 1958,
+    "year_label": "1958",
+    "trivia": "Evans improvised this meditation at the end of the session over a two-chord ostinato he had already used for \"Some Other Time\", and a trace of it returns in the opening of \"Flamenco Sketches\" on Kind of Blue. He refused requests to play it live in his last years, and is said to have performed it in public only once, with a dance company in Seattle in 1978.",
+    "tags": [
+      "1950s",
+      "modal",
+      "riverside",
+      "solo-piano"
+    ],
+    "track": {
+      "artist": "Bill Evans",
+      "title": "Peace Piece",
+      "album": "Everybody Digs Bill Evans",
+      "duration": "6:37",
+      "isrc": null,
+      "query": "Bill Evans Peace Piece Everybody Digs Bill Evans 1958",
+      "notes": "Solo piano studio recording from the 15 Dec 1958 session (6:37 on the LP); not Evans's later live or trio versions"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://www.jazzdisco.org/bill-evans/discography/",
+      "https://en.wikipedia.org/wiki/Peace_Piece",
+      "https://en.wikipedia.org/wiki/Everybody_Digs_Bill_Evans"
+    ],
+    "notes": "Date, studio (Reeves Sound, New York) and issue numbers from jazzdisco; release March 1959, track length and the solo status from Wikipedia (the album page's by-track bass and drums credits do not line up with its own track numbers, but jazzdisco's credits and the page text agree the piece is solo). The trivia about the 1978 performance is Wikipedia's claim that he played it live only once. Bill Evans may reach three cards in the whole set if a \"Waltz for Debby\" card exists, counting the joint Tony Bennett and Bill Evans card."
+  },
+  {
+    "id": "jazz-baker-alone-together",
+    "artist": "Chet Baker",
+    "title": "Alone Together",
+    "composer": "Arthur Schwartz (music), Howard Dietz (lyrics)",
+    "recording_date": "1958-12-30",
+    "recording_year": 1958,
+    "release_year": 1959,
+    "original_issue": "Riverside RLP 12-299 / RLP 1135 (LP \"Chet\", 1959)",
+    "personnel": "Chet Baker (trumpet), Herbie Mann (alto flute), Pepper Adams (baritone sax), Bill Evans (piano), Paul Chambers (bass), Connie Kay (drums)",
+    "style": "cool",
+    "year": 1958,
+    "year_lo": 1958,
+    "year_hi": 1958,
+    "year_label": "1958",
+    "trivia": "Although Baker was then known as much for singing as for trumpet playing, the album \"Chet\" is entirely instrumental, with Bill Evans on piano. This ballad is its opening track.",
+    "tags": [
+      "1950s",
+      "cool",
+      "riverside"
+    ],
+    "track": {
+      "artist": "Chet Baker",
+      "title": "Alone Together",
+      "album": "Chet",
+      "duration": "6:46",
+      "isrc": null,
+      "query": "Chet Baker Alone Together Chet 1958",
+      "notes": "Riverside LP version, first track of Chet (6:46); not Baker's 1950s versions or the Jazz Samba-era remakes"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://www.jazzdisco.org/bill-evans/discography/",
+      "https://en.wikipedia.org/wiki/Chet_(Chet_Baker_album)"
+    ],
+    "notes": "Wikipedia assigns tracks 1-3 and 5-7 to 30 Dec 1958 and tracks 4 and 8-10 to 19 Jan 1959, which puts this track in 1958; jazzdisco merges the two dates into one session and credits drummers differently for some other tracks, but both agree Connie Kay plays on this one. Medium confidence because the per-track date rests on Wikipedia alone. Studio: Reeves Sound, New York. Catalogue numbers are jazzdisco's. Evans left Miles Davis's band shortly before this session."
+  },
+  {
+    "id": "jazz-powell-cleopatras-dream",
+    "artist": "Bud Powell",
+    "title": "Cleopatra's Dream",
+    "composer": "Bud Powell",
+    "recording_date": "1958-12-29",
+    "recording_year": 1958,
+    "release_year": 1959,
+    "original_issue": "Blue Note BLP 4009 (LP \"The Scene Changes: The Amazing Bud Powell, Vol. 5\", 1959)",
+    "personnel": "Bud Powell (piano), Paul Chambers (bass), Art Taylor (drums)",
+    "style": "bebop",
+    "year": 1958,
+    "year_lo": 1958,
+    "year_hi": 1958,
+    "year_label": "1958",
+    "trivia": "This opens an album on which every piece is a Powell original, cut at Rudy Van Gelder's Hackensack studio with Paul Chambers and Art Taylor. Powell moved to Paris the year the album came out.",
+    "tags": [
+      "1950s",
+      "bebop",
+      "blue-note"
+    ],
+    "track": {
+      "artist": "Bud Powell",
+      "title": "Cleopatra's Dream",
+      "album": "The Scene Changes: The Amazing Bud Powell, Vol. 5",
+      "duration": "4:22",
+      "isrc": null,
+      "query": "Bud Powell Cleopatra's Dream The Scene Changes 1958",
+      "notes": "Blue Note master take 10 from 29 Dec 1958 (4:22 on the LP); not later Powell live performances or other pianists' covers"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://www.jazzdisco.org/bud-powell/discography/",
+      "https://en.wikipedia.org/wiki/The_Scene_Changes_(Bud_Powell_album)",
+      "https://en.wikipedia.org/wiki/Bud_Powell"
+    ],
+    "notes": "Date, take 10, personnel and LP number from jazzdisco; Van Gelder Studio, Hackensack, NJ (not Paris). The length is from Wikipedia's track list, which also gives the album genre as bebop and hard bop (bebop chosen for style spread) and \"all compositions by Bud Powell\"; the Paris move in 1959 is from Wikipedia's Bud Powell page (jazzdisco shows his first Paris dates in Nov 1959). Tier C justification: a Real Book staple for fans (about a million views on one upload) but not widely known by the general public; it fills the bop-piano slot and is Powell's second card after \"Un Poco Loco\"."
+  },
+  {
+    "id": "jazz-donaldson-blues-walk",
+    "artist": "Lou Donaldson Quintet",
+    "title": "Blues Walk",
+    "composer": "Lou Donaldson",
+    "recording_date": "1958-07-28",
+    "recording_year": 1958,
+    "release_year": 1958,
+    "original_issue": "Blue Note BLP 1593 (LP \"Blues Walk\", 1958); 45 rpm Blue Note 45-1720 (b/w \"The Masquerade Is Over\", 1958)",
+    "personnel": "Lou Donaldson (alto sax), Herman Foster (piano), Peck Morrison (bass), Dave Bailey (drums), Ray Barretto (congas)",
+    "style": "hard-bop",
+    "year": 1958,
+    "year_lo": 1958,
+    "year_hi": 1958,
+    "year_label": "1958",
+    "trivia": "Ray Barretto adds congas to Donaldson's group on this blues, the title track of an album that AllMusic's Steve Huey rates as the saxophonist's masterpiece. Donaldson remade the tune for Blue Note in December 1972.",
+    "tags": [
+      "1950s",
+      "hard-bop",
+      "blue-note",
+      "congas"
+    ],
+    "track": {
+      "artist": "Lou Donaldson Quintet",
+      "title": "Blues Walk",
+      "album": "Blues Walk",
+      "duration": "6:44",
+      "isrc": null,
+      "query": "Lou Donaldson Blues Walk Blues Walk 1958",
+      "notes": "Blue Note take 15 from 28 Jul 1958 (6:44 on the LP), not the 1972 remake on Sophisticated Lou"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://www.jazzdisco.org/lou-donaldson/discography/",
+      "https://en.wikipedia.org/wiki/Blues_Walk"
+    ],
+    "notes": "Date, take 15, personnel and issues (BLP 1593; 45-1720) from jazzdisco (Van Gelder Studio, Hackensack); the 6:44 length, the 1958 release and the AllMusic judgement from Wikipedia's album page. The 1972 remake is jazzdisco's Sophisticated Lou session (11 Dec 1972, Blue Note BN-LA024-F). Wikipedia lists the genre only as jazz; hard bop is my label. This card replaced \"This Here\" (Cannonball Adderley) because Cannonball already has Autumn Leaves, Jive Samba and Mercy Mercy Mercy in other files, so a fourth would break the two-card cap. YouTube check: the top hit is the Lou Donaldson Topic upload (6:44, about 565K views). Tier B on view count and the album's standing; it is not on the Grammy Hall of Fame list (A-D page checked)."
+  },
+  {
+    "id": "jazz-tjader-afro-blue",
+    "artist": "Cal Tjader Sextet",
+    "title": "Afro Blue",
+    "composer": "Mongo Santamaría",
+    "recording_date": "1959-04-20",
+    "recording_year": 1959,
+    "release_year": 1959,
+    "original_issue": "Fantasy 3295 (LP \"Cal Tjader's Concert by the Sea\", 1959; also listed in discographies as Concert by the Sea, Vol. 1)",
+    "personnel": "Cal Tjader (vibraphone), Paul Horn (flute), Lonnie Hewitt (piano), Al McKibbon (bass), Willie Bobo (drums, timbales), Mongo Santamaría (percussion, bongos)",
+    "style": "latin",
+    "year": 1959,
+    "year_lo": 1959,
+    "year_hi": 1959,
+    "year_label": "1959",
+    "trivia": "Mongo Santamaría's tune is described as the first jazz standard built on an African 3:2 cross-rhythm, and this live set at Carmel's Sunset Auditorium is its first recorded performance. Santamaría recorded his own composition while playing with Tjader's sextet.",
+    "tags": [
+      "1950s",
+      "latin",
+      "fantasy",
+      "latin-jazz",
+      "live"
+    ],
+    "track": {
+      "artist": "Cal Tjader Sextet",
+      "title": "Afro Blue",
+      "album": "Cal Tjader's Concert by the Sea",
+      "duration": "6:33",
+      "isrc": null,
+      "query": "Cal Tjader Sextet Afro Blue Cal Tjader's Concert by the Sea 1959",
+      "notes": "Live take from Sunset Auditorium, Carmel, 20 Apr 1959 (about 6:33), first recorded performance of the tune; not Mongo Santamaría's own Fantasy studio version on \"Mongo\", John Coltrane's 1963 version or Abbey Lincoln's vocal"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Afro_Blue",
+      "https://musicbrainz.org/recording/ee17ff07-1ed2-4978-a8f8-f929e1981117",
+      "https://musicbrainz.org/release/6b06be7f-6d6e-4429-9f10-9fcb16c14687"
+    ],
+    "notes": "Wikipedia's Afro Blue page says the first recorded performance was 20 April 1959 at the Sunset Auditorium, Carmel, with the Cal Tjader Sextet; MusicBrainz dates the recording, lists the personnel above and gives the length (392,986 ms) and the Fantasy 3295 LP number (not cross-checked against a discography; jazzdisco has no Tjader page). Conflict: Wikipedia's text also names Emil Richards (marimba) and Francisco Aguabella (conga) for the first recording, but MusicBrainz does not credit them, so they are left out. The brief suggested a Riverside issue by Mongo Santamaría himself; his own studio version (Fantasy 3291 \"Mongo\", 1959, 3:58) has no session date or personnel in the sources reached, so this documented live version is used instead."
+  },
+  {
+    "id": "jazz-mingus-better-git-it-in-your-soul",
+    "artist": "Charles Mingus",
+    "title": "Better Git It in Your Soul",
+    "composer": "Charles Mingus",
+    "recording_date": "1959-05-05",
+    "recording_year": 1959,
+    "release_year": 1959,
+    "original_issue": "Columbia CL 1370 / CS 8171 (LP \"Mingus Ah Um\", October 1959)",
+    "personnel": "John Handy (alto sax), Curtis Porter (also known as Shafi Hadi; alto sax), Booker Ervin (tenor sax), Jimmy Knepper (trombone), Horace Parlan (piano), Charles Mingus (bass), Dannie Richmond (drums)",
+    "style": "post-bop",
+    "year": 1959,
+    "year_lo": 1959,
+    "year_hi": 1959,
+    "year_label": "1959",
+    "trivia": "Mingus built this stomping 6/8 piece on the gospel singing and preaching he heard as a child, and it opens Mingus Ah Um. That album entered the Grammy Hall of Fame in 2013.",
+    "tags": [
+      "1950s",
+      "post-bop",
+      "columbia"
+    ],
+    "track": {
+      "artist": "Charles Mingus",
+      "title": "Better Git It in Your Soul",
+      "album": "Mingus Ah Um",
+      "duration": "7:22",
+      "isrc": null,
+      "query": "Charles Mingus Better Git It in Your Soul Mingus Ah Um 1959",
+      "notes": "Columbia master (matrix CO63154) from 5 May 1959 (7:22), the opening track of Mingus Ah Um; not the 8:30 alternate take on the Legacy Edition or the 1960 Antibes live version"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://www.jazzdisco.org/charles-mingus/discography/",
+      "https://en.wikipedia.org/wiki/Mingus_Ah_Um",
+      "https://en.wikipedia.org/wiki/Shafi_Hadi"
+    ],
+    "notes": "Date, matrix and personnel from jazzdisco (New York, 5 May 1959); jazzdisco names the saxophonist Curtis Porter, while Wikipedia gives Shafi Hadi, who was born William Curtis Porter (Wikipedia's Shafi Hadi page). Instruments by track from Wikipedia's album personnel list: Handy and Hadi on alto, Ervin on tenor, Knepper on trombone. Jazzdisco spells the title \"Better Git Hit In Your Soul\". Length 7:22 and the gospel inspiration from Wikipedia. Other Mingus cards in the 1955-59 range are Goodbye Pork Pie Hat (part4.js) and Haitian Fight Song (part4b.js), so the two Ah Um cards bring him to four in this part."
+  },
+  {
+    "id": "jazz-mingus-fables-of-faubus",
+    "artist": "Charles Mingus",
+    "title": "Fables of Faubus",
+    "composer": "Charles Mingus",
+    "recording_date": "1959-05-05",
+    "recording_year": 1959,
+    "release_year": 1959,
+    "original_issue": "Columbia CL 1370 / CS 8171 (LP \"Mingus Ah Um\", October 1959)",
+    "personnel": "John Handy (alto sax), Curtis Porter (also known as Shafi Hadi; tenor sax), Booker Ervin (tenor sax), Jimmy Knepper (trombone), Horace Parlan (piano), Charles Mingus (bass), Dannie Richmond (drums)",
+    "style": "post-bop",
+    "year": 1959,
+    "year_lo": 1959,
+    "year_hi": 1959,
+    "year_label": "1959",
+    "trivia": "Mingus wrote this satire against Arkansas governor Orval Faubus, who in 1957 used the National Guard to keep nine Black students out of Little Rock Central High School. Columbia refused to release the lyrics, so this album version is instrumental.",
+    "tags": [
+      "1950s",
+      "post-bop",
+      "columbia"
+    ],
+    "track": {
+      "artist": "Charles Mingus",
+      "title": "Fables of Faubus",
+      "album": "Mingus Ah Um",
+      "duration": "8:14",
+      "isrc": null,
+      "query": "Charles Mingus Fables of Faubus Mingus Ah Um 1959",
+      "notes": "Instrumental Columbia version from 5 May 1959 (8:14), on Mingus Ah Um; NOT the vocal version \"Original Faubus Fables\" recorded 20 Oct 1960 for Candid"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://www.jazzdisco.org/charles-mingus/discography/",
+      "https://en.wikipedia.org/wiki/Fables_of_Faubus",
+      "https://en.wikipedia.org/wiki/Mingus_Ah_Um"
+    ],
+    "notes": "Date (matrix CO63156) and personnel from jazzdisco; instruments by track from Wikipedia's album page (Handy alto, Hadi tenor, Ervin tenor, Knepper trombone). Length 8:14 is the album page's figure (the song page says 8:13). The lyrics story and the separate Candid vocal recording (20 Oct 1960, \"Original Faubus Fables\", on Charles Mingus Presents Charles Mingus) are from Wikipedia. Both Mingus cards from this session use the two giant slots the brief allowed me. Note that data/reserve-part4.txt (not loaded by gen.js) also holds records with the same ids (jazz-mingus-fables-of-faubus, jazz-mingus-better-git-it-in-your-soul, jazz-clark-cool-struttin), so they must not be merged from there."
   }
 ]

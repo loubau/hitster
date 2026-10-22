@@ -1041,5 +1041,1074 @@
       "https://en.wikipedia.org/wiki/Satin_Doll"
     ],
     "notes": "Wikipedia says the orchestra recorded it as an instrumental in 1953 and it charted that year; the 6 April 1953 date (the first Capitol session) is from earlier research. Personnel is given only as the orchestra (individual names not verified for this session). Capitol catalogue not found. Ellington is at the upper end of the per-leader cap across the set. Duration approximate (not taken from a source)."
+  },
+  {
+    "id": "jazz-jordan-caldonia",
+    "artist": "Louis Jordan and His Tympany Five",
+    "title": "Caldonia",
+    "composer": "Fleecie Moore (credited); written by Louis Jordan",
+    "recording_date": "1945-01-19",
+    "recording_year": 1945,
+    "release_year": 1945,
+    "original_issue": "Decca 8670 (10-inch 78 rpm; matrix 72711A; b/w \"Somebody Done Changed the Lock on My Door\")",
+    "personnel": "Louis Jordan (alto sax, vocal) and His Tympany Five; the sidemen were not verified",
+    "style": "swing",
+    "year": 1945,
+    "year_lo": 1945,
+    "year_hi": 1945,
+    "year_label": "1945",
+    "trivia": "Credited to Jordan's then wife Fleecie Moore, the song is generally held to be Jordan's own work. It topped the race (R&B) chart for seven weeks from June 1945 and also crossed over to number six on the Billboard pop chart.",
+    "tags": [
+      "1940s",
+      "swing",
+      "decca",
+      "jump-blues",
+      "vocal"
+    ],
+    "track": {
+      "artist": "Louis Jordan and His Tympany Five",
+      "title": "Caldonia",
+      "album": "Single (Decca 8670)",
+      "duration": "2:40",
+      "isrc": null,
+      "query": "Louis Jordan and His Tympany Five Caldonia 1945 Decca",
+      "notes": "Original Decca studio single of January 1945, not Jordan's remakes for Mercury (1956) or the 1973 LP I Believe in Music"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Caldonia",
+      "http://www.78discography.com/Dec8500.htm",
+      "https://en.wikipedia.org/wiki/Louis_Jordan",
+      "https://en.wikipedia.org/wiki/List_of_Grammy_Hall_of_Fame_Award_recipients_(A%E2%80%93D)"
+    ],
+    "notes": "Date (19 Jan 1945), Decca 8670, matrix 72711A, B-side, 2:40 duration and the chart claims from the Wikipedia infobox and text; the 78discography Decca listing shows 4/19/45, which looks like a typo because the neighbouring matrices 72707 and 72708 are dated 1/18/45. No sideman credits were found (MusicBrainz had none for this recording), hence medium. The Grammy Hall of Fame lists 'Caldonia Boogie' (Decca 1945), which is presumably this record but is not stated to be so. Jordan is at two cards with Choo Choo Ch'Boogie."
+  },
+  {
+    "id": "jazz-gillespie-groovin-high",
+    "artist": "Dizzy Gillespie and His Sextet",
+    "title": "Groovin' High",
+    "composer": "Dizzy Gillespie",
+    "recording_date": "1945-02-28",
+    "recording_year": 1945,
+    "release_year": 1946,
+    "original_issue": "Guild 1001 (78 rpm; b/w \"Blue 'n' Boogie\"); also Musicraft 485 (78 rpm); matrix G554A-1, recorded in New York",
+    "personnel": "Dizzy Gillespie (trumpet), Charlie Parker (alto sax), Clyde Hart (piano), Remo Palmieri (guitar), Slam Stewart (bass), Cozy Cole (drums)",
+    "style": "bebop",
+    "year": 1945,
+    "year_lo": 1945,
+    "year_hi": 1945,
+    "year_label": "1945",
+    "trivia": "Built on the chord changes of the old pop song 'Whispering', this has been called the first famous bebop recording, with Gillespie and Charlie Parker sharing the front line. The Recording Academy inducted it into its Grammy Hall of Fame in 2000.",
+    "tags": [
+      "1940s",
+      "bebop",
+      "guild"
+    ],
+    "track": {
+      "artist": "Dizzy Gillespie and His Sextet",
+      "title": "Groovin' High",
+      "album": "Single (Guild 1001)",
+      "duration": "2:38",
+      "isrc": null,
+      "query": "Dizzy Gillespie Sextet Groovin' High 1945 Charlie Parker Guild",
+      "notes": "The 28 February 1945 studio master with Charlie Parker (Guild), not the 9 February session take or later Gillespie remakes"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://www.jazzdisco.org/dizzy-gillespie/discography/",
+      "https://en.wikipedia.org/wiki/Groovin'_High",
+      "https://en.wikipedia.org/wiki/List_of_Grammy_Hall_of_Fame_Award_recipients_(E%E2%80%93I)"
+    ],
+    "notes": "DATE CONFLICT: jazzdisco gives the New York session of 28 February 1945 (matrix G554A-1) and Wikipedia's text says the 9 February performance, with Dexter Gordon, was reworked on 28 February, but its infobox says 9 February; 28 February used because that is the famous version. Release year is uncertain: the Grammy Hall of Fame lists Guild 1946, Wikipedia's infobox says March 1947 (Musicraft), so 1946 is used and the 1945-47 range is possible. Duration 2:38 is the Wikipedia infobox length. Gillespie is at four cards with this one."
+  },
+  {
+    "id": "jazz-parker-donna-lee",
+    "artist": "Charlie Parker All Stars",
+    "title": "Donna Lee",
+    "composer": "Charlie Parker (credited on the 78); authorship disputed",
+    "recording_date": "1947-05-08",
+    "recording_year": 1947,
+    "release_year": 1947,
+    "original_issue": "Savoy 652 (10-inch 78 rpm; matrix S3420; b/w \"Buzzy\"), recorded at Harry Smith Studios, New York",
+    "personnel": "Charlie Parker (alto sax), Miles Davis (trumpet), Bud Powell (piano), Tommy Potter (bass), Max Roach (drums)",
+    "style": "bebop",
+    "year": 1947,
+    "year_lo": 1947,
+    "year_hi": 1947,
+    "year_label": "1947",
+    "trivia": "The 78 credited the tune to Parker, but Miles Davis later claimed it. It opens with an unusual half-bar rest and is built from four-note groups over each chord of 'Back Home Again in Indiana'.",
+    "tags": [
+      "1940s",
+      "bebop",
+      "savoy"
+    ],
+    "track": {
+      "artist": "Charlie Parker",
+      "title": "Donna Lee",
+      "album": "Single (Savoy 652)",
+      "duration": "2:35",
+      "isrc": null,
+      "query": "Charlie Parker Miles Davis Donna Lee 1947 Savoy",
+      "notes": "The Savoy 652 master from 8 May 1947 (the take issued on the 78), not the alternate takes released later"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://www.jazzdisco.org/charlie-parker/discography/",
+      "https://en.wikipedia.org/wiki/Donna_Lee"
+    ],
+    "notes": "Date, location, Savoy 652, matrix S3420 and personnel from jazzdisco, which also lists the 652 take as S3420-5 (original take 3); Wikipedia describes four takes with the fourth as master, so the take numbering conflicts. Authorship, source tune and half-bar rest from Wikipedia. Billing is Charlie Parker All Stars in jazzdisco and Charlie Parker Quintet on Wikipedia; the Savoy label billing was not verified. The B-side Buzzy is from Wikipedia. The 1947 release year is inferred from the 78 number and the 1947 copyright and was not checked against a label date. Duration is approximate (MusicBrainz lengths for Savoy issues about 2:30 to 2:35). Parker is at five cards with this one."
+  },
+  {
+    "id": "jazz-monk-epistrophy",
+    "artist": "Thelonious Monk Quartet",
+    "title": "Epistrophy",
+    "composer": "Thelonious Monk, Kenny Clarke",
+    "recording_date": "1948-07-02",
+    "recording_year": 1948,
+    "release_year": 1948,
+    "original_issue": "Blue Note 548 (10-inch 78 rpm; matrix BN330; b/w \"In Walked Bud\"), recorded at Apex Studios, New York",
+    "personnel": "Thelonious Monk (piano), Milt Jackson (vibraphone), John Simmons (bass), Shadow Wilson (drums)",
+    "style": "bebop",
+    "year": 1948,
+    "year_lo": 1948,
+    "year_hi": 1948,
+    "year_label": "1948",
+    "trivia": "Monk wrote the tune with drummer Kenny Clarke, and it was copyrighted in 1941, years before this recording and as Monk's first copyrighted composition. Albums by Steve Lacy and by Ran Blake were later named after the tune.",
+    "tags": [
+      "1940s",
+      "bebop",
+      "blue-note"
+    ],
+    "track": {
+      "artist": "Thelonious Monk",
+      "title": "Epistrophy",
+      "album": "Single (Blue Note 548); later on Genius of Modern Music",
+      "duration": "3:09",
+      "isrc": null,
+      "query": "Thelonious Monk Quartet Epistrophy 1948 Blue Note Milt Jackson",
+      "notes": "The Blue Note studio master of 2 July 1948 with Milt Jackson on vibes, not later Monk remakes or live versions"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://www.jazzdisco.org/thelonious-monk/discography/",
+      "https://en.wikipedia.org/wiki/Epistrophy",
+      "https://musicbrainz.org/recording/096001e2-c912-499b-ba08-13045a1d1599"
+    ],
+    "notes": "Date, location, Blue Note 548, coupling and personnel from jazzdisco and Wikipedia; the 1941 copyright and Clarke co-credit from Wikipedia. The 1948 release year is inferred from the label number and was not checked against a label date. Duration is the MusicBrainz length. The Lacy and Blake album titles are from Wikipedia's Epistrophy disambiguation. Monk is at four cards with this one."
+  },
+  {
+    "id": "jazz-machito-tanga",
+    "artist": "Machito and His Afro-Cubans",
+    "title": "Tanga",
+    "composer": "Mario Bauza",
+    "recording_date": "1948-12",
+    "recording_year": 1948,
+    "release_year": 1949,
+    "original_issue": "78 rpm single (label and catalogue number not verified); the track is on Jazz: The Smithsonian Anthology (2011)",
+    "personnel": "Machito (maracas, vocal, leader), Mario Bauza, Frank \"Paquito\" Davilla and Bobby Woodlen (trumpets), Fred Skerritt and Gene Johnson (alto sax), Jose Madera and Flip Phillips (tenor sax), Leslie Johnakins (baritone sax), Rene Hernandez (piano), Roberto Rodriguez (bass), Luis Miranda (congas), Jose Mangual (bongos), Ubaldo Nieto (timbales)",
+    "style": "latin",
+    "year": 1948,
+    "year_lo": 1948,
+    "year_hi": 1948,
+    "year_label": "1948",
+    "trivia": "Machito's Afro-Cubans, formed in New York in 1940 with Mario Bauza as musical director, fused Cuban rhythms with big-band jazz arrangements, and Tanga is Bauza's composition. Swing tenor Flip Phillips is credited among the saxophonists on this version.",
+    "tags": [
+      "1940s",
+      "latin",
+      "afro-cuban",
+      "big-band"
+    ],
+    "track": {
+      "artist": "Machito and His Afro-Cubans",
+      "title": "Tanga",
+      "album": "Single (1949); also on Jazz: The Smithsonian Anthology",
+      "duration": "5:11",
+      "isrc": null,
+      "query": "Machito and His Afro-Cubans Tanga 1948 Smithsonian Anthology",
+      "notes": "Machito and His Afro-Cubans, December 1948 recording (the 5:11 Smithsonian Anthology track), not later Machito remakes of Tanga"
+    },
+    "confidence": "low",
+    "sources": [
+      "https://musicbrainz.org/recording/3915e636-961a-4f34-9585-2242f2c9bd33",
+      "https://en.wikipedia.org/wiki/Machito"
+    ],
+    "notes": "LOW CONFIDENCE: the only source for the December 1948 date and the personnel is the MusicBrainz credit list for the track on the Smithsonian anthology (no Wikipedia song page exists). Label, catalogue number, the exact day and the original release year (1949 is a guess) were not verified, and Machito recorded Tanga more than once (MusicBrainz lists many versions with lengths from about 3:00 to 7:00), so the resolver note names the 5:11 version. Chosen to cover Latin jazz after the 1943-dated candidate proved to be a 1948 recording. The Afro-Cubans' formation date and Bauza's role are from Wikipedia's Machito article. Duration approximate (not taken from a source)."
+  },
+  {
+    "id": "jazz-gillespie-hot-house",
+    "artist": "Dizzy Gillespie and His All Stars",
+    "title": "Hot House",
+    "composer": "Tadd Dameron",
+    "recording_date": "1945-05-11",
+    "recording_year": 1945,
+    "release_year": 1945,
+    "original_issue": "Guild 1003 (10-inch 78 rpm; matrix G568A-1; b/w \"Salt Peanuts\"); also Musicraft 486 (b/w \"Blue 'N' Boogie\")",
+    "personnel": "Dizzy Gillespie (trumpet), Charlie Parker (alto sax), Al Haig (piano), Curly Russell (bass), Sidney Catlett (drums)",
+    "style": "bebop",
+    "year": 1945,
+    "year_lo": 1945,
+    "year_hi": 1945,
+    "year_label": "1945",
+    "trivia": "Tadd Dameron wrote this bebop anthem over the chord changes of Cole Porter's \"What Is This Thing Called Love?\". Gillespie and Charlie Parker cut it at the May 1945 session that also produced \"Salt Peanuts\", \"Shaw 'Nuff\" and \"Lover Man\".",
+    "tags": [
+      "1940s",
+      "bebop",
+      "guild",
+      "contrafact"
+    ],
+    "track": {
+      "artist": "Dizzy Gillespie and His All Stars",
+      "title": "Hot House",
+      "album": "Salt Peanuts / Hot House (Guild 1003, 78 rpm single)",
+      "duration": "3:11",
+      "isrc": null,
+      "query": "Dizzy Gillespie and His All Stars Hot House Guild 1003 1945",
+      "notes": "Guild 1003 studio recording of 11 May 1945; not the Town Hall live version of 22 June 1945 or the Carnegie Hall 1947 and Massey Hall 1953 live versions"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://www.jazzdisco.org/dizzy-gillespie/discography/",
+      "https://en.wikipedia.org/wiki/Hot_House_(composition)",
+      "https://musicbrainz.org/recording/36098d99-6a64-437c-b2b9-73d5368dc5c2"
+    ],
+    "notes": "Date (11 May 1945), matrix G568A-1, Guild 1003, the Musicraft 486 reissue and the personnel come from jazzdisco; MusicBrainz lists the single as Salt Peanuts / Hot House (1945-07). Conflict: Wikipedia's Hot House article says Gillespie and Parker first recorded it for Savoy in 1945, whereas jazzdisco lists Guild and Musicraft as the 78 issues and Savoy only as a 1955 LP reissue; the jazzdisco account is used. Same session and single as the existing \"Salt Peanuts\" card. Duration: MusicBrainz's 2:27 conflicts with 78 rpm transfers on YouTube at about 3:11, which is used and is approximate. Uses Gillespie's one slot in this slice."
+  },
+  {
+    "id": "jazz-garner-laura",
+    "artist": "Erroll Garner Trio",
+    "title": "Laura",
+    "composer": "David Raksin (lyrics Johnny Mercer)",
+    "recording_date": "1945-09-25",
+    "recording_year": 1945,
+    "release_year": 1945,
+    "original_issue": "Savoy 571 (10-inch 78 rpm; matrix S5837; b/w \"Somebody Loves Me\")",
+    "personnel": "Erroll Garner (piano), John Levy (bass), George De Hart (drums)",
+    "style": "swing",
+    "year": 1945,
+    "year_lo": 1945,
+    "year_hi": 1945,
+    "year_label": "1945",
+    "trivia": "David Raksin wrote the melody for the 1944 film Laura in a single weekend, after director Otto Preminger had wanted Ellington's \"Sophisticated Lady\" as the theme. Garner's trio recording later gave its name to the Savoy album \"Erroll Garner's Serenade to Laura\".",
+    "tags": [
+      "1940s",
+      "swing",
+      "savoy",
+      "piano",
+      "trio",
+      "ballad"
+    ],
+    "track": {
+      "artist": "Erroll Garner Trio",
+      "title": "Laura",
+      "album": "Laura / Somebody Loves Me (Savoy 571, 78 rpm single)",
+      "duration": "2:46",
+      "isrc": null,
+      "query": "Erroll Garner Trio Laura Savoy 1945",
+      "notes": "Savoy studio recording of 25 Sep 1945 by the Garner trio (Savoy 571); not Garner's 1947 recording or his later versions"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://www.jazzdisco.org/erroll-garner/discography/",
+      "https://en.wikipedia.org/wiki/Laura_(1945_song)",
+      "http://www.78discography.com/Sav500.htm"
+    ],
+    "notes": "Date (25 Sep 1945), matrix S5837 and Savoy 571 come from the 78discography Savoy listing and jazzdisco, which also gives the trio personnel and the 1956 LP title. The release year 1945 is inferred from the Savoy number and not verified. Tier C, with the reason: it is known mainly to piano-jazz fans, but it is a documented landmark among Garner's earliest records and adds piano-trio variety to the slice. Duration (2:46) is from a YouTube upload of the 78 and is approximate. Garner's second card in the set, after Misty."
+  },
+  {
+    "id": "jazz-eckstine-prisoner-of-love",
+    "artist": "Billy Eckstine and His Orchestra",
+    "title": "Prisoner of Love",
+    "composer": "Russ Columbo and Clarence Gaskill (lyrics Leo Robin)",
+    "recording_date": "1945-09-04",
+    "recording_year": 1945,
+    "release_year": 1945,
+    "original_issue": "National 9017 (10-inch 78 rpm; matrix NSC62; b/w \"All I Sing Is Blues\")",
+    "personnel": "Billy Eckstine (vocal, leader), Richard Ellington (piano), Art Blakey (drums); the rest of the orchestra was not verified",
+    "style": "vocal",
+    "year": 1945,
+    "year_lo": 1945,
+    "year_hi": 1945,
+    "year_label": "1945",
+    "trivia": "Eckstine's baritone reading of Russ Columbo's 1931 song became a million seller and a number-ten hit. Perry Como's competing recording followed in 1946 and reached number one.",
+    "tags": [
+      "1940s",
+      "vocal",
+      "ballad",
+      "big-band"
+    ],
+    "track": {
+      "artist": "Billy Eckstine and His Orchestra",
+      "title": "Prisoner of Love",
+      "album": "Prisoner of Love / All I Sing Is Blues (National 9017, 78 rpm single)",
+      "duration": "2:53",
+      "isrc": null,
+      "query": "Billy Eckstine and His Orchestra Prisoner of Love National 9017 1945",
+      "notes": "National 9017 studio recording of Sept 1945 with Billy Eckstine's vocal; not the Perry Como or Ink Spots versions"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Prisoner_of_Love_(Russ_Columbo_song)",
+      "http://www.78discography.com/NationalLate.htm",
+      "https://musicbrainz.org/recording/5b4ad67c-cf46-4a59-a6ee-d9abd383d799"
+    ],
+    "notes": "The day (4 Sep 1945), the piano and drum credits and the chart claims come from Wikipedia; the 78discography National listing gives only \"9/?/45\" for the session, with National 9017 and matrix NSC62, so the month agrees. MusicBrainz dates the release 1945. The rest of the orchestra was not verified. Duration (2:53) is from a YouTube upload and is approximate."
+  },
+  {
+    "id": "jazz-perez-prado-mambo-no-5",
+    "artist": "Pérez Prado y su Orquesta",
+    "title": "Mambo No. 5",
+    "composer": "Dámaso Pérez Prado",
+    "recording_date": null,
+    "recording_year": 1949,
+    "release_year": 1950,
+    "original_issue": "RCA 23-1546 (10-inch 78 rpm; b/w \"Qué rico el mambo\"; release date per a MusicBrainz entry)",
+    "personnel": "Pérez Prado (leader) and his orchestra; personnel was not verified",
+    "style": "latin",
+    "year": 1949,
+    "year_lo": 1949,
+    "year_hi": 1949,
+    "year_label": "1949",
+    "trivia": "Prado's instrumental mambo was recorded in 1949 and released a year later, and its riffs were the basis of Lou Bega's worldwide hit of the same name in 1999. A seven-year copyright dispute ended in 2008 with a German court treating Bega's version as a new song co-written by Prado and Bega.",
+    "tags": [
+      "1940s",
+      "latin",
+      "rca",
+      "mambo",
+      "big-band",
+      "crossover"
+    ],
+    "track": {
+      "artist": "Pérez Prado",
+      "title": "Mambo No. 5",
+      "album": "Qué rico el mambo / Mambo No. 5 (RCA 23-1546, 78 rpm single)",
+      "duration": "2:48",
+      "isrc": null,
+      "query": "Pérez Prado Mambo No. 5 RCA Victor single 1949",
+      "notes": "The original 1949 RCA Victor recording by Pérez Prado; not Lou Bega's 1999 version"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Mambo_No._5",
+      "https://musicbrainz.org/release/0488b108-7393-4c9a-8fcd-245ed392e113"
+    ],
+    "notes": "The recording year (1949) and the 1950 release come from Wikipedia; the exact recording date was not found, so only the year is given. RCA 23-1546 (b/w \"Qué rico el mambo\") comes from a MusicBrainz release dated 1950. Wikipedia's 2:48 length is flagged citation needed (a 78 transfer on YouTube also runs 2:48), so the duration is approximate. Personnel not verified. Medium confidence because the date and issue each rest on a single weak source. Crossover pick: Latin big band."
+  },
+  {
+    "id": "jazz-ammons-my-foolish-heart",
+    "artist": "Gene Ammons Sextet",
+    "title": "My Foolish Heart",
+    "composer": "Victor Young and Ned Washington",
+    "recording_date": "1950-05-02",
+    "recording_year": 1950,
+    "release_year": 1950,
+    "original_issue": "Chess 1425 (78 rpm single, 1950), b/w \"Bless You\"; matrix U-7250",
+    "personnel": "Bill Massey (trumpet), Matthew Gee (trombone), Gene Ammons (tenor sax), Charlie Bateman (piano), Gene Wright (bass), Wesley Landers (drums)",
+    "style": "bebop",
+    "year": 1950,
+    "year_lo": 1950,
+    "year_hi": 1950,
+    "year_label": "1950",
+    "trivia": "Chess 1425 was one of the first two records on Leonard Chess's brand-new Chess label, ahead of Muddy Waters's \"Rolling Stone\" on Chess 1426, and this tenor ballad made Billboard's black pop chart in 1950.",
+    "tags": [
+      "1950s",
+      "bebop",
+      "chess",
+      "ballad",
+      "tenor-sax"
+    ],
+    "track": {
+      "artist": "Gene Ammons",
+      "title": "My Foolish Heart",
+      "album": "Bless You / My Foolish Heart (Chess 1425 single)",
+      "duration": "2:50",
+      "isrc": null,
+      "query": "Gene Ammons My Foolish Heart Chess 1425 1950",
+      "notes": "Chicago studio master of 2 May 1950, issued on the Chess 78; not Ammons's later Prestige or 1960s remakes of the tune"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://www.jazzdisco.org/gene-ammons/discography/",
+      "https://en.wikipedia.org/wiki/Gene_Ammons",
+      "https://en.wikipedia.org/wiki/My_Foolish_Heart"
+    ],
+    "notes": "Tier C: a historically notable record (first release on Chess, a chart hit in 1950) but little known to a general jazz audience today. Date, matrix, personnel and issue from jazzdisco; the chart and label-history claims from Wikipedia (Wikipedia says it was the first of the label's two initial records). Duration is approximate (YouTube copies of the 78 run 2:46-2:54)."
+  },
+  {
+    "id": "jazz-getz-dear-old-stockholm",
+    "artist": "Stan Getz and Swedish All Stars",
+    "title": "Dear Old Stockholm",
+    "composer": "Traditional Swedish folk song \"Ack Värmeland, du sköna\"",
+    "recording_date": "1951-03-23",
+    "recording_year": 1951,
+    "release_year": 1951,
+    "original_issue": "Metronome (Sweden) B 554 (78 rpm single, b/w \"S'cool Boy\"); Roost 532 (b/w \"I Only Have Eyes for You\"); LP \"The Sound\", Roost RLP 2207",
+    "personnel": "Stan Getz (tenor sax), Bengt Hallberg (piano), Gunnar Johnson (bass), Jack Noren (drums)",
+    "style": "cool",
+    "year": 1951,
+    "year_lo": 1951,
+    "year_hi": 1951,
+    "year_label": "1951",
+    "trivia": "Getz cut this Swedish folk tune about the province of Värmland in Stockholm with a local rhythm section featuring pianist Bengt Hallberg, and it became a jazz standard; Miles Davis recorded it for Blue Note the following year.",
+    "tags": [
+      "1950s",
+      "cool",
+      "metro"
+    ],
+    "track": {
+      "artist": "Stan Getz and Swedish All Stars",
+      "title": "Dear Old Stockholm",
+      "album": "Dear Old Stockholm / S'cool Boy (Metronome B 554 single)",
+      "duration": "2:55",
+      "isrc": null,
+      "query": "Stan Getz and Swedish All Stars Dear Old Stockholm Metronome 1951",
+      "notes": "Studio recording made in Stockholm on 23 March 1951 (logged by jazzdisco as \"Ack, Varmeland Du Skona (as Dear Old Stockholm)\"); not Miles Davis 1952, Coltrane 1963 or Getz's later remakes"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://www.jazzdisco.org/stan-getz/discography/",
+      "https://en.wikipedia.org/wiki/Dear_Old_Stockholm"
+    ],
+    "notes": "Date, matrix mr227-A, personnel and issue numbers from jazzdisco (Stan Getz and Swedish All Stars Featuring Bengt Hallberg). The release year of Metronome B 554 / Roost 532 is not given in the sources read, so rel 1951 is inferred from the session date; hence medium. Duration approximate (YouTube copies about 2:50-2:56)."
+  },
+  {
+    "id": "jazz-les-paul-how-high-the-moon",
+    "artist": "Les Paul and Mary Ford",
+    "title": "How High the Moon",
+    "composer": "Morgan Lewis and Nancy Hamilton",
+    "recording_date": "1951-01-04",
+    "recording_year": 1951,
+    "release_year": 1951,
+    "original_issue": "Capitol 1451 (78 rpm single, released 26 March 1951), b/w \"Walkin' and Whistlin' Blues\"",
+    "personnel": "Les Paul (all guitar parts, multitracked), Mary Ford (vocal)",
+    "style": "swing",
+    "year": 1951,
+    "year_lo": 1951,
+    "year_hi": 1951,
+    "year_label": "1951",
+    "trivia": "Paul played every guitar part himself and built the sound by overdubbing in their apartment studio in Jackson Heights, Queens; the single spent nine weeks at number one on the Billboard chart in 1951.",
+    "tags": [
+      "1950s",
+      "swing",
+      "capitol",
+      "guitar",
+      "multitrack",
+      "pop",
+      "crossover"
+    ],
+    "track": {
+      "artist": "Les Paul and Mary Ford",
+      "title": "How High the Moon",
+      "album": "How High the Moon / Walkin' and Whistlin' Blues (Capitol 1451 single)",
+      "duration": "2:07",
+      "isrc": null,
+      "query": "Les Paul and Mary Ford How High the Moon Capitol 1451 1951",
+      "notes": "Capitol single master, the multitracked studio recording (2:07); not later live or TV performances, nor Ella Fitzgerald's 1960 Berlin version"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/How_High_the_Moon",
+      "http://www.78discography.com/Capitol1000.htm"
+    ],
+    "notes": "Crossover/jazz-adjacent pick (Les Paul was a jazz guitarist, but this is a pop hit); inducted into the Grammy Hall of Fame in 1979 per Wikipedia. Date conflict: Wikipedia gives 4 Jan 1951 at the Jackson Heights home studio, while the 78discography Capitol page shows only \"about late 1950\". Wikipedia chosen because it gives day and place and the single came out 26 March 1951."
+  },
+  {
+    "id": "jazz-forrest-night-train",
+    "artist": "Jimmy Forrest",
+    "title": "Night Train",
+    "composer": "Jimmy Forrest and Oscar Washington (built on a riff known from Ellington-band recordings)",
+    "recording_date": "1951-11-27",
+    "recording_year": 1951,
+    "release_year": 1952,
+    "original_issue": "United 110 (78 rpm single, released 1 March 1952), b/w \"Bolo Blues\"",
+    "personnel": "Jimmy Forrest (tenor sax) with his band (other personnel not verified)",
+    "style": "swing",
+    "year": 1951,
+    "year_lo": 1951,
+    "year_hi": 1951,
+    "year_label": "1951",
+    "trivia": "Forrest turned an old Johnny Hodges and Duke Ellington riff into a stop-time R&B number, and his tenor break became the part other bands copy; it was the fifth best-selling R&B record of 1952.",
+    "tags": [
+      "1950s",
+      "swing",
+      "r&b",
+      "tenor-sax",
+      "blues"
+    ],
+    "track": {
+      "artist": "Jimmy Forrest",
+      "title": "Night Train",
+      "album": "Night Train / Bolo Blues (United 110 single)",
+      "duration": "2:50",
+      "isrc": null,
+      "query": "Jimmy Forrest Night Train United 110 1951",
+      "notes": "Jimmy Forrest's original United single (2:50), not the Buddy Morrow 1953 hit or later Oscar Peterson and James Brown versions"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Night_Train_(Jimmy_Forrest_composition)"
+    ],
+    "notes": "Single-source (Wikipedia) for the date 27 Nov 1951, the 1 Mar 1952 release, 2:50 and the chart ranking; band personnel beyond Forrest not verified. The song page credits Forrest and Oscar Washington (BMI)."
+  },
+  {
+    "id": "jazz-johnny-smith-moonlight-in-vermont",
+    "artist": "Johnny Smith Quintet",
+    "title": "Moonlight in Vermont",
+    "composer": "John Blackburn and Karl Suessdorf",
+    "recording_date": "1952-03-11",
+    "recording_year": 1952,
+    "release_year": 1952,
+    "original_issue": "Roost single, 1952 (catalogue number not verified); also on the 10-inch LP Roost RLP 410 (\"Jazz at NBC\" series); matrix R1108",
+    "personnel": "Johnny Smith (guitar), Stan Getz (tenor sax), Sanford Gold (piano), Eddie Safranski (bass), Don Lamond (drums)",
+    "style": "cool",
+    "year": 1952,
+    "year_lo": 1952,
+    "year_hi": 1952,
+    "year_label": "1952",
+    "trivia": "The 1952 single was an unexpected jazz hit that stayed on the charts for months and ranked second among jazz records of the year in DownBeat's readers' poll, and it helped Getz win a contract with Norman Granz.",
+    "tags": [
+      "1950s",
+      "cool",
+      "roost"
+    ],
+    "track": {
+      "artist": "Johnny Smith Quintet",
+      "title": "Moonlight in Vermont",
+      "album": "Moonlight in Vermont (Roost single, 1952; later the title track of the 1956 album \"Moonlight in Vermont\")",
+      "duration": "3:12",
+      "isrc": null,
+      "query": "Johnny Smith Quintet Moonlight in Vermont Roost 1952",
+      "notes": "March 1952 studio recording with Stan Getz on tenor (3:12 on the 1956 album); not later Smith remakes or other artists' versions"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://www.jazzdisco.org/stan-getz/discography/",
+      "https://en.wikipedia.org/wiki/Moonlight_in_Vermont_(album)",
+      "https://en.wikipedia.org/wiki/Moonlight_in_Vermont_(song)"
+    ],
+    "notes": "Date, matrix and personnel from jazzdisco (Getz discography, 11 March 1952); the single's catalogue number is not given in the sources read. Duration is the album-track length from Wikipedia and may differ slightly from the single."
+  },
+  {
+    "id": "jazz-mulligan-bernies-tune",
+    "artist": "Gerry Mulligan Quartet",
+    "title": "Bernie's Tune",
+    "composer": "Bernie Miller",
+    "recording_date": "1952-08-16",
+    "recording_year": 1952,
+    "release_year": 1952,
+    "original_issue": "Pacific Jazz 601 (78/45 rpm single, 1952), b/w \"Lullaby of the Leaves\"; matrix PJ-206-3; also on the 10-inch LP Pacific Jazz PJ LP-1 (1952)",
+    "personnel": "Gerry Mulligan (baritone sax), Chet Baker (trumpet), Bob Whitlock (bass), Chico Hamilton (drums)",
+    "style": "west-coast",
+    "year": 1952,
+    "year_lo": 1952,
+    "year_hi": 1952,
+    "year_label": "1952",
+    "trivia": "Cut at Phil Turetsky's house in Los Angeles by a pianoless quartet of baritone, trumpet, bass and drums; Mulligan popularised this tune by Bernie Miller, a little-documented Washington DC pianist.",
+    "tags": [
+      "1950s",
+      "west-coast",
+      "pacific-jazz",
+      "pianoless"
+    ],
+    "track": {
+      "artist": "Gerry Mulligan Quartet",
+      "title": "Bernie's Tune",
+      "album": "Bernie's Tune / Lullaby of the Leaves (Pacific Jazz 601 single)",
+      "duration": "2:55",
+      "isrc": null,
+      "query": "Gerry Mulligan Quartet Bernie's Tune Pacific Jazz 601 1952",
+      "notes": "Pacific Jazz master PJ-206-3 of 16 Aug 1952; not Mulligan's later remakes or the Al Haig/Chet Baker jam version of 4 Aug 1952"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://www.jazzdisco.org/chet-baker/discography/",
+      "https://en.wikipedia.org/wiki/Bernie's_Tune"
+    ],
+    "notes": "Date, location, matrix, personnel and issues from jazzdisco (Chet Baker discography); composer background from Wikipedia. Duration approximate (YouTube copies about 2:54). Mulligan's second card (the existing one is My Funny Valentine)."
+  },
+  {
+    "id": "jazz-king-pleasure-moodys-mood-for-love",
+    "artist": "King Pleasure",
+    "title": "Moody's Mood for Love",
+    "composer": "Eddie Jefferson (lyric), from James Moody's 1949 solo on \"I'm in the Mood for Love\"",
+    "recording_date": "1952-02-19",
+    "recording_year": 1952,
+    "release_year": 1952,
+    "original_issue": "Prestige 924 (78 rpm single, 1952), b/w \"Exclamation Blues\"",
+    "personnel": "King Pleasure (vocal), Blossom Dearie (vocal), Merrill Stepter (trumpet), Lem Davis (alto sax), Ray Abrams (tenor sax), Cecil Payne (baritone sax), Teacho Wiltshire (piano), Leonard Gaskin (bass), Teddy Lee (drums)",
+    "style": "vocal",
+    "year": 1952,
+    "year_lo": 1952,
+    "year_hi": 1952,
+    "year_label": "1952",
+    "trivia": "Pleasure won first prize at the Apollo Theater's amateur hour in November 1951 with this vocalese setting of a James Moody tenor solo; his Prestige recording, with Blossom Dearie singing the female answer, was his first and helped popularise vocalese.",
+    "tags": [
+      "1950s",
+      "vocal",
+      "prestige",
+      "vocalese",
+      "bebop"
+    ],
+    "track": {
+      "artist": "King Pleasure",
+      "title": "Moody's Mood for Love",
+      "album": "Moody's Mood for Love / Exclamation Blues (Prestige 924 single)",
+      "duration": "3:00",
+      "isrc": null,
+      "query": "King Pleasure Moody's Mood for Love Prestige 924 1952",
+      "notes": "King Pleasure's 1952 Prestige 78 with Blossom Dearie and Teacho Wiltshire's band; not James Moody's own 1949 recording or later covers"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/King_Pleasure",
+      "https://en.wikipedia.org/wiki/Moody's_Mood_for_Love"
+    ],
+    "notes": "Wikipedia's King Pleasure discography lists the session as \"NYC, February 19\" under the 1952 releases without stating the year; 1952 is inferred (the Apollo contract came in Nov 1951 and the record was released in 1952). Personnel and Prestige 924 from the same table. Duration approximate (YouTube copies about 2:59-3:03)."
+  },
+  {
+    "id": "jazz-getz-stella-by-starlight",
+    "artist": "Stan Getz",
+    "title": "Stella by Starlight",
+    "composer": "Victor Young and Ned Washington",
+    "recording_date": "1952-12-12",
+    "recording_year": 1952,
+    "release_year": 1953,
+    "original_issue": "Clef MGC-137 (10-inch LP \"Stan Getz Plays\", 1953); Norgran 134 single (1955), b/w \"Time on My Hands\"; matrix 956-3",
+    "personnel": "Stan Getz (tenor sax), Duke Jordan (piano), Jimmy Raney (guitar), Bill Crow (bass), Frank Isola (drums)",
+    "style": "cool",
+    "year": 1952,
+    "year_lo": 1952,
+    "year_hi": 1952,
+    "year_label": "1952",
+    "trivia": "This Victor Young ballad is the first title of the December 1952 studio session for Norman Granz that produced the ballad-heavy 10-inch LP \"Stan Getz Plays\".",
+    "tags": [
+      "1950s",
+      "cool",
+      "clef"
+    ],
+    "track": {
+      "artist": "Stan Getz",
+      "title": "Stella by Starlight",
+      "album": "Stan Getz Plays",
+      "duration": "2:41",
+      "isrc": null,
+      "query": "Stan Getz Stella by Starlight Stan Getz Plays 1952",
+      "notes": "Studio master of 12 Dec 1952 (2:41), not Getz's later live versions"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://www.jazzdisco.org/stan-getz/discography/",
+      "https://en.wikipedia.org/wiki/Stan_Getz_Plays"
+    ],
+    "notes": "Date, matrix, personnel and issues from jazzdisco (Getz discography); duration from Wikipedia (CD reissue track list). Getz's second card (the other is Dear Old Stockholm)."
+  },
+  {
+    "id": "jazz-lee-black-coffee",
+    "artist": "Peggy Lee",
+    "title": "Black Coffee",
+    "composer": "Sonny Burke and Paul Francis Webster",
+    "recording_date": null,
+    "recording_year": 1953,
+    "release_year": 1953,
+    "original_issue": "Decca 10-inch LP \"Black Coffee\" (1953)",
+    "personnel": "Peggy Lee (vocal), Pete Candoli (trumpet), Jimmy Rowles (piano), Max Wayne (bass), Ed Shaughnessy (drums)",
+    "style": "vocal",
+    "year": 1953,
+    "year_lo": 1953,
+    "year_hi": 1953,
+    "year_label": "1953",
+    "trivia": "It was Lee's first chance to make an album, and Decca issued it on a ten-inch LP in 1953 because twelve-inch records were then mostly kept for classical music and Broadway casts.",
+    "tags": [
+      "1950s",
+      "vocal",
+      "decca"
+    ],
+    "track": {
+      "artist": "Peggy Lee",
+      "title": "Black Coffee",
+      "album": "Black Coffee",
+      "duration": "3:05",
+      "isrc": null,
+      "query": "Peggy Lee Black Coffee Black Coffee 1953",
+      "notes": "Original 1953 Decca studio recording from the ten-inch LP (3:05)"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Black_Coffee_(Peggy_Lee_album)"
+    ],
+    "notes": "Wikipedia gives the 1953 sessions as 30 April, 1 May and 4 May 1953 in New York without saying which day produced the title track, so only the year is stated. The LP catalogue number was not verified. Single-source (Wikipedia)."
+  },
+  {
+    "id": "jazz-webster-tenderly",
+    "artist": "Ben Webster",
+    "title": "Tenderly",
+    "composer": "Walter Gross and Jack Lawrence",
+    "recording_date": "1953-12-08",
+    "recording_year": 1953,
+    "release_year": 1954,
+    "original_issue": "Norgran 115 (single, 1954), b/w \"Pennies from Heaven\"; LP \"The Consummate Artistry of Ben Webster\", Norgran MGN-1001 (1954), later retitled \"King of the Tenors\"",
+    "personnel": "Ben Webster (tenor sax), Oscar Peterson (piano), Herb Ellis (guitar), Ray Brown (bass), Alvin Stoller (drums)",
+    "style": "swing",
+    "year": 1953,
+    "year_lo": 1953,
+    "year_hi": 1953,
+    "year_label": "1953",
+    "trivia": "Webster plays Walter Gross's ballad with the Oscar Peterson rhythm section and no other horns behind him; Norgran paired it with \"Pennies from Heaven\" on a 1954 single.",
+    "tags": [
+      "1950s",
+      "swing",
+      "norgran"
+    ],
+    "track": {
+      "artist": "Ben Webster",
+      "title": "Tenderly",
+      "album": "The Consummate Artistry of Ben Webster (later King of the Tenors)",
+      "duration": "3:02",
+      "isrc": null,
+      "query": "Ben Webster Tenderly King of the Tenors 1953",
+      "notes": "Los Angeles studio master of 8 Dec 1953, first track of the LP (3:02); not Webster's later versions"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://www.jazzdisco.org/oscar-peterson/discography/",
+      "https://en.wikipedia.org/wiki/King_of_the_Tenors"
+    ],
+    "notes": "Borderline B/C: the album is a landmark tenor ballad record but the track is better known to saxophone fans than to a general audience. Date and issues from jazzdisco (Peterson discography). Personnel conflict: jazzdisco lists Benny Carter and Harry Edison for the whole 8 Dec session, whereas Wikipedia places them only on tracks 2-4, 6 and 11; Tenderly is track 1, so they are left out here."
+  },
+  {
+    "id": "jazz-fitzgerald-lullaby-of-birdland",
+    "artist": "Ella Fitzgerald",
+    "title": "Lullaby of Birdland",
+    "composer": "George Shearing and George David Weiss",
+    "recording_date": "1954-06-04",
+    "recording_year": 1954,
+    "release_year": 1954,
+    "original_issue": "Decca 29198 (78 rpm single, 1954), b/w \"Later\"; matrix 86367; later on the LP \"Lullabies of Birdland\" (Decca, 1955)",
+    "personnel": "Ella Fitzgerald (vocal) with Sy Oliver and His Orchestra (further personnel not verified)",
+    "style": "vocal",
+    "year": 1954,
+    "year_lo": 1954,
+    "year_hi": 1954,
+    "year_label": "1954",
+    "trivia": "Shearing wrote the tune in 1952 as the theme for a Birdland radio show, and Ella's June 1954 Decca recording with Sy Oliver's orchestra is the vocal version with George David Weiss's lyric; it later gave its name to her 1955 LP \"Lullabies of Birdland\".",
+    "tags": [
+      "1950s",
+      "vocal",
+      "decca"
+    ],
+    "track": {
+      "artist": "Ella Fitzgerald",
+      "title": "Lullaby of Birdland",
+      "album": "Lullaby of Birdland / Later (Decca 29198 single)",
+      "duration": "2:51",
+      "isrc": null,
+      "query": "Ella Fitzgerald Lullaby of Birdland Decca 29198 1954",
+      "notes": "Ella's June 1954 Decca studio recording with Sy Oliver's orchestra (2:51), not the 1952 Shearing instrumental or her later live and songbook versions"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Lullabies_of_Birdland",
+      "https://en.wikipedia.org/wiki/Lullaby_of_Birdland",
+      "http://www.78discography.com/Dec29000.htm"
+    ],
+    "notes": "Date, number and matrix from the 78discography Decca page (6/4/54); duration from Wikipedia's album track list. Third and last use of the tune planned in the set: Shearing 1952 (existing) and this card."
+  },
+  {
+    "id": "jazz-dinah-washington-teach-me-tonight",
+    "artist": "Dinah Washington",
+    "title": "Teach Me Tonight",
+    "composer": "Gene de Paul and Sammy Cahn",
+    "recording_date": "1954-11",
+    "recording_year": 1954,
+    "release_year": 1954,
+    "original_issue": "Mercury 70497 (78 rpm single, 1954), b/w \"Wishing Well\"; matrix 11062",
+    "personnel": "Dinah Washington (vocal) with orchestra (accompanists not verified)",
+    "style": "vocal",
+    "year": 1954,
+    "year_lo": 1954,
+    "year_hi": 1954,
+    "year_label": "1954",
+    "trivia": "One of five versions to chart in 1954-55, Dinah's reading reached number 4 on the R&B chart and was inducted into the Grammy Hall of Fame in 1999.",
+    "tags": [
+      "1950s",
+      "vocal",
+      "mercury"
+    ],
+    "track": {
+      "artist": "Dinah Washington",
+      "title": "Teach Me Tonight",
+      "album": "Wishing Well / Teach Me Tonight (Mercury 70497 single)",
+      "duration": "2:45",
+      "isrc": null,
+      "query": "Dinah Washington Teach Me Tonight Mercury 70497 1954",
+      "notes": "Dinah Washington's Mercury 78 of November 1954, not the DeCastro Sisters' competing pop hit"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Teach_Me_Tonight",
+      "http://www.78discography.com/Merc700.htm"
+    ],
+    "notes": "78discography lists both sides of Mercury 70497 as recorded in New York on \"11/??/54\" with no accompanist credit, so only the month is known and the band is not named. Chart and Grammy Hall of Fame facts from Wikipedia. Duration approximate (YouTube copies about 2:45-2:57)."
+  },
+  {
+    "id": "jazz-gillespie-con-alma",
+    "artist": "Dizzy Gillespie",
+    "title": "Con Alma",
+    "composer": "Dizzy Gillespie",
+    "recording_date": "1954-06-03",
+    "recording_year": 1954,
+    "release_year": 1954,
+    "original_issue": "Norgran MGN-1003 (10-inch LP \"Afro\", 1954); matrix 1740-3",
+    "personnel": "Dizzy Gillespie (trumpet, arranger), Gilbert Valdez (flute), Rene Hernandez (piano), Robert Rodriguez (bass), Candido, Jose Mangual, Ralph Miranda and Ubaldo Nieto (percussion)",
+    "style": "latin",
+    "year": 1954,
+    "year_lo": 1954,
+    "year_hi": 1954,
+    "year_label": "1954",
+    "trivia": "Gillespie wrote this ballad for his 1954 \"Afro\" album, mixing bebop harmony with Latin rhythm; the key centre shifts every two bars while the melody stays singable.",
+    "tags": [
+      "1950s",
+      "latin",
+      "norgran"
+    ],
+    "track": {
+      "artist": "Dizzy Gillespie",
+      "title": "Con Alma",
+      "album": "Afro",
+      "duration": "5:05",
+      "isrc": null,
+      "query": "Dizzy Gillespie Con Alma Afro 1954",
+      "notes": "Studio recording from the 1954 album \"Afro\" (Norgran, billed Dizzy Gillespie and His Orchestra), not Gillespie's 1957 duet version with Sonny Rollins and Sonny Stitt"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://www.jazzdisco.org/dizzy-gillespie/discography/",
+      "https://en.wikipedia.org/wiki/Con_Alma"
+    ],
+    "notes": "Date, matrix and personnel from jazzdisco (session credited to Dizzy Gillespie and His Latin American Rhythm, Fine Sound, New York). Duration approximate (YouTube copies about 5:02-5:06). Gillespie's one extra card in this slice."
+  },
+  {
+    "id": "jazz-clifford-brown-parisian-thoroughfare",
+    "artist": "Clifford Brown and Max Roach",
+    "title": "Parisian Thoroughfare",
+    "composer": "Bud Powell",
+    "recording_date": "1954-08-02",
+    "recording_year": 1954,
+    "release_year": 1954,
+    "original_issue": "EmArcy MG-26043 (10-inch LP \"Clifford Brown and Max Roach\", December 1954); EmArcy MG-36036 (12-inch LP, 1955); matrix 10858-2",
+    "personnel": "Clifford Brown (trumpet), Harold Land (tenor sax), Richie Powell (piano), George Morrow (bass), Max Roach (drums)",
+    "style": "hard-bop",
+    "year": 1954,
+    "year_lo": 1954,
+    "year_hi": 1954,
+    "year_label": "1954",
+    "trivia": "The album was issued first as a ten-inch LP in December 1954 and entered the Grammy Hall of Fame in 1999; critic Ben Ratliff counts this reading of Bud Powell's tune among Brown's great performances.",
+    "tags": [
+      "1950s",
+      "hard-bop",
+      "emarcy"
+    ],
+    "track": {
+      "artist": "Clifford Brown and Max Roach",
+      "title": "Parisian Thoroughfare",
+      "album": "Clifford Brown and Max Roach",
+      "duration": "7:16",
+      "isrc": null,
+      "query": "Clifford Brown and Max Roach Parisian Thoroughfare Clifford Brown and Max Roach 1954",
+      "notes": "Studio recording of 2 Aug 1954 from the EmArcy album (7:16); not Bud Powell's 1951 trio version or the 30 Aug 1954 concert version"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://www.jazzdisco.org/clifford-brown/discography/",
+      "https://en.wikipedia.org/wiki/Clifford_Brown_&_Max_Roach"
+    ],
+    "notes": "Date, studio (Capitol Melrose, Los Angeles), matrix, personnel and issues from jazzdisco; duration, album history and the Ratliff remark from Wikipedia. Brown's second card as leader (Joy Spring exists); Brown also appears as a sideman on two other cards in this slice. Jordu was considered but its popular YouTube copies are the roughly 7:50 complete version rather than the 4:00 edited album version."
+  },
+  {
+    "id": "jazz-vaughan-april-in-paris",
+    "artist": "Sarah Vaughan",
+    "title": "April in Paris",
+    "composer": "Vernon Duke and Yip Harburg",
+    "recording_date": "1954-12-18",
+    "recording_year": 1954,
+    "release_year": 1955,
+    "original_issue": "EmArcy MG-36004 (LP \"Sarah Vaughan\", 1955); matrix 11083-8",
+    "personnel": "Sarah Vaughan (vocal), Clifford Brown (trumpet), Paul Quinichette (tenor sax), Herbie Mann (flute), Jimmy Jones (piano), Joe Benjamin (bass), Roy Haynes (drums), Ernie Wilkins (arranger, conductor)",
+    "style": "vocal",
+    "year": 1954,
+    "year_lo": 1954,
+    "year_hi": 1954,
+    "year_label": "1954",
+    "trivia": "Recorded with Clifford Brown at Fine Sound in New York, this was the only collaboration between Vaughan and Brown, and the album was her own favourite among her records through 1980; it entered the Grammy Hall of Fame in 1999.",
+    "tags": [
+      "1950s",
+      "vocal",
+      "emarcy"
+    ],
+    "track": {
+      "artist": "Sarah Vaughan",
+      "title": "April in Paris",
+      "album": "Sarah Vaughan (later reissued as Sarah Vaughan with Clifford Brown)",
+      "duration": "6:26",
+      "isrc": null,
+      "query": "Sarah Vaughan April in Paris Sarah Vaughan with Clifford Brown 1954",
+      "notes": "Studio recording of 18 Dec 1954 from the EmArcy LP (6:26), not Vaughan's later versions or the Count Basie instrumental"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://www.jazzdisco.org/clifford-brown/discography/",
+      "https://en.wikipedia.org/wiki/Sarah_Vaughan_(1955_album)"
+    ],
+    "notes": "Date, matrix and personnel from jazzdisco (Clifford Brown discography); duration, arranger and Hall of Fame facts from Wikipedia. Sarah Vaughan's second card (Tenderly exists). April in Paris now has two versions in the set (this and Basie 1955)."
+  },
+  {
+    "id": "jazz-baker-my-funny-valentine",
+    "artist": "Chet Baker",
+    "title": "My Funny Valentine",
+    "composer": "Richard Rodgers and Lorenz Hart",
+    "recording_date": "1954-02-15",
+    "recording_year": 1954,
+    "release_year": 1954,
+    "original_issue": "Pacific Jazz PJ LP-11 (10-inch LP \"Chet Baker Sings\", 1954); EP4-16 (EP, 1954)",
+    "personnel": "Chet Baker (trumpet, vocal), Russ Freeman (piano), Carson Smith (bass), Bob Neel (drums)",
+    "style": "west-coast",
+    "year": 1954,
+    "year_lo": 1954,
+    "year_hi": 1954,
+    "year_label": "1954",
+    "trivia": "Baker's debut as a record vocalist, made at a Hollywood studio; the album \"Chet Baker Sings\" entered the Grammy Hall of Fame in 2001, and this song is considered by some to be his signature.",
+    "tags": [
+      "1950s",
+      "west-coast",
+      "pacific-jazz",
+      "vocal"
+    ],
+    "track": {
+      "artist": "Chet Baker",
+      "title": "My Funny Valentine",
+      "album": "Chet Baker Sings",
+      "duration": "2:21",
+      "isrc": null,
+      "query": "Chet Baker My Funny Valentine Chet Baker Sings 1954",
+      "notes": "Studio recording from \"Chet Baker Sings\" (2:21), not the 1952 Gerry Mulligan Quartet version or Baker's later live versions"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://www.jazzdisco.org/chet-baker/discography/",
+      "https://en.wikipedia.org/wiki/Chet_Baker_Sings"
+    ],
+    "notes": "Date, studio (Capitol Melrose, Los Angeles), personnel and issues from jazzdisco; duration and Grammy Hall of Fame facts from Wikipedia. The tune now has two versions in this part (Mulligan 1952, existing, and this one)."
+  },
+  {
+    "id": "jazz-baker-i-fall-in-love-too-easily",
+    "artist": "Chet Baker",
+    "title": "I Fall in Love Too Easily",
+    "composer": "Jule Styne and Sammy Cahn",
+    "recording_date": "1954-02-15",
+    "recording_year": 1954,
+    "release_year": 1954,
+    "original_issue": "Pacific Jazz PJ LP-11 (10-inch LP \"Chet Baker Sings\", 1954); EP4-16 (EP, 1954)",
+    "personnel": "Chet Baker (trumpet, vocal), Russ Freeman (piano), Carson Smith (bass), Bob Neel (drums)",
+    "style": "west-coast",
+    "year": 1954,
+    "year_lo": 1954,
+    "year_hi": 1954,
+    "year_label": "1954",
+    "trivia": "A ballad from the film \"Anchors Aweigh\" that Baker first tried on record in October 1953 and then recut for his debut vocal album; his sparse vocal made the album a Hall of Fame record.",
+    "tags": [
+      "1950s",
+      "west-coast",
+      "pacific-jazz",
+      "vocal"
+    ],
+    "track": {
+      "artist": "Chet Baker",
+      "title": "I Fall in Love Too Easily",
+      "album": "Chet Baker Sings",
+      "duration": "3:21",
+      "isrc": null,
+      "query": "Chet Baker I Fall in Love Too Easily Chet Baker Sings 1954",
+      "notes": "The album take of 15 Feb 1954 (3:21), not the earlier Pacific Jazz 614 single of 27 Oct 1953 or Baker's later versions"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://www.jazzdisco.org/chet-baker/discography/",
+      "https://en.wikipedia.org/wiki/Chet_Baker_Sings"
+    ],
+    "notes": "Version ambiguity: jazzdisco lists two separate performances, the single Pacific Jazz 614 (PJ-306, 27 Oct 1953) and a remake on the 15 Feb 1954 session issued on PJ LP-11. Wikipedia's background section mentions only the October 1953 vocal tracks, so it is not certain which take the LP carries; jazzdisco is followed here. Chet's second card (the other is My Funny Valentine). The film reference to Anchors Aweigh is not in the sources read and has been removed from the trivia."
+  },
+  {
+    "id": "jazz-merrill-dont-explain",
+    "artist": "Helen Merrill",
+    "title": "Don't Explain",
+    "composer": "Billie Holiday and Arthur Herzog Jr.",
+    "recording_date": "1954-12-22",
+    "recording_year": 1954,
+    "release_year": 1955,
+    "original_issue": "EmArcy MG-36006 (LP \"Helen Merrill\", 1955); matrix 11087-5",
+    "personnel": "Helen Merrill (vocal), Clifford Brown (trumpet), Danny Bank (flute, baritone sax), Jimmy Jones (piano), Barry Galbraith (guitar), Milt Hinton (bass), Osie Johnson (drums), Quincy Jones (arranger, conductor)",
+    "style": "vocal",
+    "year": 1954,
+    "year_lo": 1954,
+    "year_hi": 1954,
+    "year_label": "1954",
+    "trivia": "The opening track of Merrill's debut album pairs her with Clifford Brown in Quincy Jones's arrangements, cut in New York days after Brown's sessions with Sarah Vaughan.",
+    "tags": [
+      "1950s",
+      "vocal",
+      "emarcy"
+    ],
+    "track": {
+      "artist": "Helen Merrill",
+      "title": "Don't Explain",
+      "album": "Helen Merrill",
+      "duration": "5:08",
+      "isrc": null,
+      "query": "Helen Merrill Don't Explain Helen Merrill Clifford Brown 1954",
+      "notes": "Studio recording of 22 Dec 1954 from the EmArcy LP (5:08), not Billie Holiday's own 1944 version or Merrill's later remakes"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://www.jazzdisco.org/clifford-brown/discography/",
+      "https://en.wikipedia.org/wiki/Helen_Merrill_(album)"
+    ],
+    "notes": "Borderline B/C: a classic among jazz-vocal fans (about 40k views on the best YouTube copy) rather than a household track. Date, matrix and personnel from jazzdisco; Wikipedia gives the sessions as 22-24 Dec 1954 and the duration. Brown plays on this card as a sideman, so he is on four cards in this slice (one as co-leader)."
+  },
+  {
+    "id": "jazz-blakey-split-kick",
+    "artist": "Art Blakey Quintet",
+    "title": "Split Kick",
+    "composer": "Horace Silver",
+    "recording_date": "1954-02-21",
+    "recording_year": 1954,
+    "release_year": 1954,
+    "original_issue": "Blue Note BLP 5037 (10-inch LP \"A Night at Birdland, Volume 1\", July 1954)",
+    "personnel": "Clifford Brown (trumpet), Lou Donaldson (alto sax), Horace Silver (piano), Curly Russell (bass), Art Blakey (drums)",
+    "style": "hard-bop",
+    "year": 1954,
+    "year_lo": 1954,
+    "year_hi": 1954,
+    "year_label": "1954",
+    "trivia": "Recorded live at Birdland by Rudy Van Gelder, this performance of Horace Silver's tune opens the first of three ten-inch LPs from a night often counted among the earliest hard bop recordings.",
+    "tags": [
+      "1950s",
+      "hard-bop",
+      "blue-note",
+      "live"
+    ],
+    "track": {
+      "artist": "Art Blakey Quintet",
+      "title": "Split Kick",
+      "album": "A Night at Birdland, Volume 1",
+      "duration": "8:44",
+      "isrc": null,
+      "query": "Art Blakey Quintet Split Kick A Night at Birdland Volume 1 1954",
+      "notes": "Live performance at Birdland, 21 Feb 1954, third set, from the Blue Note LP (8:44); not Stan Getz's 1951 studio version of the tune or later Jazz Messengers remakes"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://www.jazzdisco.org/art-blakey/discography/",
+      "https://en.wikipedia.org/wiki/A_Night_at_Birdland,_Vols._1%E2%80%933"
+    ],
+    "notes": "Tier C: a landmark of hard bop history and the best-viewed track of the album (about 80k views on one copy), but known mainly to fans. Date, set (third set, take 9), personnel and issue from jazzdisco; duration and release dates from Wikipedia. Wikipedia lists A Night in Tunisia on Volume 2 but jazzdisco shows no such title on 21 Feb 1954, so that tune was avoided. Blakey is also drumming on two other Birdland cards only in the sense of this one session; no second Blakey card is planned."
   }
 ]

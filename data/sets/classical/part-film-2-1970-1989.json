@@ -1,0 +1,987 @@
+[
+  {
+    "id": "cls-rota-the-godfather",
+    "composer": "Nino Rota",
+    "composer_short": "Rota",
+    "work": "The Godfather (film score)",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "film",
+    "accept_work": "The Godfather",
+    "excerpt": "Main Title (The Godfather Waltz, solo trumpet)",
+    "year": 1972,
+    "year_lo": 1972,
+    "year_hi": 1972,
+    "year_label": "1972",
+    "premiere_or_publication": "Film released 15 March 1972",
+    "dating_note": "Rota composed the score in 1971-72 for the film's March 1972 release; Carmine Coppola wrote additional music (Wikipedia).",
+    "recording": {
+      "performers": "Orchestra conducted by Carlo Savina (original soundtrack)",
+      "conductor": "Carlo Savina",
+      "label": "Paramount",
+      "year": 1972,
+      "why": "The original soundtrack recording."
+    },
+    "trivia": "Rota's Oscar nomination was withdrawn when it emerged that the love theme had already been used in the 1958 film Fortunella. The mournful opening trumpet is the sound of the whole trilogy.",
+    "tags": [
+      "20th-century",
+      "film",
+      "top400",
+      "filmtop400",
+      "tier-a",
+      "orchestral",
+      "crime",
+      "trumpet"
+    ],
+    "track": {
+      "query": "Nino Rota The Godfather Main Title The Godfather Waltz",
+      "album": "The Godfather (Original Soundtrack Recording)",
+      "duration": "3:05",
+      "start": null,
+      "isrc": null,
+      "notes": "Duration is the length of this OST track (MusicBrainz release data); start is an estimate (about 15 s either way). If this exact recording is not on the service, any good recording of the same cue will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Godfather",
+      "https://en.wikipedia.org/wiki/The_Godfather_(soundtrack)",
+      "https://en.wikipedia.org/wiki/Nino_Rota",
+      "https://nl.wikipedia.org/wiki/Lijst_van_Filmmuziek_Top_400_in_2026"
+    ],
+    "notes": "Top 400 best rank 251; Filmmuziek Top 400 rank 9."
+  },
+  {
+    "id": "cls-van-otterloo-turks-fruit",
+    "composer": "Rogier van Otterloo",
+    "composer_short": "Van Otterloo",
+    "work": "Turks fruit (Turkish Delight) (film score)",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "film",
+    "accept_work": "Turks fruit",
+    "excerpt": "Turks fruit (the main theme)",
+    "year": 1973,
+    "year_lo": 1973,
+    "year_hi": 1973,
+    "year_label": "1973",
+    "region": "nl",
+    "premiere_or_publication": "Film released in the Netherlands in 1973",
+    "dating_note": "Van Otterloo's score and its soundtrack album are dated 1973, matching the film's 1973 release (Wikipedia).",
+    "recording": {
+      "performers": "Rogier van Otterloo and orchestra (original soundtrack)",
+      "conductor": "Rogier van Otterloo",
+      "label": null,
+      "year": 1973,
+      "why": "The original 1973 soundtrack recording."
+    },
+    "trivia": "Paul Verhoeven's film of Jan Wolkers's 1969 novel was nominated for an Academy Award for Best Foreign Language Film and, in 1999, voted the Dutch film of the century with a special Golden Calf. Van Otterloo's wistful theme is the sound of that film.",
+    "tags": [
+      "20th-century",
+      "film",
+      "filmtop400",
+      "tier-a",
+      "orchestral",
+      "dutch-film",
+      "jazz-tinged",
+      "nl"
+    ],
+    "track": {
+      "query": "Rogier van Otterloo Turks fruit 1973",
+      "album": "Turks Fruit (1973)",
+      "duration": "3:55",
+      "start": null,
+      "isrc": null,
+      "notes": "Duration is the length of this OST track (MusicBrainz release data); start is an estimate (about 15 s either way). If this exact recording is not on the service, any good recording of the same cue will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Turkish_Delight_(1973_film)",
+      "https://en.wikipedia.org/wiki/Rogier_van_Otterloo",
+      "https://nl.wikipedia.org/wiki/Lijst_van_Filmmuziek_Top_400_in_2026"
+    ],
+    "notes": "Filmmuziek Top 400 rank 21. Duration is the 1973 album track per MusicBrainz; later compilations and the 1976 'Turks Fruit Suite' differ slightly."
+  },
+  {
+    "id": "cls-williams-jaws",
+    "composer": "John Williams",
+    "composer_short": "Williams",
+    "work": "Jaws (film score)",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "film",
+    "accept_work": "Jaws",
+    "excerpt": "Main title (the two-note shark motif)",
+    "year": 1975,
+    "year_lo": 1975,
+    "year_hi": 1975,
+    "year_label": "1975",
+    "premiere_or_publication": "Film released 20 June 1975",
+    "dating_note": "Williams scored the film in spring 1975, shortly before its June 1975 release (Wikipedia).",
+    "recording": {
+      "performers": "Studio orchestra conducted by John Williams (original soundtrack)",
+      "conductor": "John Williams",
+      "label": "MCA",
+      "year": 1975,
+      "why": "The original soundtrack recording."
+    },
+    "trivia": "Spielberg reportedly thought Williams was joking when he first played the two-note motif on the piano. The score won Williams an Oscar and made two low notes a universal sign of lurking danger.",
+    "tags": [
+      "20th-century",
+      "film",
+      "filmtop400",
+      "tier-a",
+      "orchestral",
+      "thriller",
+      "motif"
+    ],
+    "track": {
+      "query": "John Williams Jaws Main Title",
+      "album": "Jaws (Original Motion Picture Soundtrack)",
+      "duration": "2:18",
+      "start": null,
+      "isrc": null,
+      "notes": "Duration is the length of this OST track (MusicBrainz release data); start is an estimate (about 15 s either way). If this exact recording is not on the service, any good recording of the same cue will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Jaws_(film)",
+      "https://en.wikipedia.org/wiki/Jaws_(soundtrack)",
+      "https://nl.wikipedia.org/wiki/Lijst_van_Filmmuziek_Top_400_in_2026"
+    ],
+    "notes": "Filmmuziek Top 400 rank 61."
+  },
+  {
+    "id": "cls-van-otterloo-soldaat-van-oranje",
+    "composer": "Rogier van Otterloo",
+    "composer_short": "Van Otterloo",
+    "work": "Soldaat van Oranje (Soldier of Orange) (film score)",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "film",
+    "accept_work": "Soldaat van Oranje",
+    "excerpt": "Soldaat van Oranje (the main theme)",
+    "year": 1977,
+    "year_lo": 1977,
+    "year_hi": 1977,
+    "year_label": "1977",
+    "region": "nl",
+    "premiere_or_publication": "Film released in the Netherlands in 1977",
+    "dating_note": "Van Otterloo scored the film in 1977; the soundtrack album is also dated 1977 (Wikipedia).",
+    "recording": {
+      "performers": "Rogier van Otterloo and orchestra (original soundtrack)",
+      "conductor": "Rogier van Otterloo",
+      "label": null,
+      "year": 1977,
+      "why": "The original 1977 soundtrack recording."
+    },
+    "trivia": "Verhoeven's wartime resistance drama, based on Erik Hazelhoff Roelfzema's memoir, was the most popular Dutch film of 1977 with about 1.5 million viewers. It received a Golden Globe nomination for Best Foreign Language Film.",
+    "tags": [
+      "20th-century",
+      "film",
+      "filmtop400",
+      "tier-a",
+      "orchestral",
+      "dutch-film",
+      "war",
+      "nl"
+    ],
+    "track": {
+      "query": "Rogier van Otterloo Soldaat van Oranje 1977",
+      "album": "Soldaat van Oranje (1977)",
+      "duration": "1:49",
+      "start": null,
+      "isrc": null,
+      "notes": "Duration is the length of this OST track (MusicBrainz release data); start is an estimate (about 15 s either way). If this exact recording is not on the service, any good recording of the same cue will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Soldier_of_Orange_(film)",
+      "https://en.wikipedia.org/wiki/Rogier_van_Otterloo",
+      "https://nl.wikipedia.org/wiki/Lijst_van_Filmmuziek_Top_400_in_2026"
+    ],
+    "notes": "Filmmuziek Top 400 rank 12. MusicBrainz lists 1:49 and 1:52 versions on the 1977 album; the English title is Soldier of Orange (UK release title: Survival Run)."
+  },
+  {
+    "id": "cls-williams-star-wars",
+    "composer": "John Williams",
+    "composer_short": "Williams",
+    "work": "Star Wars: Episode IV - A New Hope (film score)",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "film",
+    "accept_work": "Star Wars",
+    "excerpt": "Main Title (the opening fanfare)",
+    "year": 1977,
+    "year_lo": 1977,
+    "year_hi": 1977,
+    "year_label": "1977",
+    "premiere_or_publication": "Film released 25 May 1977",
+    "dating_note": "Williams recorded the score with the London Symphony Orchestra in early 1977 for the film's May 1977 release (Wikipedia).",
+    "recording": {
+      "performers": "London Symphony Orchestra",
+      "conductor": "John Williams",
+      "label": "20th Century Records",
+      "year": 1977,
+      "why": "The original soundtrack recording."
+    },
+    "trivia": "The fanfare is often said to evoke the swashbuckling Hollywood scores of Korngold. The score won Williams an Oscar and helped bring the symphony orchestra back to film music.",
+    "tags": [
+      "20th-century",
+      "film",
+      "top400",
+      "filmtop400",
+      "tier-a",
+      "orchestral",
+      "sci-fi",
+      "fanfare"
+    ],
+    "track": {
+      "query": "John Williams Star Wars Main Title London Symphony Orchestra",
+      "album": "Star Wars (Original Motion Picture Soundtrack)",
+      "duration": "5:20",
+      "start": null,
+      "isrc": null,
+      "notes": "Duration is the length of this OST track (MusicBrainz release data); start is an estimate (about 15 s either way). If this exact recording is not on the service, any good recording of the same cue will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Star_Wars_(film)",
+      "https://en.wikipedia.org/wiki/Star_Wars_(soundtrack)",
+      "https://nl.wikipedia.org/wiki/Lijst_van_Filmmuziek_Top_400_in_2026"
+    ],
+    "notes": "Top 400 best rank 161; Filmmuziek Top 400 rank 7 (listed as 'Star Wars Episode I-IX')."
+  },
+  {
+    "id": "cls-vangelis-chariots-of-fire",
+    "composer": "Vangelis",
+    "composer_short": "Vangelis",
+    "work": "Chariots of Fire (film score)",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "film",
+    "accept_work": "Chariots of Fire",
+    "excerpt": "Titles (the slow-motion beach-run theme)",
+    "year": 1981,
+    "year_lo": 1981,
+    "year_hi": 1981,
+    "year_label": "1981",
+    "premiere_or_publication": "Film released spring 1981 (UK)",
+    "dating_note": "Vangelis composed the score in 1980-81 for the film's 1981 release (Wikipedia).",
+    "recording": {
+      "performers": "Vangelis (synthesizers)",
+      "conductor": null,
+      "label": "Polydor",
+      "year": 1981,
+      "why": "The original 1981 soundtrack recording."
+    },
+    "trivia": "A synthesizer score for a film set in the 1920s was a bold choice, and it won Vangelis an Oscar. The Titles track reached number one on the US singles chart in 1981.",
+    "tags": [
+      "20th-century",
+      "film",
+      "filmtop400",
+      "tier-a",
+      "electronic",
+      "synthesizer",
+      "sport"
+    ],
+    "track": {
+      "query": "Vangelis Chariots of Fire Titles",
+      "album": "Chariots of Fire (Original Motion Picture Soundtrack)",
+      "duration": "~3:25",
+      "start": null,
+      "isrc": null,
+      "notes": "Album and duration are approximate hints from memory and aggregator data; start is an estimate (about 15 s either way). If this exact recording is not on the service, any good recording of the same cue will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Chariots_of_Fire",
+      "https://en.wikipedia.org/wiki/Vangelis",
+      "https://nl.wikipedia.org/wiki/Lijst_van_Filmmuziek_Top_400_in_2026"
+    ],
+    "notes": "Filmmuziek Top 400 rank 45. Duration approximate."
+  },
+  {
+    "id": "cls-williams-raiders-of-the-lost-ark",
+    "composer": "John Williams",
+    "composer_short": "Williams",
+    "work": "Raiders of the Lost Ark (film score)",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "film",
+    "accept_work": "Raiders of the Lost Ark",
+    "excerpt": "The Raiders March (the Indiana Jones theme)",
+    "year": 1981,
+    "year_lo": 1981,
+    "year_hi": 1981,
+    "year_label": "1981",
+    "premiere_or_publication": "Film released 12 June 1981",
+    "dating_note": "Williams scored the film in 1981, for its June 1981 release (Wikipedia).",
+    "recording": {
+      "performers": "London Symphony Orchestra",
+      "conductor": "John Williams",
+      "label": "Polydor",
+      "year": 1981,
+      "why": "The original soundtrack recording."
+    },
+    "trivia": "Williams reportedly offered two candidate themes and Spielberg liked both, so the march uses one for the main section and the other as the bridge. It became the signature of all the Indiana Jones films.",
+    "tags": [
+      "20th-century",
+      "film",
+      "filmtop400",
+      "tier-a",
+      "orchestral",
+      "adventure",
+      "march"
+    ],
+    "track": {
+      "query": "John Williams Raiders March Raiders of the Lost Ark",
+      "album": "Raiders of the Lost Ark (Original Motion Picture Soundtrack)",
+      "duration": "2:29",
+      "start": null,
+      "isrc": null,
+      "notes": "Duration is the length of this OST track (MusicBrainz release data); start is an estimate (about 15 s either way). If this exact recording is not on the service, any good recording of the same cue will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Raiders_of_the_Lost_Ark",
+      "https://en.wikipedia.org/wiki/Indiana_Jones",
+      "https://nl.wikipedia.org/wiki/Lijst_van_Filmmuziek_Top_400_in_2026"
+    ],
+    "notes": "Filmmuziek Top 400 rank 24 (listed as 'Indiana Jones 1-5')."
+  },
+  {
+    "id": "cls-glass-koyaanisqatsi",
+    "composer": "Philip Glass",
+    "composer_short": "Glass",
+    "work": "Koyaanisqatsi (film score)",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "film",
+    "accept_work": "Koyaanisqatsi",
+    "excerpt": "Opening 'Koyaanisqatsi' organ and bass chant",
+    "year": 1982,
+    "year_lo": 1981,
+    "year_hi": 1982,
+    "year_label": "1982 (written 1981-82)",
+    "premiere_or_publication": "Film premiered 1982; album released 1983",
+    "dating_note": "Glass composed the score in 1981-82 for Godfrey Reggio's film, which premiered in 1982; the album followed in 1983 (Wikipedia).",
+    "recording": {
+      "performers": "Philip Glass Ensemble with Albert de Ruiter (bass voice)",
+      "conductor": "Michael Riesman",
+      "label": "Antilles",
+      "year": 1983,
+      "why": "The original 1983 album recording."
+    },
+    "trivia": "The title is a Hopi word for 'life out of balance'. The deep chant on the opening track is sung by the Dutch bass Albert de Ruiter.",
+    "tags": [
+      "20th-century",
+      "film",
+      "top400",
+      "filmtop400",
+      "tier-b",
+      "minimalist",
+      "chant",
+      "experimental"
+    ],
+    "track": {
+      "query": "Philip Glass Koyaanisqatsi opening chant",
+      "album": "Koyaanisqatsi (Original Soundtrack)",
+      "duration": "3:26",
+      "start": null,
+      "isrc": null,
+      "notes": "Duration is the length of this OST track (MusicBrainz release data); start is an estimate (about 15 s either way). If this exact recording is not on the service, any good recording of the same cue will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Koyaanisqatsi",
+      "https://en.wikipedia.org/wiki/Philip_Glass",
+      "https://nl.wikipedia.org/wiki/Lijst_van_Filmmuziek_Top_400_in_2026"
+    ],
+    "notes": "Possible overlap with the concert-music agent (Philip Glass). Top 400 best rank 104; Filmmuziek Top 400 rank 49."
+  },
+  {
+    "id": "cls-vangelis-blade-runner",
+    "composer": "Vangelis",
+    "composer_short": "Vangelis",
+    "work": "Blade Runner (film score)",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "film",
+    "accept_work": "Blade Runner",
+    "excerpt": "Main Titles",
+    "year": 1982,
+    "year_lo": 1981,
+    "year_hi": 1982,
+    "year_label": "1982 (official album 1994)",
+    "premiere_or_publication": "Film released 25 June 1982; the Vangelis soundtrack album was only released in 1994",
+    "dating_note": "Vangelis composed the score in 1981-82 for the 1982 film. The official Vangelis soundtrack album only appeared in 1994, so the 1994 date is not the composition year (Wikipedia).",
+    "recording": {
+      "performers": "Vangelis (synthesizers)",
+      "conductor": null,
+      "label": "East West / Atlantic",
+      "year": 1994,
+      "why": "The 1994 Vangelis album. Beware the 1982 New American Orchestra album, which is a cover version, not the film score."
+    },
+    "trivia": "For over a decade the real score was unavailable, while an orchestral cover album from 1982 filled the gap. When Vangelis's own album finally came out in 1994, fans got the music as heard in the film.",
+    "tags": [
+      "20th-century",
+      "film",
+      "filmtop400",
+      "tier-b",
+      "electronic",
+      "synthesizer",
+      "sci-fi",
+      "dating-trap"
+    ],
+    "track": {
+      "query": "Vangelis Blade Runner Main Titles",
+      "album": "Blade Runner (Original Motion Picture Soundtrack)",
+      "duration": "3:42",
+      "start": null,
+      "isrc": null,
+      "notes": "Duration is the length of this OST track (MusicBrainz release data); start is an estimate (about 15 s either way). If this exact recording is not on the service, any good recording of the same cue will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Blade_Runner",
+      "https://en.wikipedia.org/wiki/Blade_Runner_(soundtrack)",
+      "https://nl.wikipedia.org/wiki/Lijst_van_Filmmuziek_Top_400_in_2026"
+    ],
+    "notes": "Date trap flagged: dated by composition (1982), not the 1994 album. Filmmuziek Top 400 rank 151."
+  },
+  {
+    "id": "cls-williams-et-the-extra-terrestrial",
+    "composer": "John Williams",
+    "composer_short": "Williams",
+    "work": "E.T. the Extra-Terrestrial (film score)",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "film",
+    "accept_work": "E.T. the Extra-Terrestrial",
+    "excerpt": "Flying (the bicycle-flight theme)",
+    "year": 1982,
+    "year_lo": 1982,
+    "year_hi": 1982,
+    "year_label": "1982",
+    "premiere_or_publication": "Film released 11 June 1982",
+    "dating_note": "Williams scored the film in 1982, for its June 1982 release (Wikipedia).",
+    "recording": {
+      "performers": "Studio orchestra conducted by John Williams (original soundtrack)",
+      "conductor": "John Williams",
+      "label": "MCA",
+      "year": 1982,
+      "why": "The original soundtrack recording."
+    },
+    "trivia": "Spielberg reportedly re-edited the final chase to fit Williams's music rather than the other way round. The score won Williams an Oscar.",
+    "tags": [
+      "20th-century",
+      "film",
+      "filmtop400",
+      "tier-a",
+      "orchestral",
+      "family",
+      "sci-fi"
+    ],
+    "track": {
+      "query": "John Williams E.T. Flying theme",
+      "album": "E.T. the Extra-Terrestrial (Music from the Original Motion Picture Soundtrack)",
+      "duration": "3:20",
+      "start": null,
+      "isrc": null,
+      "notes": "Duration is the length of this OST track (MusicBrainz release data); start is an estimate (about 15 s either way). If this exact recording is not on the service, any good recording of the same cue will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/E.T._the_Extra-Terrestrial",
+      "https://en.wikipedia.org/wiki/E.T._the_Extra-Terrestrial_(soundtrack)",
+      "https://nl.wikipedia.org/wiki/Lijst_van_Filmmuziek_Top_400_in_2026"
+    ],
+    "notes": "Filmmuziek Top 400 rank 42."
+  },
+  {
+    "id": "cls-morricone-once-upon-a-time-in-america",
+    "composer": "Ennio Morricone",
+    "composer_short": "Morricone",
+    "work": "Once Upon a Time in America (film score)",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "film",
+    "accept_work": "Once Upon a Time in America",
+    "excerpt": "Deborah's Theme",
+    "year": 1984,
+    "year_lo": 1984,
+    "year_hi": 1984,
+    "year_label": "1984",
+    "premiere_or_publication": "Film premiered at Cannes in May 1984",
+    "dating_note": "Morricone composed the score in 1983-84 for the film's May 1984 premiere (Wikipedia).",
+    "recording": {
+      "performers": "Ennio Morricone with orchestra and voice (original soundtrack)",
+      "conductor": "Ennio Morricone",
+      "label": null,
+      "year": 1984,
+      "why": "The original soundtrack recording."
+    },
+    "trivia": "Leone's last film is a gangster epic spanning decades, and Morricone's score is built on yearning, nostalgic themes. Deborah's Theme, the love theme, is the best known of them.",
+    "tags": [
+      "20th-century",
+      "film",
+      "filmtop400",
+      "tier-b",
+      "orchestral",
+      "crime",
+      "nostalgic"
+    ],
+    "track": {
+      "query": "Ennio Morricone Deborah's Theme Once Upon a Time in America",
+      "album": "Once Upon a Time in America (Original Motion Picture Soundtrack)",
+      "duration": "~4:26",
+      "start": null,
+      "isrc": null,
+      "notes": "Album and duration are approximate hints from memory and aggregator data; start is an estimate (about 15 s either way). If this exact recording is not on the service, any good recording of the same cue will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Once_Upon_a_Time_in_America",
+      "https://en.wikipedia.org/wiki/Ennio_Morricone",
+      "https://nl.wikipedia.org/wiki/Lijst_van_Filmmuziek_Top_400_in_2026"
+    ],
+    "notes": "Filmmuziek Top 400 rank 52. Duration approximate."
+  },
+  {
+    "id": "cls-barry-out-of-africa",
+    "composer": "John Barry",
+    "composer_short": "Barry",
+    "work": "Out of Africa (film score)",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "film",
+    "accept_work": "Out of Africa",
+    "excerpt": "Main Title (I Had a Farm in Africa)",
+    "year": 1985,
+    "year_lo": 1985,
+    "year_hi": 1985,
+    "year_label": "1985",
+    "premiere_or_publication": "Film released December 1985",
+    "dating_note": "Barry scored the film in 1985, for its December 1985 release (Wikipedia).",
+    "recording": {
+      "performers": "Studio orchestra conducted by John Barry (original soundtrack)",
+      "conductor": "John Barry",
+      "label": "MCA",
+      "year": 1986,
+      "why": "The original soundtrack recording."
+    },
+    "trivia": "Barry's lush string writing sets the Kenyan highlands to music, and the score won him an Academy Award. Few composers have so completely defined the sound of the epic romance.",
+    "tags": [
+      "20th-century",
+      "film",
+      "filmtop400",
+      "tier-b",
+      "orchestral",
+      "romantic",
+      "strings"
+    ],
+    "track": {
+      "query": "John Barry Out of Africa Main Title",
+      "album": "Out of Africa (Music from the Motion Picture Soundtrack)",
+      "duration": "3:11",
+      "start": null,
+      "isrc": null,
+      "notes": "Duration is the length of this OST track (MusicBrainz release data); start is an estimate (about 15 s either way). If this exact recording is not on the service, any good recording of the same cue will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Out_of_Africa_(film)",
+      "https://en.wikipedia.org/wiki/John_Barry_(composer)",
+      "https://nl.wikipedia.org/wiki/Lijst_van_Filmmuziek_Top_400_in_2026"
+    ],
+    "notes": "Filmmuziek Top 400 rank 16."
+  },
+  {
+    "id": "cls-kondo-super-mario-bros",
+    "composer": "Koji Kondo",
+    "composer_short": "Kondo",
+    "work": "Super Mario Bros. (game score)",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "game",
+    "accept_work": "Super Mario Bros.",
+    "excerpt": "Ground Theme (the overworld tune)",
+    "year": 1985,
+    "year_lo": 1985,
+    "year_hi": 1985,
+    "year_label": "1985",
+    "premiere_or_publication": "Game released in Japan on 13 September 1985 (Famicom)",
+    "dating_note": "Kondo composed the music during development in 1985 for the September 1985 Famicom release (Wikipedia).",
+    "recording": {
+      "performers": "Koji Kondo (official Nintendo soundtrack release)",
+      "conductor": null,
+      "label": "Nintendo",
+      "year": 2019,
+      "why": "The 1985 original is a short chiptune loop; Nintendo's official OST releases extend it, so any official release is fine."
+    },
+    "trivia": "Kondo's bouncing, syncopated tune is one of the most recognisable melodies in the world. He wrote it to match Mario's jumping rhythm.",
+    "tags": [
+      "20th-century",
+      "game",
+      "tier-a",
+      "chiptune",
+      "platformer",
+      "nintendo"
+    ],
+    "track": {
+      "query": "Super Mario Bros Ground Theme Koji Kondo",
+      "album": "Super Mario Maker 2 Original Soundtrack",
+      "duration": "~3:05",
+      "start": null,
+      "isrc": null,
+      "notes": "Album and duration are approximate hints from memory and aggregator data; start is an estimate (about 15 s either way). If this exact recording is not on the service, any good recording of the same cue will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Super_Mario_Bros.",
+      "https://en.wikipedia.org/wiki/Koji_Kondo"
+    ],
+    "notes": "No canonical 'recording' exists for 1985 chiptune music; the track points at an official extended version. The Filmmuziek Top 400 only lists the 2023 Mario film (Brian Tyler), so no 'filmtop400' tag."
+  },
+  {
+    "id": "cls-silvestri-back-to-the-future",
+    "composer": "Alan Silvestri",
+    "composer_short": "Silvestri",
+    "work": "Back to the Future (film score)",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "film",
+    "accept_work": "Back to the Future",
+    "excerpt": "Main title (the heroic march)",
+    "year": 1985,
+    "year_lo": 1985,
+    "year_hi": 1985,
+    "year_label": "1985",
+    "premiere_or_publication": "Film released 3 July 1985",
+    "dating_note": "Silvestri scored the film in 1985, for its July 1985 release (Wikipedia).",
+    "recording": {
+      "performers": "London Symphony Orchestra",
+      "conductor": "Alan Silvestri",
+      "label": "MCA",
+      "year": 1985,
+      "why": "The original soundtrack recording."
+    },
+    "trivia": "Silvestri recorded the score with the London Symphony Orchestra. The film's soundtrack album was dominated by Huey Lewis songs, with the main title as its orchestral highlight.",
+    "tags": [
+      "20th-century",
+      "film",
+      "filmtop400",
+      "tier-a",
+      "orchestral",
+      "sci-fi",
+      "adventure"
+    ],
+    "track": {
+      "query": "Alan Silvestri Back to the Future main theme",
+      "album": "Back to the Future (Music from the Motion Picture Soundtrack)",
+      "duration": "3:20",
+      "start": null,
+      "isrc": null,
+      "notes": "Duration is the length of this OST track (MusicBrainz release data); start is an estimate (about 15 s either way). If this exact recording is not on the service, any good recording of the same cue will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Back_to_the_Future",
+      "https://en.wikipedia.org/wiki/Alan_Silvestri",
+      "https://nl.wikipedia.org/wiki/Lijst_van_Filmmuziek_Top_400_in_2026"
+    ],
+    "notes": "Filmmuziek Top 400 rank 59."
+  },
+  {
+    "id": "cls-kondo-the-legend-of-zelda",
+    "composer": "Koji Kondo",
+    "composer_short": "Kondo",
+    "work": "The Legend of Zelda (game score)",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "game",
+    "accept_work": "The Legend of Zelda",
+    "excerpt": "Overworld Theme",
+    "year": 1986,
+    "year_lo": 1985,
+    "year_hi": 1986,
+    "year_label": "1986",
+    "premiere_or_publication": "Game released in Japan on 21 February 1986 (Famicom Disk System)",
+    "dating_note": "Kondo composed the music in 1985-86 for the February 1986 release (Wikipedia).",
+    "recording": {
+      "performers": "Koji Kondo (official Nintendo soundtrack release)",
+      "conductor": null,
+      "label": "Nintendo",
+      "year": null,
+      "why": "Any official release of the Overworld Theme will do."
+    },
+    "trivia": "Kondo had planned to use Ravel's Boléro, but learned in November 1985 that it was not yet in the public domain in Japan, so he wrote a new overworld theme within a day. It became the adventure theme of a franchise.",
+    "tags": [
+      "20th-century",
+      "game",
+      "tier-a",
+      "chiptune",
+      "adventure",
+      "nintendo"
+    ],
+    "track": {
+      "query": "The Legend of Zelda Overworld Theme Koji Kondo",
+      "album": "The Legend of Zelda Original Soundtrack",
+      "duration": "~1:20",
+      "start": null,
+      "isrc": null,
+      "notes": "Album and duration are approximate hints from memory and aggregator data; start is an estimate (about 15 s either way). If this exact recording is not on the service, any good recording of the same cue will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Legend_of_Zelda_(video_game)",
+      "https://en.wikipedia.org/wiki/Koji_Kondo"
+    ],
+    "notes": "No canonical recording exists; duration approximate. Not on the Filmmuziek Top 400."
+  },
+  {
+    "id": "cls-morricone-the-mission",
+    "composer": "Ennio Morricone",
+    "composer_short": "Morricone",
+    "work": "The Mission (film score)",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "film",
+    "accept_work": "The Mission",
+    "excerpt": "Gabriel's Oboe",
+    "year": 1986,
+    "year_lo": 1986,
+    "year_hi": 1986,
+    "year_label": "1986",
+    "premiere_or_publication": "Film premiered at Cannes in May 1986 (Palme d'Or)",
+    "dating_note": "Morricone composed the score in 1985-86 for the film's May 1986 premiere (Wikipedia).",
+    "recording": {
+      "performers": "London Philharmonic Orchestra",
+      "conductor": "Ennio Morricone",
+      "label": "Virgin",
+      "year": 1986,
+      "why": "The original soundtrack recording."
+    },
+    "trivia": "In the film, Father Gabriel wins over the Guarani people by playing the oboe. The melody later became the song 'Nella fantasia' with Italian lyrics.",
+    "tags": [
+      "20th-century",
+      "film",
+      "top400",
+      "filmtop400",
+      "tier-b",
+      "orchestral",
+      "oboe",
+      "religious"
+    ],
+    "track": {
+      "query": "Ennio Morricone Gabriel's Oboe The Mission",
+      "album": "The Mission (Original Sound Track From the Film)",
+      "duration": "2:14",
+      "start": null,
+      "isrc": null,
+      "notes": "Duration is the length of this OST track (MusicBrainz release data); start is an estimate (about 15 s either way). If this exact recording is not on the service, any good recording of the same cue will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Mission_(1986_film)",
+      "https://en.wikipedia.org/wiki/The_Mission_(soundtrack)",
+      "https://nl.wikipedia.org/wiki/Lijst_van_Filmmuziek_Top_400_in_2026"
+    ],
+    "notes": "Top 400 best rank 90; Filmmuziek Top 400 rank 17."
+  },
+  {
+    "id": "cls-pheloung-inspector-morse",
+    "composer": "Barrington Pheloung",
+    "composer_short": "Pheloung",
+    "work": "Inspector Morse (TV theme)",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "tv",
+    "accept_work": "Inspector Morse",
+    "excerpt": "Main title theme",
+    "year": 1987,
+    "year_lo": 1987,
+    "year_hi": 1987,
+    "year_label": "1987",
+    "premiere_or_publication": "Series premiered 6 January 1987 (ITV)",
+    "dating_note": "Pheloung composed the theme and music for the series that began on 6 January 1987 (Wikipedia).",
+    "recording": {
+      "performers": "Studio orchestra (original TV music)",
+      "conductor": "Barrington Pheloung",
+      "label": null,
+      "year": null,
+      "why": "Any good recording of the original TV theme; compilations often use the same version."
+    },
+    "trivia": "The theme hides the name MORSE in Morse code, played out in the melody. Pheloung was nominated for a BAFTA TV award for the music in 1991, and the series ran to 33 two-hour episodes between 1987 and 2000.",
+    "tags": [
+      "20th-century",
+      "tv",
+      "filmtop400",
+      "tier-b",
+      "orchestral",
+      "crime",
+      "british"
+    ],
+    "track": {
+      "query": "Barrington Pheloung Inspector Morse Theme",
+      "album": null,
+      "duration": "~2:12",
+      "start": null,
+      "isrc": null,
+      "notes": "Album and duration are approximate hints from memory and aggregator data; start is an estimate (about 15 s either way). If this exact recording is not on the service, any good recording of the same cue will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Inspector_Morse_(TV_series)",
+      "https://en.wikipedia.org/wiki/Barrington_Pheloung",
+      "https://nl.wikipedia.org/wiki/Lijst_van_Filmmuziek_Top_400_in_2026"
+    ],
+    "notes": "Filmmuziek Top 400 rank 35 (listed as 'Inspector Morse (serie)'). Album and duration approximate: most releases are compilations."
+  },
+  {
+    "id": "cls-morricone-cinema-paradiso",
+    "composer": "Ennio Morricone (love theme by Andrea Morricone)",
+    "composer_short": "Morricone",
+    "work": "Cinema Paradiso (Nuovo Cinema Paradiso) (film score)",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "film",
+    "accept_work": "Cinema Paradiso",
+    "excerpt": "Main theme (Titoli)",
+    "year": 1988,
+    "year_lo": 1988,
+    "year_hi": 1988,
+    "year_label": "1988",
+    "premiere_or_publication": "Film premiered 29 September 1988 in Bari; general Italian release November 1988",
+    "dating_note": "The Morricones (Ennio and his son Andrea) composed the score in 1988, for the film's premiere in September 1988 (Wikipedia).",
+    "recording": {
+      "performers": "Ennio Morricone and orchestra (original soundtrack)",
+      "conductor": "Ennio Morricone",
+      "label": null,
+      "year": 1988,
+      "why": "The original soundtrack recording."
+    },
+    "trivia": "The main theme is by Ennio Morricone while the film's love theme was written by his son Andrea. The film is a love letter to cinema, set in a small Sicilian village.",
+    "tags": [
+      "20th-century",
+      "film",
+      "top400",
+      "filmtop400",
+      "tier-b",
+      "orchestral",
+      "nostalgic",
+      "italian"
+    ],
+    "track": {
+      "query": "Ennio Morricone Nuovo Cinema Paradiso Titoli",
+      "album": "Nuovo Cinema Paradiso (Original Soundtrack)",
+      "duration": "~2:30",
+      "start": null,
+      "isrc": null,
+      "notes": "Album and duration are approximate hints from memory and aggregator data; start is an estimate (about 15 s either way). If this exact recording is not on the service, any good recording of the same cue will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Cinema_Paradiso",
+      "https://en.wikipedia.org/wiki/Ennio_Morricone",
+      "https://nl.wikipedia.org/wiki/Lijst_van_Filmmuziek_Top_400_in_2026"
+    ],
+    "notes": "Top 400 best rank 170; Filmmuziek Top 400 rank 119. Duration approximate."
+  },
+  {
+    "id": "cls-elfman-batman",
+    "composer": "Danny Elfman",
+    "composer_short": "Elfman",
+    "work": "Batman (film score)",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "film",
+    "accept_work": "Batman",
+    "excerpt": "Batman Theme (main title)",
+    "year": 1989,
+    "year_lo": 1989,
+    "year_hi": 1989,
+    "year_label": "1989",
+    "premiere_or_publication": "Film released 23 June 1989",
+    "dating_note": "Elfman scored the film in 1989, for its June 1989 release (Wikipedia).",
+    "recording": {
+      "performers": "Orchestra (original soundtrack)",
+      "conductor": null,
+      "label": "Warner Bros. Records",
+      "year": 1989,
+      "why": "The original soundtrack recording."
+    },
+    "trivia": "Tim Burton chose his regular composer Elfman, then best known as the singer of Oingo Boingo, for his first big-budget score. The brooding gothic theme set the sound of superhero cinema for a decade.",
+    "tags": [
+      "20th-century",
+      "film",
+      "filmtop400",
+      "tier-a",
+      "orchestral",
+      "superhero",
+      "gothic"
+    ],
+    "track": {
+      "query": "Danny Elfman Batman Theme 1989",
+      "album": "Batman (Original Motion Picture Score)",
+      "duration": "2:38",
+      "start": null,
+      "isrc": null,
+      "notes": "Duration is the length of this OST track (MusicBrainz release data); start is an estimate (about 15 s either way). If this exact recording is not on the service, any good recording of the same cue will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Batman_(1989_film)",
+      "https://en.wikipedia.org/wiki/Danny_Elfman",
+      "https://nl.wikipedia.org/wiki/Lijst_van_Filmmuziek_Top_400_in_2026"
+    ],
+    "notes": "Filmmuziek Top 400 rank 171."
+  },
+  {
+    "id": "cls-elfman-the-simpsons",
+    "composer": "Danny Elfman",
+    "composer_short": "Elfman",
+    "work": "The Simpsons (TV theme)",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "tv",
+    "accept_work": "The Simpsons",
+    "excerpt": "Main title theme",
+    "year": 1989,
+    "year_lo": 1989,
+    "year_hi": 1989,
+    "year_label": "1989",
+    "premiere_or_publication": "Series premiered 17 December 1989 (Fox)",
+    "dating_note": "Elfman composed the theme in 1989, for the series premiere on 17 December 1989 (Wikipedia).",
+    "recording": {
+      "performers": "Studio orchestra (Elfman)",
+      "conductor": "Danny Elfman",
+      "label": "MCA",
+      "year": 1990,
+      "why": "Album-length version from Music for a Darkened Theatre; the broadcast theme is shorter."
+    },
+    "trivia": "Matt Groening approached Elfman in 1989 and asked him for a theme. It has opened the show for over thirty seasons.",
+    "tags": [
+      "20th-century",
+      "tv",
+      "tier-a",
+      "orchestral",
+      "animation",
+      "comedy"
+    ],
+    "track": {
+      "query": "Danny Elfman The Simpsons Theme",
+      "album": "Music for a Darkened Theatre: Film & Television Music, Volume One",
+      "duration": "1:31",
+      "start": null,
+      "isrc": null,
+      "notes": "Duration is the length of this OST track (MusicBrainz release data); start is an estimate (about 15 s either way). If this exact recording is not on the service, any good recording of the same cue will do."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Simpsons_Theme",
+      "https://en.wikipedia.org/wiki/Danny_Elfman"
+    ],
+    "notes": "Not on the Filmmuziek Top 400."
+  }
+]

@@ -8,6 +8,8 @@
     uv run scripts/resolve_youtube.py regular --limit 10
     uv run scripts/resolve_youtube.py jazz --refresh
 
+A plain re-run searches cards that are new or whose search query or track duration changed since.
+
 Writes
   data/youtube.json         {cardId: ["videoId", "videoId@37", ...]}, best first; bundled into the app.
                             "@37" is the card's track.start, kept only where the video's length is
@@ -373,7 +375,8 @@ def resolve(card: dict) -> dict:
         exp = card['expected']
         if exp and not card['approx'] and abs(best['duration'] - exp) > max(20, 0.25 * exp):
             flags.append(f"duration {best['duration']}s vs {exp}s")
-    review = {'set': card['set'], 'card': card['label'], 'query': card['query'], 'picked': picked}
+    review = {'set': card['set'], 'card': card['label'], 'query': card['query'], 'expected': card['expected'],
+              'picked': picked}
     if len(searched) > 1:
         review['searched'] = searched
     if dropped:
@@ -401,6 +404,14 @@ def with_start(card: dict, entry: dict) -> list[str]:
 
 
 # ---------- files ----------
+
+def searched_stale(card: dict, entry: dict) -> bool:
+    """The card's recording changed since it was searched (a curator rewrote its track). Older
+    entries don't record the expected duration, so only the query counts for them."""
+    if entry.get('query') != card['query']:
+        return True
+    return 'expected' in entry and entry['expected'] != card['expected']
+
 
 def read_json(path: Path) -> dict:
     try:
@@ -440,7 +451,8 @@ def main() -> int:
             ids[card_id] = [str(v) for v in vids]
             review.setdefault(card_id, {})['override'] = ids[card_id]
 
-    todo = [c for c in cards if c['id'] not in overrides and (args.refresh or c['id'] not in ids)]
+    todo = [c for c in cards if c['id'] not in overrides
+            and (args.refresh or c['id'] not in ids or searched_stale(c, review.get(c['id'], {})))]
     if args.limit is not None:
         todo = todo[: args.limit]
     log(f'{len(cards)} cards in {", ".join(args.sets)}; resolving {len(todo)}')

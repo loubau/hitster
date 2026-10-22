@@ -1,0 +1,936 @@
+[
+  {
+    "id": "jazz-hancock-rockit",
+    "artist": "Herbie Hancock",
+    "title": "Rockit",
+    "composer": "Herbie Hancock, Bill Laswell, Michael Beinhorn",
+    "recording_date": "1983",
+    "recording_year": 1983,
+    "release_year": 1983,
+    "original_issue": "Columbia (7-inch and 12-inch single, July 1983; also on the LP Future Shock, Columbia, 15 Aug 1983)",
+    "personnel": "Herbie Hancock (synthesizers, Fairlight CMI), Bill Laswell (bass, samples), Michael Beinhorn (drum programming, electronics), Daniel Ponce (batá drums), D.ST (turntables)",
+    "style": "jazz-funk",
+    "year": 1983,
+    "year_lo": 1983,
+    "year_hi": 1983,
+    "year_label": "1983",
+    "trivia": "Hancock's electro-funk single put turntable scratching, played by D.ST, at the front of a jazz musician's hit and took it to a mass audience. The Godley and Creme video with robot sculptures by Jim Whiting won five MTV Video Music Awards, and the record won a Grammy for Best R&B Instrumental Performance.",
+    "tags": [
+      "1980s",
+      "jazz-funk",
+      "columbia",
+      "electro",
+      "hip-hop"
+    ],
+    "track": {
+      "artist": "Herbie Hancock",
+      "title": "Rockit",
+      "album": "Future Shock",
+      "duration": "5:25",
+      "isrc": null,
+      "query": "Herbie Hancock Rockit Future Shock 1983",
+      "notes": "album version (5:25) from Future Shock, not the single edit or later remixes"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Rockit_(instrumental)",
+      "https://en.wikipedia.org/wiki/Future_Shock_(Herbie_Hancock_album)"
+    ],
+    "notes": "Wikipedia says the track was built over several studios in 1983 (BC Studio in Brooklyn, RPM in Manhattan, Hancock's home studio, Eldorado in Los Angeles) without day-level dates, so recording_date is year only. Single released July 1983, album 15 Aug 1983. The personnel line lists the main credited players."
+  },
+  {
+    "id": "jazz-davis-time-after-time",
+    "artist": "Miles Davis",
+    "title": "Time After Time",
+    "composer": "Cyndi Lauper, Rob Hyman",
+    "recording_date": "1984-01-26",
+    "recording_year": 1984,
+    "release_year": 1985,
+    "original_issue": "Columbia FC 40023 (LP, You're Under Arrest, April 1985)",
+    "personnel": "Miles Davis (trumpet), Robert Irving III (synthesizer), John Scofield (guitar), Darryl Jones (bass), Al Foster (drums), Steve Thornton (percussion)",
+    "style": "fusion",
+    "year": 1984,
+    "year_lo": 1984,
+    "year_hi": 1984,
+    "year_label": "1984",
+    "trivia": "Miles Davis turned Cyndi Lauper's 1984 ballad into a muted-trumpet feature and kept it in his live sets afterwards. It sat on an album that also carried his readings of Michael Jackson's Human Nature and a policing-themed suite of street voices.",
+    "tags": [
+      "1980s",
+      "fusion",
+      "columbia"
+    ],
+    "track": {
+      "artist": "Miles Davis",
+      "title": "Time After Time",
+      "album": "You're Under Arrest",
+      "duration": "3:37",
+      "isrc": null,
+      "query": "Miles Davis Time After Time You're Under Arrest 1985",
+      "notes": "studio version (3:37) from You're Under Arrest, not the long 12-inch version or the live recordings"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://www.jazzdisco.org/davis/discography/",
+      "https://en.wikipedia.org/wiki/You're_Under_Arrest_(Miles_Davis_album)"
+    ],
+    "notes": "Session date is from jazzdisco (Record Plant, New York, 26 Jan 1984); Wikipedia gives a range for the whole album (26 Jan 1984 to 14 Jan 1985). Release April 1985, so no gap note. Lauper's original is not in the regular set."
+  },
+  {
+    "id": "jazz-metheny-are-you-going-with-me",
+    "artist": "Pat Metheny Group",
+    "title": "Are You Going with Me?",
+    "composer": "Pat Metheny, Lyle Mays",
+    "recording_date": "1981-10",
+    "recording_year": 1981,
+    "release_year": 1982,
+    "original_issue": "ECM 1216 (LP, Offramp, May 1982)",
+    "personnel": "Pat Metheny (guitar synthesizer), Lyle Mays (piano, synthesizers), Steve Rodby (bass), Danny Gottlieb (drums), Naná Vasconcelos (percussion, voice)",
+    "style": "fusion",
+    "year": 1981,
+    "year_lo": 1981,
+    "year_hi": 1981,
+    "year_label": "1981",
+    "trivia": "Offramp was the first studio album on which Metheny used the Roland GR-300 guitar synthesizer, and this track, with its soaring synth-guitar melody over a driving groove, is the piece most associated with it. The album won the 1983 Grammy for Best Jazz Fusion Performance and topped the Billboard jazz chart.",
+    "tags": [
+      "1980s",
+      "fusion",
+      "ecm"
+    ],
+    "track": {
+      "artist": "Pat Metheny Group",
+      "title": "Are You Going with Me?",
+      "album": "Offramp",
+      "duration": "8:47",
+      "isrc": null,
+      "query": "Pat Metheny Group Are You Going with Me Offramp 1981",
+      "notes": "studio version (8:47) from Offramp, not the live versions on later Group albums"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://www.jazzdisco.org/pat-metheny/discography/",
+      "https://en.wikipedia.org/wiki/Offramp_(album)"
+    ],
+    "notes": "Both jazzdisco and Wikipedia give October 1981 for the Offramp sessions (Power Station, New York) without a day; released May 1982 (ECM 1216 per jazzdisco). The composer credit is the usual Metheny and Mays credit for the album and was not read from a track-level source."
+  },
+  {
+    "id": "jazz-baker-almost-blue",
+    "artist": "Chet Baker",
+    "title": "Almost Blue",
+    "composer": "Elvis Costello",
+    "recording_date": "1987",
+    "recording_year": 1987,
+    "release_year": 1989,
+    "original_issue": "RCA Novus 3054-2-N (CD, Let's Get Lost: Chet Baker Sings and Plays from the Film, 1989)",
+    "personnel": "Chet Baker (trumpet, vocal), Frank Strazzeri (piano), John Leftwich (bass)",
+    "style": "vocal",
+    "year": 1987,
+    "year_lo": 1987,
+    "year_hi": 1987,
+    "year_label": "1987",
+    "trivia": "Baker recorded Elvis Costello's ballad in 1987 for Bruce Weber's documentary about him, a year before his death in Amsterdam in May 1988. His worn vocal and muted trumpet made it one of the best-known recordings of his last years.",
+    "tags": [
+      "1980s",
+      "vocal",
+      "novus"
+    ],
+    "track": {
+      "artist": "Chet Baker",
+      "title": "Almost Blue",
+      "album": "Let's Get Lost: Chet Baker Sings and Plays from the Film",
+      "duration": "3:13",
+      "isrc": null,
+      "query": "Chet Baker Almost Blue Let's Get Lost 1987",
+      "notes": "studio version (3:13) from the Let's Get Lost soundtrack, not Costello's 1982 original or the live 1987 versions"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://www.jazzdisco.org/chet-baker/discography/",
+      "https://en.wikipedia.org/wiki/Let's_Get_Lost_(1988_film)"
+    ],
+    "notes": "GAP: recorded 1987, first released 1989 (2 yrs). jazzdisco dates the Let's Get Lost sessions to Los Angeles and Paris, Jan-May 1987, so recording_date is year only. Almost Blue is track 11 on the CD; jazzdisco credits drums (Ralph Penland) only on tracks 1-5 and guitar (Nicola Stilo) only on track 12, so this track is a trio. Costello's original is on Imperial Bedroom (1982)."
+  },
+  {
+    "id": "jazz-marsalis-black-codes",
+    "artist": "Wynton Marsalis",
+    "title": "Black Codes (From the Underground)",
+    "composer": "Wynton Marsalis",
+    "recording_date": "1985-01",
+    "recording_year": 1985,
+    "release_year": 1985,
+    "original_issue": "Columbia (LP, Black Codes (From the Underground), 1985)",
+    "personnel": "Wynton Marsalis (trumpet), Branford Marsalis (tenor and soprano saxophones), Kenny Kirkland (piano), Charnett Moffett (double bass), Jeff 'Tain' Watts (drums)",
+    "style": "post-bop",
+    "year": 1985,
+    "year_lo": 1985,
+    "year_hi": 1985,
+    "year_label": "1985",
+    "trivia": "The title piece of Marsalis's 1985 album is a nine-minute modern-jazz workout for his quintet with brother Branford and the Kenny Kirkland rhythm section. The album won two Grammys in 1986 and went into the Library of Congress National Recording Registry in 2023.",
+    "tags": [
+      "1980s",
+      "post-bop",
+      "columbia",
+      "neo-trad"
+    ],
+    "track": {
+      "artist": "Wynton Marsalis",
+      "title": "Black Codes (From the Underground)",
+      "album": "Black Codes (From the Underground)",
+      "duration": "9:31",
+      "isrc": null,
+      "query": "Wynton Marsalis Black Codes From the Underground 1985",
+      "notes": "studio title track (9:31), not the later live versions"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Black_Codes_(From_the_Underground)"
+    ],
+    "notes": "Sessions ran 7-11 and 14 Jan 1985 (Wikipedia); the day for this track is not given, so the month is used. Ron Carter plays bass only on Aural Oasis. Single source (Wikipedia)."
+  },
+  {
+    "id": "jazz-gordon-body-and-soul",
+    "artist": "Dexter Gordon",
+    "title": "Body and Soul",
+    "composer": "Johnny Green, Edward Heyman, Robert Sour, Frank Eyton",
+    "recording_date": "1985-07",
+    "recording_year": 1985,
+    "release_year": 1986,
+    "original_issue": "Columbia SC 40464 (LP, 'Round Midnight: Original Motion Picture Soundtrack, 1986)",
+    "personnel": "Dexter Gordon (tenor saxophone), Herbie Hancock (piano), John McLaughlin (guitar), Pierre Michelot (bass), Billy Higgins (drums)",
+    "style": "hard-bop",
+    "year": 1985,
+    "year_lo": 1985,
+    "year_hi": 1985,
+    "year_label": "1985",
+    "trivia": "Gordon played the expatriate tenor saxophonist at the centre of Bertrand Tavernier's film 'Round Midnight and was nominated for the Academy Award for Best Actor. Herbie Hancock produced the soundtrack, recorded live in the Paris studio with the musicians of the film, and won the Oscar for the score.",
+    "tags": [
+      "1980s",
+      "hard-bop",
+      "columbia"
+    ],
+    "track": {
+      "artist": "Dexter Gordon",
+      "title": "Body and Soul",
+      "album": "'Round Midnight: Original Motion Picture Soundtrack",
+      "duration": "5:54",
+      "isrc": null,
+      "query": "Dexter Gordon Body and Soul Round Midnight soundtrack 1986",
+      "notes": "soundtrack version (5:54) from the 'Round Midnight soundtrack, not Gordon's earlier studio versions"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://www.jazzdisco.org/dexter-gordon/discography/",
+      "https://en.wikipedia.org/wiki/Round_Midnight_(soundtrack)"
+    ],
+    "notes": "jazzdisco lists this as the Herbie Hancock-Dexter Gordon Quintet at Studio Eclair, Paris, 1-12 July 1985, and Wikipedia's track-numbered credits agree. Soundtrack released 1986."
+  },
+  {
+    "id": "jazz-connick-it-had-to-be-you",
+    "artist": "Harry Connick, Jr.",
+    "title": "It Had to Be You",
+    "composer": "Isham Jones, Gus Kahn",
+    "recording_date": "1989-06",
+    "recording_year": 1989,
+    "release_year": 1989,
+    "original_issue": "Columbia (LP, When Harry Met Sally...: Music from the Motion Picture, July 1989)",
+    "personnel": "Harry Connick Jr. (vocals, piano), Jay Berliner (guitar), Ben Wolfe (bass), Jeff 'Tain' Watts (drums), Frank Wess (tenor saxophone), with a big band and orchestra arranged by Marc Shaiman and Connick",
+    "style": "vocal",
+    "year": 1989,
+    "year_lo": 1989,
+    "year_hi": 1989,
+    "year_label": "1989",
+    "trivia": "Connick's big-band reading of the 1924 standard opens the soundtrack of Rob Reiner's When Harry Met Sally..., where his young-Sinatra sound made him a household name. The album went to No. 1 on the Billboard jazz chart, earned double platinum and won him his first Grammy, for Best Jazz Male Vocal Performance.",
+    "tags": [
+      "1980s",
+      "vocal",
+      "columbia"
+    ],
+    "track": {
+      "artist": "Harry Connick, Jr.",
+      "title": "It Had to Be You",
+      "album": "When Harry Met Sally...: Music from the Motion Picture",
+      "duration": "3:30",
+      "isrc": null,
+      "query": "Harry Connick Jr. It Had to Be You When Harry Met Sally 1989",
+      "notes": "big-band vocal version, track 1 of the soundtrack, not the instrumental trio version at track 10"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/When_Harry_Met_Sally..._(soundtrack)"
+    ],
+    "notes": "Sessions were 6, 12 and 19 June 1989 at RCA, New York (Wikipedia); the month is used because the day for this track is not given. Personnel is the album-level credit list, not assigned by track. Duration approximate (not taken from a source)."
+  },
+  {
+    "id": "jazz-quincy-jones-ai-no-corrida",
+    "artist": "Quincy Jones",
+    "title": "Ai No Corrida",
+    "composer": "Chaz Jankel, Kenny Young",
+    "recording_date": "1980",
+    "recording_year": 1980,
+    "release_year": 1981,
+    "original_issue": "A&M (LP, The Dude, 26 Mar 1981; US single 1981)",
+    "personnel": "Charles May (lead vocal), Steve Lukather (guitar), Louis Johnson (bass), John Robinson (drums), Paulinho da Costa (percussion), Herbie Hancock (electric piano), David 'Hawk' Wolinski (clavinet), Ernie Watts (tenor saxophone solo), Patti Austin (backing vocals); arranged and produced by Quincy Jones",
+    "style": "jazz-funk",
+    "year": 1980,
+    "year_lo": 1980,
+    "year_hi": 1980,
+    "year_label": "1980",
+    "trivia": "Quincy Jones rebuilt Chaz Jankel's 1980 song, whose title borrows the Japanese name of the film In the Realm of the Senses, as a studio-musician dance track with Charles May on lead vocal. It reached No. 28 in the US and No. 14 in the UK and won the 1982 Grammy for Best Arrangement, Instrumental and Vocals.",
+    "tags": [
+      "1980s",
+      "jazz-funk",
+      "a-and-m",
+      "disco",
+      "crossover"
+    ],
+    "track": {
+      "artist": "Quincy Jones",
+      "title": "Ai No Corrida",
+      "album": "The Dude",
+      "duration": "6:18",
+      "isrc": null,
+      "query": "Quincy Jones Ai No Corrida The Dude 1981",
+      "notes": "album track (6:18) from The Dude, not Chaz Jankel's 1980 original"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Ai_No_Corrida_(song)",
+      "https://en.wikipedia.org/wiki/The_Dude_(Quincy_Jones_album)"
+    ],
+    "notes": "Wikipedia gives 'recorded 1980' for The Dude (Westlake Studios, Los Angeles); album released 26 Mar 1981. Tagged crossover: a pop and dance production by a jazz-rooted arranger."
+  },
+  {
+    "id": "jazz-clarke-duke-sweet-baby",
+    "artist": "Stanley Clarke & George Duke",
+    "title": "Sweet Baby",
+    "composer": "George Duke",
+    "recording_date": null,
+    "recording_year": 1981,
+    "release_year": 1981,
+    "original_issue": "Epic (LP, The Clarke/Duke Project, 9 Apr 1981; single April 1981)",
+    "personnel": "George Duke (vocals, keyboards, string arrangement), Stanley Clarke (vocals, bass), John Frederick Robinson (drums), Norman Gary Foster (saxophone), strings",
+    "style": "jazz-funk",
+    "year": 1981,
+    "year_lo": 1981,
+    "year_hi": 1981,
+    "year_label": "1981",
+    "trivia": "The first album the bassist and the keyboardist made together produced this slow, soulful duet, which reached No. 19 on the Billboard Hot 100. The Clarke/Duke Project was nominated for the Grammy for Best R&B Performance by a Duo or Group.",
+    "tags": [
+      "1980s",
+      "jazz-funk",
+      "epic"
+    ],
+    "track": {
+      "artist": "Stanley Clarke & George Duke",
+      "title": "Sweet Baby",
+      "album": "The Clarke/Duke Project",
+      "duration": "3:45",
+      "isrc": null,
+      "query": "Stanley Clarke George Duke Sweet Baby Clarke/Duke Project 1981",
+      "notes": "album version (3:45) from The Clarke/Duke Project"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Clarke/Duke_Project",
+      "https://en.wikipedia.org/wiki/Sweet_Baby_(Stanley_Clarke_and_George_Duke_song)"
+    ],
+    "notes": "Wikipedia gives no recording date: the main sessions were at Fantasy Studios in Berkeley with overdubs in Los Angeles. 1981 is inferred from the April 1981 release, so the true recording year could be late 1980. Personnel is the album-level credit list matched to track 3 where Wikipedia numbers it."
+  },
+  {
+    "id": "jazz-tom-browne-funkin-for-jamaica",
+    "artist": "Tom Browne",
+    "title": "Funkin' for Jamaica (N.Y.)",
+    "composer": "Tom Browne, Toni Smith",
+    "recording_date": null,
+    "recording_year": 1980,
+    "release_year": 1980,
+    "original_issue": "GRP (LP, Love Approach, 1980; single 1980)",
+    "personnel": "Tom Browne (trumpet, arrangement, synthesizer programming), Dave Grusin (piano), Bernard Wright (electric piano, synthesizer), Bobby Broom (guitar), Marcus Miller (bass), Buddy Williams (drums), Errol 'Crusher' Bennett (percussion), Toni Smith (vocals), with a rap by Alvin Flythe, Mike Flythe and Kevin Osborne",
+    "style": "jazz-funk",
+    "year": 1980,
+    "year_lo": 1980,
+    "year_hi": 1980,
+    "year_label": "1980",
+    "trivia": "A trumpeter's jazz-funk groove with a street rap on top, produced by Dave Grusin and Larry Rosen for the new GRP label. It spent three weeks at No. 1 on the Billboard R&B chart in October 1980.",
+    "tags": [
+      "1980s",
+      "jazz-funk",
+      "grp"
+    ],
+    "track": {
+      "artist": "Tom Browne",
+      "title": "Funkin' for Jamaica (N.Y.)",
+      "album": "Love Approach",
+      "duration": "4:43",
+      "isrc": null,
+      "query": "Tom Browne Funkin' for Jamaica Love Approach 1980",
+      "notes": "album version (4:43) from Love Approach"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Love_Approach"
+    ],
+    "notes": "Wikipedia gives the Love Approach recording period as 1979-1980 without dates, and the single was a 1980 hit, so 1980 is used (it may have been cut in 1979). Single source (Wikipedia). The track is number 1 on the album and the credits above are the ones Wikipedia numbers for track 1."
+  },
+  {
+    "id": "jazz-jarreau-were-in-this-love-together",
+    "artist": "Al Jarreau",
+    "title": "We're in This Love Together",
+    "composer": "Keith Stegall, Roger Murrah",
+    "recording_date": "1981",
+    "recording_year": 1981,
+    "release_year": 1981,
+    "original_issue": "Warner Bros. (LP, Breakin' Away, 3 Aug 1981; single 1981)",
+    "personnel": "Al Jarreau (vocals), Jay Graydon (guitar), Tom Canning (synthesizers), Michael Omartian (Fender Rhodes, synthesizer), Michael Boddicker (synthesizer), Steve Lukather (guitar), Abraham Laboriel (bass), Steve Gadd (drums), Lon Price (alto saxophone solo)",
+    "style": "smooth-jazz",
+    "year": 1981,
+    "year_lo": 1981,
+    "year_hi": 1981,
+    "year_label": "1981",
+    "trivia": "Producer Jay Graydon found this song at the bottom of a box of demos pitched to other acts, and it became Jarreau's first and biggest chart hit, reaching No. 15 on the Hot 100 and No. 1 on the Canadian adult contemporary chart. The album Breakin' Away won him the 1982 Grammy for Best Pop Vocal Performance, Male.",
+    "tags": [
+      "1980s",
+      "smooth-jazz",
+      "warner-bros"
+    ],
+    "track": {
+      "artist": "Al Jarreau",
+      "title": "We're in This Love Together",
+      "album": "Breakin' Away",
+      "duration": "3:44",
+      "isrc": null,
+      "query": "Al Jarreau We're in This Love Together Breakin' Away 1981",
+      "notes": "album version (3:44) from Breakin' Away"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/We're_in_This_Love_Together",
+      "https://en.wikipedia.org/wiki/Breakin'_Away_(album)"
+    ],
+    "notes": "Wikipedia gives recording as 1981 with no month or day. Songwriters are taken from the song's Wikipedia categories (Keith Stegall, Roger Murrah). Track-numbered credits are from the album page."
+  },
+  {
+    "id": "jazz-james-sanborn-maputo",
+    "artist": "Bob James & David Sanborn",
+    "title": "Maputo",
+    "composer": "Marcus Miller",
+    "recording_date": null,
+    "recording_year": 1986,
+    "release_year": 1986,
+    "original_issue": "Warner Bros. (LP, Double Vision, 19 May 1986)",
+    "personnel": "David Sanborn (alto saxophone), Bob James (keyboards, synthesizers, programming), Marcus Miller (bass, rhythm arrangement), Steve Gadd (drums), Paul Jackson Jr. (guitar), Paulinho da Costa (percussion)",
+    "style": "smooth-jazz",
+    "year": 1986,
+    "year_lo": 1986,
+    "year_hi": 1986,
+    "year_label": "1986",
+    "trivia": "Marcus Miller wrote this opener for the one-off pairing of keyboardist Bob James and saxophonist David Sanborn. Double Vision won the 1987 Grammy for Best Jazz Fusion Performance and spent 63 weeks on the Billboard charts.",
+    "tags": [
+      "1980s",
+      "smooth-jazz",
+      "warner-bros"
+    ],
+    "track": {
+      "artist": "Bob James & David Sanborn",
+      "title": "Maputo",
+      "album": "Double Vision",
+      "duration": "6:50",
+      "isrc": null,
+      "query": "Bob James David Sanborn Maputo Double Vision 1986",
+      "notes": "album track (6:50) from Double Vision"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Double_Vision_(Bob_James_and_David_Sanborn_album)"
+    ],
+    "notes": "Wikipedia gives no recording date for Double Vision (Clinton and Unique studios, New York); 1986 is inferred from the 19 May 1986 release, so it may have been recorded in 1985. Credits are the album-level list with Marcus Miller's arrangement credit on tracks 1-2."
+  },
+  {
+    "id": "jazz-benson-give-me-the-night",
+    "artist": "George Benson",
+    "title": "Give Me the Night",
+    "composer": "Rod Temperton",
+    "recording_date": "1980",
+    "recording_year": 1980,
+    "release_year": 1980,
+    "original_issue": "Warner Bros. / Qwest (LP, Give Me the Night, 9 Aug 1980; single June 1980)",
+    "personnel": "George Benson (guitar, lead vocal), Lee Ritenour (guitar), Abraham Laboriel (bass), John Robinson (drums), Herbie Hancock (electric piano), Richard Tee (synthesizer bass), Michael Boddicker (synthesizer), Paulinho da Costa (percussion), Patti Austin (backing and scat vocals)",
+    "style": "jazz-funk",
+    "year": 1980,
+    "year_lo": 1980,
+    "year_hi": 1980,
+    "year_label": "1980",
+    "trivia": "Written by Heatwave's Rod Temperton and produced by Quincy Jones, it gave Benson his first No. 1 on the Billboard Soul Singles chart and reached No. 4 on the Hot 100 and No. 7 in the UK. Patti Austin supplies the scat backing vocal and Lee Ritenour plays guitar.",
+    "tags": [
+      "1980s",
+      "jazz-funk",
+      "warner-bros"
+    ],
+    "track": {
+      "artist": "George Benson",
+      "title": "Give Me the Night",
+      "album": "Give Me the Night",
+      "duration": "5:01",
+      "isrc": null,
+      "query": "George Benson Give Me the Night 1980",
+      "notes": "album version (5:01) from Give Me the Night, not the shorter single edit"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Give_Me_the_Night_(song)",
+      "https://en.wikipedia.org/wiki/Give_Me_the_Night_(album)"
+    ],
+    "notes": "Wikipedia gives recording as 1980 (Cherokee Studios, Hollywood, and Kendun Recorders, Burbank) without a month. Personnel follows the single's Wikipedia page; the album page lists Ritenour only on other tracks and shows both Laboriel and Louis Johnson on bass for track 1, so the bass credit is uncertain."
+  },
+  {
+    "id": "jazz-grover-washington-just-the-two-of-us",
+    "artist": "Grover Washington Jr. feat. Bill Withers",
+    "title": "Just the Two of Us",
+    "composer": "Bill Withers, William Salter, Ralph MacDonald",
+    "recording_date": "1980",
+    "recording_year": 1980,
+    "release_year": 1980,
+    "original_issue": "Elektra (LP, Winelight, 24 Oct 1980; single Feb 1981)",
+    "personnel": "Grover Washington Jr. (saxophone), Bill Withers (lead vocal), Richard Tee (Fender Rhodes), Bill Eaton (synthesizer, arrangement), Eric Gale (guitar), Marcus Miller (bass), Steve Gadd (drums), Ralph MacDonald (percussion), Robert Greenidge (steel drums)",
+    "style": "smooth-jazz",
+    "year": 1980,
+    "year_lo": 1980,
+    "year_hi": 1980,
+    "year_label": "1980",
+    "trivia": "Winelight is often credited with launching the 1980s smooth jazz boom, and this Bill Withers vocal feature is its centrepiece and a Grammy-winning hit. The album won the 1982 Grammy for Best Jazz Fusion Performance and topped the Billboard jazz album chart.",
+    "tags": [
+      "1980s",
+      "smooth-jazz",
+      "elektra"
+    ],
+    "track": {
+      "artist": "Grover Washington Jr. feat. Bill Withers",
+      "title": "Just the Two of Us",
+      "album": "Winelight",
+      "duration": "7:23",
+      "isrc": null,
+      "query": "Grover Washington Jr. Bill Withers Just the Two of Us Winelight 1980",
+      "notes": "album version (7:23) from Winelight, not the 3:58 single edit"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Winelight",
+      "https://en.wikipedia.org/wiki/Just_the_Two_of_Us_(Grover_Washington_Jr._song)"
+    ],
+    "notes": "Wikipedia gives June and July 1980 for the Winelight sessions (Rosebud Recording Studio, New York), so recording_date is year only. Album released 24 Oct 1980; the single followed in Feb 1981. Personnel uses the track-numbered credits for track 5."
+  },
+  {
+    "id": "jazz-ritenour-is-it-you",
+    "artist": "Lee Ritenour",
+    "title": "Is It You",
+    "composer": "Lee Ritenour, Bill Champlin, Eric Tagg",
+    "recording_date": null,
+    "recording_year": 1981,
+    "release_year": 1981,
+    "original_issue": "Elektra (LP, Rit, 1981; single April 1981)",
+    "personnel": "Lee Ritenour (guitar), Eric Tagg (lead vocal); the rest of the studio band is not verified",
+    "style": "smooth-jazz",
+    "year": 1981,
+    "year_lo": 1981,
+    "year_hi": 1981,
+    "year_label": "1981",
+    "trivia": "Co-written by the guitarist with Bill Champlin and singer Eric Tagg, this was Ritenour's biggest pop hit, reaching No. 15 on both the Hot 100 and the adult contemporary chart. Its video was among those shown on MTV's first day of broadcast.",
+    "tags": [
+      "1980s",
+      "smooth-jazz",
+      "elektra"
+    ],
+    "track": {
+      "artist": "Lee Ritenour",
+      "title": "Is It You",
+      "album": "Rit",
+      "duration": "4:20",
+      "isrc": null,
+      "query": "Lee Ritenour Is It You Rit 1981",
+      "notes": "album version from Rit; the single edit is shorter"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Is_It_You_(Lee_Ritenour_song)"
+    ],
+    "notes": "Single source (Wikipedia). It gives no recording date or track-level personnel, so 1981 is inferred from the 1981 LP and the April 1981 single, and the lineup is limited to the two names Wikipedia credits. Producers were Ritenour, Harvey Mason and David Foster. Duration approximate (not taken from a source)."
+  },
+  {
+    "id": "jazz-shakatak-night-birds",
+    "artist": "Shakatak",
+    "title": "Night Birds",
+    "composer": "Bill Sharpe, Roger Odell",
+    "recording_date": null,
+    "recording_year": 1982,
+    "release_year": 1982,
+    "original_issue": "Polydor (LP, Night Birds, May 1982; single 1982)",
+    "personnel": "Bill Sharpe (piano, Fender Rhodes, synthesizers), Nigel Wright (keyboards, synthesizers, trombone, brass arrangements), Keith Winter (guitar), George Anderson (bass), Roger Odell (drums)",
+    "style": "jazz-funk",
+    "year": 1982,
+    "year_lo": 1982,
+    "year_hi": 1982,
+    "year_label": "1982",
+    "trivia": "The London band's signature instrumental climbed to No. 9 on the UK singles chart in 1982, and the album Night Birds reached No. 4 in the UK. It defined the group's polished jazz-funk sound for European and Japanese audiences.",
+    "tags": [
+      "1980s",
+      "jazz-funk",
+      "polydor"
+    ],
+    "track": {
+      "artist": "Shakatak",
+      "title": "Night Birds",
+      "album": "Night Birds",
+      "duration": "6:25",
+      "isrc": null,
+      "query": "Shakatak Night Birds 1982",
+      "notes": "album version (6:25) from Night Birds, not the shorter single edit"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Night_Birds_(album)"
+    ],
+    "notes": "Wikipedia gives only the 1982 release (May 1982, Polydor) and the studios (Jacobs Studios in Surrey and Pye Studio II in London), so 1982 is used for the recording year. Personnel is the album-level core band; the vocalists on other tracks are left out because Night Birds is an instrumental."
+  },
+  {
+    "id": "jazz-tania-maria-come-with-me",
+    "artist": "Tania Maria",
+    "title": "Come with Me",
+    "composer": "Tania Maria",
+    "recording_date": "1982-08",
+    "recording_year": 1982,
+    "release_year": 1983,
+    "original_issue": "Concord Picante CJP-200 (LP, Come with Me, January 1983)",
+    "personnel": "Tania Maria (vocals, piano), Jose Neto (guitar), John Pena (bass), Portinho (drums), Steve Thornton (percussion)",
+    "style": "latin",
+    "year": 1982,
+    "year_lo": 1982,
+    "year_hi": 1982,
+    "year_label": "1982",
+    "trivia": "The title song of her third Concord album became a dance-floor classic of the 1980s and started her international breakthrough. The Brazilian pianist and singer had moved to New York at the start of the decade after Charlie Byrd recommended her to Concord's Carl Jefferson.",
+    "tags": [
+      "1980s",
+      "latin",
+      "concord-picante",
+      "brazilian"
+    ],
+    "track": {
+      "artist": "Tania Maria",
+      "title": "Come with Me",
+      "album": "Come with Me",
+      "duration": "5:44",
+      "isrc": null,
+      "query": "Tania Maria Come with Me 1983",
+      "notes": "album version (5:44, length per MusicBrainz) from Come with Me"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Tania_Maria",
+      "https://www.discogs.com/master/84353-Tania-Maria-Come-With-Me",
+      "https://musicbrainz.org/release/800a9775-8686-449f-b638-143911543f5b"
+    ],
+    "notes": "Recording month is from Discogs and Qobuz listings (Coast Recorders, San Francisco, August 1982); release January 1983. Personnel is the album-level credit list from those listings, not assigned by track, and the bass credit differs by pressing (John Pena or Lincoln Goines). Composer credit not read from a source page. The duration is the MusicBrainz recording length."
+  },
+  {
+    "id": "jazz-take-6-spread-love",
+    "artist": "Take 6",
+    "title": "Spread Love",
+    "composer": "Mark Kibble, Mervyn Warren, Claude McKnight",
+    "recording_date": null,
+    "recording_year": 1988,
+    "release_year": 1988,
+    "original_issue": "Reprise / Warner Alliance (LP, Take 6, 1988)",
+    "personnel": "Take 6 (Claude McKnight, Mark Kibble, Mervyn Warren, Cedric Dent, David Thomas, Alvin Chea): six-voice a cappella group",
+    "style": "vocal",
+    "year": 1988,
+    "year_lo": 1988,
+    "year_hi": 1988,
+    "year_label": "1988",
+    "trivia": "From the first album by the Oakwood College sextet, who blend gospel harmony with jazz voicings entirely without instruments. The album won the group's first two Grammys, including Best Jazz Vocal Performance by a Duo or Group.",
+    "tags": [
+      "1980s",
+      "vocal",
+      "reprise",
+      "gospel",
+      "a-cappella"
+    ],
+    "track": {
+      "artist": "Take 6",
+      "title": "Spread Love",
+      "album": "Take 6",
+      "duration": "3:29",
+      "isrc": null,
+      "query": "Take 6 Spread Love Take 6 1988",
+      "notes": "album version (3:29) from Take 6"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Take_6_(album)",
+      "https://en.wikipedia.org/wiki/Take_6"
+    ],
+    "notes": "Wikipedia gives recording as 1987-1988 and release 1988, so 1988 is used for the recording year. Spread Love is track 2 of the album; Wikipedia credits the arrangements to Warren, Kibble and McKnight and does not assign voice parts, so the lineup line names the group."
+  },
+  {
+    "id": "jazz-di-meola-mclaughlin-de-lucia-mediterranean-sundance",
+    "artist": "Al Di Meola, John McLaughlin & Paco de Lucía",
+    "title": "Mediterranean Sundance / Rio Ancho",
+    "composer": "Al Di Meola, Paco de Lucía",
+    "recording_date": "1980-12-05",
+    "recording_year": 1980,
+    "release_year": 1981,
+    "original_issue": "Columbia (LP, Friday Night in San Francisco, 1981)",
+    "personnel": "Al Di Meola (acoustic steel-string guitar), John McLaughlin (acoustic nylon-string guitar), Paco de Lucía (Spanish guitar)",
+    "style": "fusion",
+    "year": 1980,
+    "year_lo": 1980,
+    "year_hi": 1980,
+    "year_label": "1980",
+    "trivia": "Three guitar virtuosos, a jazz-rock player, a British fusion pioneer and the flamenco master, played this opener live at the Warfield Theatre in San Francisco. The album has been called the most influential live acoustic guitar record, and the duet by Di Meola and de Lucía is its showpiece.",
+    "tags": [
+      "1980s",
+      "fusion",
+      "columbia",
+      "flamenco",
+      "live"
+    ],
+    "track": {
+      "artist": "Al Di Meola, John McLaughlin & Paco de Lucía",
+      "title": "Mediterranean Sundance / Rio Ancho",
+      "album": "Friday Night in San Francisco",
+      "duration": "11:31",
+      "isrc": null,
+      "query": "Al Di Meola John McLaughlin Paco de Lucia Mediterranean Sundance Friday Night in San Francisco 1980",
+      "notes": "live opening track (11:31) from Friday Night in San Francisco"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Friday_Night_in_San_Francisco"
+    ],
+    "notes": "Recorded live at the Warfield Theatre, San Francisco, on 5 Dec 1980 (Wikipedia). Released 1981. The duet is credited to Di Meola and de Lucía, with McLaughlin joining on other tracks, so the lineup line is the trio's credit for the album."
+  },
+  {
+    "id": "jazz-betty-carter-look-what-i-got",
+    "artist": "Betty Carter",
+    "title": "Look What I Got!",
+    "composer": "Betty Carter",
+    "recording_date": null,
+    "recording_year": 1988,
+    "release_year": 1988,
+    "original_issue": "Verve (LP, Look What I Got!, 1988)",
+    "personnel": "Betty Carter (vocals), Benny Green (piano), Stephen Scott (piano), Don Braden (tenor saxophone), Michael Bowie (double bass), Lewis Nash (drums), Winard Harper (drums)",
+    "style": "vocal",
+    "year": 1988,
+    "year_lo": 1988,
+    "year_hi": 1988,
+    "year_label": "1988",
+    "trivia": "The title song of the singer's 1988 Verve album is a rhythmic, self-written showcase for the singer's trademark phrasing. Carter won the 1989 Grammy for Best Jazz Vocal Performance, Female, for the album.",
+    "tags": [
+      "1980s",
+      "vocal",
+      "verve"
+    ],
+    "track": {
+      "artist": "Betty Carter",
+      "title": "Look What I Got!",
+      "album": "Look What I Got!",
+      "duration": "5:41",
+      "isrc": null,
+      "query": "Betty Carter Look What I Got 1988",
+      "notes": "album version (5:41) from Look What I Got!"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Look_What_I_Got!"
+    ],
+    "notes": "Wikipedia gives recording as 1988 with no month; release 1988. Personnel is the album-level list; track-level assignment is not given. The 'trademark phrasing' remark is a general description, not a sourced claim."
+  },
+  {
+    "id": "jazz-camilo-why-not",
+    "artist": "Michel Camilo",
+    "title": "Why Not!",
+    "composer": "Michel Camilo",
+    "recording_date": "1985-02",
+    "recording_year": 1985,
+    "release_year": 1985,
+    "original_issue": "Electric Bird (LP, Why Not?, 1985)",
+    "personnel": "Michel Camilo (piano), Anthony Jackson (bass), Dave Weckl (drums), Lew Soloff (trumpet), Chris Hunter (saxophones), Guarionex Aquino (percussion), Sammy Figueroa (percussion)",
+    "style": "latin",
+    "year": 1985,
+    "year_lo": 1985,
+    "year_hi": 1985,
+    "year_label": "1985",
+    "trivia": "The Dominican pianist's first album as a leader, recorded in February 1985, introduced him as a fast, brilliant Latin-jazz virtuoso with a band of New York session heavyweights. This is the title track of that Electric Bird debut.",
+    "tags": [
+      "1980s",
+      "latin",
+      "electric-bird"
+    ],
+    "track": {
+      "artist": "Michel Camilo",
+      "title": "Why Not!",
+      "album": "Why Not?",
+      "duration": "5:00",
+      "isrc": null,
+      "query": "Michel Camilo Why Not 1985 Electric Bird",
+      "notes": "title track from the 1985 debut album, not later remakes"
+    },
+    "confidence": "low",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Why_Not?_(Michel_Camilo_album)",
+      "https://en.wikipedia.org/wiki/Michel_Camilo"
+    ],
+    "notes": "Wikipedia gives February 1985 and the personnel above for the whole album, not by track, and does not list track lengths or composer by track (the page says all tunes are Camilo's). The title spelling is Why Not? on that page and Why Not! elsewhere. Low confidence because the card relies on one short Wikipedia page. Duration approximate (not taken from a source)."
+  },
+  {
+    "id": "jazz-dulfer-lily-was-here",
+    "artist": "David A. Stewart feat. Candy Dulfer",
+    "title": "Lily Was Here",
+    "composer": "David A. Stewart",
+    "recording_date": null,
+    "recording_year": 1989,
+    "release_year": 1989,
+    "original_issue": "Anxious (7-inch and 12-inch single, 1989; from the film soundtrack Lily Was Here)",
+    "personnel": "Candy Dulfer (alto saxophone), David A. Stewart (guitar), Olle Romo (drums)",
+    "style": "smooth-jazz",
+    "year": 1989,
+    "year_lo": 1989,
+    "year_hi": 1989,
+    "year_label": "1989",
+    "region": "nl",
+    "trivia": "Dutch saxophonist Candy Dulfer, who had not yet released any music of her own, played on this instrumental for the Dutch film De Kassière, reportedly in a single take at the end of a day's recording. It stayed at No. 1 in the Netherlands for five weeks and reached No. 6 in the UK and No. 11 in the US.",
+    "tags": [
+      "1980s",
+      "smooth-jazz",
+      "anxious",
+      "nl"
+    ],
+    "track": {
+      "artist": "David A. Stewart feat. Candy Dulfer",
+      "title": "Lily Was Here",
+      "album": "Lily Was Here (soundtrack)",
+      "duration": "4:19",
+      "isrc": null,
+      "query": "David A. Stewart Candy Dulfer Lily Was Here 1989",
+      "notes": "single version (4:19), not the Orb remixes"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Lily_Was_Here"
+    ],
+    "notes": "Wikipedia gives only 1989 for recording and release (a one-take jam at the end of a day recording the film score, per Hans Dulfer). The composer credit (Stewart) is the writer field of the Wikipedia infobox. Region nl: Dutch saxophonist and Dutch film, No. 1 in the Netherlands."
+  },
+  {
+    "id": "jazz-sade-smooth-operator",
+    "artist": "Sade",
+    "title": "Smooth Operator",
+    "composer": "Sade Adu, Ray St. John",
+    "recording_date": "1983-10",
+    "recording_year": 1983,
+    "release_year": 1984,
+    "original_issue": "Epic (LP, Diamond Life, 16 Jul 1984; UK single 28 Aug 1984)",
+    "personnel": "Sade Adu (vocals), Stuart Matthewman (saxophone, guitar), Andrew Hale (keyboards), Paul S. Denman (bass), Dave Early (drums, percussion), Martin Ditcham (percussion), Terry Bailey and Gordon Matthewman (trumpets)",
+    "style": "smooth-jazz",
+    "year": 1983,
+    "year_lo": 1983,
+    "year_hi": 1983,
+    "year_label": "1983",
+    "trivia": "The band's first big hit blended quiet-storm soul, bossa nova rhythm and a smoky saxophone line, and became their first American top 10 when it peaked at No. 5 in 1985. It came from Diamond Life, which was made in London in the autumn of 1983.",
+    "tags": [
+      "1980s",
+      "smooth-jazz",
+      "epic",
+      "sophisti-pop",
+      "crossover"
+    ],
+    "track": {
+      "artist": "Sade",
+      "title": "Smooth Operator",
+      "album": "Diamond Life",
+      "duration": "4:58",
+      "isrc": null,
+      "query": "Sade Smooth Operator Diamond Life 1984",
+      "notes": "album version (4:58) from Diamond Life, not the 4:15 single edit"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Smooth_Operator",
+      "https://en.wikipedia.org/wiki/Diamond_Life"
+    ],
+    "notes": "Wikipedia gives October-November 1983 for the Diamond Life sessions (Power Plant, London), so the month is October. Album 16 Jul 1984; UK single 28 Aug 1984 and US single Feb 1985. Tagged crossover: sophisti-pop with jazz colouring rather than a jazz recording."
+  },
+  {
+    "id": "jazz-mcferrin-dont-worry-be-happy",
+    "artist": "Bobby McFerrin",
+    "title": "Don't Worry, Be Happy",
+    "composer": "Bobby McFerrin",
+    "recording_date": "1988",
+    "recording_year": 1988,
+    "release_year": 1988,
+    "original_issue": "EMI-Manhattan (7-inch single, July 1988; on the LP Simple Pleasures, 5 Aug 1988)",
+    "personnel": "Bobby McFerrin (all vocals, multitracked)",
+    "style": "vocal",
+    "year": 1988,
+    "year_lo": 1988,
+    "year_hi": 1988,
+    "year_label": "1988",
+    "trivia": "Jazz vocalist Bobby McFerrin sang and layered every sound on this one-man a cappella record, the first a cappella song to reach No. 1 on the Billboard Hot 100. It won Record of the Year, Song of the Year and Best Male Pop Vocal at the 1989 Grammys and entered the US National Recording Registry in 2024.",
+    "tags": [
+      "1980s",
+      "vocal",
+      "manhattan",
+      "a-cappella",
+      "crossover"
+    ],
+    "track": {
+      "artist": "Bobby McFerrin",
+      "title": "Don't Worry, Be Happy",
+      "album": "Simple Pleasures",
+      "duration": "4:54",
+      "isrc": null,
+      "query": "Bobby McFerrin Don't Worry Be Happy Simple Pleasures 1988",
+      "notes": "album version (4:54) from Simple Pleasures, not the 3:50 radio edit"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Don't_Worry,_Be_Happy",
+      "https://en.wikipedia.org/wiki/Simple_Pleasures_(Bobby_McFerrin_album)"
+    ],
+    "notes": "Wikipedia gives recording as 1987-88 for the Simple Pleasures sessions (Power Station, New York, and Fantasy, Berkeley), so recording_date is the year only. Tagged crossover: a pop hit from a jazz singer."
+  },
+  {
+    "id": "jazz-kenny-g-songbird",
+    "artist": "Kenny G",
+    "title": "Songbird",
+    "composer": "Kenny G",
+    "recording_date": "1986",
+    "recording_year": 1986,
+    "release_year": 1986,
+    "original_issue": "Arista (LP, Duotones, 29 Sep 1986; US single March 1987)",
+    "personnel": "Kenny G (soprano saxophone), with studio keyboard and rhythm players on the album including Walter Afanasieff and Preston Glass; credits are not assigned by track in the source",
+    "style": "smooth-jazz",
+    "year": 1986,
+    "year_lo": 1986,
+    "year_hi": 1986,
+    "year_label": "1986",
+    "trivia": "Kenny G's soprano-saxophone ballad from Duotones reached No. 4 on the Billboard Hot 100 as a 1987 single, the first instrumental to reach the top five since 1985. It made him the best-known name in smooth jazz.",
+    "tags": [
+      "1980s",
+      "smooth-jazz",
+      "arista",
+      "crossover"
+    ],
+    "track": {
+      "artist": "Kenny G",
+      "title": "Songbird",
+      "album": "Duotones",
+      "duration": "5:03",
+      "isrc": null,
+      "query": "Kenny G Songbird Duotones 1986",
+      "notes": "album version (5:03) from Duotones, not the 4:01 single edit"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Songbird_(Kenny_G_composition)",
+      "https://en.wikipedia.org/wiki/Duotones"
+    ],
+    "notes": "Wikipedia gives recording as 1985-1986 (Tarpan Studios, San Rafael, and Studio G, Seattle), so 1986 is used as the year. Released on LP 29 Sep 1986 and as a single in March 1987. Tagged crossover: pop-jazz saxophone instrumental."
+  }
+]

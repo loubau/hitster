@@ -1,0 +1,854 @@
+[
+  {
+    "id": "jazz-trombone-shorty-hurricane-season",
+    "artist": "Trombone Shorty",
+    "title": "Hurricane Season",
+    "composer": "Troy Andrews",
+    "recording_date": null,
+    "recording_year": 2010,
+    "release_year": 2010,
+    "original_issue": "Verve Forecast (album Backatown, 11 May 2010)",
+    "personnel": "Troy Andrews (Trombone Shorty: trombone, trumpet, drums, percussion, keyboards, vocals); Dan Oestreicher (baritone saxophone); Clarence Slaughter (flute, saxophone); Pete Murano (guitar); Mike Ballard (bass); Joey Peebles (drums); Dwayne Williams (percussion); Ben Ellman (producer). Album credits, not assigned by track in the source",
+    "style": "jazz-funk",
+    "year": 2010,
+    "year_lo": 2010,
+    "year_hi": 2010,
+    "year_label": "2010",
+    "trivia": "Troy Andrews, known as Trombone Shorty, recorded the album Backatown at The Gumbo Room in New Orleans with Ben Ellman producing. It peaked at No. 3 on the Billboard Jazz Albums chart and was nominated for the 2011 Grammy Award for Best Contemporary Jazz Album.",
+    "tags": [
+      "2010s",
+      "jazz-funk",
+      "verve-forecast",
+      "new-orleans",
+      "brass"
+    ],
+    "track": {
+      "artist": "Trombone Shorty",
+      "title": "Hurricane Season",
+      "album": "Backatown",
+      "duration": "3:20",
+      "isrc": null,
+      "query": "Trombone Shorty Hurricane Season Backatown 2010",
+      "notes": "album version (3:20)"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Backatown"
+    ],
+    "notes": "The album page gives no recording date, so the 2010 release year is used. The personnel line is the album credit list, not assigned by track."
+  },
+  {
+    "id": "jazz-bennett-winehouse-body-and-soul",
+    "artist": "Tony Bennett and Amy Winehouse",
+    "title": "Body and Soul",
+    "composer": "Johnny Green (lyrics Edward Heyman, Robert Sour, Frank Eyton)",
+    "recording_date": "2011-03-23",
+    "recording_year": 2011,
+    "release_year": 2011,
+    "original_issue": "Columbia (single, 14 Sep 2011; album Duets II, 20 Sep 2011)",
+    "personnel": "Tony Bennett (vocals); Amy Winehouse (vocals); Jorge Calandrelli (arranger, conductor); Elena Barere (concertmaster); Phil Ramone (producer)",
+    "style": "vocal",
+    "year": 2011,
+    "year_lo": 2011,
+    "year_hi": 2011,
+    "year_label": "2011",
+    "trivia": "Recorded at Abbey Road Studios in London on 23 March 2011 with producer Phil Ramone, this was the last recording Amy Winehouse made before her death on 23 July 2011. The single came out on 14 September 2011, the day she would have turned 28, with proceeds going to the Amy Winehouse Foundation, and it won the Grammy for Best Pop Duo/Group Performance. It also made Bennett, at 85, the oldest living artist to chart on the Billboard Hot 100.",
+    "tags": [
+      "2010s",
+      "vocal",
+      "columbia",
+      "duet",
+      "standard"
+    ],
+    "track": {
+      "artist": "Tony Bennett and Amy Winehouse",
+      "title": "Body and Soul",
+      "album": "Duets II",
+      "duration": "3:23",
+      "isrc": null,
+      "query": "Tony Bennett Amy Winehouse Body and Soul Duets II 2011",
+      "notes": "album version (3:23); the single page lists 3:20 and MusicBrainz 3:21"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Duets_II_(Tony_Bennett_album)",
+      "https://en.wikipedia.org/wiki/Body_and_Soul_(1930_song)",
+      "https://musicbrainz.org/recording/fd94af1f-805d-4429-8345-f910f62ef67e"
+    ],
+    "notes": "Third version of Body and Soul in the set, after Coleman Hawkins 1939 and Dexter Gordon 1985. Not tagged crossover: a standard sung by two vocalists on a Bennett duets album, with a jazz-trained arranger and conductor."
+  },
+  {
+    "id": "jazz-porter-be-good-lions-song",
+    "artist": "Gregory Porter",
+    "title": "Be Good (Lion's Song)",
+    "composer": "Gregory Porter",
+    "recording_date": "2011-06",
+    "recording_year": 2011,
+    "release_year": 2012,
+    "original_issue": "Motéma (album Be Good, 15 Feb 2012)",
+    "personnel": "Gregory Porter (vocals); Chip Crawford (piano); Aaron James (bass); Emanuel Harrold (drums); Yosuke Sato (alto saxophone); Tivon Pennicott (tenor saxophone); Keyon Harrold (trumpet); Kamau Kenyatta (horn arrangements); Brian Bacchus (producer). Album credits, horn players not assigned by track in the source",
+    "style": "vocal",
+    "year": 2011,
+    "year_lo": 2011,
+    "year_hi": 2011,
+    "year_label": "2011",
+    "trivia": "Gregory Porter wrote the title track of his 2012 album Be Good, which one reviewer called lullaby-like. The album was cut in three days in June 2011 at Systems Two in Brooklyn and went on to chart in Belgium, France and the Netherlands.",
+    "tags": [
+      "2010s",
+      "vocal",
+      "motema",
+      "original"
+    ],
+    "track": {
+      "artist": "Gregory Porter",
+      "title": "Be Good (Lion's Song)",
+      "album": "Be Good",
+      "duration": "6:26",
+      "isrc": null,
+      "query": "Gregory Porter Be Good Lion's Song Be Good 2011",
+      "notes": "album version (6:26, track 2)"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Be_Good_(Gregory_Porter_album)"
+    ],
+    "notes": "The album page gives 20 to 22 June 2011 for the whole album, so the month is used and no single day. Porter's first card in the set."
+  },
+  {
+    "id": "jazz-glasper-afro-blue",
+    "artist": "Robert Glasper Experiment",
+    "title": "Afro Blue",
+    "composer": "Mongo Santamaría",
+    "recording_date": null,
+    "recording_year": 2011,
+    "release_year": 2012,
+    "original_issue": "Blue Note (album Black Radio, 28 Feb 2012)",
+    "personnel": "Robert Glasper (piano, Fender Rhodes, arrangements); Casey Benjamin (flute); Derrick Hodge (bass); Chris Dave (drums); Erykah Badu (vocals). Album credits, not assigned by track in the source except as noted",
+    "style": "nu-jazz",
+    "year": 2011,
+    "year_lo": 2011,
+    "year_hi": 2011,
+    "year_label": "2011",
+    "trivia": "Erykah Badu sings Mongo Santamaría's Afro-Latin jazz tune on Black Radio, the Blue Note album that won the Grammy for Best R&B Album at the 55th ceremony. The album credits say Badu's vocals and Glasper's piano for this track were recorded by Max Ross at Systems Two in Brooklyn, while the rest of the album was cut at Threshold in Los Angeles.",
+    "tags": [
+      "2010s",
+      "nu-jazz",
+      "blue-note",
+      "neo-soul",
+      "black-radio"
+    ],
+    "track": {
+      "artist": "Robert Glasper Experiment feat. Erykah Badu",
+      "title": "Afro Blue",
+      "album": "Black Radio",
+      "duration": "5:13",
+      "isrc": null,
+      "query": "Robert Glasper Experiment Afro Blue Erykah Badu Black Radio 2011",
+      "notes": "album version (5:13, track 2), feat. Erykah Badu"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Black_Radio"
+    ],
+    "notes": "No recording date is documented in the sources checked; Discogs lists 2011 and the album came out on 28 Feb 2012, so 2011 is an inference (medium). Second Afro Blue in the set after Cal Tjader 1959."
+  },
+  {
+    "id": "jazz-kamasi-washington-change-of-the-guard",
+    "artist": "Kamasi Washington",
+    "title": "Change of the Guard",
+    "composer": "Kamasi Washington",
+    "recording_date": "2011-12",
+    "recording_year": 2011,
+    "release_year": 2015,
+    "original_issue": "Brainfeeder (album The Epic, 5 May 2015)",
+    "personnel": "Kamasi Washington (tenor saxophone); Thundercat and Miles Mosley (basses); Ronald Bruner Jr. and Tony Austin (drums); Cameron Graves and Brandon Coleman (keyboards); Ryan Porter (trombone); Igmar Thomas (trumpet); Patrice Quinn and Dwight Trible (vocals); orchestra and choir. Album credits, not assigned by track in the source",
+    "style": "spiritual",
+    "year": 2011,
+    "year_lo": 2011,
+    "year_hi": 2011,
+    "year_label": "2011",
+    "trivia": "The opening track of the triple album The Epic comes from a month-long session in December 2011 at Kingsize Soundlabs in Los Angeles, where about 190 songs were recorded across eight projects. The 17 chosen for The Epic were later fleshed out with a 32-piece orchestra and a 20-person choir, and the album did not appear until 2015.",
+    "tags": [
+      "2010s",
+      "spiritual",
+      "brainfeeder",
+      "epic",
+      "orchestral"
+    ],
+    "track": {
+      "artist": "Kamasi Washington",
+      "title": "Change of the Guard",
+      "album": "The Epic",
+      "duration": "12:15",
+      "isrc": null,
+      "query": "Kamasi Washington Change of the Guard The Epic 2011",
+      "notes": "album version (12:15); the page gives 12:16 for the vinyl side"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Epic_(album)"
+    ],
+    "notes": "GAP: recorded 2011, first released 2015 (4 yrs). The album page dates the sessions to December 2011; orchestra and choir were added later. Kamasi's first card; the second is Street Fighter Mas (2018)."
+  },
+  {
+    "id": "jazz-spalding-black-gold",
+    "artist": "Esperanza Spalding",
+    "title": "Black Gold",
+    "composer": "Esperanza Spalding",
+    "recording_date": null,
+    "recording_year": 2011,
+    "release_year": 2012,
+    "original_issue": "Heads Up International (album Radio Music Society, 20 Mar 2012)",
+    "personnel": "Esperanza Spalding (vocals, electric bass, arrangements); Algebra Blessett (vocals); Lionel Loueke (guitar, voice); Raymond Angry (organ); Tivon Pennicott (tenor saxophone); Corey King (trombone); Igmar Thomas (trumpet); Terri Lyne Carrington (drums); Savannah Children's Choir (choral voices); Q-Tip (executive producer)",
+    "style": "vocal",
+    "year": 2011,
+    "year_lo": 2011,
+    "year_hi": 2011,
+    "year_label": "2011",
+    "trivia": "Esperanza Spalding sings this track with guest vocalist Algebra Blessett, guitarist Lionel Loueke and the Savannah Children's Choir. It came from Radio Music Society, which won the Grammy for Best Jazz Vocal Album and gave her a first US Top 10 album at No. 10 on the Billboard 200. The single reached No. 20 on the US Top Jazz Songs chart.",
+    "tags": [
+      "2010s",
+      "vocal",
+      "heads-up",
+      "bass",
+      "choir"
+    ],
+    "track": {
+      "artist": "Esperanza Spalding",
+      "title": "Black Gold",
+      "album": "Radio Music Society",
+      "duration": "5:17",
+      "isrc": null,
+      "query": "Esperanza Spalding Black Gold Radio Music Society 2012",
+      "notes": "album version (5:17, track 5), feat. Algebra Blessett and Lionel Loueke"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Radio_Music_Society"
+    ],
+    "notes": "The Wikipedia page gives no recording date; Jazzwise lists the record date as 2011 and the album was issued in March 2012, so 2011 is used (medium). The page shows no separate writer credit for this track, so the composer is taken to be Spalding. A second Spalding card, after I Know You Know from 2007."
+  },
+  {
+    "id": "jazz-snarky-puppy-lingus",
+    "artist": "Snarky Puppy",
+    "title": "Lingus",
+    "composer": "Michael League",
+    "recording_date": "2013-10",
+    "recording_year": 2013,
+    "release_year": 2014,
+    "original_issue": "Ropeadope and GroundUP Music (album We Like It Here, 25 Feb 2014)",
+    "personnel": "Michael League (bass guitar, Moog bass); Mike Maher and Jay Jennings (trumpets, flugelhorns); Chris Bullock (tenor saxophone, bass clarinet, flute); Bob Reynolds (tenor saxophone); Cory Henry, Bill Laurance, Justin Stanton and Shaun Martin (keyboards); Bob Lanzetti, Mark Lettieri and Chris McQueen (guitars); Larnell Lewis (drums); Nate Werth (percussion); string players. Album credits, not assigned by track in the source",
+    "style": "jazz-funk",
+    "year": 2013,
+    "year_lo": 2013,
+    "year_hi": 2013,
+    "year_label": "2013",
+    "trivia": "Snarky Puppy recorded the album We Like It Here live in front of a studio audience over four nights in October 2013 at Kytopia in Utrecht. The Wikipedia page singles out the synthesizer solo by Cory Henry on Lingus as well regarded.",
+    "tags": [
+      "2010s",
+      "jazz-funk",
+      "ropeadope",
+      "live",
+      "groundup"
+    ],
+    "track": {
+      "artist": "Snarky Puppy",
+      "title": "Lingus",
+      "album": "We Like It Here",
+      "duration": "10:45",
+      "isrc": null,
+      "query": "Snarky Puppy Lingus We Like It Here 2013",
+      "notes": "album version (10:45)"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/We_Like_It_Here",
+      "https://musicbrainz.org/recording/029506e4-5230-40bc-a5b2-dc2e6e595c59"
+    ],
+    "notes": "MusicBrainz credits the composition to Michael League and lists Cory Henry on keyboard for this recording."
+  },
+  {
+    "id": "jazz-porter-liquid-spirit",
+    "artist": "Gregory Porter",
+    "title": "Liquid Spirit",
+    "composer": "Gregory Porter",
+    "recording_date": "2013",
+    "recording_year": 2013,
+    "release_year": 2013,
+    "original_issue": "Blue Note (album Liquid Spirit, 2 Sep 2013)",
+    "personnel": "Gregory Porter (vocals); Chip Crawford (piano); Aaron James (bass); Emanuel Harrold (drums); Yosuke Sato (alto saxophone); Tivon Pennicott (tenor saxophone); Curtis Taylor (trumpet); Kamau Kenyatta (horn arrangements); Brian Bacchus (producer)",
+    "style": "vocal",
+    "year": 2013,
+    "year_lo": 2013,
+    "year_hi": 2013,
+    "year_label": "2013",
+    "trivia": "The title track of Porter's third album, recorded at Sear Sound in New York. Liquid Spirit won the Grammy for Best Jazz Vocal Album in 2014, produced six singles, peaked at No. 9 in the UK and was certified Platinum there by the BPI in July 2016.",
+    "tags": [
+      "2010s",
+      "vocal",
+      "blue-note",
+      "original"
+    ],
+    "track": {
+      "artist": "Gregory Porter",
+      "title": "Liquid Spirit",
+      "album": "Liquid Spirit",
+      "duration": "3:36",
+      "isrc": null,
+      "query": "Gregory Porter Liquid Spirit Liquid Spirit 2013",
+      "notes": "album version (3:36, track 2)"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Liquid_Spirit"
+    ],
+    "notes": "The page gives 2013 and Sear Sound, New York, with no day. A Claptone remix of this tune has far more YouTube views than the original video. Porter's second card."
+  },
+  {
+    "id": "jazz-de-biasio-no-deal",
+    "artist": "Mélanie De Biasio",
+    "title": "No Deal",
+    "composer": "Mélanie De Biasio, Pascal Paulus, Pascal Mohy",
+    "recording_date": null,
+    "recording_year": 2013,
+    "release_year": 2013,
+    "original_issue": "PIAS (album No Deal, March 2013)",
+    "personnel": "Mélanie De Biasio (vocals, flute); Pascal Mohy (piano); Pascal Paulus (synthesizer, clavinet); Dré Pallemaerts (drums); Jean Vanesse (mixing)",
+    "style": "contemporary",
+    "year": 2013,
+    "year_lo": 2013,
+    "year_hi": 2013,
+    "year_label": "2013",
+    "region": "be",
+    "trivia": "The title track of the Belgian singer's album No Deal, with Pascal Mohy on piano, Dré Pallemaerts on drums and Pascal Paulus on synthesizer and clavinet. Rolling Stone gave the album four stars, Radiohead drummer Phil Selway named it a favourite album of 2014, and she appeared on Later... with Jools Holland that year.",
+    "tags": [
+      "2010s",
+      "contemporary",
+      "pias",
+      "vocal",
+      "minimal",
+      "be"
+    ],
+    "track": {
+      "artist": "Mélanie De Biasio",
+      "title": "No Deal",
+      "album": "No Deal",
+      "duration": "4:02",
+      "isrc": null,
+      "query": "Mélanie De Biasio No Deal No Deal 2013",
+      "notes": "album version (4:02, MusicBrainz length)"
+    },
+    "confidence": "low",
+    "sources": [
+      "https://en.wikipedia.org/wiki/M%C3%A9lanie_De_Biasio",
+      "https://musicbrainz.org/recording/e63cf54f-886e-419e-9e07-075ba1184b2d"
+    ],
+    "notes": "No recording date found (Jazz Music Archives gives Motor Music, Mechelen as the studio), so the March 2013 release year is used and confidence is low. MusicBrainz lists Pascal Mohy as composer and De Biasio and Paulus as writers."
+  },
+  {
+    "id": "jazz-maalouf-true-sorry",
+    "artist": "Ibrahim Maalouf",
+    "title": "True Sorry",
+    "composer": "Ibrahim Maalouf",
+    "recording_date": null,
+    "recording_year": 2013,
+    "release_year": 2013,
+    "original_issue": "Mi'ster (album Illusions, 5 Nov 2013)",
+    "personnel": "Ibrahim Maalouf (trumpet, composer, arranger). Secondary listings add Yann Martin, Youenn Le Cam and Martin Saccardy (trumpets), Frank Woeste (keyboards), Laurent David (bass), Xavier Rogé (drums) and François Delporte (guitar); not verified track by track",
+    "style": "fusion",
+    "year": 2013,
+    "year_lo": 2013,
+    "year_hi": 2013,
+    "year_label": "2013",
+    "trivia": "Ibrahim Maalouf's True Sorry came out as a single from his album Illusions in 2014 and reached No. 57 on the French singles chart. The album peaked at No. 29 in France.",
+    "tags": [
+      "2010s",
+      "fusion",
+      "mister",
+      "trumpet",
+      "french"
+    ],
+    "track": {
+      "artist": "Ibrahim Maalouf",
+      "title": "True Sorry",
+      "album": "Illusions",
+      "duration": "4:51",
+      "isrc": null,
+      "query": "Ibrahim Maalouf True Sorry Illusions 2013",
+      "notes": "album version (4:51, MusicBrainz length)"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Ibrahim_Maalouf",
+      "https://musicbrainz.org/recording/97721ed1-dc11-47d4-88d9-829dd0b012b7"
+    ],
+    "notes": "No recording date found, so the 2013 release year is used. MusicBrainz gives no personnel for the track; the extra names come from a web search of album listings (AllMusic reportedly lists Studio Diasporas, Ivry-sur-Seine) and are not confirmed."
+  },
+  {
+    "id": "jazz-cullum-pure-imagination",
+    "artist": "Jamie Cullum",
+    "title": "Pure Imagination",
+    "composer": "Leslie Bricusse, Anthony Newley",
+    "recording_date": null,
+    "recording_year": 2013,
+    "release_year": 2013,
+    "original_issue": "Island (album Momentum, 20 May 2013)",
+    "personnel": "Jamie Cullum (vocals). No further track credits were found in the sources used",
+    "style": "vocal",
+    "year": 2013,
+    "year_lo": 2013,
+    "year_hi": 2013,
+    "year_label": "2013",
+    "trivia": "Jamie Cullum covers the Leslie Bricusse and Anthony Newley song written for the 1971 film Willy Wonka & the Chocolate Factory, where Gene Wilder sang it. It sits on Momentum, his 2013 album on Island.",
+    "tags": [
+      "2010s",
+      "vocal",
+      "island",
+      "pop",
+      "movie-song"
+    ],
+    "track": {
+      "artist": "Jamie Cullum",
+      "title": "Pure Imagination",
+      "album": "Momentum",
+      "duration": "5:09",
+      "isrc": null,
+      "query": "Jamie Cullum Pure Imagination Momentum 2013",
+      "notes": "album version (5:09, track 6)"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Momentum_(Jamie_Cullum_album)",
+      "https://en.wikipedia.org/wiki/Pure_Imagination"
+    ],
+    "notes": "No recording date found, so the May 2013 release year is used (medium). Cullum's second card, after All at Sea from 2003. A live Abbey Road version also exists."
+  },
+  {
+    "id": "jazz-joey-alexander-giant-steps",
+    "artist": "Joey Alexander",
+    "title": "Giant Steps",
+    "composer": "John Coltrane",
+    "recording_date": "2014-10",
+    "recording_year": 2014,
+    "release_year": 2015,
+    "original_issue": "Motéma (album My Favorite Things, 12 May 2015)",
+    "personnel": "Joey Alexander (piano, arrangements); Larry Grenadier (bass); Ulysses Owens Jr. (drums); Jason Olaine (producer); Katherine Miller (recording engineer)",
+    "style": "post-bop",
+    "year": 2014,
+    "year_lo": 2014,
+    "year_hi": 2014,
+    "year_label": "2014",
+    "trivia": "The opening track of Joey Alexander's debut album is a ten minute trio reading of John Coltrane's tune, with Larry Grenadier on bass and Ulysses Owens Jr. on drums. The album was recorded at Avatar Studio in New York, produced by Jason Olaine, and earned a Grammy nomination for Best Jazz Instrumental Album.",
+    "tags": [
+      "2010s",
+      "post-bop",
+      "motema",
+      "debut",
+      "piano-trio"
+    ],
+    "track": {
+      "artist": "Joey Alexander",
+      "title": "Giant Steps",
+      "album": "My Favorite Things",
+      "duration": "10:15",
+      "isrc": null,
+      "query": "Joey Alexander Giant Steps My Favorite Things 2014",
+      "notes": "album version (10:15, track 1)"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/My_Favorite_Things_(Joey_Alexander_album)",
+      "https://musicbrainz.org/recording/c5fb6887-e99f-4ef7-9330-d7e8db2cd7d0"
+    ],
+    "notes": "The album page gives October 2014 at Avatar Studio for the sessions, with no day. Second Giant Steps in the set after Coltrane 1959."
+  },
+  {
+    "id": "jazz-hiromi-alive",
+    "artist": "Hiromi's Trio Project",
+    "title": "Alive",
+    "composer": "Hiromi Uehara",
+    "recording_date": "2014-02",
+    "recording_year": 2014,
+    "release_year": 2014,
+    "original_issue": "Telarc (album Alive, 17 Jun 2014)",
+    "personnel": "Hiromi Uehara (piano); Anthony Jackson (contrabass guitar); Simon Phillips (drums); Hiromi Uehara and Michael Bishop (producers)",
+    "style": "fusion",
+    "year": 2014,
+    "year_lo": 2014,
+    "year_hi": 2014,
+    "year_label": "2014",
+    "trivia": "Alive is the third album from Hiromi's Trio Project with contrabass guitarist Anthony Jackson and drummer Simon Phillips, and its title track opens the record. It was cut live in the studio at Avatar in New York on 5 to 7 February 2014, and JazzTimes thought it hit harder than the trio's studio predecessors Voice and Move.",
+    "tags": [
+      "2010s",
+      "fusion",
+      "telarc",
+      "trio",
+      "live-in-studio"
+    ],
+    "track": {
+      "artist": "Hiromi's Trio Project",
+      "title": "Alive",
+      "album": "Alive",
+      "duration": "9:04",
+      "isrc": null,
+      "query": "Hiromi Alive Alive Telarc 2014",
+      "notes": "album version (9:04, track 1)"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Alive_(Hiromi_album)"
+    ],
+    "notes": "Second Hiromi card, after Spiral from 2005. Same title as Pearl Jam's Alive in the regular set, but an unrelated composition."
+  },
+  {
+    "id": "jazz-bennett-gaga-cheek-to-cheek",
+    "artist": "Tony Bennett and Lady Gaga",
+    "title": "Cheek to Cheek",
+    "composer": "Irving Berlin",
+    "recording_date": null,
+    "recording_year": 2014,
+    "release_year": 2014,
+    "original_issue": "Columbia, Streamline and Interscope (album Cheek to Cheek, 19 Sep 2014)",
+    "personnel": "Tony Bennett (vocals); Lady Gaga (vocals); Dae Bennett (producer). Instrumental credits are given for the album, not by track, in the source used",
+    "style": "vocal",
+    "year": 2014,
+    "year_lo": 2014,
+    "year_hi": 2014,
+    "year_label": "2014",
+    "trivia": "Bennett and Lady Gaga's take on Irving Berlin's song gave its name to their 2014 duets album, which won the Grammy for Best Traditional Pop Vocal Album at the 57th ceremony. The record went to No. 1 in the US, and at 88 Bennett earned a Guinness record as the oldest person to top the US album chart with newly recorded material.",
+    "tags": [
+      "2010s",
+      "vocal",
+      "columbia",
+      "duet",
+      "standard"
+    ],
+    "track": {
+      "artist": "Tony Bennett and Lady Gaga",
+      "title": "Cheek to Cheek",
+      "album": "Cheek to Cheek",
+      "duration": "2:51",
+      "isrc": null,
+      "query": "Tony Bennett Lady Gaga Cheek to Cheek 2014",
+      "notes": "album version (2:51, track 2)"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Cheek_to_Cheek_(album)"
+    ],
+    "notes": "The album sessions ran from 22 June 2013 into 2014 at several New York studios and the page does not date this track, so the 2014 release year is used (medium). Bennett's second card; the first is Body and Soul with Amy Winehouse (2011)."
+  },
+  {
+    "id": "jazz-thundercat-them-changes",
+    "artist": "Thundercat",
+    "title": "Them Changes",
+    "composer": "Thundercat, Flying Lotus",
+    "recording_date": null,
+    "recording_year": 2015,
+    "release_year": 2015,
+    "original_issue": "Brainfeeder (single, 18 Jun 2015; EP The Beyond / Where the Giants Roam, 22 Jun 2015; also on the album Drunk, 2017)",
+    "personnel": "Thundercat (vocals, bass, production); Charles Dickerson (Mono/Poly: production, keyboards, programming); Steven Ellison (Flying Lotus: production, keyboards, programming); Dennis Hamm (keyboards); Kamasi Washington (saxophone); Daddy Kev (mastering)",
+    "style": "jazz-funk",
+    "year": 2015,
+    "year_lo": 2015,
+    "year_hi": 2015,
+    "year_label": "2015",
+    "trivia": "Thundercat's smooth bass groove, built with Flying Lotus, samples the Isley Brothers' 1977 song Footsteps in the Dark. It came out as a single in June 2015, with Kamasi Washington on saxophone, and found a second life in October 2022 when a sped-up version went viral on TikTok.",
+    "tags": [
+      "2010s",
+      "jazz-funk",
+      "brainfeeder",
+      "bass",
+      "viral",
+      "crossover"
+    ],
+    "track": {
+      "artist": "Thundercat",
+      "title": "Them Changes",
+      "album": "The Beyond / Where the Giants Roam",
+      "duration": "3:08",
+      "isrc": null,
+      "query": "Thundercat Them Changes The Beyond Where the Giants Roam 2015",
+      "notes": "EP version (3:08, track 3)"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Them_Changes_(Thundercat_song)",
+      "https://en.wikipedia.org/wiki/The_Beyond_/_Where_the_Giants_Roam"
+    ],
+    "notes": "Tagged crossover: a funk and R&B single by a jazz bassist. The recording year is inferred from the June 2015 release (medium). Also appears on the 2017 album Drunk."
+  },
+  {
+    "id": "jazz-porter-take-me-to-the-alley",
+    "artist": "Gregory Porter",
+    "title": "Take Me to the Alley",
+    "composer": "Gregory Porter",
+    "recording_date": "2015-09",
+    "recording_year": 2015,
+    "release_year": 2016,
+    "original_issue": "Blue Note (album Take Me to the Alley, 6 May 2016)",
+    "personnel": "Gregory Porter (vocals); Chip Crawford (piano); Aaron James (bass); Emanuel Harrold (drums); Yosuke Sato (alto saxophone); Tivon Pennicott (tenor saxophone); Keyon Harrold (trumpet); Ondřej Pivec (organ); Alicia Olatuja (voice); Gregory Porter and Kamau Kenyatta (producers)",
+    "style": "vocal",
+    "year": 2015,
+    "year_lo": 2015,
+    "year_hi": 2015,
+    "year_label": "2015",
+    "trivia": "One reviewer described the title track as a parable about the second coming of Christ, sung over calm piano with Alicia Olatuja's backing vocals. The album, recorded at Capitol Studio B in Hollywood and Sear Sound in New York, won the Grammy for Best Jazz Vocal Album in 2017.",
+    "tags": [
+      "2010s",
+      "vocal",
+      "blue-note",
+      "original",
+      "gospel"
+    ],
+    "track": {
+      "artist": "Gregory Porter",
+      "title": "Take Me to the Alley",
+      "album": "Take Me to the Alley",
+      "duration": "5:16",
+      "isrc": null,
+      "query": "Gregory Porter Take Me to the Alley Take Me to the Alley 2015",
+      "notes": "album version (5:16, track 3)"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Take_Me_to_the_Alley"
+    ],
+    "notes": "The album sessions ran 28 Sep to 1 Oct 2015, so September is used. Porter's third card, so he is at the low end of the giant allowance."
+  },
+  {
+    "id": "jazz-yussef-kamaal-strings-of-light",
+    "artist": "Yussef Kamaal",
+    "title": "Strings of Light",
+    "composer": "Yussef Dayes, Kamaal Williams",
+    "recording_date": null,
+    "recording_year": 2016,
+    "release_year": 2016,
+    "original_issue": "Brownswood Recordings (album Black Focus, 4 Nov 2016)",
+    "personnel": "Yussef Dayes (drums, percussion, production); Kamaal Williams (Rhodes piano, synthesizer, production); Mansur Brown (guitar); Malcolm Catto (production, engineering); Adelight (recording). Album credits, not assigned by track in the source",
+    "style": "fusion",
+    "year": 2016,
+    "year_lo": 2016,
+    "year_hi": 2016,
+    "year_label": "2016",
+    "trivia": "Strings of Light comes from Black Focus, the album by drummer Yussef Dayes and keyboardist Kamaal Williams that critics met with wide praise. The duo split after Dayes had his US visa revoked in 2017.",
+    "tags": [
+      "2010s",
+      "fusion",
+      "brownswood",
+      "broken-beat",
+      "london"
+    ],
+    "track": {
+      "artist": "Yussef Kamaal",
+      "title": "Strings of Light",
+      "album": "Black Focus",
+      "duration": "8:28",
+      "isrc": null,
+      "query": "Yussef Kamaal Strings of Light Black Focus 2016",
+      "notes": "album version (8:28, track 2)"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Black_Focus"
+    ],
+    "notes": "The page names Quartermass as the studio but gives no recording date, so the 2016 release year is used (medium)."
+  },
+  {
+    "id": "jazz-alfa-mist-keep-on",
+    "artist": "Alfa Mist",
+    "title": "Keep On",
+    "composer": "Alfa Mist",
+    "recording_date": null,
+    "recording_year": 2017,
+    "release_year": 2017,
+    "original_issue": "Pink Bird Recording (album Antiphon, 3 Mar 2017)",
+    "personnel": "Alfa Mist (keyboards, producer); Rudi Creswick (bass); Jamie Houghton (drums); Maria Medvedeva (alto saxophone); Johnny Woodham (trumpet); Jamie Leeming (guitar). Lineup as listed on the Bandcamp release page and in web listings",
+    "style": "contemporary",
+    "year": 2017,
+    "year_lo": 2017,
+    "year_hi": 2017,
+    "year_label": "2017",
+    "trivia": "Keep On opens Antiphon, the 2017 album that Alfa Mist recorded, mixed and mastered at Pinkbird Recording Co. His music blends hip-hop and club influences with jazz improvisation.",
+    "tags": [
+      "2010s",
+      "contemporary",
+      "pink-bird",
+      "hip-hop",
+      "london"
+    ],
+    "track": {
+      "artist": "Alfa Mist",
+      "title": "Keep On",
+      "album": "Antiphon",
+      "duration": "10:47",
+      "isrc": null,
+      "query": "Alfa Mist Keep On Antiphon 2017",
+      "notes": "album version (10:47, MusicBrainz length)"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Alfa_Mist",
+      "https://alfamist.bandcamp.com/track/keep-on",
+      "https://musicbrainz.org/recording/286306f9-a4ec-43ac-b3de-ca8ed54c58a0"
+    ],
+    "notes": "No recording date found, so the March 2017 release year is used (medium). Personnel is taken from the Bandcamp page and web listings rather than from a Wikipedia track credit."
+  },
+  {
+    "id": "jazz-sons-of-kemet-my-queen-is-harriet-tubman",
+    "artist": "Sons of Kemet",
+    "title": "My Queen Is Harriet Tubman",
+    "composer": "Shabaka Hutchings",
+    "recording_date": null,
+    "recording_year": 2017,
+    "release_year": 2018,
+    "original_issue": "Impulse! (album Your Queen Is a Reptile, 30 Mar 2018)",
+    "personnel": "Shabaka Hutchings (saxophone); Theon Cross (tuba); Tom Skinner, Moses Boyd and Eddie Hick (drums)",
+    "style": "contemporary",
+    "year": 2017,
+    "year_lo": 2017,
+    "year_hi": 2017,
+    "year_label": "2017",
+    "trivia": "Shabaka Hutchings wrote every piece on Your Queen Is a Reptile, an album whose track titles honour influential Black women and which was nominated for the 2018 Mercury Prize. On this track Seb Rochford sits out and three drummers play: Tom Skinner, Moses Boyd and Eddie Hick.",
+    "tags": [
+      "2010s",
+      "contemporary",
+      "impulse",
+      "tuba",
+      "london"
+    ],
+    "track": {
+      "artist": "Sons of Kemet",
+      "title": "My Queen Is Harriet Tubman",
+      "album": "Your Queen Is a Reptile",
+      "duration": "5:40",
+      "isrc": null,
+      "query": "Sons of Kemet My Queen Is Harriet Tubman Your Queen Is a Reptile 2017",
+      "notes": "album version (5:40, track 3)"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Your_Queen_Is_a_Reptile"
+    ],
+    "notes": "Jazzwise lists the album record date as 2017; the Wikipedia page gives no session dates. The album followed in March 2018."
+  },
+  {
+    "id": "jazz-kokoroko-abusey-junction",
+    "artist": "Kokoroko",
+    "title": "Abusey Junction",
+    "composer": "Kokoroko, Oscar Jerome",
+    "recording_date": "2017-08",
+    "recording_year": 2017,
+    "release_year": 2018,
+    "original_issue": "Brownswood Recordings (compilation We Out Here, 9 Feb 2018; later on the EP Kokoroko, 2019)",
+    "personnel": "Sheila Maurice-Grey (trumpet, vocals); Cassie Kinoshi (alto saxophone, vocals); Richie Seivwright (trombone, vocals); Oscar Jerome (guitar); Yohan Kebede (keyboards); Mutale Chashi (bass); Ayo Salawu (drums); Onome Edgeworth (percussion); Dilip Harris (mixing); Simon Todkill (recording)",
+    "style": "afro-jazz",
+    "year": 2017,
+    "year_lo": 2017,
+    "year_hi": 2017,
+    "year_label": "2017",
+    "trivia": "The London band's slow highlife and funk groove first appeared on Gilles Peterson's 2018 compilation We Out Here. It had 57 million YouTube views by February 2019 and won Track of the Year at Gilles Peterson's Worldwide Awards in 2019.",
+    "tags": [
+      "2010s",
+      "afro-jazz",
+      "brownswood",
+      "highlife",
+      "london"
+    ],
+    "track": {
+      "artist": "Kokoroko",
+      "title": "Abusey Junction",
+      "album": "We Out Here",
+      "duration": "7:05",
+      "isrc": null,
+      "query": "Kokoroko Abusey Junction We Out Here 2017",
+      "notes": "compilation version (7:05, MusicBrainz length)"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Kokoroko",
+      "https://musicbrainz.org/recording/f091cf76-14fb-4e56-a79a-830f5257d7c5",
+      "https://www.npr.org/sections/allsongs/2018/02/12/584597992/londons-contemporary-jazz-scene-shines-on-we-out-here"
+    ],
+    "notes": "A web search of an NPR report on the compilation says its tracks were recorded over three days in August 2017 at the Total Refreshment Centre in East London; the NPR page itself did not load for a direct check, so confidence is medium. MusicBrainz credits Kokoroko as composer and Oscar Jerome as writer."
+  },
+  {
+    "id": "jazz-kamasi-washington-street-fighter-mas",
+    "artist": "Kamasi Washington",
+    "title": "Street Fighter Mas",
+    "composer": "Kamasi Washington",
+    "recording_date": null,
+    "recording_year": 2018,
+    "release_year": 2018,
+    "original_issue": "Young Turks (album Heaven and Earth, 22 Jun 2018)",
+    "personnel": "Kamasi Washington (tenor saxophone, producer) with his regular band, which on the album includes Dontae Winslow (trumpet), Ryan Porter (trombone), Cameron Graves (piano), Brandon Coleman (keyboards), Miles Mosley (bass), Ronald Bruner Jr. and Tony Austin (drums), plus orchestra and choir. Album credits, not assigned by track in the source",
+    "style": "jazz-funk",
+    "year": 2018,
+    "year_lo": 2018,
+    "year_hi": 2018,
+    "year_label": "2018",
+    "trivia": "Press reports described this Kamasi Washington piece from the Heaven disc of his double album Heaven and Earth as video game inspired. MusicBrainz credits him as composer and producer, and its official video has passed ten million YouTube views.",
+    "tags": [
+      "2010s",
+      "jazz-funk",
+      "young-turks",
+      "video-game",
+      "orchestral"
+    ],
+    "track": {
+      "artist": "Kamasi Washington",
+      "title": "Street Fighter Mas",
+      "album": "Heaven and Earth",
+      "duration": "5:58",
+      "isrc": null,
+      "query": "Kamasi Washington Street Fighter Mas Heaven and Earth 2018",
+      "notes": "album recording (5:58, MusicBrainz length); the single edit is listed at 6:15"
+    },
+    "confidence": "low",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Heaven_and_Earth_(Kamasi_Washington_album)",
+      "https://musicbrainz.org/recording/dd761f16-825a-4374-8048-3cbb10fce375",
+      "https://www.stereogum.com/1998716/kamasi-washington-street-fighter-mas/music/"
+    ],
+    "notes": "No recording date found: the album page lists Electro-Vox and Stagg Street in Los Angeles and Henson in Hollywood but no session dates, so the 2018 release year is used and confidence is low (the sessions may be 2017 or earlier). Kamasi's second card, after Change of the Guard (2011). The Wikipedia track parser is garbled for this album, so the track length is from MusicBrainz."
+  },
+  {
+    "id": "jazz-collier-moon-river",
+    "artist": "Jacob Collier",
+    "title": "Moon River",
+    "composer": "Henry Mancini, Johnny Mercer",
+    "recording_date": null,
+    "recording_year": 2019,
+    "release_year": 2019,
+    "original_issue": "Hajanga and Decca (album Djesse Vol. 2, 19 Jul 2019)",
+    "personnel": "Jacob Collier (vocals, instruments, arrangement, production); a 144 part choir that includes Herbie Hancock, Quincy Jones, Tori Kelly, Chris Martin, Charlie Puth and Hans Zimmer",
+    "style": "contemporary",
+    "year": 2019,
+    "year_lo": 2019,
+    "year_hi": 2019,
+    "year_label": "2019",
+    "trivia": "Jacob Collier's eight minute reworking of Moon River opens with a 144 part choir, and it won the Grammy for Best Arrangement, Instrumental or A Cappella at the 62nd Grammy Awards. It comes from Djesse Vol. 2, the second part of his four-album Djesse project.",
+    "tags": [
+      "2010s",
+      "contemporary",
+      "decca",
+      "choir",
+      "arrangement"
+    ],
+    "track": {
+      "artist": "Jacob Collier",
+      "title": "Moon River",
+      "album": "Djesse Vol. 2",
+      "duration": "8:17",
+      "isrc": null,
+      "query": "Jacob Collier Moon River Djesse Vol. 2 2019",
+      "notes": "album version (8:17; MusicBrainz lists 8:16)"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Djesse_Vol._2",
+      "https://musicbrainz.org/recording/2e204928-3751-4131-90d8-62f4beecee37"
+    ],
+    "notes": "No recording date found in the sources checked, so the 2019 release year is used (medium); sessions may have started in 2018."
+  }
+]
