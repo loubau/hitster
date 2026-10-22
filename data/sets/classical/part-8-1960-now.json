@@ -1,0 +1,1633 @@
+[
+  {
+    "id": "cls-bernstein-symphonic-dances-west-side-story",
+    "composer": "Leonard Bernstein",
+    "composer_short": "Bernstein",
+    "work": "Symphonic Dances from West Side Story",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "orchestral",
+    "accept_work": "Bernstein's Symphonic Dances from West Side Story",
+    "excerpt": "Mambo",
+    "year": 1960,
+    "year_lo": 1960,
+    "year_hi": 1960,
+    "year_label": "1960 (premiered 1961)",
+    "premiere_or_publication": "Premiered 13 February 1961 at Carnegie Hall by the New York Philharmonic under Lukas Foss; Bernstein recorded it with the same orchestra on 6 March 1961",
+    "dating_note": "Wikipedia (Symphonic Dances from West Side Story): scored in 1960 from the 1957 musical, with Sid Ramin and Irwin Kostal preparing the expanded orchestration.",
+    "recording": {
+      "performers": "New York Philharmonic",
+      "conductor": "Leonard Bernstein",
+      "label": "Columbia Masterworks",
+      "year": 1961,
+      "why": "Bernstein’s first recording with the New York Philharmonic, which had premiered the suite weeks earlier; sessions at the Manhattan Center in March 1961."
+    },
+    "trivia": "Bernstein chose nine numbers from his 1957 musical and had them re-orchestrated for a large symphony orchestra, and the first performance was conducted by Lukas Foss rather than by Bernstein. The Mambo is the movement with the shouted \"Mambo!\" calls.",
+    "tags": [
+      "contemporary",
+      "orchestral",
+      "date-trap",
+      "arrangement",
+      "american",
+      "top400"
+    ],
+    "track": {
+      "query": "Bernstein Symphonic Dances from West Side Story Mambo Bernstein New York Philharmonic 1961",
+      "album": "Symphonic Dances from West Side Story / Symphonic Suite from On the Waterfront",
+      "duration": "2:29",
+      "start": null,
+      "isrc": null,
+      "notes": "Movement/number-level track of the named recording. Duration is that track’s length; start is an estimate (about ±15 s) of where the recognisable theme begins. If this exact recording is unavailable, another recording of the same movement works."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Symphonic_Dances_from_West_Side_Story"
+    ],
+    "notes": "DATE TRAP: this is the 1960 concert suite, not the 1957 Broadway musical or the 1961 film. Excerpt = the Mambo movement."
+  },
+  {
+    "id": "cls-britten-war-requiem",
+    "composer": "Benjamin Britten",
+    "composer_short": "Britten",
+    "work": "War Requiem, Op. 66",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "mass",
+    "accept_work": "Britten's War Requiem",
+    "excerpt": "Dies irae (movement II)",
+    "year": 1962,
+    "year_lo": 1961,
+    "year_hi": 1962,
+    "year_label": "1961–1962",
+    "premiere_or_publication": "Premiered 30 May 1962 for the consecration of the new Coventry Cathedral; first recording Decca 1963 under the composer",
+    "dating_note": "Wikipedia (War Requiem): composed mostly in 1961 and completed in January 1962, so the two-year span is kept; 1962 is the year of completion and premiere.",
+    "recording": {
+      "performers": "Galina Vishnevskaya, Peter Pears, Dietrich Fischer-Dieskau; The Bach Choir; London Symphony Orchestra",
+      "conductor": "Benjamin Britten",
+      "label": "Decca",
+      "year": 1963,
+      "why": "The first recording, made by Britten himself in January 1963 with the three soloists he had intended for the premiere; it sold 200,000 copies within five months."
+    },
+    "trivia": "Britten wove the Latin Mass for the Dead together with nine poems by Wilfred Owen, who was killed a week before the 1918 armistice. The 1963 Decca recording, conducted by Britten himself, reportedly sold 200,000 copies within five months.",
+    "tags": [
+      "contemporary",
+      "mass",
+      "requiem",
+      "anti-war",
+      "british",
+      "top400"
+    ],
+    "track": {
+      "query": "Britten War Requiem Dies irae Britten London Symphony Orchestra Bach Choir Vishnevskaya Pears Fischer-Dieskau",
+      "album": "Britten: War Requiem",
+      "duration": "3:38",
+      "start": null,
+      "isrc": null,
+      "notes": "Movement/number-level track of the named recording. Duration is that track’s length; start is an estimate (about ±15 s) of where the recognisable theme begins. If this exact recording is unavailable, another recording of the same movement works."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/War_Requiem",
+      "https://en.wikipedia.org/wiki/Britten's_War_Requiem_(1963_recording)"
+    ],
+    "notes": "Excerpt = the Dies irae chorus (track II of the Decca set). Dates and premiere checked against Wikipedia (War Requiem)."
+  },
+  {
+    "id": "cls-ramirez-misa-criolla",
+    "composer": "Ariel Ramírez",
+    "composer_short": "Ramirez",
+    "work": "Misa Criolla",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "mass",
+    "accept_work": "Ramírez's Misa Criolla",
+    "excerpt": "Kyrie",
+    "year": 1964,
+    "year_lo": 1963,
+    "year_hi": 1964,
+    "year_label": "1963–1964",
+    "premiere_or_publication": "First recorded by Los Fronterizos for Philips (sessions October 1964 per MusicBrainz; Wikipedia gives the release as 1965); first public performance reported in 1967 in Düsseldorf",
+    "dating_note": "Wikipedia (Misa Criolla): written from 1963 to 1964; the October 1964 recording session means it was finished by then.",
+    "recording": {
+      "performers": "Los Fronterizos; Ariel Ramírez (director)",
+      "conductor": null,
+      "label": "Philips",
+      "year": 1964,
+      "why": "The original Philips recording by Los Fronterizos, with sessions at Estudios Odeón in October 1964."
+    },
+    "trivia": "Los Fronterizos recorded the Misa Criolla for Philips in 1964, yet by Wikipedia’s account it was not performed in public until 1967, in Düsseldorf. Later recordings include José Carreras, Mercedes Sosa (1999) and a Kyrie by Plácido Domingo (2003).",
+    "tags": [
+      "contemporary",
+      "mass",
+      "argentine",
+      "folk-mass",
+      "latin-american",
+      "top400"
+    ],
+    "track": {
+      "query": "Ariel Ramírez Misa Criolla Kyrie Los Fronterizos Philips",
+      "album": "Misa criolla",
+      "duration": "3:10",
+      "start": null,
+      "isrc": null,
+      "notes": "Movement/number-level track of the named recording. Duration is that track’s length; start is an estimate (about ±15 s) of where the recognisable theme begins. If this exact recording is unavailable, another recording of the same movement works."
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Misa_Criolla"
+    ],
+    "notes": "Wikipedia is internally inconsistent about the first performance (1964 vs 1967), so the year rests on the written-1963-64 statement and the October 1964 recording date."
+  },
+  {
+    "id": "cls-barber-agnus-dei",
+    "composer": "Samuel Barber",
+    "composer_short": "Barber",
+    "work": "Agnus Dei (choral arrangement of the Adagio)",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "choral",
+    "accept_work": "Barber's Agnus Dei",
+    "excerpt": "The complete piece",
+    "year": 1967,
+    "year_lo": 1967,
+    "year_hi": 1967,
+    "year_label": "1967",
+    "premiere_or_publication": "Barber’s own 1967 arrangement for mixed chorus of the Adagio from his 1936 String Quartet; published by G. Schirmer",
+    "dating_note": "Wikipedia (Agnus Dei (Barber)): in 1967 Barber set the Latin Agnus Dei text to his Adagio; the Adagio itself dates from 1936 (string-orchestra version sent to Toscanini in January 1938).",
+    "recording": {
+      "performers": "Corydon Singers",
+      "conductor": "Matthew Best",
+      "label": "Hyperion",
+      "year": 1986,
+      "why": "Corydon Singers under Matthew Best, recorded in May 1986 and named by Wikipedia among the recordings of the work; a slow reading of about ten minutes."
+    },
+    "trivia": "Barber fitted the words of the Agnus Dei to the music of his Adagio for Strings with only small changes, giving the famous elegy a prayer text. The choral version is in B-flat minor and marked molto adagio.",
+    "tags": [
+      "contemporary",
+      "choral",
+      "date-trap",
+      "arrangement",
+      "american",
+      "top400"
+    ],
+    "track": {
+      "query": "Barber Agnus Dei Corydon Singers Matthew Best Hyperion",
+      "album": "Bernstein: Chichester Psalms / Copland: In the beginning / Barber: Agnus Dei",
+      "duration": "10:02",
+      "start": null,
+      "isrc": null,
+      "notes": "Movement/number-level track of the named recording. Duration is that track’s length; start is an estimate (about ±15 s) of where the recognisable theme begins. If this exact recording is unavailable, another recording of the same movement works."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Agnus_Dei_(Barber)",
+      "https://en.wikipedia.org/wiki/Adagio_for_Strings"
+    ],
+    "notes": "DATE TRAP: the music is the Adagio of 1936 (string orchestra 1938), but this Agnus Dei choral arrangement is Barber’s own work of 1967. Excerpt/track = the choral version, not the string Adagio."
+  },
+  {
+    "id": "cls-vavilov-ave-maria",
+    "composer": "Vladimir Vavilov",
+    "composer_short": "Vavilov",
+    "work": "Ave Maria (long attributed to Caccini)",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "song",
+    "accept_work": "Vavilov's Ave Maria",
+    "excerpt": "The complete aria",
+    "year": 1970,
+    "year_lo": 1970,
+    "year_hi": 1970,
+    "year_label": "c. 1970",
+    "premiere_or_publication": "Published and recorded by Vavilov in 1970 on Melodiya, credited to \"Anonymous\"; world fame after Irina Arkhipova’s 1987 recording (arr. Oleg Yanchenko)",
+    "dating_note": "Wikipedia (Ave Maria (Vavilov)): composed around 1970 by Vladimir Vavilov (1925–1973), who released it that year ascribed to \"Anonymous\"; later wrongly credited to Giulio Caccini.",
+    "recording": {
+      "performers": "Charlotte Church (soprano), orchestra (arr. Nick Ingman)",
+      "conductor": null,
+      "label": "Sony Classical",
+      "year": 1998,
+      "why": "Charlotte Church’s 1998 version, arranged by Nick Ingman, one of the recordings that carried the piece worldwide."
+    },
+    "trivia": "Vavilov, a Russian guitarist and lutenist, published his aria as \"Anonymous\" on a Melodiya lute record in 1970, and it was later wrongly credited to Giulio Caccini. It reached a worldwide audience after the Soviet Union dissolved, through singers such as Charlotte Church and Andrea Bocelli.",
+    "tags": [
+      "contemporary",
+      "song",
+      "date-trap",
+      "misattribution",
+      "russian",
+      "top400"
+    ],
+    "track": {
+      "query": "Ave Maria Caccini Vavilov Charlotte Church Voice of an Angel",
+      "album": "Voice of an Angel",
+      "duration": "4:14",
+      "start": null,
+      "isrc": null,
+      "notes": "Wikipedia lists Charlotte Church’s 1998 recording (arr. Nick Ingman, on Voice of an Angel) among the recordings of the piece."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Ave_Maria_(Vavilov)",
+      "https://en.wikipedia.org/wiki/Vladimir_Vavilov_(composer)"
+    ],
+    "notes": "DATE TRAP: not Caccini (c. 1600): the composer is Vladimir Vavilov, c. 1970. Accept \"Caccini’s Ave Maria\" as the same piece."
+  },
+  {
+    "id": "cls-piazzolla-libertango",
+    "composer": "Astor Piazzolla",
+    "composer_short": "Piazzolla",
+    "work": "Libertango",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "other",
+    "accept_work": "Piazzolla's Libertango",
+    "excerpt": "The complete piece",
+    "year": 1974,
+    "year_lo": 1974,
+    "year_hi": 1974,
+    "year_label": "1974",
+    "premiere_or_publication": "Recorded and published in May 1974 in Milan; lyrics by Horacio Ferrer added in 1990",
+    "dating_note": "Wikipedia (Libertango): recorded and published in 1974 in Milan.",
+    "recording": {
+      "performers": "Astor Piazzolla (bandoneon) with Milan studio musicians",
+      "conductor": null,
+      "label": "Carosello",
+      "year": 1974,
+      "why": "Piazzolla’s own 1974 Milan studio recording, the original of the piece."
+    },
+    "trivia": "The title joins \"Libertad\" and \"tango\", marking Piazzolla’s break from classical tango toward nuevo tango. It has appeared on more than 500 releases, and Grace Jones’s song \"I’ve Seen That Face Before\" uses the same music.",
+    "tags": [
+      "contemporary",
+      "other",
+      "tango",
+      "nuevo-tango",
+      "argentine",
+      "top400"
+    ],
+    "track": {
+      "query": "Piazzolla Libertango Astor Piazzolla bandoneon 1974 Carosello",
+      "album": "Libertango",
+      "duration": "2:48",
+      "start": null,
+      "isrc": null,
+      "notes": "Shown on the 2002 CD reissue of the 1974 album; the recording was made in Milan in May 1974."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Libertango"
+    ],
+    "notes": "Recording = the 1974 Milan studio album, shown here on its 2002 Carosello reissue."
+  },
+  {
+    "id": "cls-gorecki-symphony-3",
+    "composer": "Henryk Górecki",
+    "composer_short": "Górecki",
+    "work": "Symphony No. 3, Op. 36",
+    "nickname": "Symphony of Sorrowful Songs",
+    "catalogue_only": false,
+    "form": "symphony",
+    "accept_work": "Górecki’s Symphony No. 3",
+    "excerpt": "II. Lento e largo – Tranquillissimo",
+    "year": 1976,
+    "year_lo": 1976,
+    "year_hi": 1976,
+    "year_label": "1976",
+    "premiere_or_publication": "Premiered on 4 April 1977 at the Royan International Festival, with Stefania Woytowicz (soprano) and Ernest Bour conducting.",
+    "dating_note": "Wikipedia (Symphony No. 3 (Górecki)) says it was composed in Katowice between October and December 1976; the premiere followed on 4 April 1977.",
+    "recording": {
+      "performers": "Dawn Upshaw (soprano), London Sinfonietta",
+      "conductor": "David Zinman",
+      "label": "Elektra Nonesuch",
+      "year": 1991,
+      "why": "The 1992 Elektra Nonesuch recording with Dawn Upshaw and David Zinman, which sold over a million copies (Wikipedia)."
+    },
+    "trivia": "The second movement sets words scratched on the wall of a Gestapo cell in Zakopane during the war. A 1992 recording with Dawn Upshaw and David Zinman sold over a million copies, far more than a modern symphony normally does.",
+    "tags": [
+      "contemporary",
+      "symphony",
+      "polish",
+      "holy-minimalism",
+      "soprano",
+      "vocal",
+      "top400"
+    ],
+    "track": {
+      "query": "Górecki Symphony No. 3 Symphony of Sorrowful Songs II Lento e largo Dawn Upshaw David Zinman London Sinfonietta",
+      "album": "Symphony no. 3",
+      "duration": "9:45",
+      "start": null,
+      "isrc": null,
+      "notes": "Second movement of the 1992 release; sessions were in May 1991 (MusicBrainz)."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Symphony_No._3_(G%C3%B3recki)"
+    ],
+    "notes": null
+  },
+  {
+    "id": "cls-part-fur-alina",
+    "composer": "Arvo Pärt",
+    "composer_short": "Pärt",
+    "work": "Für Alina",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "solo-piano",
+    "accept_work": "Pärt’s Für Alina",
+    "excerpt": "Complete piece (two-page score)",
+    "year": 1976,
+    "year_lo": 1976,
+    "year_hi": 1976,
+    "year_label": "1976",
+    "premiere_or_publication": "First performed in Tallinn in 1976, at the concert that introduced the tintinnabuli style, alongside six other works.",
+    "dating_note": "Dated 1976 by Wikipedia (Für Alina): it was first performed in Tallinn that year, at the concert that unveiled Pärt’s new tintinnabuli style.",
+    "recording": {
+      "performers": "Alexander Malter (piano)",
+      "conductor": null,
+      "label": "ECM New Series",
+      "year": 1995,
+      "why": "Alexander Malter’s reading on the ECM album Alina, which takes its title from the piece; recorded in July 1995 and issued in 1999."
+    },
+    "trivia": "The title echoes Beethoven’s Für Elise, but the dedicatee was the eighteen-year-old daughter of a family friend, who had left for England with her father. Pärt meant the piece as a consolation for her mother, and its two-page score leaves most of the interpretation to the pianist.",
+    "tags": [
+      "contemporary",
+      "solo-piano",
+      "minimalism",
+      "tintinnabuli",
+      "estonian",
+      "piano",
+      "top400"
+    ],
+    "track": {
+      "query": "Pärt Für Alina Alexander Malter piano ECM Alina",
+      "album": "Alina",
+      "duration": "10:48",
+      "start": null,
+      "isrc": null,
+      "notes": "The album holds two takes of Für Alina; this is the first (track 2). Year given is the 1995 session; the album came out in October 1999."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/F%C3%BCr_Alina"
+    ],
+    "notes": "Pärt: 5 cards in this set (see Spiegel im Spiegel)."
+  },
+  {
+    "id": "cls-reich-music-for-18-musicians",
+    "composer": "Steve Reich",
+    "composer_short": "Reich",
+    "work": "Music for 18 Musicians",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "other",
+    "accept_work": "Reich’s Music for 18 Musicians",
+    "excerpt": "Opening: Pulse and Section I",
+    "year": 1976,
+    "year_lo": 1976,
+    "year_hi": 1976,
+    "year_label": "1976",
+    "premiere_or_publication": "Premiered in New York City at Town Hall on 24 April 1976; first recorded by Reich and his ensemble and released by ECM in April 1978.",
+    "dating_note": "Wikipedia (Music for 18 Musicians) says Reich composed it between May 1974 and March 1976; it premiered in April 1976, which gives the year used here.",
+    "recording": {
+      "performers": "Steve Reich and Musicians",
+      "conductor": "Steve Reich",
+      "label": "ECM Records",
+      "year": 1978,
+      "why": "The first recording, made by Reich and his ensemble and released by ECM in 1978 (Wikipedia)."
+    },
+    "trivia": "The piece rests on eleven chords: each section of about four minutes grows out of one chord and melts into the next, and the last section echoes the first. Reich shaped it over two years in rehearsal with his own ensemble.",
+    "tags": [
+      "contemporary",
+      "other",
+      "minimalism",
+      "american",
+      "ensemble",
+      "percussion",
+      "top400"
+    ],
+    "track": {
+      "query": "Steve Reich Music for 18 Musicians Pulse Sections I-IV Steve Reich and Musicians ECM 1978",
+      "album": "Music for 18 Musicians",
+      "duration": "26:55",
+      "start": null,
+      "isrc": null,
+      "notes": "First side of the original ECM LP (Pulse, Sections I-IV, about 27 minutes); the card plays the opening."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Music_for_18_Musicians",
+      "https://en.wikipedia.org/wiki/Music_for_18_Musicians_(album)"
+    ],
+    "notes": "Reich: 2 cards in this set (Music for 18 Musicians, Different Trains)."
+  },
+  {
+    "id": "cls-ten-holt-canto-ostinato",
+    "composer": "Simeon ten Holt",
+    "composer_short": "Ten Holt",
+    "work": "Canto Ostinato",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "other",
+    "accept_work": "Ten Holt’s Canto Ostinato",
+    "excerpt": "Opening section (Section 1)",
+    "year": 1976,
+    "year_lo": 1976,
+    "year_hi": 1979,
+    "year_label": "1976–1979",
+    "premiere_or_publication": "First performed in 1979 in Bergen, North Holland, with three pianos and an electric organ; it is usually played today on two or four pianos.",
+    "dating_note": "Sources disagree, so the range is kept: Wikipedia (Canto Ostinato) says the piece was completed in 1976 and first performed in 1979, while the Dutch Wikipedia article places the writing of the score across 1976 to 1979.",
+    "recording": {
+      "performers": "Kees Wieringa and Polo de Haas (two pianos)",
+      "conductor": null,
+      "label": "Emergo Classics",
+      "year": 1996,
+      "why": "The Wieringa and de Haas CD of 1996 received Gold status (over 10,000 copies sold) according to Wikipedia, rare for Dutch contemporary music."
+    },
+    "trivia": "The score is made of 106 short cells that the players may repeat as often as they like, so no two performances are alike. It is by far Ten Holt’s most played work and has been performed in Dutch railway stations, including Utrecht Centraal in the evening rush hour.",
+    "tags": [
+      "contemporary",
+      "other",
+      "minimalism",
+      "dutch",
+      "piano",
+      "top400"
+    ],
+    "track": {
+      "query": "Simeon ten Holt Canto Ostinato Kees Wieringa Polo de Haas Emergo Classics",
+      "album": "Canto Ostinato",
+      "duration": "3:44",
+      "start": null,
+      "isrc": null,
+      "notes": "Opening section of the two-piano version; the year is the 1996 release (session date not found). Sections of Canto Ostinato are short tracks on this disc."
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Canto_Ostinato",
+      "https://nl.wikipedia.org/wiki/Canto_ostinato"
+    ],
+    "notes": "Medium confidence on the year: English Wikipedia gives 1976 (completed) and 1979 (first performance); the range 1976 to 1979 keeps both. Only the single most popular Dutch work of the period is used, so no other Ten Holt card."
+  },
+  {
+    "id": "cls-part-cantus-in-memoriam-benjamin-britten",
+    "composer": "Arvo Pärt",
+    "composer_short": "Pärt",
+    "work": "Cantus in Memoriam Benjamin Britten",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "orchestral",
+    "accept_work": "Pärt’s Cantus in Memoriam Benjamin Britten",
+    "excerpt": "Complete piece (about six and a half minutes)",
+    "year": 1977,
+    "year_lo": 1977,
+    "year_hi": 1977,
+    "year_label": "1977",
+    "premiere_or_publication": "Written in 1977 for string orchestra and a single tubular bell, as an elegy for Benjamin Britten, who died on 4 December 1976.",
+    "dating_note": "Wikipedia (Cantus in Memoriam Benjamin Britten) dates it to 1977, the year after Britten’s death in December 1976.",
+    "recording": {
+      "performers": "Staatsorchester Stuttgart",
+      "conductor": "Dennis Russell Davies",
+      "label": "ECM New Series",
+      "year": 1984,
+      "why": "Recorded in January 1984 by the Staatsorchester Stuttgart under Dennis Russell Davies for ECM’s Tabula Rasa, the same album as the Kremer and Jarrett Fratres."
+    },
+    "trivia": "The piece begins and ends with silence written into the score, and a bell tolls on the note A at the start and finish. Pärt said he had only just come to appreciate the purity of Britten’s music before his death, and compared it with the ballads of Machaut.",
+    "tags": [
+      "contemporary",
+      "orchestral",
+      "minimalism",
+      "tintinnabuli",
+      "estonian",
+      "strings",
+      "elegy",
+      "top400"
+    ],
+    "track": {
+      "query": "Pärt Cantus in Memoriam Benjamin Britten Staatsorchester Stuttgart Dennis Russell Davies ECM Tabula Rasa",
+      "album": "Tabula Rasa",
+      "duration": "5:08",
+      "start": null,
+      "isrc": null,
+      "notes": "Track 2 of ECM 1275 (MusicBrainz titles it Cantus in Memory of Benjamin Britten). The tubular bell sounds after three beats of silence at the start."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Cantus_in_Memoriam_Benjamin_Britten"
+    ],
+    "notes": "Pärt: 5 cards in this set (see Spiegel im Spiegel)."
+  },
+  {
+    "id": "cls-part-fratres",
+    "composer": "Arvo Pärt",
+    "composer_short": "Pärt",
+    "work": "Fratres",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "chamber",
+    "accept_work": "Pärt’s Fratres",
+    "excerpt": "Violin and piano version (1980)",
+    "year": 1977,
+    "year_lo": 1977,
+    "year_hi": 1977,
+    "year_label": "1977",
+    "premiere_or_publication": "Composed in 1977 for three parts with no fixed instrumentation; the violin-and-piano version most listeners know dates from 1980.",
+    "dating_note": "Wikipedia (Fratres) dates the work to 1977 (its chamber-orchestra form). The violin-and-piano arrangement came in 1980, a cello-ensemble version in 1982 and a string quartet in 1989; the recording used here plays the 1980 violin-and-piano version.",
+    "recording": {
+      "performers": "Gidon Kremer (violin), Keith Jarrett (piano)",
+      "conductor": null,
+      "label": "ECM New Series",
+      "year": 1983,
+      "why": "The violin-and-piano version of Fratres, played by Gidon Kremer and Keith Jarrett in October 1983 for ECM’s Tabula Rasa (released 1984)."
+    },
+    "trivia": "Fratres (Latin for brothers) has no fixed instrumentation, and Pärt later recast it for violin and piano, cello ensemble, string quartet, an octet of winds and percussion, saxophone quartet and more. It is built as variations on a six-bar theme.",
+    "tags": [
+      "contemporary",
+      "chamber",
+      "minimalism",
+      "tintinnabuli",
+      "estonian",
+      "violin",
+      "date-trap",
+      "top400"
+    ],
+    "track": {
+      "query": "Pärt Fratres violin and piano Gidon Kremer Keith Jarrett ECM Tabula Rasa",
+      "album": "Tabula Rasa",
+      "duration": "11:28",
+      "start": null,
+      "isrc": null,
+      "notes": "Opening track of ECM 1275 Tabula Rasa (violin and piano version of 1980). Recording month from MusicBrainz relationships."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Fratres"
+    ],
+    "notes": "DATE TRAP: the violin-and-piano version most people know is from 1980, but the work itself dates from 1977. Pärt: 5 cards in this set (see Spiegel im Spiegel)."
+  },
+  {
+    "id": "cls-part-spiegel-im-spiegel",
+    "composer": "Arvo Pärt",
+    "composer_short": "Pärt",
+    "work": "Spiegel im Spiegel",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "chamber",
+    "accept_work": "Pärt’s Spiegel im Spiegel",
+    "excerpt": "Complete piece for violin and piano",
+    "year": 1978,
+    "year_lo": 1978,
+    "year_hi": 1978,
+    "year_label": "1978",
+    "premiere_or_publication": "Premiered in December 1978 at the Moscow Conservatory by Vladimir Spivakov (violin), the dedicatee, with Boris Bekhterev (piano).",
+    "dating_note": "Dated 1978 by Wikipedia (Spiegel im Spiegel), which says Pärt wrote it just before leaving Estonia; the premiere followed in December 1978.",
+    "recording": {
+      "performers": "Vladimir Spivakov (violin), Sergei Bezrodny (piano)",
+      "conductor": null,
+      "label": "ECM New Series",
+      "year": 1995,
+      "why": "Played by Vladimir Spivakov, the violinist to whom the piece is dedicated and who gave its 1978 premiere, with pianist Sergei Bezrodny; recorded in July 1995 and issued on ECM New Series in 1999."
+    },
+    "trivia": "The title describes the music: every rising phrase is answered by a falling one, like images bouncing between facing mirrors. The piano plays an endless run of rising triads, which Pärt likens to a guardian angel accompanying the violin.",
+    "tags": [
+      "contemporary",
+      "chamber",
+      "minimalism",
+      "tintinnabuli",
+      "estonian",
+      "violin",
+      "piano",
+      "top400"
+    ],
+    "track": {
+      "query": "Pärt Spiegel im Spiegel Vladimir Spivakov Sergei Bezrodny ECM Alina",
+      "album": "Alina",
+      "duration": "10:39",
+      "start": null,
+      "isrc": null,
+      "notes": "First track of the ECM album Alina (the album holds three Spiegel im Spiegel takes; this is the opening 10:39 violin-and-piano one). Year given is the 1995 session; the album came out in October 1999."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Spiegel_im_Spiegel"
+    ],
+    "notes": "Pärt has 5 cards in this set (Spiegel im Spiegel, Für Alina, Fratres, Cantus in Memoriam Benjamin Britten, Da pacem Domine): a deliberate exception for the composer who defines the tintinnabuli core of the period."
+  },
+  {
+    "id": "cls-glass-glassworks",
+    "composer": "Philip Glass",
+    "composer_short": "Glass",
+    "work": "Glassworks",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "chamber",
+    "accept_work": "Glass’s Glassworks",
+    "excerpt": "Opening",
+    "year": 1981,
+    "year_lo": 1981,
+    "year_hi": 1981,
+    "year_label": "1981",
+    "premiere_or_publication": "Recorded in 1981 and released on LP and cassette by CBS in 1982, each with its own mix.",
+    "dating_note": "The List of compositions by Philip Glass gives 1981, and the 1982 album was recorded that year.",
+    "recording": {
+      "performers": "Philip Glass Ensemble",
+      "conductor": "Michael Riesman",
+      "label": "CBS Masterworks",
+      "year": 1981,
+      "why": "The original CBS recording of 1982 conducted by Michael Riesman with the Philip Glass Ensemble, the LP mix of the six-piece set."
+    },
+    "trivia": "Glass wanted a short, accessible set for the recording studio that would bring his music to a wider audience, and CBS issued a separate mix for the LP and a headphone mix for personal cassette players. The Opening has also been used in the American remake of Breathless.",
+    "tags": [
+      "contemporary",
+      "chamber",
+      "minimalism",
+      "american",
+      "piano",
+      "top400"
+    ],
+    "track": {
+      "query": "Philip Glass Glassworks Opening Philip Glass Ensemble Michael Riesman CBS",
+      "album": "Glassworks",
+      "duration": "6:18",
+      "start": null,
+      "isrc": null,
+      "notes": "Track 1 of the LP (CBS FM 37265, 1982); MusicBrainz dates the Riesman conducting credit to 1981."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Glassworks_(composition)",
+      "https://en.wikipedia.org/wiki/List_of_compositions_by_Philip_Glass"
+    ],
+    "notes": "Glass: 3 cards in this set (see Metamorphosis)."
+  },
+  {
+    "id": "cls-rutter-the-lord-bless-you-and-keep-you",
+    "composer": "John Rutter",
+    "composer_short": "Rutter",
+    "work": "The Lord bless you and keep you",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "choral",
+    "accept_work": "Rutter’s The Lord bless you and keep you",
+    "excerpt": "The complete anthem (benediction and Amen)",
+    "year": 1981,
+    "year_lo": 1981,
+    "year_hi": 1981,
+    "year_label": "1981",
+    "premiere_or_publication": "Published by Oxford University Press in 1981, in the anthology Oxford Easy Anthems, edited by David Willcocks.",
+    "dating_note": "Rutter composed the anthem in 1981 for a memorial service and it was published that same year.",
+    "recording": {
+      "performers": "The Cambridge Singers; City of London Sinfonia",
+      "conductor": "John Rutter",
+      "label": "Collegium",
+      "year": 1984,
+      "why": "John Rutter’s own recording with the Cambridge Singers and the City of London Sinfonia for Collegium."
+    },
+    "trivia": "Rutter wrote it for the memorial service of Edward T. Chapman, the director of music at Highgate School, with whom he had studied there. It sets the Priestly Blessing from the Book of Numbers, followed by an extended “Amen”. Rutter also arranged it for choir and orchestra.",
+    "tags": [
+      "contemporary",
+      "choral",
+      "anthem",
+      "sacred",
+      "british",
+      "benediction",
+      "top400"
+    ],
+    "track": {
+      "query": "Rutter The Lord bless you and keep you The Cambridge Singers City of London Sinfonia John Rutter Collegium",
+      "album": "Gloria: The Sacred Music of John Rutter",
+      "duration": "2:41",
+      "start": null,
+      "isrc": null,
+      "notes": "Taken from the Collegium album Gloria: The Sacred Music of John Rutter (COLCD 100, 1984); MusicBrainz gives no session date."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Lord_bless_you_and_keep_you"
+    ],
+    "notes": "On two Dutch lists (best rank 116). Rutter: 2 cards with the Requiem."
+  },
+  {
+    "id": "cls-piazzolla-oblivion",
+    "composer": "Astor Piazzolla",
+    "composer_short": "Piazzolla",
+    "work": "Oblivion",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "other",
+    "accept_work": "Piazzolla's Oblivion",
+    "excerpt": "The complete piece",
+    "year": 1982,
+    "year_lo": 1982,
+    "year_hi": 1982,
+    "year_label": "1982",
+    "premiere_or_publication": "Used in Marco Bellocchio’s film Henry IV (Enrico IV, 1984); sung in French by Milva as \"J’oublie\" in September 1984",
+    "dating_note": "Wikipedia (Oblivion (Piazzolla)): written in 1982 while Piazzolla was in the United States; the film followed in 1984.",
+    "recording": {
+      "performers": "Astor Piazzolla (bandoneon) with orchestra",
+      "conductor": null,
+      "label": "EMI",
+      "year": 1984,
+      "why": "Piazzolla’s bandoneon version from the 1984 EMI release of his music for Bellocchio’s film Henry IV."
+    },
+    "trivia": "Oblivion was one of five Piazzolla pieces in Bellocchio’s film Henry IV, which flopped, and the piece only found a wide audience later in 1984 when Milva performed it live in Paris as \"J’oublie\". It is a slow milonga in C minor of about three and a half minutes.",
+    "tags": [
+      "contemporary",
+      "other",
+      "tango",
+      "milonga",
+      "argentine",
+      "top400"
+    ],
+    "track": {
+      "query": "Piazzolla Oblivion bandoneon solista Enrico IV Henry IV Bellocchio EMI",
+      "album": "Oblivion (Enrico IV)",
+      "duration": "3:30",
+      "start": null,
+      "isrc": null,
+      "notes": "The EMI release gives several instrumental versions; this is the bandoneon solo version."
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Oblivion_(Piazzolla)"
+    ],
+    "notes": "Concert/tango piece later used in film (trivia only). Recording = the 1984 EMI Italian release of the Enrico IV music; conductor Ettore Stratta is named by Wikipedia for the recording of the piece, but the release credits only Piazzolla."
+  },
+  {
+    "id": "cls-tavener-the-lamb",
+    "composer": "John Tavener",
+    "composer_short": "Tavener",
+    "work": "The Lamb",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "choral",
+    "accept_work": "Tavener's The Lamb",
+    "excerpt": "The complete anthem",
+    "year": 1982,
+    "year_lo": 1982,
+    "year_hi": 1982,
+    "year_label": "1982",
+    "premiere_or_publication": "Premiered at Winchester Cathedral on 22 December 1982 and sung at King’s College, Cambridge, on Christmas Eve 1982",
+    "dating_note": "Wikipedia (The Lamb (Tavener)): written in 1982 as a birthday present for the composer’s nephew Simon, and performed that December.",
+    "recording": {
+      "performers": "Choir of Westminster Abbey",
+      "conductor": "Martin Neary",
+      "label": "Sony Classical",
+      "year": 1995,
+      "why": "Studio recording by the Westminster Abbey Choir under Martin Neary, made in May 1995 at the Abbey."
+    },
+    "trivia": "Tavener wrote it as a present for his three-year-old nephew Simon, reportedly during a car journey from South Devon to London. It sets William Blake’s poem and was later heard in the film The Great Beauty.",
+    "tags": [
+      "contemporary",
+      "choral",
+      "a-cappella",
+      "christmas",
+      "british",
+      "top400"
+    ],
+    "track": {
+      "query": "Tavener The Lamb Choir of Westminster Abbey Martin Neary Innocence",
+      "album": "Tavener: Innocence",
+      "duration": "4:00",
+      "start": null,
+      "isrc": null,
+      "notes": "Movement/number-level track of the named recording. Duration is that track’s length; start is an estimate (about ±15 s) of where the recognisable theme begins. If this exact recording is unavailable, another recording of the same movement works."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Lamb_(Tavener)"
+    ],
+    "notes": "Recording = Westminster Abbey Choir under Martin Neary on Tavener: Innocence (Sony Classical, 1995)."
+  },
+  {
+    "id": "cls-lloyd-webber-requiem-pie-jesu",
+    "composer": "Andrew Lloyd Webber",
+    "composer_short": "Lloyd Webber",
+    "work": "Requiem",
+    "nickname": null,
+    "catalogue_only": true,
+    "form": "mass",
+    "accept_work": "Lloyd Webber's Requiem",
+    "excerpt": "Pie Jesu",
+    "year": 1985,
+    "year_lo": 1984,
+    "year_hi": 1985,
+    "year_label": "1984–1985",
+    "premiere_or_publication": "Premiered 24 February 1985 at St Thomas Church, New York (Lorin Maazel conducting, Plácido Domingo, Sarah Brightman, Paul Miles-Kingston)",
+    "dating_note": "Wikipedia (Requiem (Lloyd Webber)): a draft was shown at the 1984 Sydmonton Festival and the work was premiered in February 1985, so the span 1984–1985 is kept.",
+    "recording": {
+      "performers": "Sarah Brightman and Paul Miles-Kingston; Winchester Cathedral Choir; English Chamber Orchestra",
+      "conductor": "Lorin Maazel",
+      "label": "EMI",
+      "year": 1984,
+      "why": "Studio recording from the EMI Requiem set made at Abbey Road in December 1984; the Pie Jesu duet by Brightman and Miles-Kingston became a UK hit in 1985."
+    },
+    "trivia": "Lloyd Webber wrote the Requiem in memory of his father William, who died in 1982. The Pie Jesu, sung by Sarah Brightman and the boy treble Paul Miles-Kingston, became a UK hit in 1985, and the work won a 1986 Grammy for Best Contemporary Composition.",
+    "tags": [
+      "contemporary",
+      "mass",
+      "requiem",
+      "crossover",
+      "british",
+      "top400"
+    ],
+    "track": {
+      "query": "Lloyd Webber Requiem Pie Jesu Sarah Brightman Paul Miles-Kingston Lorin Maazel English Chamber Orchestra",
+      "album": "Lloyd Webber: Requiem",
+      "duration": "3:59",
+      "start": null,
+      "isrc": null,
+      "notes": "Movement/number-level track of the named recording. Duration is that track’s length; start is an estimate (about ±15 s) of where the recognisable theme begins. If this exact recording is unavailable, another recording of the same movement works."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Requiem_(Lloyd_Webber)"
+    ],
+    "notes": "Excerpt = Pie Jesu (movement 7 of the EMI recording)."
+  },
+  {
+    "id": "cls-rutter-requiem-pie-jesu",
+    "composer": "John Rutter",
+    "composer_short": "Rutter",
+    "work": "Requiem (1985)",
+    "nickname": null,
+    "catalogue_only": true,
+    "form": "mass",
+    "accept_work": "Rutter's Requiem",
+    "excerpt": "Pie Jesu (movement III)",
+    "year": 1985,
+    "year_lo": 1985,
+    "year_hi": 1985,
+    "year_label": "1985",
+    "premiere_or_publication": "Four movements first performed 14 March 1985 in Sacramento; complete work 13 October 1985 in Dallas; published 1986 by Oxford University Press",
+    "dating_note": "Wikipedia (Requiem (Rutter)): completed in 1985; the complete first performance was that October.",
+    "recording": {
+      "performers": "The Cambridge Singers; City of London Sinfonia",
+      "conductor": "John Rutter",
+      "label": "Collegium",
+      "year": 1986,
+      "why": "The first recording of the Requiem, conducted by the composer in 1986."
+    },
+    "trivia": "Rutter dedicated the Requiem to his father, who had died the year before, and laid it out in seven movements, like Fauré’s Requiem. One of the movements, The Lord is my Shepherd, was an anthem he had composed in 1976.",
+    "tags": [
+      "contemporary",
+      "mass",
+      "requiem",
+      "british",
+      "top400"
+    ],
+    "track": {
+      "query": "Rutter Requiem Pie Jesu Cambridge Singers City of London Sinfonia John Rutter Collegium",
+      "album": "Rutter: Requiem",
+      "duration": "4:11",
+      "start": null,
+      "isrc": null,
+      "notes": "Movement/number-level track of the named recording. Duration is that track’s length; start is an estimate (about ±15 s) of where the recognisable theme begins. If this exact recording is unavailable, another recording of the same movement works."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Requiem_(Rutter)"
+    ],
+    "notes": "Excerpt = Pie Jesu, the soprano solo (movement III). Recording = the first recording, conducted by the composer (1986)."
+  },
+  {
+    "id": "cls-adams-short-ride-in-a-fast-machine",
+    "composer": "John Adams",
+    "composer_short": "Adams",
+    "work": "Short Ride in a Fast Machine",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "orchestral",
+    "accept_work": "Adams’s Short Ride in a Fast Machine",
+    "excerpt": "Complete fanfare (about four and a half minutes)",
+    "year": 1986,
+    "year_lo": 1986,
+    "year_hi": 1986,
+    "year_label": "1986",
+    "premiere_or_publication": "Commissioned for the Great Woods Festival of the Pittsburgh Symphony Orchestra, which premiered it in 1986.",
+    "dating_note": "Wikipedia (Short Ride in a Fast Machine) calls it a 1986 orchestral work; it is also known as Fanfare for Great Woods.",
+    "recording": {
+      "performers": "City of Birmingham Symphony Orchestra",
+      "conductor": "Simon Rattle",
+      "label": "EMI Classics",
+      "year": 1993,
+      "why": "Simon Rattle and the CBSO, recorded in July 1993 and issued by EMI Classics in 1994 on an all-Adams disc."
+    },
+    "trivia": "Adams calls it a fanfare for orchestra, and a wood block ticks out the pulse from start to finish. Adams explained the title with the feeling of being offered a ride in a terrific sports car and then wishing you had said no.",
+    "tags": [
+      "contemporary",
+      "orchestral",
+      "minimalism",
+      "postminimalism",
+      "american",
+      "fanfare",
+      "top400"
+    ],
+    "track": {
+      "query": "John Adams Short Ride in a Fast Machine Simon Rattle City of Birmingham Symphony Orchestra EMI",
+      "album": "Harmonielehre / The Chairman Dances / Tromba Lontana / Short Ride in a Fast Machine",
+      "duration": "4:24",
+      "start": null,
+      "isrc": null,
+      "notes": "Fanfare track (about 4:24) on EMI CDC 5 55051 2; recording date from MusicBrainz relationships."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Short_Ride_in_a_Fast_Machine"
+    ],
+    "notes": null
+  },
+  {
+    "id": "cls-glass-violin-concerto-1",
+    "composer": "Philip Glass",
+    "composer_short": "Glass",
+    "work": "Violin Concerto No. 1",
+    "nickname": null,
+    "catalogue_only": true,
+    "form": "concerto",
+    "accept_work": "Glass’s Violin Concerto No. 1",
+    "excerpt": "I. (opening movement)",
+    "year": 1987,
+    "year_lo": 1987,
+    "year_hi": 1987,
+    "year_label": "1987",
+    "premiere_or_publication": "Commissioned by the American Composers Orchestra for the violinist Paul Zukofsky and premiered in New York City on 5 April 1987.",
+    "dating_note": "Wikipedia (Violin Concerto No. 1 (Glass)) gives 1987; Glass says he wrote it that year, and it premiered on 5 April 1987.",
+    "recording": {
+      "performers": "Gidon Kremer (violin), Wiener Philharmoniker",
+      "conductor": "Christoph von Dohnányi",
+      "label": "Deutsche Grammophon",
+      "year": 1992,
+      "why": "Gidon Kremer with the Vienna Philharmonic under Christoph von Dohnányi, recorded in February 1992 in the Musikverein and issued by Deutsche Grammophon in 1993."
+    },
+    "trivia": "Glass wrote it with his late father Ben in mind, a smart man with no musical education, the sort of listener who fills concert halls. He first planned five movements, then settled on a traditional three.",
+    "tags": [
+      "contemporary",
+      "concerto",
+      "minimalism",
+      "american",
+      "violin",
+      "top400"
+    ],
+    "track": {
+      "query": "Philip Glass Violin Concerto No. 1 Gidon Kremer Vienna Philharmonic Dohnányi Deutsche Grammophon",
+      "album": "Glass: Violin Concerto / Schnittke: Concerto grosso no. 5",
+      "duration": "6:38",
+      "start": null,
+      "isrc": null,
+      "notes": "First movement (about 6:38) of the DG release; sessions in the Großer Musikvereinssaal, Vienna, per MusicBrainz."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Violin_Concerto_No._1_(Glass)"
+    ],
+    "notes": "Glass: 3 cards in this set (see Metamorphosis)."
+  },
+  {
+    "id": "cls-glass-metamorphosis",
+    "composer": "Philip Glass",
+    "composer_short": "Glass",
+    "work": "Metamorphosis",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "solo-piano",
+    "accept_work": "Glass’s Metamorphosis",
+    "excerpt": "Metamorphosis Two",
+    "year": 1988,
+    "year_lo": 1988,
+    "year_hi": 1988,
+    "year_label": "1988",
+    "premiere_or_publication": "Glass recorded the set himself for the 1989 album Solo Piano (CBS); some pieces were written for a staging of Kafka’s Metamorphosis, others for the 1988 film The Thin Blue Line.",
+    "dating_note": "Wikipedia (Solo Piano (Philip Glass album)) says all the pieces were written in 1988; the album followed in 1989.",
+    "recording": {
+      "performers": "Philip Glass (piano)",
+      "conductor": null,
+      "label": "CBS Masterworks",
+      "year": 1989,
+      "why": "Glass playing his own piece on the 1989 album Solo Piano, where the Metamorphosis pieces first appeared on record."
+    },
+    "trivia": "The five Metamorphosis pieces take their name from Kafka’s 1915 novella. Metamorphosis Two became the basis of one of the main musical themes in the film The Hours.",
+    "tags": [
+      "contemporary",
+      "solo-piano",
+      "minimalism",
+      "american",
+      "piano",
+      "film-music",
+      "top400"
+    ],
+    "track": {
+      "query": "Philip Glass Metamorphosis Two Solo Piano Philip Glass CBS",
+      "album": "Solo Piano",
+      "duration": "7:21",
+      "start": null,
+      "isrc": null,
+      "notes": "Track 2 of Solo Piano (1989), recorded at The Living Room, New York, per MusicBrainz; the pieces themselves date from 1988."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Solo_Piano_(Philip_Glass_album)",
+      "https://en.wikipedia.org/wiki/List_of_compositions_by_Philip_Glass"
+    ],
+    "notes": "Glass: 3 cards in this set (Metamorphosis, Glassworks, Violin Concerto No. 1)."
+  },
+  {
+    "id": "cls-reich-different-trains",
+    "composer": "Steve Reich",
+    "composer_short": "Reich",
+    "work": "Different Trains",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "string-quartet",
+    "accept_work": "Reich’s Different Trains",
+    "excerpt": "I. America – Before the War",
+    "year": 1988,
+    "year_lo": 1988,
+    "year_hi": 1988,
+    "year_label": "1988",
+    "premiere_or_publication": "Premiered by the Kronos Quartet at the First Presbyterian Church in Miami, at the 1988 New Music America festival.",
+    "dating_note": "Wikipedia (Different Trains) says Reich wrote it in 1988 for string quartet and tape, and Kronos premiered it that year.",
+    "recording": {
+      "performers": "Kronos Quartet",
+      "conductor": null,
+      "label": "Elektra Nonesuch",
+      "year": 1988,
+      "why": "The Kronos Quartet, the premiere ensemble; their original recording won the Grammy Award for Best Classical Contemporary Composition (Wikipedia)."
+    },
+    "trivia": "Reich built the melodies from the pitch and rhythm of recorded speech: his childhood governess, a Pullman porter and Holocaust survivors. He wrote it after reflecting that, as a Jewish child crossing America by train in wartime, he would have ridden very different trains had he been in Europe.",
+    "tags": [
+      "contemporary",
+      "string-quartet",
+      "minimalism",
+      "american",
+      "tape"
+    ],
+    "track": {
+      "query": "Steve Reich Different Trains I America Before the War Kronos Quartet Nonesuch",
+      "album": "Different Trains / Electric Counterpoint",
+      "duration": "8:59",
+      "start": null,
+      "isrc": null,
+      "notes": "First movement of the 1989 Elektra Nonesuch release, recorded 31 August 1988 at Russian Hill Recording, San Francisco (MusicBrainz)."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Different_Trains"
+    ],
+    "notes": "Reich: 2 cards in this set (see Music for 18 Musicians)."
+  },
+  {
+    "id": "cls-vasks-pater-noster",
+    "composer": "Pēteris Vasks",
+    "composer_short": "Vasks",
+    "work": "Pater noster",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "choral",
+    "accept_work": "Vasks's Pater noster",
+    "excerpt": "The complete piece",
+    "year": 1991,
+    "year_lo": 1991,
+    "year_hi": 1991,
+    "year_label": "1991",
+    "premiere_or_publication": "Original version for unaccompanied choir; a version for choir and string orchestra followed in 2000",
+    "dating_note": "Wikipedia (Pēteris Vasks) works list: Pater noster for unaccompanied choir, 1991 (choir and string orchestra version 2000).",
+    "recording": {
+      "performers": "Latvian Radio Choir",
+      "conductor": "Sigvards Kļava",
+      "label": "Ondine",
+      "year": 2007,
+      "why": "Title track of the Latvian Radio Choir’s Ondine album of Vasks’s sacred choral works."
+    },
+    "trivia": "Vasks, born in Latvia in 1946, wrote this setting of the Lord’s Prayer for unaccompanied choir in 1991 and later reworked it for choir with string orchestra.",
+    "tags": [
+      "contemporary",
+      "choral",
+      "a-cappella",
+      "latvian",
+      "top400"
+    ],
+    "track": {
+      "query": "Vasks Pater noster Latvian Radio Choir Sigvards Kļava Ondine",
+      "album": "Vasks: Pater noster / Dona nobis pacem / Missa",
+      "duration": "6:50",
+      "start": null,
+      "isrc": null,
+      "notes": "Year given is the 2007 release year of the album; recording dates not found."
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/P%C4%93teris_Vasks"
+    ],
+    "notes": "Year from the Wikipedia works list. Whether the chosen Ondine track uses the optional strings is not stated in the data I read, hence medium confidence."
+  },
+  {
+    "id": "cls-tavener-song-for-athene",
+    "composer": "John Tavener",
+    "composer_short": "Tavener",
+    "work": "Song for Athene",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "choral",
+    "accept_work": "Tavener's Song for Athene",
+    "excerpt": "The complete piece",
+    "year": 1993,
+    "year_lo": 1993,
+    "year_hi": 1993,
+    "year_label": "1993",
+    "premiere_or_publication": "Sung by the Westminster Abbey Choir under Martin Neary at the funeral of Diana, Princess of Wales, 6 September 1997; published by Chester in 1997",
+    "dating_note": "Wikipedia (Song for Athene): written in April 1993 on a BBC commission.",
+    "recording": {
+      "performers": "Choir of Westminster Abbey",
+      "conductor": "Martin Neary",
+      "label": "Sony Classical",
+      "year": 1994,
+      "why": "The Westminster Abbey Choir under Martin Neary, the choir and conductor who sang it at Diana’s funeral in 1997; this studio take was recorded in June 1994."
+    },
+    "trivia": "Tavener wrote it in memory of Athene Hariades, a young actress and family friend killed in a cycling accident; the words by the Orthodox nun Mother Thekla blend the Orthodox funeral service with a line from Hamlet. Four years later the Westminster Abbey Choir sang it at the funeral of Diana, Princess of Wales.",
+    "tags": [
+      "contemporary",
+      "choral",
+      "a-cappella",
+      "funeral",
+      "british"
+    ],
+    "track": {
+      "query": "Tavener Song for Athene Choir of Westminster Abbey Martin Neary Innocence",
+      "album": "Tavener: Innocence",
+      "duration": "7:12",
+      "start": null,
+      "isrc": null,
+      "notes": "Studio recording on Tavener: Innocence, not the live funeral performance."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Song_for_Athene"
+    ],
+    "notes": "Recording = the 1994 studio recording by the Abbey choir that sang it at the 1997 funeral (the funeral performance itself is on a BBC release)."
+  },
+  {
+    "id": "cls-lauridsen-o-magnum-mysterium",
+    "composer": "Morten Lauridsen",
+    "composer_short": "Lauridsen",
+    "work": "O magnum mysterium",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "choral",
+    "accept_work": "Lauridsen's O magnum mysterium",
+    "excerpt": "The complete motet",
+    "year": 1994,
+    "year_lo": 1994,
+    "year_hi": 1994,
+    "year_label": "1994",
+    "premiere_or_publication": "Premiered 18 December 1994 at the Dorothy Chandler Pavilion, Los Angeles (Los Angeles Master Chorale, Paul Salamunovich); published 1995",
+    "dating_note": "Wikipedia (O magnum mysterium (Lauridsen)): set in 1994 on a commission from Marshall Rutter of the Los Angeles Master Chorale, first performed that December.",
+    "recording": {
+      "performers": "Polyphony; Britten Sinfonia",
+      "conductor": "Stephen Layton",
+      "label": "Hyperion",
+      "year": 2005,
+      "why": "Polyphony under Stephen Layton, from Hyperion’s 2005 Lauridsen album that also contains Lux aeterna."
+    },
+    "trivia": "Lauridsen said he was inspired by Zurbarán’s 1633 still life of lemons, oranges and a rose, read as an offering to the Virgin Mary, and he spent about six months on the piece. It was commissioned by Marshall Rutter as a gift for his wife, Terry Knowles.",
+    "tags": [
+      "contemporary",
+      "choral",
+      "a-cappella",
+      "christmas",
+      "american",
+      "top400"
+    ],
+    "track": {
+      "query": "Lauridsen O magnum mysterium Polyphony Stephen Layton Hyperion",
+      "album": "Lauridsen: Lux aeterna & other choral works",
+      "duration": "6:42",
+      "start": null,
+      "isrc": null,
+      "notes": "Hyperion lists \"various dates\" for the sessions, so the year given is the March 2005 release year."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/O_magnum_mysterium_(Lauridsen)"
+    ],
+    "notes": "Wikipedia says the first performers recorded it on a 2002 CD (Lux aeterna) while MusicBrainz dates the Los Angeles Master Chorale album 1998, so the card uses the Polyphony/Layton Hyperion recording instead. The Hyperion page lists \"various dates\", so the recording year given is the March 2005 release year."
+  },
+  {
+    "id": "cls-jenkins-the-armed-man",
+    "composer": "Karl Jenkins",
+    "composer_short": "Jenkins",
+    "work": "The Armed Man: A Mass for Peace",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "mass",
+    "accept_work": "Jenkins's The Armed Man",
+    "excerpt": "Benedictus (movement XII)",
+    "year": 2000,
+    "year_lo": 2000,
+    "year_hi": 2000,
+    "year_label": "2000",
+    "premiere_or_publication": "Premiered 25 April 2000 at the Royal Albert Hall (National Youth Choir of Great Britain, Grant Llewellyn conducting); first CD recorded with the London Philharmonic Orchestra under Jenkins, released 2001",
+    "dating_note": "Wikipedia (The Armed Man) gives the Royal Armouries Millennium commission and the premiere of 25 April 2000 but no separate composition year, so 2000 is used.",
+    "recording": {
+      "performers": "National Youth Choir of Great Britain; London Philharmonic Orchestra; Guy Johnston (cello)",
+      "conductor": "Karl Jenkins",
+      "label": "Virgin Classics",
+      "year": 2000,
+      "why": "The first CD of the work, conducted by the composer and released in September 2001."
+    },
+    "trivia": "Jenkins built the work around the 15th-century tune L’homme armé and mixed the Latin Mass with other texts, including the Islamic call to prayer, the Psalms and the Mahabharata. It was commissioned by the Royal Armouries for the Millennium and dedicated to the victims of the Kosovo crisis.",
+    "tags": [
+      "contemporary",
+      "mass",
+      "anti-war",
+      "welsh",
+      "crossover",
+      "top400"
+    ],
+    "track": {
+      "query": "Karl Jenkins The Armed Man A Mass for Peace Benedictus London Philharmonic Orchestra National Youth Choir of Great Britain",
+      "album": "The Armed Man: A Mass for Peace",
+      "duration": "7:37",
+      "start": null,
+      "isrc": null,
+      "notes": "Benedictus (movement XII) of the first studio recording; recorded in summer 2000, released 10 September 2001. Start is null because the movement opens with the theme."
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Armed_Man"
+    ],
+    "notes": "Composition year is not given separately by Wikipedia; 2000 = Millennium commission and premiere. Medium confidence on the year only."
+  },
+  {
+    "id": "cls-whitacre-lux-aurumque",
+    "composer": "Eric Whitacre",
+    "composer_short": "Whitacre",
+    "work": "Lux Aurumque (Light and Gold)",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "choral",
+    "accept_work": "Whitacre's Lux Aurumque",
+    "excerpt": "The complete piece",
+    "year": 2000,
+    "year_lo": 2000,
+    "year_hi": 2000,
+    "year_label": "2000",
+    "premiere_or_publication": "Commissioned by the Master Chorale of Tampa Bay; published 2001; wind-band version 2005; Virtual Choir video 2010–11",
+    "dating_note": "Wikipedia (Lux Aurumque): composed in 2000 on commission from the Master Chorale of Tampa Bay, dedicated to Jo-Michael Scheibe.",
+    "recording": {
+      "performers": "Eric Whitacre Singers; Laudibus",
+      "conductor": "Eric Whitacre",
+      "label": "Decca",
+      "year": 2010,
+      "why": "The composer conducting his own Eric Whitacre Singers on the 2010 Decca album Light and Gold (recorded August 2010)."
+    },
+    "trivia": "The Latin text is Charles Anthony Silvestri’s translation of Edward Esch’s English poem \"Light and Gold\", and the last chord borrows the two chords that close Pärt’s Passio. A 2010 video mixing individual recordings by 185 singers from 12 countries made it the first Virtual Choir hit.",
+    "tags": [
+      "contemporary",
+      "choral",
+      "a-cappella",
+      "virtual-choir",
+      "american",
+      "top400"
+    ],
+    "track": {
+      "query": "Whitacre Lux Aurumque Light and Gold Eric Whitacre Singers Laudibus",
+      "album": "Light & Gold",
+      "duration": "4:16",
+      "start": null,
+      "isrc": null,
+      "notes": "Movement/number-level track of the named recording. Duration is that track’s length; start is an estimate (about ±15 s) of where the recognisable theme begins. If this exact recording is unavailable, another recording of the same movement works."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Lux_Aurumque"
+    ],
+    "notes": "Recording = Whitacre’s own Decca album Light and Gold (recorded August 2010)."
+  },
+  {
+    "id": "cls-whitacre-sleep",
+    "composer": "Eric Whitacre",
+    "composer_short": "Whitacre",
+    "work": "Sleep",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "choral",
+    "accept_work": "Whitacre's Sleep",
+    "excerpt": "The complete piece",
+    "year": 2000,
+    "year_lo": 2000,
+    "year_hi": 2000,
+    "year_label": "2000",
+    "premiere_or_publication": "Original Robert Frost setting premiered October 2000 by Austin ProChorus; the Silvestri-text version \"Sleep\" was published in 2001",
+    "dating_note": "Wikipedia (Sleep (Whitacre)): the music dates from 2000 (a 1999 commission premiered in October 2000); the new words by Charles Anthony Silvestri followed in 2001.",
+    "recording": {
+      "performers": "Eric Whitacre Singers; Laudibus",
+      "conductor": "Eric Whitacre",
+      "label": "Decca",
+      "year": 2010,
+      "why": "The composer conducting his own Eric Whitacre Singers on the 2010 Decca album Light and Gold (recorded August 2010)."
+    },
+    "trivia": "Whitacre first set Robert Frost’s \"Stopping by Woods on a Snowy Evening\", but the Frost estate refused publication rights, so Silvestri wrote a new text, \"Sleep\", in 2001. The original Frost setting was finally released in 2025, after the poem entered the public domain.",
+    "tags": [
+      "contemporary",
+      "choral",
+      "a-cappella",
+      "american",
+      "top400"
+    ],
+    "track": {
+      "query": "Whitacre Sleep Silvestri Eric Whitacre Singers Laudibus Light and Gold",
+      "album": "Light & Gold",
+      "duration": "5:34",
+      "start": null,
+      "isrc": null,
+      "notes": "Movement/number-level track of the named recording. Duration is that track’s length; start is an estimate (about ±15 s) of where the recognisable theme begins. If this exact recording is unavailable, another recording of the same movement works."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Sleep_(Whitacre)"
+    ],
+    "notes": "The poem is NOT Yeats: the published text is by Silvestri (2001); the 2000 music was written for Frost’s poem."
+  },
+  {
+    "id": "cls-gjeilo-ubi-caritas",
+    "composer": "Ola Gjeilo",
+    "composer_short": "Gjeilo",
+    "work": "Ubi caritas",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "choral",
+    "accept_work": "Gjeilo's Ubi caritas",
+    "excerpt": "The complete motet",
+    "year": 2001,
+    "year_lo": 2001,
+    "year_hi": 2001,
+    "year_label": "2001",
+    "premiere_or_publication": "Recorded by the Phoenix Chorale on Northern Lights (Chandos, 2012)",
+    "dating_note": "Chandos CHSA 5100 track listing (Northern Lights) dates Ubi caritas to 2001; Wikipedia’s Ola Gjeilo page gives no year.",
+    "recording": {
+      "performers": "Phoenix Chorale",
+      "conductor": "Charles Bruffy",
+      "label": "Chandos",
+      "year": 2011,
+      "why": "The Phoenix Chorale under Charles Bruffy, the choir that championed Gjeilo’s music, recorded 28-30 May 2011 for Chandos."
+    },
+    "trivia": "Conductor Charles Bruffy was \"instantly hooked\" when he first heard Ubi caritas, and he brought Gjeilo’s music to the Phoenix Chorale, which soon made him its first composer-in-residence. The Norwegian-born composer sets the ancient Latin hymn for unaccompanied choir.",
+    "tags": [
+      "contemporary",
+      "choral",
+      "a-cappella",
+      "norwegian",
+      "american",
+      "top400"
+    ],
+    "track": {
+      "query": "Gjeilo Ubi caritas Phoenix Chorale Charles Bruffy Chandos Northern Lights",
+      "album": "Northern Lights: Choral Works by Ola Gjeilo",
+      "duration": "3:06",
+      "start": null,
+      "isrc": null,
+      "notes": "Movement/number-level track of the named recording. Duration is that track’s length; start is an estimate (about ±15 s) of where the recognisable theme begins. If this exact recording is unavailable, another recording of the same movement works."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Ola_Gjeilo",
+      "https://www.chandos.net/products/catalogue/CHSA%205100"
+    ],
+    "notes": "Year from the Chandos CHSA 5100 track listing (booklet notes page), not from Wikipedia. Phoenix Chorale recording made 28-30 May 2011."
+  },
+  {
+    "id": "cls-richter-on-the-nature-of-daylight",
+    "composer": "Max Richter",
+    "composer_short": "Richter",
+    "work": "On the Nature of Daylight",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "chamber",
+    "accept_work": "Richter’s On the Nature of Daylight",
+    "excerpt": "Complete piece (about six minutes)",
+    "year": 2003,
+    "year_lo": 2003,
+    "year_hi": 2003,
+    "year_label": "2003",
+    "premiere_or_publication": "Released on 26 February 2004 on the album The Blue Notebooks (130701, an imprint of FatCat Records).",
+    "dating_note": "Wikipedia (On the Nature of Daylight) says it was recorded in February 2003 as a protest against the invasion of Iraq; the album carrying it came out in February 2004, a year later.",
+    "recording": {
+      "performers": "Max Richter with Natalia Bonner, Louisa Fuller, John Metcalfe, Philip Sheppard and Chris Worsey",
+      "conductor": null,
+      "label": "130701",
+      "year": 2003,
+      "why": "The original studio version on The Blue Notebooks (130701, 2004) for five strings, recorded in February 2003 per Wikipedia."
+    },
+    "trivia": "Richter wrote it as part of an anti-war album prompted by the 2003 invasion of Iraq, and it has since become one of the most licensed modern classical pieces. Its use in the film Arrival made that film ineligible for the Oscar for Best Original Score, because pre-existing music was judged too central to it.",
+    "tags": [
+      "contemporary",
+      "chamber",
+      "neoclassical",
+      "british",
+      "strings",
+      "film-music",
+      "date-trap",
+      "top400"
+    ],
+    "track": {
+      "query": "Max Richter On the Nature of Daylight The Blue Notebooks 130701",
+      "album": "The Blue Notebooks",
+      "duration": "6:12",
+      "start": null,
+      "isrc": null,
+      "notes": "Track 2 of the first release (26 February 2004); not the later orchestral version or the DG reissue."
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/On_the_Nature_of_Daylight",
+      "https://en.wikipedia.org/wiki/The_Blue_Notebooks"
+    ],
+    "notes": "DATE TRAP: the album and the commonly quoted year are 2004, but the piece was recorded in February 2003; the 2003 recording year is used as the composition year (single Wikipedia source for the composition date, hence medium confidence)."
+  },
+  {
+    "id": "cls-einaudi-nuvole-bianche",
+    "composer": "Ludovico Einaudi",
+    "composer_short": "Einaudi",
+    "work": "Nuvole bianche",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "solo-piano",
+    "accept_work": "Einaudi’s Nuvole bianche",
+    "excerpt": "Complete piece (about six minutes)",
+    "year": 2004,
+    "year_lo": 2004,
+    "year_hi": 2004,
+    "year_label": "2004",
+    "premiere_or_publication": "Released on 6 September 2004 as track 12 of the album Una Mattina (Decca), recorded at the Piccolo Teatro in Milan.",
+    "dating_note": "Dated 2004 from its first appearance on the album Una Mattina (released 6 September 2004); no earlier release was found, so the album year stands in for the composition year.",
+    "recording": {
+      "performers": "Ludovico Einaudi (piano)",
+      "conductor": null,
+      "label": "Decca",
+      "year": 2004,
+      "why": "Einaudi’s own studio recording from the album Una mattina (Decca, 6 September 2004), the original version."
+    },
+    "trivia": "The title means white clouds in Italian. The piece has turned up in the film Insidious and in the TV drama This Is England 86, and in 2015 a Spanish lottery advert used it as its theme.",
+    "tags": [
+      "contemporary",
+      "solo-piano",
+      "minimalism",
+      "italian",
+      "piano",
+      "film-music",
+      "top400"
+    ],
+    "track": {
+      "query": "Einaudi Nuvole bianche Una mattina Ludovico Einaudi piano Decca",
+      "album": "Una mattina",
+      "duration": "5:58",
+      "start": null,
+      "isrc": null,
+      "notes": "Track 12 of the album, recorded at the Piccolo Teatro in Milan per MusicBrainz."
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Una_Mattina",
+      "https://en.wikipedia.org/wiki/Ludovico_Einaudi"
+    ],
+    "notes": "Medium confidence on the year: the date rests on the album release, not a separately documented composition date."
+  },
+  {
+    "id": "cls-part-da-pacem-domine",
+    "composer": "Arvo Pärt",
+    "composer_short": "Pärt",
+    "work": "Da pacem Domine",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "choral",
+    "accept_work": "Pärt’s Da pacem Domine",
+    "excerpt": "Original four-voice a cappella setting",
+    "year": 2004,
+    "year_lo": 2004,
+    "year_hi": 2004,
+    "year_label": "2004",
+    "premiere_or_publication": "Commissioned by Jordi Savall for a peace concert in Barcelona on 1 July 2004; Pärt began it two days after the Madrid train bombings of March 2004. First recorded by the Hilliard Ensemble in spring 2005.",
+    "dating_note": "Wikipedia (Da pacem Domine (Pärt)) dates the four-voice original to 2004; versions with strings followed later, the voices-and-strings version first performed in Tallinn on 18 May 2007.",
+    "recording": {
+      "performers": "The Hilliard Ensemble",
+      "conductor": null,
+      "label": "ECM New Series",
+      "year": 2005,
+      "why": "The first recording of the piece, by the Hilliard Ensemble in spring 2005, issued on ECM’s Lamentate album."
+    },
+    "trivia": "The text is an old Latin prayer for peace, a hymn of the sixth or seventh century built from Bible verses. In Spain it is performed every year in memory of the victims of the Madrid bombings.",
+    "tags": [
+      "contemporary",
+      "choral",
+      "tintinnabuli",
+      "estonian",
+      "a-cappella",
+      "sacred",
+      "top400"
+    ],
+    "track": {
+      "query": "Pärt Da pacem Domine Hilliard Ensemble ECM Lamentate",
+      "album": "Lamentate",
+      "duration": "5:40",
+      "start": null,
+      "isrc": null,
+      "notes": "Opening track of ECM New Series 1930 Lamentate (2005), the four-voice original, with Sarah Leonard as the extra soprano on this album track list per MusicBrainz."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Da_pacem_Domine_(P%C3%A4rt)"
+    ],
+    "notes": "Pärt: 5 cards in this set (see Spiegel im Spiegel)."
+  },
+  {
+    "id": "cls-gjeilo-northern-lights",
+    "composer": "Ola Gjeilo",
+    "composer_short": "Gjeilo",
+    "work": "Northern Lights (Pulchra es, amica mea)",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "choral",
+    "accept_work": "Gjeilo's Northern Lights",
+    "excerpt": "The complete piece",
+    "year": 2008,
+    "year_lo": 2008,
+    "year_hi": 2008,
+    "year_label": "2008",
+    "premiere_or_publication": "Recorded by the Phoenix Chorale on the album Northern Lights (Chandos, 2012), which takes its title from this piece",
+    "dating_note": "Chandos CHSA 5100 track listing dates Northern Lights (Pulchra es, amica mea) to 2008; Wikipedia’s Ola Gjeilo page gives no year.",
+    "recording": {
+      "performers": "Phoenix Chorale",
+      "conductor": "Charles Bruffy",
+      "label": "Chandos",
+      "year": 2011,
+      "why": "The title piece of the Phoenix Chorale’s Chandos album, recorded 28-30 May 2011 under Charles Bruffy."
+    },
+    "trivia": "The piece is inspired by the aurora borealis seen from Gjeilo’s native Norway, and its Latin text begins \"Pulchra es, amica mea\". The 2012 Chandos album by the Phoenix Chorale was named after it.",
+    "tags": [
+      "contemporary",
+      "choral",
+      "a-cappella",
+      "norwegian",
+      "american",
+      "top400"
+    ],
+    "track": {
+      "query": "Gjeilo Northern Lights Pulchra es amica mea Phoenix Chorale Charles Bruffy Chandos",
+      "album": "Northern Lights: Choral Works by Ola Gjeilo",
+      "duration": "4:27",
+      "start": null,
+      "isrc": null,
+      "notes": "Movement/number-level track of the named recording. Duration is that track’s length; start is an estimate (about ±15 s) of where the recognisable theme begins. If this exact recording is unavailable, another recording of the same movement works."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Ola_Gjeilo",
+      "https://www.chandos.net/products/catalogue/CHSA%205100"
+    ],
+    "notes": "Year from the Chandos CHSA 5100 track listing (booklet notes page); no commission is named there."
+  },
+  {
+    "id": "cls-eisenga-for-mattia",
+    "composer": "Douwe Eisenga",
+    "composer_short": "Eisenga",
+    "work": "For Mattia",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "solo-piano",
+    "accept_work": "Eisenga's For Mattia",
+    "excerpt": "The complete piece (piano version)",
+    "year": 2017,
+    "year_lo": 2017,
+    "year_hi": 2017,
+    "year_label": "2017",
+    "premiere_or_publication": "Premiered September 2017 in the Domkerk, Utrecht; recorded by the composer on the 2019 album For Mattia",
+    "dating_note": "nl.wikipedia (For Mattia): composed in 2017 at the request of the parents of Mattia Muilwijk (1989–2015) and premiered that September.",
+    "recording": {
+      "performers": "Douwe Eisenga (piano)",
+      "conductor": null,
+      "label": "Douwe Eisenga (own release)",
+      "year": 2019,
+      "why": "The composer’s own piano recording, issued on the single and the 2019 album For Mattia."
+    },
+    "trivia": "Eisenga wrote this piano piece for the parents of Mattia Muilwijk, who died in 2015, and it has been in the NPO Radio 4 Klassieke Top 400 every year since 2017, according to nl.wikipedia. Free sheet music is offered on the composer’s website, and the piece has been arranged for harp, vibraphone, marimba and alto saxophone.",
+    "tags": [
+      "contemporary",
+      "solo-piano",
+      "dutch",
+      "piano",
+      "top400"
+    ],
+    "track": {
+      "query": "Douwe Eisenga For Mattia piano",
+      "album": "For Mattia",
+      "duration": "7:43",
+      "start": null,
+      "isrc": null,
+      "notes": "Movement/number-level track of the named recording. Duration is that track’s length; start is an estimate (about ±15 s) of where the recognisable theme begins. If this exact recording is unavailable, another recording of the same movement works."
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://nl.wikipedia.org/wiki/For_Mattia"
+    ],
+    "notes": "Dutch Klassieke Top 400 entry (rank 66 in 2026). Source is nl.wikipedia; label of the composer’s own release not named there."
+  }
+]

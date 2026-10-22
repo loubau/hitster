@@ -10,17 +10,17 @@
     "accept_work": "Dowland's Flow, my tears (Lachrimae)",
     "excerpt": "Complete lute song",
     "year": 1600,
-    "year_lo": 1596,
+    "year_lo": 1600,
     "year_hi": 1600,
-    "year_label": "c. 1596–1600",
+    "year_label": "c. 1600",
     "premiere_or_publication": "Published London, 1600 (The Second Booke of Songs or Ayres)",
-    "dating_note": "The song was printed in 1600; it grows out of Dowland's Lachrimae pavan, which circulated in manuscript in the 1590s.",
+    "dating_note": "The song was printed in 1600; it grows out of Dowland’s Lachrimae pavan, which circulated in manuscript in the 1590s.",
     "recording": {
-      "performers": "Emma Kirkby with Anthony Rooley (lute), or any soprano/tenor with lute",
-      "conductor": null,
-      "label": null,
-      "year": null,
-      "why": "Classic English lute-song style; no single canonical recording"
+      "performers": "Emma Kirkby (soprano); The Consort of Musicke",
+      "conductor": "Anthony Rooley",
+      "label": "L'Oiseau-Lyre",
+      "year": 1976,
+      "why": "Second Booke of Songs (L'Oiseau-Lyre); a web source gives November 1976, Decca Studios, first issued 1977."
     },
     "trivia": "Dowland's own motto was 'Semper Dowland, semper dolens' (always Dowland, always doleful). The tune was so popular that he later built a whole 1604 collection of pavans on it, and Sting recorded the song on his 2006 album Songs from the Labyrinth.",
     "tags": [
@@ -28,14 +28,16 @@
       "song",
       "lute-song",
       "secular",
-      "english"
+      "english",
+      "top400"
     ],
     "track": {
-      "query": "Dowland Flow my tears lute song",
-      "album": null,
-      "duration": "~4:00",
+      "query": "Dowland Flow my tears Second Booke of Songs Emma Kirkby Rooley",
+      "album": "Second Booke of Songs",
+      "duration": "4:42",
+      "start": null,
       "isrc": null,
-      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+      "notes": "Movement/number-level track of the named recording. Duration is that track’s length; start is an estimate (about ±15 s) of where the recognisable theme begins. If this exact recording is unavailable, another recording of the same movement works."
     },
     "confidence": "medium",
     "sources": [
@@ -64,8 +66,8 @@
       "performers": "The Tallis Scholars",
       "conductor": "Peter Phillips",
       "label": "Gimell",
-      "year": null,
-      "why": "Spacious, well-balanced Victoria from the leading Renaissance polyphony ensemble"
+      "year": 1987,
+      "why": "Gimell CDGIM 012; recorded 1987 (library catalogue and Gimell page)."
     },
     "trivia": "Victoria was chaplain to the Empress Maria in Madrid, and this Requiem was written for her funeral. The plainchant melody is carried in one of the upper voices rather than buried in the tenor.",
     "tags": [
@@ -75,17 +77,18 @@
       "sacred"
     ],
     "track": {
-      "query": "Victoria Requiem Officium defunctorum Tallis Scholars",
-      "album": null,
-      "duration": "~4:00",
+      "query": "Victoria Requiem 1605 Introit Requiem aeternam Tallis Scholars",
+      "album": "Victoria Requiem",
+      "duration": "6:13",
+      "start": null,
       "isrc": null,
-      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+      "notes": "Movement/number-level track of the named recording. Duration is that track’s length; start is an estimate (about ±15 s) of where the recognisable theme begins. If this exact recording is unavailable, another recording of the same movement works."
     },
     "confidence": "medium",
     "sources": [
       "https://en.wikipedia.org/wiki/Tom%C3%A1s_Luis_de_Victoria"
     ],
-    "notes": "Date (1603 funeral, 1605 print) from standard references and memory; no work-level Wikipedia page was fetched. Recording year left null."
+    "notes": "Written for the 1603 funeral of Empress Maria and printed in 1605; the card is dated to the funeral year."
   },
   {
     "id": "cls-byrd-ave-verum-corpus",
@@ -104,11 +107,11 @@
     "premiere_or_publication": "Published London, 1605 (Gradualia, Book I)",
     "dating_note": "Printed in 1605 in the first book of Gradualia, Byrd's cycle of Catholic liturgical music.",
     "recording": {
-      "performers": "The Cardinall's Musick",
-      "conductor": "Andrew Carwood",
-      "label": "Hyperion",
-      "year": null,
-      "why": "Byrd specialists who recorded the Gradualia; warm, clear singing"
+      "performers": "The Tallis Scholars",
+      "conductor": "Peter Phillips",
+      "label": "Gimell",
+      "year": 1984,
+      "why": "Gimell CDGIM 208; MusicBrainz dates the Merton College Chapel sessions 1984."
     },
     "trivia": "Byrd was a Catholic composing for secret worship under a Protestant crown. Mozart wrote a different, equally famous Ave verum corpus nearly two centuries later, in 1791.",
     "tags": [
@@ -118,17 +121,18 @@
       "sacred"
     ],
     "track": {
-      "query": "Byrd Ave verum corpus Gradualia choir",
-      "album": null,
-      "duration": "~4:00",
+      "query": "Byrd Ave verum corpus motet Tallis Scholars Phillips",
+      "album": "The Tallis Scholars Sing William Byrd",
+      "duration": "4:10",
+      "start": null,
       "isrc": null,
-      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+      "notes": "Movement/number-level track of the named recording. Duration is that track’s length; start is an estimate (about ±15 s) of where the recognisable theme begins. If this exact recording is unavailable, another recording of the same movement works."
     },
     "confidence": "high",
     "sources": [
       "https://en.wikipedia.org/wiki/William_Byrd"
     ],
-    "notes": "Recording suggestion from memory; alternatives are plentiful (Tallis Scholars, King's College)."
+    "notes": null
   },
   {
     "id": "cls-monteverdi-lorfeo",
@@ -141,32 +145,33 @@
     "accept_work": "Monteverdi's L'Orfeo",
     "excerpt": "Toccata and Prologue",
     "year": 1607,
-    "year_lo": 1606,
+    "year_lo": 1607,
     "year_hi": 1607,
-    "year_label": "1606–1607",
+    "year_label": "1607",
     "premiere_or_publication": "Premiered Mantua court, Feb 1607; score published 1609",
-    "dating_note": "Written for the Carnival season at Mantua, so completed by early 1607.",
+    "dating_note": "Written for the Carnival season at Mantua and first performed in February 1607, so completed by then.",
     "recording": {
       "performers": "La Capella Reial de Catalunya; Le Concert des Nations",
       "conductor": "Jordi Savall",
       "label": "Alia Vox",
       "year": 2002,
-      "why": "Vivid, theatrical period-instrument version of the landmark early opera"
+      "why": "Alia Vox AVSA 9911; recorded live 31 January 2002, Gran Teatre del Liceu, Barcelona (MusicBrainz)."
     },
     "trivia": "One of the first operas still regularly performed, and the first to use a large orchestra with specific instruments named for each scene. Monteverdi sets Orpheus's descent to the underworld.",
     "tags": [
       "baroque",
       "opera",
-      "opera",
       "early-opera",
-      "italian"
+      "italian",
+      "top400"
     ],
     "track": {
-      "query": "Monteverdi L'Orfeo Savall Toccata Prologo",
-      "album": null,
-      "duration": "~5:00",
+      "query": "Monteverdi L'Orfeo Toccata Savall Capella Reial Concert des Nations",
+      "album": "L'Orfeo",
+      "duration": "1:41",
+      "start": null,
       "isrc": null,
-      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+      "notes": "Movement/number-level track of the named recording. Duration is that track’s length; start is an estimate (about ±15 s) of where the recognisable theme begins. If this exact recording is unavailable, another recording of the same movement works."
     },
     "confidence": "high",
     "sources": [
@@ -195,27 +200,29 @@
       "conductor": "John Eliot Gardiner",
       "label": "Archiv Produktion",
       "year": 1989,
-      "why": "Recorded in St Mark's Basilica, Venice; the benchmark period-instrument account"
+      "why": "Archiv 429 565-2; recorded live May 1989, San Marco, Venice."
     },
     "trivia": "The opening fanfare recycles the Toccata from his opera L'Orfeo, turning a court trumpet flourish into church music. The 90-minute work mixes grand choirs, solo virtuosity and instrumental colour.",
     "tags": [
       "baroque",
       "choral",
       "sacred",
-      "venetian"
+      "venetian",
+      "top400"
     ],
     "track": {
-      "query": "Monteverdi Vespro della Beata Vergine Gardiner Deus in adiutorium",
-      "album": null,
-      "duration": "~3:00",
+      "query": "Monteverdi Vespro della Beata Vergine Deus in adiutorium Gardiner",
+      "album": "Claudio Monteverdi",
+      "duration": "2:10",
+      "start": null,
       "isrc": null,
-      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+      "notes": "Movement/number-level track of the named recording. Duration is that track’s length; start is an estimate (about ±15 s) of where the recognisable theme begins. If this exact recording is unavailable, another recording of the same movement works."
     },
     "confidence": "high",
     "sources": [
       "https://en.wikipedia.org/wiki/Vespro_della_Beata_Vergine"
     ],
-    "notes": "Gardiner 1989 recording year from memory."
+    "notes": null
   },
   {
     "id": "cls-gesualdo-tenebrae-responsories",
@@ -228,17 +235,17 @@
     "accept_work": "Gesualdo's Tenebrae Responsories",
     "excerpt": "Tenebrae factae sunt (Good Friday)",
     "year": 1611,
-    "year_lo": 1608,
+    "year_lo": 1611,
     "year_hi": 1611,
     "year_label": "c. 1611",
     "premiere_or_publication": "Published Naples, 1611",
     "dating_note": "Only the 1611 print date is documented; the pieces were likely composed in the preceding years.",
     "recording": {
-      "performers": "The Tallis Scholars",
-      "conductor": "Peter Phillips",
-      "label": "Gimell",
-      "year": null,
-      "why": "Pure, uncluttered handling of Gesualdo's chromatic harmony"
+      "performers": "La Compagnia del Madrigale",
+      "conductor": "Giuseppe Maletto",
+      "label": "Glossa",
+      "year": 2013,
+      "why": "Glossa GCD 922803; recorded 2013, Roletto, Italy (MusicWeb review). Replaces the Tallis Scholars pick, which has no verifiable disc."
     },
     "trivia": "Gesualdo was a prince who murdered his wife and her lover in 1590, and his harmony is startlingly chromatic for its time. This Holy Week cycle sets nine responsories for each of three days.",
     "tags": [
@@ -249,18 +256,19 @@
       "italian"
     ],
     "track": {
-      "query": "Gesualdo Tenebrae Responsories Tenebrae factae sunt",
-      "album": null,
-      "duration": "~3:00",
+      "query": "Gesualdo Tenebrae factae sunt Responsoria Good Friday Compagnia del Madrigale",
+      "album": "Responsoria, 1611",
+      "duration": "5:17",
+      "start": null,
       "isrc": null,
-      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+      "notes": "Movement/number-level track of the named recording. Duration is that track’s length; start is an estimate (about ±15 s) of where the recognisable theme begins. If this exact recording is unavailable, another recording of the same movement works."
     },
     "confidence": "medium",
     "sources": [
       "https://en.wikipedia.org/wiki/Tenebrae_Responsories_(Gesualdo)",
       "https://en.wikipedia.org/wiki/Carlo_Gesualdo"
     ],
-    "notes": "Print date firm; composition date a loose estimate. Recording suggestion from memory; Hilliard Ensemble/other options exist."
+    "notes": "Print date firm; composition date a loose estimate. Hilliard Ensemble/other options exist."
   },
   {
     "id": "cls-gibbons-the-silver-swan",
@@ -279,11 +287,11 @@
     "premiere_or_publication": "Published London, 1612 (First Set of Madrigals and Mottets)",
     "dating_note": "Printed in 1612; no earlier date is known.",
     "recording": {
-      "performers": "The King's Singers",
+      "performers": "The King's Singers; The Consort of Musicke",
       "conductor": null,
-      "label": null,
-      "year": null,
-      "why": "Polished a cappella madrigal singing"
+      "label": "EMI (HMV)",
+      "year": 1984,
+      "why": "Madrigal History Tour, first issued 1984; year is the release year, no recording date found."
     },
     "trivia": "Based on the old belief that a swan sings only once, just before it dies, which is where the word 'swansong' comes from. The last line wryly remarks that there are more geese than swans and more fools than wise people.",
     "tags": [
@@ -295,17 +303,18 @@
       "a-cappella"
     ],
     "track": {
-      "query": "Gibbons The Silver Swan madrigal",
-      "album": null,
-      "duration": "~2:30",
+      "query": "Gibbons The Silver Swan King's Singers Madrigal History Tour",
+      "album": "Madrigal History Tour",
+      "duration": "1:24",
+      "start": null,
       "isrc": null,
-      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+      "notes": "Movement/number-level track of the named recording. Duration is that track’s length; start is an estimate (about ±15 s) of where the recognisable theme begins. If this exact recording is unavailable, another recording of the same movement works."
     },
     "confidence": "high",
     "sources": [
       "https://en.wikipedia.org/wiki/The_Silver_Swan_(madrigal)"
     ],
-    "notes": "Recording suggestion from memory."
+    "notes": null
   },
   {
     "id": "cls-praetorius-terpsichore",
@@ -327,8 +336,8 @@
       "performers": "New London Consort",
       "conductor": "Philip Pickett",
       "label": "L'Oiseau-Lyre",
-      "year": null,
-      "why": "Colourful period-instrument dance band"
+      "year": 1985,
+      "why": "L'Oiseau-Lyre 414 633-2; recorded 21 March 1985, Henry Wood Hall, London."
     },
     "trivia": "Praetorius gathered more than 300 French court dances and arranged them for whatever instruments were handy. The collection takes its name from Terpsichore, the Greek muse of dance.",
     "tags": [
@@ -339,17 +348,18 @@
       "german"
     ],
     "track": {
-      "query": "Praetorius Terpsichore New London Consort Pickett",
-      "album": null,
-      "duration": "~1:30",
+      "query": "Praetorius Terpsichore Bransle de la Torche New London Consort Pickett",
+      "album": "Dances from Terpsichore, 1612",
+      "duration": "1:58",
+      "start": null,
       "isrc": null,
-      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+      "notes": "Movement/number-level track of the named recording. Duration is that track’s length; start is an estimate (about ±15 s) of where the recognisable theme begins. If this exact recording is unavailable, another recording of the same movement works."
     },
     "confidence": "high",
     "sources": [
       "https://en.wikipedia.org/wiki/Terpsichore_(Praetorius)"
     ],
-    "notes": "Recording attribution from memory."
+    "notes": null
   },
   {
     "id": "cls-allegri-miserere",
@@ -372,27 +382,29 @@
       "conductor": "Peter Phillips",
       "label": "Gimell",
       "year": 1980,
-      "why": "Pure, precisely tuned reading with the famous high C sung by a soprano"
+      "why": "Gimell CDGIM 339; recorded 1980, Merton College Chapel, Oxford; soprano Alison Stamp."
     },
     "trivia": "The Sistine Chapel kept it close to secret, and a popular story says fourteen-year-old Mozart wrote it out from memory after hearing it twice in 1770. The soaring high-C ornaments are a later invention rather than Allegri's own.",
     "tags": [
       "baroque",
       "choral",
       "a-cappella",
-      "sacred"
+      "sacred",
+      "top400"
     ],
     "track": {
-      "query": "Allegri Miserere Tallis Scholars",
-      "album": "Allegri: Miserere / Palestrina: Missa Papae Marcelli / Mundy: Vox Patris caelestis",
-      "duration": "~12:00",
+      "query": "Allegri Miserere Tallis Scholars Phillips Gimell",
+      "album": "Allegri: Miserere / Palestrina: Missa Papae Marcelli / Mundy: Vox Patris Caelestis",
+      "duration": "12:36",
+      "start": null,
       "isrc": null,
-      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+      "notes": "Movement/number-level track of the named recording. Duration is that track’s length; start is an estimate (about ±15 s) of where the recognisable theme begins. If this exact recording is unavailable, another recording of the same movement works."
     },
     "confidence": "medium",
     "sources": [
       "https://en.wikipedia.org/wiki/Miserere_(Allegri)"
     ],
-    "notes": "Dated to the 1630s (Wikipedia says 'around 1638'); year is the decade midpoint. Tallis Scholars year from memory."
+    "notes": "Dated to the 1630s (Wikipedia says 'around 1638'); year is the decade midpoint."
   },
   {
     "id": "cls-schutz-musikalische-exequien",
@@ -405,17 +417,17 @@
     "accept_work": "Schütz's Musikalische Exequien (Funeral Music)",
     "excerpt": "Part I: Concerto in the form of a German Funeral Mass",
     "year": 1636,
-    "year_lo": 1635,
+    "year_lo": 1636,
     "year_hi": 1636,
-    "year_label": "1635–1636",
+    "year_label": "1636",
     "premiere_or_publication": "First performed 4 Feb 1636 (O.S.), Gera; published 1636",
     "dating_note": "Written for the funeral of Count Heinrich II Reuss of Gera, who died 3 Dec 1635; first performed in February 1636.",
     "recording": {
-      "performers": "Collegium Vocale Gent",
+      "performers": "La Chapelle Royale; Collegium Vocale Gent",
       "conductor": "Philippe Herreweghe",
-      "label": "Harmonia Mundi",
-      "year": null,
-      "why": "Clear, devout reading of Schütz's funeral music"
+      "label": "harmonia mundi",
+      "year": 1987,
+      "why": "harmonia mundi HMC 901261; year is the 1987 release, no session date found."
     },
     "trivia": "The count planned his own funeral, choosing the Bible texts and hymn verses that were carved into his coffin; Schütz set them. It is generally regarded as his most famous funeral music.",
     "tags": [
@@ -423,20 +435,22 @@
       "choral",
       "sacred",
       "german",
-      "funeral"
+      "funeral",
+      "top400"
     ],
     "track": {
-      "query": "Schütz Musikalische Exequien Herreweghe",
-      "album": null,
-      "duration": "~25:00",
+      "query": "Schütz Musikalische Exequien SWV 279 Concerto Herreweghe",
+      "album": "Musikalische Exequien op. 7, SWV 279-281 / Motets",
+      "duration": "26:06",
+      "start": null,
       "isrc": null,
-      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+      "notes": "Movement/number-level track of the named recording. Duration is that track’s length; start is an estimate (about ±15 s) of where the recognisable theme begins. If this exact recording is unavailable, another recording of the same movement works."
     },
     "confidence": "high",
     "sources": [
       "https://en.wikipedia.org/wiki/Musikalische_Exequien"
     ],
-    "notes": "Excerpt is the long first part; recording suggestion from memory."
+    "notes": null
   },
   {
     "id": "cls-monteverdi-lincoronazione-di-poppea",
@@ -449,38 +463,39 @@
     "accept_work": "Monteverdi's L'incoronazione di Poppea",
     "excerpt": "Closing duet 'Pur ti miro'",
     "year": 1643,
-    "year_lo": 1642,
+    "year_lo": 1643,
     "year_hi": 1643,
-    "year_label": "1642–1643",
+    "year_label": "1643",
     "premiere_or_publication": "Premiered Teatro Santi Giovanni e Paolo, Venice, 1643 Carnival season",
-    "dating_note": "Written for the 1643 Carnival season in Venice, so composed over 1642–43; Monteverdi died in November 1643.",
+    "dating_note": "Written for the 1643 Carnival season in Venice (composed over 1642–43); Monteverdi died in November 1643.",
     "recording": {
       "performers": "Monteverdi Choir; English Baroque Soloists",
       "conductor": "John Eliot Gardiner",
       "label": "Archiv Produktion",
       "year": 1993,
-      "why": "Theatrical period-instrument performance with a strong cast"
+      "why": "Archiv 447 088-2, released 1996; MusicBrainz recording date December 1993, Queen Elizabeth Hall, London."
     },
     "trivia": "Monteverdi's last opera, notable for letting a scheming couple win in the end rather than being punished. Other composers probably helped with parts, and the final duet 'Pur ti miro' may not be his.",
     "tags": [
       "baroque",
       "opera",
-      "opera",
       "early-opera",
-      "italian"
+      "italian",
+      "top400"
     ],
     "track": {
-      "query": "Monteverdi L'incoronazione di Poppea Pur ti miro Gardiner",
-      "album": null,
-      "duration": "~5:00",
+      "query": "Monteverdi L'incoronazione di Poppea Pur ti miro Gardiner McNair Hanchard",
+      "album": "L’incoronazione di Poppea",
+      "duration": "4:11",
+      "start": null,
       "isrc": null,
-      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+      "notes": "Movement/number-level track of the named recording. Duration is that track’s length; start is an estimate (about ±15 s) of where the recognisable theme begins. If this exact recording is unavailable, another recording of the same movement works."
     },
     "confidence": "high",
     "sources": [
       "https://en.wikipedia.org/wiki/L'incoronazione_di_Poppea"
     ],
-    "notes": "Gardiner 1993 recording year from memory."
+    "notes": null
   },
   {
     "id": "cls-lully-le-bourgeois-gentilhomme",
@@ -501,11 +516,11 @@
     "recording": {
       "performers": "Le Concert des Nations",
       "conductor": "Jordi Savall",
-      "label": "Alia Vox",
-      "year": null,
-      "why": "Lively period-instrument French Baroque dance music"
+      "label": "Auvidis Valois",
+      "year": 1991,
+      "why": "Soundtrack of Tous les matins du monde (Auvidis Valois V 4640); MusicBrainz dates the recording 1991."
     },
-    "trivia": "Lully and Molière mocked a social climber with a mock 'Turkish' ceremony, complete with a fake language and a march that remains Lully's catchiest tune. Lully himself played the Mufti at the premiere.",
+    "trivia": "Lully and Molière mocked a social climber with a mock “Turkish” ceremony, complete with a fake language and a march that remains Lully’s catchiest tune. Lully himself danced the Mufti in the last act at the first performance.",
     "tags": [
       "baroque",
       "orchestral",
@@ -514,17 +529,18 @@
       "court"
     ],
     "track": {
-      "query": "Lully Le Bourgeois gentilhomme Marche pour la cérémonie des Turcs",
-      "album": null,
-      "duration": "~1:30",
+      "query": "Lully Marche pour la cérémonie des Turcs Savall Concert des Nations",
+      "album": "Tous les matins du monde",
+      "duration": "2:19",
+      "start": null,
       "isrc": null,
-      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+      "notes": "Movement/number-level track of the named recording. Duration is that track’s length; start is an estimate (about ±15 s) of where the recognisable theme begins. If this exact recording is unavailable, another recording of the same movement works."
     },
     "confidence": "medium",
     "sources": [
       "https://en.wikipedia.org/wiki/Le_Bourgeois_gentilhomme"
     ],
-    "notes": "Premiere date from Wikipedia; the claim that Lully played the Mufti is from memory (widely reported). Recording attribution unverified; many alternatives."
+    "notes": null
   },
   {
     "id": "cls-sanz-canarios",
@@ -543,11 +559,11 @@
     "premiere_or_publication": "Published Zaragoza, 1674 (Instrucción de música sobre la guitarra española)",
     "dating_note": "The dances appear in Sanz's 1674 guitar tutor; they may be older folk tunes arranged by him.",
     "recording": {
-      "performers": "Julian Bream (guitar), or any classical guitarist",
+      "performers": "Julian Bream (guitar)",
       "conductor": null,
-      "label": "RCA",
-      "year": null,
-      "why": "A classic guitar-hall favourite; no single canonical recording"
+      "label": "RCA Victor Red Seal",
+      "year": 1965,
+      "why": "RCA LSC 2878 Baroque Guitar; library catalogue gives sessions 9, 11 and 12 March 1965, RCA Studios, New York."
     },
     "trivia": "Sanz's tutor became the basis of Rodrigo's 1954 Fantasía para un gentilhombre, so many people know these tunes without knowing his name. 'Canarios' is a fast dance from the Canary Islands.",
     "tags": [
@@ -558,17 +574,18 @@
       "dance"
     ],
     "track": {
-      "query": "Gaspar Sanz Canarios guitar",
-      "album": null,
-      "duration": "~2:00",
+      "query": "Sanz Canarios baroque guitar Julian Bream",
+      "album": "Baroque Guitar",
+      "duration": "1:07",
+      "start": null,
       "isrc": null,
-      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+      "notes": "Movement/number-level track of the named recording. Duration is that track’s length; start is an estimate (about ±15 s) of where the recognisable theme begins. If this exact recording is unavailable, another recording of the same movement works."
     },
     "confidence": "medium",
     "sources": [
       "https://en.wikipedia.org/wiki/Gaspar_Sanz"
     ],
-    "notes": "Guitar piece, so form is 'other' (schema has no guitar form). Recording attribution is a loose suggestion."
+    "notes": "Guitar piece, so form is 'other' (schema has no guitar form)."
   },
   {
     "id": "cls-biber-rosary-sonatas",
@@ -581,7 +598,7 @@
     "accept_work": "Biber's Rosary (Mystery) Sonatas",
     "excerpt": "Passacaglia in G minor for solo violin",
     "year": 1676,
-    "year_lo": 1674,
+    "year_lo": 1676,
     "year_hi": 1676,
     "year_label": "c. 1676",
     "premiere_or_publication": "Manuscript; unknown until published in 1905",
@@ -589,9 +606,9 @@
     "recording": {
       "performers": "Andrew Manze (violin); Richard Egarr (organ/harpsichord)",
       "conductor": null,
-      "label": "Harmonia Mundi",
-      "year": null,
-      "why": "Rich-toned, expressive period-violin account"
+      "label": "harmonia mundi",
+      "year": 2003,
+      "why": "MusicBrainz recording date January 2003, AIR Studios, London."
     },
     "trivia": "Fifteen violin sonatas, each tied to a scene from the life of Mary, and a closing passacaglia for unaccompanied violin. Biber required the violin to be retuned for most sonatas, a trick called scordatura.",
     "tags": [
@@ -602,17 +619,18 @@
       "austrian"
     ],
     "track": {
-      "query": "Biber Rosary Sonatas Passacaglia Manze",
-      "album": null,
-      "duration": "~9:00",
+      "query": "Biber Rosary Sonatas Passacaglia solo violin Andrew Manze",
+      "album": "The Rosary Sonatas",
+      "duration": "9:21",
+      "start": null,
       "isrc": null,
-      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+      "notes": "Movement/number-level track of the named recording. Duration is that track’s length; start is an estimate (about ±15 s) of where the recognisable theme begins. If this exact recording is unavailable, another recording of the same movement works."
     },
     "confidence": "medium",
     "sources": [
       "https://en.wikipedia.org/wiki/Rosary_Sonatas"
     ],
-    "notes": "Recording attribution from memory (Manze/Egarr, also Holloway, Goebel, Biondi)."
+    "notes": null
   },
   {
     "id": "cls-buxtehude-membra-jesu-nostri",
@@ -634,8 +652,8 @@
       "performers": "Bach Collegium Japan",
       "conductor": "Masaaki Suzuki",
       "label": "BIS",
-      "year": null,
-      "why": "Refined, devotional period-instrument reading"
+      "year": 1998,
+      "why": "BIS-CD-871; year is the 1998 release year, no session date found."
     },
     "trivia": "A cycle of seven cantatas, each addressing a different part of the crucified Christ's body, from feet to face. Buxtehude presented the score to Swedish court musician Gustaf Düben in 1680.",
     "tags": [
@@ -643,20 +661,22 @@
       "choral",
       "sacred",
       "german",
-      "lutheran"
+      "lutheran",
+      "top400"
     ],
     "track": {
-      "query": "Buxtehude Membra Jesu nostri Suzuki Ad pedes",
-      "album": null,
-      "duration": "~4:00",
+      "query": "Buxtehude Membra Jesu nostri Ecce super montes Suzuki",
+      "album": "Membra Jesu Nostri",
+      "duration": "0:59",
+      "start": null,
       "isrc": null,
-      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+      "notes": "Movement/number-level track of the named recording. Duration is that track’s length; start is an estimate (about ±15 s) of where the recognisable theme begins. If this exact recording is unavailable, another recording of the same movement works."
     },
     "confidence": "high",
     "sources": [
       "https://en.wikipedia.org/wiki/Membra_Jesu_nostri"
     ],
-    "notes": "Recording attribution from memory."
+    "notes": null
   },
   {
     "id": "cls-biber-missa-salisburgensis",
@@ -675,11 +695,11 @@
     "premiere_or_publication": "Written for the 1100th anniversary of the Archbishopric of Salzburg, 1682",
     "dating_note": "Dated by its function: the 1682 celebration of the 1100th anniversary of the archbishopric of Salzburg.",
     "recording": {
-      "performers": "Gabrieli Consort & Players",
+      "performers": "Gabrieli Consort & Players; Musica Antiqua Köln",
       "conductor": "Paul McCreesh",
       "label": "Archiv Produktion",
-      "year": 1998,
-      "why": "Spectacular polychoral recording with groups placed around the space"
+      "year": 1997,
+      "why": "Archiv 457 611-2; recorded July 1997 (the base card's 1998 is the release year)."
     },
     "trivia": "Perhaps the largest surviving sacred Baroque piece, with choirs and instruments placed around Salzburg Cathedral. The manuscript was rediscovered in the 1870s at a greengrocer's house.",
     "tags": [
@@ -690,17 +710,18 @@
       "polychoral"
     ],
     "track": {
-      "query": "Biber Missa Salisburgensis 53 voices",
-      "album": null,
-      "duration": "~7:00",
+      "query": "Biber Missa Salisburgensis Kyrie McCreesh Gabrieli Consort",
+      "album": "Missa Salisburgensis",
+      "duration": "5:51",
+      "start": null,
       "isrc": null,
-      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+      "notes": "Movement/number-level track of the named recording. Duration is that track’s length; start is an estimate (about ±15 s) of where the recognisable theme begins. If this exact recording is unavailable, another recording of the same movement works."
     },
     "confidence": "medium",
     "sources": [
       "https://en.wikipedia.org/wiki/Missa_Salisburgensis"
     ],
-    "notes": "Included as a less-familiar spectacular. Recording attribution is a guess; verify."
+    "notes": "Included as a less-familiar spectacular."
   },
   {
     "id": "cls-corelli-christmas-concerto",
@@ -722,30 +743,30 @@
       "performers": "The English Concert",
       "conductor": "Trevor Pinnock",
       "label": "Archiv Produktion",
-      "year": null,
-      "why": "Brisk, elegant period-instrument Corelli"
+      "year": 1987,
+      "why": "Archiv 431 706-2; Op. 6 sessions March-April 1987, Henry Wood Hall (MusicWeb review)."
     },
     "trivia": "Marked 'made for the night of Christmas', it ends with a gentle shepherds' Pastorale. Corelli died in 1713, and the collection appeared a year later.",
     "tags": [
       "baroque",
       "concerto",
-      "baroque",
       "italian",
       "christmas"
     ],
     "track": {
-      "query": "Corelli Christmas Concerto Op. 6 No. 8 Pastorale Pinnock",
-      "album": null,
-      "duration": "~4:00",
+      "query": "Corelli Christmas Concerto Op. 6 No. 8 Pastorale Pinnock English Concert",
+      "album": "6 Concerti Grossi",
+      "duration": "4:11",
+      "start": null,
       "isrc": null,
-      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+      "notes": "Movement/number-level track of the named recording. Duration is that track’s length; start is an estimate (about ±15 s) of where the recognisable theme begins. If this exact recording is unavailable, another recording of the same movement works."
     },
     "confidence": "medium",
     "sources": [
       "https://en.wikipedia.org/wiki/Christmas_Concerto_(Corelli)",
       "https://en.wikipedia.org/wiki/Concerti_grossi,_Op._6_(Corelli)"
     ],
-    "notes": "Range reflects uncertainty; recording attribution from memory."
+    "notes": null
   },
   {
     "id": "cls-purcell-dido-and-aeneas",
@@ -758,7 +779,7 @@
     "accept_work": "Purcell's Dido and Aeneas ('When I am laid in earth')",
     "excerpt": "Dido's Lament 'When I am laid in earth'",
     "year": 1688,
-    "year_lo": 1683,
+    "year_lo": 1688,
     "year_hi": 1688,
     "year_label": "c. 1688",
     "premiere_or_publication": "Performed at Josias Priest's girls' school, Chelsea, by 1689",
@@ -768,28 +789,29 @@
       "conductor": "Anthony Lewis",
       "label": "L'Oiseau-Lyre",
       "year": 1961,
-      "why": "A landmark, deeply moving Dido that set the modern standard"
+      "why": "Original L'Oiseau-Lyre; MusicBrainz recording date October 1961, Walthamstow Assembly Hall (Decca reissue data)."
     },
     "trivia": "England's first great opera is barely an hour long and was written for a girls' school. Dido's final lament over a repeating ground bass is among the saddest melodies in Western music.",
     "tags": [
       "baroque",
       "opera",
-      "opera",
       "english",
-      "lament"
+      "lament",
+      "top400"
     ],
     "track": {
-      "query": "Purcell Dido and Aeneas When I am laid in earth Janet Baker Lewis",
-      "album": null,
-      "duration": "~4:00",
+      "query": "Purcell Dido and Aeneas When I am laid in earth Janet Baker Anthony Lewis",
+      "album": "Dido and Aeneas",
+      "duration": "6:27",
+      "start": null,
       "isrc": null,
-      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+      "notes": "Movement/number-level track of the named recording. Duration is that track’s length; start is an estimate (about ±15 s) of where the recognisable theme begins. If this exact recording is unavailable, another recording of the same movement works."
     },
     "confidence": "medium",
     "sources": [
       "https://en.wikipedia.org/wiki/Dido_and_Aeneas"
     ],
-    "notes": "Baker/Lewis year and label from memory; alternatives include Christie, Gardiner, Kirkby."
+    "notes": null
   },
   {
     "id": "cls-purcell-king-arthur",
@@ -811,29 +833,30 @@
       "performers": "Monteverdi Choir; English Baroque Soloists",
       "conductor": "John Eliot Gardiner",
       "label": "Erato",
-      "year": null,
-      "why": "Pioneering period-instrument King Arthur"
+      "year": 1983,
+      "why": "Erato; recorded January 1983, St Giles Cripplegate, London (MusicBrainz mirror listing)."
     },
     "trivia": "The 'Cold Song' depicts the Cold Genius shivering awake, with the voice stuttering over a descending bass. It was revived in the 1980s by Klaus Nomi's synth-pop version and in classical recordings ever since.",
     "tags": [
       "baroque",
       "opera",
-      "baroque",
       "english",
-      "semi-opera"
+      "semi-opera",
+      "top400"
     ],
     "track": {
-      "query": "Purcell King Arthur What power art thou Cold Song",
-      "album": null,
-      "duration": "~4:00",
+      "query": "Purcell King Arthur What power art thou Cold Genius Gardiner",
+      "album": "King Arthur",
+      "duration": "2:52",
+      "start": null,
       "isrc": null,
-      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+      "notes": "Movement/number-level track of the named recording. Duration is that track’s length; start is an estimate (about ±15 s) of where the recognisable theme begins. If this exact recording is unavailable, another recording of the same movement works."
     },
     "confidence": "high",
     "sources": [
       "https://en.wikipedia.org/wiki/King_Arthur_(opera)"
     ],
-    "notes": "Gardiner attribution from memory; Christie, Bicket and others also recorded it."
+    "notes": "Christie, Bicket and others also recorded it."
   },
   {
     "id": "cls-charpentier-te-deum-h146",
@@ -846,39 +869,85 @@
     "accept_work": "Charpentier's Te Deum (the Eurovision theme)",
     "excerpt": "Prelude (Marche en rondeau)",
     "year": 1692,
-    "year_lo": 1688,
-    "year_hi": 1698,
-    "year_label": "c. 1688–1698",
+    "year_lo": 1692,
+    "year_hi": 1692,
+    "year_label": "c. 1692",
     "premiere_or_publication": "Possibly performed for victory celebrations after the Battle of Steinkirk, 1692",
-    "dating_note": "Written probably between 1688 and 1698; thought to have been performed to mark victory celebrations after Steinkirk in August 1692.",
+    "dating_note": "Sources give 1688–1698 for the composition; it is dated c. 1692 because it is thought to have been performed to mark victory celebrations after Steinkirk in August 1692.",
     "recording": {
       "performers": "Les Arts Florissants",
       "conductor": "William Christie",
-      "label": "Erato",
-      "year": null,
-      "why": "The reference recording of the Te Deum for many years"
+      "label": "harmonia mundi",
+      "year": 1988,
+      "why": "harmonia mundi HMC 901298, not Erato as in the base card; MusicBrainz recording date October 1988, released 1989."
     },
     "trivia": "The trumpet-and-timpani prelude is the signature fanfare of the Eurovision Song Contest. Charpentier wrote it while directing music at the Jesuit church of Saint-Louis in Paris, and most people who know the opening have never heard the rest of the Te Deum.",
     "tags": [
       "baroque",
       "choral",
-      "baroque",
       "french",
       "fanfare",
       "tv-theme"
     ],
     "track": {
-      "query": "Charpentier Te Deum H.146 Prelude Marche en rondeau Christie",
-      "album": null,
-      "duration": "~2:00",
+      "query": "Charpentier Te Deum H 146 Prélude Marche en rondeau Christie",
+      "album": "Te Deum",
+      "duration": "1:53",
+      "start": null,
       "isrc": null,
-      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+      "notes": "Movement/number-level track of the named recording. Duration is that track’s length; start is an estimate (about ±15 s) of where the recognisable theme begins. If this exact recording is unavailable, another recording of the same movement works."
     },
     "confidence": "medium",
     "sources": [
       "https://en.wikipedia.org/wiki/Te_Deum_(Charpentier)"
     ],
-    "notes": "Range per Wikipedia; 1692 is the Steinkirk-performance estimate. Recording attribution from memory."
+    "notes": "Range per Wikipedia; 1692 is the Steinkirk-performance estimate."
+  },
+  {
+    "id": "cls-purcell-the-fairy-queen",
+    "composer": "Henry Purcell",
+    "composer_short": "Purcell",
+    "work": "The Fairy-Queen, Z. 629",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "opera",
+    "accept_work": "Purcell’s The Fairy-Queen",
+    "excerpt": "“The Plaint” (‘O let me weep’)",
+    "year": 1692,
+    "year_lo": 1692,
+    "year_hi": 1693,
+    "year_label": "1692 (revised 1693)",
+    "premiere_or_publication": "First performed on 2 May 1692 at the Queen’s Theatre, Dorset Garden, London, by the United Company; revived in 1693 with new numbers.",
+    "dating_note": "The semi-opera was composed and first performed in 1692. The aria chosen here, “The Plaint”, was one of the numbers added for the 1693 revival, so the excerpt itself dates from 1693.",
+    "recording": {
+      "performers": "Monteverdi Choir; English Baroque Soloists",
+      "conductor": "John Eliot Gardiner",
+      "label": "Archiv Produktion",
+      "year": 1981,
+      "why": "John Eliot Gardiner’s period-instrument recording of the complete semi-opera with the Monteverdi Choir and English Baroque Soloists, made for Archiv in June 1981; the two-CD set 419 221-2 followed in 1987."
+    },
+    "trivia": "Purcell wrote it three years before his death, as an adaptation of Shakespeare’s A Midsummer Night’s Dream. The score was lost after he died and was only rediscovered early in the 20th century, and “The Plaint” has become one of his most popular recital pieces.",
+    "tags": [
+      "baroque",
+      "opera",
+      "semi-opera",
+      "english",
+      "date-trap",
+      "top400"
+    ],
+    "track": {
+      "query": "Purcell The Fairy Queen The Plaint O let me weep John Eliot Gardiner Monteverdi Choir English Baroque Soloists Archiv",
+      "album": "The Fairy Queen",
+      "duration": "7:42",
+      "start": null,
+      "isrc": null,
+      "notes": "Track containing The Plaint (Act IV), “O let me weep”, the number added for the 1693 revival."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Fairy-Queen"
+    ],
+    "notes": "DATE TRAP: the work is 1692 but this aria was added in 1693, hence the two-year range. On all four Dutch lists (best rank 163)."
   },
   {
     "id": "cls-pachelbel-canon-in-d",
@@ -890,83 +959,40 @@
     "form": "chamber",
     "accept_work": "Pachelbel's Canon in D",
     "excerpt": "Canon",
-    "year": 1693,
+    "year": 1694,
     "year_lo": 1680,
     "year_hi": 1706,
     "year_label": "c. 1680–1706",
     "premiere_or_publication": "Oldest surviving copy dates from 1838–1842; popularised by a 1968 recording",
-    "dating_note": "Neither date nor circumstances are known; suggested dates range from 1680 to 1706. A 1694 wedding link would favour the mid-1690s.",
+    "dating_note": "Neither date nor circumstances are known; suggested dates range from 1680 to 1706. A possible link to a 1694 wedding in the Bach family favours the mid-1690s, so 1694 is used as the card year.",
     "recording": {
-      "performers": "Jean-François Paillard Chamber Orchestra",
-      "conductor": "Jean-François Paillard",
-      "label": "Erato",
-      "year": 1968,
-      "why": "The recording that made the Canon a worldwide hit in the 1970s"
+      "performers": "The English Concert",
+      "conductor": "Trevor Pinnock",
+      "label": "Archiv Produktion",
+      "year": 1985,
+      "why": "MusicBrainz recording date January 1985, Abbey Road Studios; the Paillard 1968 pick could not be verified."
     },
     "trivia": "Three violins play the same melody a few beats apart over a repeating eight-note bass, and the chord pattern appears in countless pop songs. Pachelbel's piece was almost unknown before a 1968 recording by Paillard's orchestra.",
     "tags": [
       "baroque",
       "chamber",
-      "baroque",
       "wedding",
-      "ground-bass"
+      "ground-bass",
+      "top400"
     ],
     "track": {
-      "query": "Pachelbel Canon in D Paillard",
-      "album": null,
-      "duration": "~5:00",
+      "query": "Pachelbel Canon in D major P. 37 Pinnock English Concert",
+      "album": "Pachelbel: Canon & Gigue / Handel: The Arrival of the Queen of Sheba",
+      "duration": "4:32",
+      "start": null,
       "isrc": null,
-      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+      "notes": "Movement/number-level track of the named recording. Duration is that track’s length; start is an estimate (about ±15 s) of where the recognisable theme begins. If this exact recording is unavailable, another recording of the same movement works."
     },
     "confidence": "low",
     "sources": [
       "https://en.wikipedia.org/wiki/Pachelbel's_Canon"
     ],
-    "notes": "Date truly uncertain; midpoint 1693. Paillard recording year confirmed on Wikipedia (1968); label from memory."
-  },
-  {
-    "id": "cls-purcell-abdelazer",
-    "composer": "Henry Purcell",
-    "composer_short": "Purcell",
-    "work": "Abdelazer, or The Moor's Revenge, Z. 570 (incidental music)",
-    "nickname": "Rondeau (Abdelazer)",
-    "catalogue_only": false,
-    "form": "orchestral",
-    "accept_work": "Purcell's Abdelazer Rondeau (theme of Britten's Young Person's Guide)",
-    "excerpt": "Rondeau",
-    "year": 1695,
-    "year_lo": 1695,
-    "year_hi": 1695,
-    "year_label": "1695",
-    "premiere_or_publication": "Written for a revival of Aphra Behn's play, summer 1695",
-    "dating_note": "Incidental music written for a revival of Aphra Behn's 1676 play in the summer of 1695.",
-    "recording": {
-      "performers": "Academy of Ancient Music; or Philharmonia/Sir Colin Davis",
-      "conductor": null,
-      "label": null,
-      "year": null,
-      "why": "Bright orchestral Rondeau"
-    },
-    "trivia": "Benjamin Britten used this Rondeau as the theme for The Young Person's Guide to the Orchestra in 1945. Purcell wrote it for a revival of a revenge tragedy by Aphra Behn.",
-    "tags": [
-      "baroque",
-      "orchestral",
-      "baroque",
-      "english",
-      "theme"
-    ],
-    "track": {
-      "query": "Purcell Abdelazer Rondeau",
-      "album": null,
-      "duration": "~1:30",
-      "isrc": null,
-      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
-    },
-    "confidence": "high",
-    "sources": [
-      "https://en.wikipedia.org/wiki/Abdelazer"
-    ],
-    "notes": "Recording unspecified; resolver should pick any Abdelazer Rondeau."
+    "notes": "WIDE RANGE (26 years): no source narrows the date of this canon. The card year 1694 follows the wedding hypothesis."
   },
   {
     "id": "cls-purcell-funeral-music-for-queen-mary",
@@ -985,32 +1011,33 @@
     "premiere_or_publication": "Performed at Queen Mary II's funeral, Westminster Abbey, March 1695",
     "dating_note": "Written for the funeral of Queen Mary II, who died 28 December 1694; the funeral was in March 1695.",
     "recording": {
-      "performers": "Philip Jones Brass Ensemble / or Gabrieli Consort",
-      "conductor": null,
-      "label": null,
-      "year": null,
-      "why": "Slow, dark brass march with muffled drums"
+      "performers": "Monteverdi Orchestra; Equale Brass Ensemble",
+      "conductor": "John Eliot Gardiner",
+      "label": "Erato",
+      "year": 1976,
+      "why": "Erato; MusicBrainz recording date February 1976, Rosslyn Hill Chapel, London; CD issue Erato 4509-96553-2."
     },
     "trivia": "The solemn March uses flatt trumpets, which could play minor-key notes that ordinary trumpets could not. Purcell died later in 1695, and the music was reused at his own funeral.",
     "tags": [
       "baroque",
       "other",
-      "baroque",
       "english",
       "funeral",
-      "brass"
+      "brass",
+      "top400"
     ],
     "track": {
-      "query": "Purcell Music for the Funeral of Queen Mary March",
-      "album": null,
-      "duration": "~2:00",
+      "query": "Purcell Funeral Music for Queen Mary March Gardiner Equale Brass",
+      "album": "Music for Queen Mary",
+      "duration": "2:17",
+      "start": null,
       "isrc": null,
-      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+      "notes": "Movement/number-level track of the named recording. Duration is that track’s length; start is an estimate (about ±15 s) of where the recognisable theme begins. If this exact recording is unavailable, another recording of the same movement works."
     },
     "confidence": "high",
     "sources": [
       "https://en.wikipedia.org/wiki/Music_for_the_Funeral_of_Queen_Mary"
     ],
-    "notes": "Recording unspecified; funeral date from memory."
+    "notes": null
   }
 ]

@@ -16,74 +16,33 @@
     "premiere_or_publication": "Premiered in Vienna, 5 October 1762 (revised for Paris in 1774)",
     "dating_note": "Dated by the original 1762 Vienna version; the 1774 Paris version is a revision.",
     "recording": {
-      "performers": "Any well-reviewed recording",
-      "conductor": null,
-      "label": null,
-      "year": null,
-      "why": "No single reference named; choose a recording of the 1762 Italian version if possible (Orfeo sung by mezzo, contralto or countertenor)."
+      "performers": "Derek Lee Ragin (countertenor); Monteverdi Choir; English Baroque Soloists",
+      "conductor": "John Eliot Gardiner",
+      "label": "Philips",
+      "year": 1991,
+      "why": "MusicBrainz recording date May 1991, Henry Wood Hall, London; Philips."
     },
     "trivia": "Gluck and his librettist Calzabigi stripped away vocal showing-off in favour of plain, dramatic lines, so this opera became the banner of 'reform opera'. The first Orfeo was the castrato Gaetano Guadagni.",
     "tags": [
       "classical-era",
       "opera",
       "opera-seria",
-      "reform-opera"
+      "reform-opera",
+      "top400"
     ],
     "track": {
-      "query": "Gluck Orfeo ed Euridice Che farò senza Euridice",
-      "album": null,
-      "duration": "~4:00",
+      "query": "Gluck Orfeo ed Euridice Che farò senza Euridice Derek Lee Ragin Gardiner",
+      "album": "Orfeo ed Euridice",
+      "duration": "3:54",
+      "start": null,
       "isrc": null,
-      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+      "notes": "Movement/number-level track of the named recording. Duration is that track’s length; start is an estimate (about ±15 s) of where the recognisable theme begins. If this exact recording is unavailable, another recording of the same movement works."
     },
     "confidence": "high",
     "sources": [
       "https://en.wikipedia.org/wiki/Orfeo_ed_Euridice"
     ],
-    "notes": "Excerpt chosen from the 1762 score. Singer/recording not named: from memory I could not pin one down reliably. Guadagni detail from memory."
-  },
-  {
-    "id": "cls-haydn-cello-concerto-1",
-    "composer": "Joseph Haydn",
-    "composer_short": "Haydn",
-    "work": "Cello Concerto No. 1 in C major, Hob. VIIb:1",
-    "nickname": null,
-    "catalogue_only": true,
-    "form": "concerto",
-    "accept_work": "Haydn's Cello Concerto No. 1 in C",
-    "excerpt": "I. Moderato",
-    "year": 1763,
-    "year_lo": 1761,
-    "year_hi": 1765,
-    "year_label": "c. 1761–1765",
-    "premiere_or_publication": "Rediscovered in Prague in 1961; first modern performance 19 May 1962 (Miloš Sádlo, cond. Charles Mackerras)",
-    "dating_note": "Composed around 1761–65 for Joseph Franz Weigl. Rediscovery in 1961 does not change the composition date.",
-    "recording": {
-      "performers": "Jacqueline du Pré (cello); London Symphony Orchestra",
-      "conductor": "Sir John Barbirolli",
-      "label": "EMI",
-      "year": null,
-      "why": "Du Pré's Haydn C major is a celebrated account; exact year not checked"
-    },
-    "trivia": "The score was presumed lost until 1961, and it has become a pillar of the cello repertoire. Haydn wrote it for the principal cellist of Prince Esterházy's orchestra, his friend Joseph Franz Weigl.",
-    "tags": [
-      "classical-era",
-      "concerto",
-      "cello",
-      "rediscovered"
-    ],
-    "track": {
-      "query": "Haydn Cello Concerto No. 1 C major Moderato du Pre",
-      "album": null,
-      "duration": "~7:00",
-      "isrc": null,
-      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
-    },
-    "confidence": "high",
-    "sources": [
-      "https://en.wikipedia.org/wiki/Cello_Concerto_No._1_(Haydn)"
-    ],
-    "notes": "Rediscovered-work rule: dated by composition. Du Pré recording from memory; verify before relying on it. This is the fifth Haydn card, slightly over the soft 1-4 cap."
+    "notes": "Excerpt chosen from the 1762 score."
   },
   {
     "id": "cls-angerer-toy-symphony",
@@ -96,17 +55,17 @@
     "accept_work": "the Toy Symphony (formerly credited to Haydn, then to Leopold Mozart)",
     "excerpt": "I. Allegro (with cuckoo, quail and nightingale calls)",
     "year": 1765,
-    "year_lo": 1760,
-    "year_hi": 1770,
+    "year_lo": 1765,
+    "year_hi": 1765,
     "year_label": "c. 1765",
     "premiere_or_publication": "Angerer's manuscript 'Berchtolds-Gaden Musick' dated 1765; long published under Haydn's or Leopold Mozart's name",
     "dating_note": "Dated to the 1760s; the earliest known source is a 1765 manuscript by the monk Edmund Angerer. His authorship is a 1996 suggestion, not a settled fact.",
     "recording": {
-      "performers": "Any well-reviewed recording",
-      "conductor": null,
-      "label": null,
-      "year": null,
-      "why": "No single reference named; any lively performance with the toy parts (cuckoo, quail, nightingale, rattle, drum) audible."
+      "performers": "Academy of St Martin in the Fields",
+      "conductor": "Neville Marriner",
+      "label": "Philips",
+      "year": 1985,
+      "why": "Philips 416 386-2 (Cassation in G with the Toy Symphony, then credited to Leopold Mozart); recorded November 1985."
     },
     "trivia": "For generations it was printed as Haydn's. In 1953 a toy-instrument cassation by Leopold Mozart sharing movements with it was found, and in 1996 the Benedictine monk Edmund Angerer, whose 1765 manuscript predates them, was proposed as the real composer.",
     "tags": [
@@ -116,17 +75,18 @@
       "toy-instruments"
     ],
     "track": {
-      "query": "Toy Symphony Angerer Haydn Leopold Mozart cuckoo",
-      "album": null,
-      "duration": "~2:30",
+      "query": "Toy Symphony Allegro cuckoo quail nightingale Leopold Mozart Cassation Marriner",
+      "album": "Eine kleine Nachtmusik / Canon / Toy Symphony",
+      "duration": "4:28",
+      "start": null,
       "isrc": null,
-      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+      "notes": "Movement/number-level track of the named recording. Duration is that track’s length; start is an estimate (about ±15 s) of where the recognisable theme begins. If this exact recording is unavailable, another recording of the same movement works."
     },
     "confidence": "medium",
     "sources": [
       "https://en.wikipedia.org/wiki/Toy_Symphony"
     ],
-    "notes": "MISATTRIBUTION: carded under the currently proposed true composer (Angerer), but authorship is still only 'suggested'. The user may prefer 'attributed to Angerer' or to keep Leopold Mozart. Date range from Wikipedia (1760s) plus the 1765 manuscript."
+    "notes": "MISATTRIBUTION: carded under the currently proposed true composer (Angerer), but authorship is still only 'suggested'. Date range from Wikipedia (1760s) plus the 1765 manuscript."
   },
   {
     "id": "cls-c-p-e-bach-solfeggietto",
@@ -145,11 +105,11 @@
     "premiere_or_publication": "Published in 1770 (the edition marks it prestissimo)",
     "dating_note": "Composed 1766 according to Wikipedia; the work's correct title is simply 'Solfeggio'.",
     "recording": {
-      "performers": "Any well-reviewed recording",
+      "performers": "See Siang Wong (piano)",
       "conductor": null,
-      "label": null,
-      "year": null,
-      "why": "No single reference named; piano or harpsichord/clavichord are all fine."
+      "label": "Deutsche Harmonia Mundi",
+      "year": 2014,
+      "why": "Year is the album release year; no session date found. Weakly sourced pick."
     },
     "trivia": "A staple of piano lessons, it is one unbroken stream of running notes. Its proper title is just 'Solfeggio'; 'Solfeggietto' ('little solfège') is the affectionate name it picked up.",
     "tags": [
@@ -159,11 +119,12 @@
       "empfindsamer-stil"
     ],
     "track": {
-      "query": "C.P.E. Bach Solfeggietto C minor piano",
-      "album": null,
-      "duration": "~1:15",
+      "query": "C.P.E. Bach Solfeggietto Solfeggio in C minor H 220 See Siang Wong piano",
+      "album": "The Bach Sons: Piano Concertos & Solo Pieces",
+      "duration": "1:02",
+      "start": null,
       "isrc": null,
-      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+      "notes": "Movement/number-level track of the named recording. Duration is that track’s length; start is an estimate (about ±15 s) of where the recognisable theme begins. If this exact recording is unavailable, another recording of the same movement works."
     },
     "confidence": "high",
     "sources": [
@@ -183,16 +144,16 @@
     "excerpt": "The opening tune, 'Let tyrants shake their iron rod'",
     "year": 1770,
     "year_lo": 1770,
-    "year_hi": 1778,
+    "year_hi": 1770,
     "year_label": "1770 (revised 1778)",
     "premiere_or_publication": "The New-England Psalm-Singer, Boston, 1770; revised version in The Singing Master's Assistant, 1778",
-    "dating_note": "First printed in 1770; the revised 1778 setting with Revolutionary War verses is the one best known today, so the range spans both.",
+    "dating_note": "First printed in 1770; the revised 1778 setting with Revolutionary War verses is the one best known today.",
     "recording": {
-      "performers": "Any well-reviewed recording",
-      "conductor": null,
-      "label": null,
-      "year": null,
-      "why": "Choose a choral version of Billings's own four-part setting, not an orchestral arrangement."
+      "performers": "His Majestie's Clerkes",
+      "conductor": "Paul Hillier",
+      "label": "Harmonia Mundi USA",
+      "year": 1994,
+      "why": "Recorded 29 April-1 May 1994, Seabury-Western Seminary Chapel, Evanston (library catalogue); issued 2002."
     },
     "trivia": "Billings was a self-taught Boston tanner turned composer who wrote both the tune and the defiant words. It gained a reputation as a rallying song of the American Revolution, and William Schuman later built an orchestral piece on it.",
     "tags": [
@@ -203,18 +164,19 @@
       "patriotic"
     ],
     "track": {
-      "query": "William Billings Chester choir",
-      "album": null,
-      "duration": "~2:00",
+      "query": "Billings Chester Let tyrants shake their iron rod His Majestie's Clerkes Hillier",
+      "album": "Early American Choral Music, Volume 2: Anglo-American Psalmody 1550-1800",
+      "duration": "2:19",
+      "start": null,
       "isrc": null,
-      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+      "notes": "Movement/number-level track of the named recording. Duration is that track’s length; start is an estimate (about ±15 s) of where the recognisable theme begins. If this exact recording is unavailable, another recording of the same movement works."
     },
     "confidence": "medium",
     "sources": [
       "https://en.wikipedia.org/wiki/Chester_(song)",
       "https://en.wikipedia.org/wiki/William_Billings"
     ],
-    "notes": "Date straddles the 1770 first printing and the 1778 revision. Make sure the track is Billings's choral version, not Schuman's 1956 orchestral 'Chester'. Recording not named."
+    "notes": "Date straddles the 1770 first printing and the 1778 revision. Make sure the track is Billings's choral version, not Schuman's 1956 orchestral 'Chester'."
   },
   {
     "id": "cls-hoffstetter-serenade-string-quartet-op-3-5",
@@ -228,16 +190,16 @@
     "excerpt": "II. Andante cantabile (the Serenade)",
     "year": 1770,
     "year_lo": 1765,
-    "year_hi": 1777,
-    "year_label": "c. 1765–1777",
+    "year_hi": 1772,
+    "year_label": "c. 1765–1772",
     "premiere_or_publication": "First published in Paris by Bailleux in 1777, under Haydn's name",
-    "dating_note": "Undated. It must be earlier than the 1777 Paris print (IMSLP suggests 1772 or before) and some catalogues give the mid-1760s, so a wide range is used.",
+    "dating_note": "Undated. IMSLP suggests 1772 or before (the Paris print by Bailleux is 1777), and some catalogues give the mid-1760s.",
     "recording": {
       "performers": "Kodály Quartet",
       "conductor": null,
       "label": "Naxos",
-      "year": null,
-      "why": "Naxos issued this Op. 3 set under Haydn's name (catalogue 8.555704); label and year not independently checked"
+      "year": 2000,
+      "why": "Naxos 8.555704; MusicBrainz recording date 26 June 2000, Phoenix Studios, Budapest."
     },
     "trivia": "It was sold as Haydn's for almost two centuries, until Alan Tyson and H. C. Robbins Landon argued in 1964 that the Paris publisher had put Haydn's name on quartets by Roman Hoffstetter. The slow movement, with a singing first violin over plucked accompaniment, became a hit on its own.",
     "tags": [
@@ -247,11 +209,12 @@
       "serenade"
     ],
     "track": {
-      "query": "Hoffstetter Serenade String Quartet Op. 3 No. 5 Andante cantabile",
-      "album": null,
-      "duration": "~3:30",
+      "query": "Hoffstetter Serenade String Quartet Op. 3 No. 5 Andante cantabile Kodály Quartet",
+      "album": "String Quartets Op. 3, Nos. 3 - 6",
+      "duration": "5:03",
+      "start": null,
       "isrc": null,
-      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+      "notes": "Movement/number-level track of the named recording. Duration is that track’s length; start is an estimate (about ±15 s) of where the recognisable theme begins. If this exact recording is unavailable, another recording of the same movement works."
     },
     "confidence": "low",
     "sources": [
@@ -259,7 +222,7 @@
       "https://en.wikipedia.org/wiki/Roman_Hoffstetter",
       "https://imslp.org/wiki/String_Quartets,_Op.3_(Hoffstetter,_Roman)"
     ],
-    "notes": "MISATTRIBUTION carded under Hoffstetter (his authorship is the majority view, not universal). Date genuinely uncertain, hence confidence low and a 12-year range. Could be replaced if you dislike unsettled dating."
+    "notes": "MISATTRIBUTION: carded under Hoffstetter (his authorship is the majority view, not universal). Date genuinely uncertain, hence low confidence and a seven-year range."
   },
   {
     "id": "cls-boccherini-string-quintet-op-11-5-minuet",
@@ -278,11 +241,11 @@
     "premiere_or_publication": "Published in 1775",
     "dating_note": "Written in 1771, published 1775 (Wikipedia).",
     "recording": {
-      "performers": "Any well-reviewed recording",
-      "conductor": null,
-      "label": null,
-      "year": null,
-      "why": "Original is for string quintet with two cellos; many orchestral and chamber-orchestra arrangements exist. Any of these is fine."
+      "performers": "Europa Galante",
+      "conductor": "Fabio Biondi",
+      "label": "Virgin Veritas",
+      "year": 2001,
+      "why": "Virgin Veritas 7243 5 45421 2 1, released March 2001; MusicBrainz has no session date, so the year is the release year."
     },
     "trivia": "This minuet is probably the one Boccherini tune most people know, usually heard on its own, detached from its quintet. Boccherini was a cellist and wrote his quintets with two cellos, where Mozart's use two violas.",
     "tags": [
@@ -293,17 +256,18 @@
       "spain"
     ],
     "track": {
-      "query": "Boccherini String Quintet E major Op. 11 No. 5 Minuet",
-      "album": null,
-      "duration": "~3:30",
+      "query": "Boccherini String Quintet E major Op. 11 No. 5 Minuetto Fabio Biondi Europa Galante",
+      "album": "String Quintets / Minuet in A",
+      "duration": "3:40",
+      "start": null,
       "isrc": null,
-      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+      "notes": "Movement/number-level track of the named recording. Duration is that track’s length; start is an estimate (about ±15 s) of where the recognisable theme begins. If this exact recording is unavailable, another recording of the same movement works."
     },
     "confidence": "high",
     "sources": [
       "https://en.wikipedia.org/wiki/String_Quintet_in_E_major,_Op._11,_No._5_(Boccherini)"
     ],
-    "notes": "catalogue_only set true: the work is known only by genre/number/key (the 'Boccherini Minuet' is a movement label). Recording not named."
+    "notes": "Known by genre, number and key only; the ‘Boccherini Minuet’ is a movement label, not a title."
   },
   {
     "id": "cls-boccherini-musica-notturna-delle-strade-di-madrid",
@@ -316,17 +280,17 @@
     "accept_work": "Boccherini's Night Music of the Streets of Madrid (Musica notturna delle strade di Madrid)",
     "excerpt": "IV. Ritirata di Madrid",
     "year": 1780,
-    "year_lo": 1779,
-    "year_hi": 1781,
+    "year_lo": 1780,
+    "year_hi": 1780,
     "year_label": "c. 1780",
     "premiere_or_publication": "Written while Boccherini served the Spanish Infante Luis Antonio",
-    "dating_note": "Dated 'ca. 1780' on Wikipedia; a narrow range is used around that.",
+    "dating_note": "Dated ‘ca. 1780’ on Wikipedia.",
     "recording": {
-      "performers": "Any well-reviewed recording",
-      "conductor": null,
-      "label": null,
-      "year": null,
-      "why": "Best in a chamber ensemble that can play the 'retreat' movement from a whisper to a roar and back."
+      "performers": "Ophélie Gaillard (cello); Pulcinella Orchestra",
+      "conductor": "Ophélie Gaillard",
+      "label": "Aparté",
+      "year": 2019,
+      "why": "Year is the album release year; no session date found. Weakly sourced pick."
     },
     "trivia": "A walk through Madrid after dark: evening church bells, popular dances, blind street singers and finally the soldiers' night retreat, which approaches from afar, swells and fades. Luciano Berio reworked that last movement in 1975.",
     "tags": [
@@ -337,17 +301,18 @@
       "spain"
     ],
     "track": {
-      "query": "Boccherini Musica notturna delle strade di Madrid Ritirata",
-      "album": null,
-      "duration": "~4:00",
+      "query": "Boccherini Musica notturna delle strade di Madrid Ritirata Ophélie Gaillard",
+      "album": "Boccherini",
+      "duration": "2:22",
+      "start": null,
       "isrc": null,
-      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+      "notes": "Movement/number-level track of the named recording. Duration is that track’s length; start is an estimate (about ±15 s) of where the recognisable theme begins. If this exact recording is unavailable, another recording of the same movement works."
     },
     "confidence": "high",
     "sources": [
       "https://en.wikipedia.org/wiki/Musica_notturna_delle_strade_di_Madrid"
     ],
-    "notes": "Less-familiar pick. Date is 'ca. 1780' on Wikipedia. Recording not named."
+    "notes": "Date is 'ca. 1780' on Wikipedia."
   },
   {
     "id": "cls-mozart-piano-sonata-11-rondo-alla-turca",
@@ -360,31 +325,33 @@
     "accept_work": "Mozart's Rondo alla turca (Piano Sonata No. 11, K. 331)",
     "excerpt": "III. Rondo alla turca (Allegretto)",
     "year": 1783,
-    "year_lo": 1781,
+    "year_lo": 1783,
     "year_hi": 1783,
     "year_label": "c. 1783",
     "premiere_or_publication": "Published by Artaria, Vienna, 1784, with K. 330 and K. 332",
-    "dating_note": "Usually dated 1783 (Vienna or Salzburg); the old number K. 300i reflected a belief in 1778 Paris, which later research moved. Henle argues for as early as 1781, hence the range.",
+    "dating_note": "Usually dated 1783 (Vienna or Salzburg); the old number K. 300i reflected a belief in 1778 Paris, which later research moved. Henle argues for as early as 1781.",
     "recording": {
       "performers": "Mitsuko Uchida (piano)",
       "conductor": null,
       "label": "Philips",
-      "year": null,
-      "why": "Her complete Mozart sonatas are a modern benchmark; exact year not checked"
+      "year": 1983,
+      "why": "Philips 412 123-2; MusicBrainz recording date October 1983, Henry Wood Hall, London."
     },
     "trivia": "The 'Turkish' finale imitates Janissary military bands, with pounding left-hand chords like drums. The sonata is unusual in having no sonata-form fast movement: it opens with a theme and variations.",
     "tags": [
       "classical-era",
       "solo-piano",
       "turkish-style",
-      "piano-sonata"
+      "piano-sonata",
+      "top400"
     ],
     "track": {
-      "query": "Mozart Piano Sonata 11 Rondo alla turca Uchida",
-      "album": null,
-      "duration": "~3:30",
+      "query": "Mozart Piano Sonata No. 11 K. 331 Rondo alla turca Mitsuko Uchida",
+      "album": "2 Sonatas",
+      "duration": "3:28",
+      "start": null,
       "isrc": null,
-      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+      "notes": "Movement/number-level track of the named recording. Duration is that track’s length; start is an estimate (about ±15 s) of where the recognisable theme begins. If this exact recording is unavailable, another recording of the same movement works."
     },
     "confidence": "medium",
     "sources": [
@@ -411,31 +378,33 @@
     "premiere_or_publication": "Completed 9 March 1785; first performed in Vienna that spring",
     "dating_note": "Completed 9 March 1785, as entered in Mozart's own catalogue.",
     "recording": {
-      "performers": "Géza Anda (piano and direction)",
+      "performers": "Géza Anda (piano); Camerata Academica des Mozarteums Salzburg",
       "conductor": "Géza Anda",
       "label": "Deutsche Grammophon",
-      "year": null,
-      "why": "Anda's recordings with the Camerata Academica of the Salzburg Mozarteum are a long-standing reference; exact year not checked"
+      "year": 1961,
+      "why": "MusicBrainz recording date May 1961, Großes Festspielhaus, Salzburg; DG issue."
     },
     "trivia": "The slow movement became a pop-classical hit after the 1967 Swedish film Elvira Madigan used it, which is where the nickname comes from. Mozart finished the concerto only four weeks after the D minor concerto, K. 466.",
     "tags": [
       "classical-era",
       "concerto",
       "piano-concerto",
-      "film-fame"
+      "film-fame",
+      "top400"
     ],
     "track": {
-      "query": "Mozart Piano Concerto No. 21 Andante Anda Camerata Salzburg",
-      "album": null,
-      "duration": "~7:00",
+      "query": "Mozart Piano Concerto No. 21 K. 467 Andante Géza Anda Camerata Salzburg",
+      "album": "Klavierkonzerte",
+      "duration": "7:11",
+      "start": null,
       "isrc": null,
-      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+      "notes": "Movement/number-level track of the named recording. Duration is that track’s length; start is an estimate (about ±15 s) of where the recognisable theme begins. If this exact recording is unavailable, another recording of the same movement works."
     },
     "confidence": "high",
     "sources": [
       "https://en.wikipedia.org/wiki/Piano_Concerto_No._21_(Mozart)"
     ],
-    "notes": "Nickname comes from a film, not Mozart. The 1967 film and the four-weeks-after-K.466 fact are from memory/Wikipedia."
+    "notes": "Nickname comes from a film, not Mozart."
   },
   {
     "id": "cls-mozart-le-nozze-di-figaro",
@@ -448,37 +417,84 @@
     "accept_work": "Mozart's The Marriage of Figaro (Le nozze di Figaro)",
     "excerpt": "Overture",
     "year": 1786,
-    "year_lo": 1785,
+    "year_lo": 1786,
     "year_hi": 1786,
-    "year_label": "1785–1786",
+    "year_label": "1786",
     "premiere_or_publication": "Premiered at the Burgtheater, Vienna, 1 May 1786",
-    "dating_note": "Wikipedia says 'composed in 1786'; Mozart and Da Ponte began work in late 1785, so the range starts there.",
+    "dating_note": "Wikipedia says ‘composed in 1786’; Mozart and Da Ponte began work in late 1785.",
     "recording": {
-      "performers": "Vienna Philharmonic",
+      "performers": "Wiener Philharmoniker",
       "conductor": "Erich Kleiber",
       "label": "Decca",
       "year": 1955,
-      "why": "A landmark studio recording of the whole opera, with a classic cast"
+      "why": "MusicBrainz recording date June 1955, Redoutensaal, Vienna."
     },
     "trivia": "Beaumarchais's play was banned in Vienna as subversive, so Da Ponte toned down its politics and won the emperor's permission. The overture never quotes a note from the opera itself.",
     "tags": [
       "classical-era",
       "opera",
       "opera-buffa",
-      "overture"
+      "overture",
+      "top400"
     ],
     "track": {
-      "query": "Mozart Le nozze di Figaro Overture Kleiber Vienna Philharmonic",
-      "album": null,
-      "duration": "~4:00",
+      "query": "Mozart Le nozze di Figaro Overture Wiener Philharmoniker Erich Kleiber",
+      "album": "Le nozze di Figaro",
+      "duration": "4:05",
+      "start": null,
       "isrc": null,
-      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+      "notes": "Movement/number-level track of the named recording. Duration is that track’s length; start is an estimate (about ±15 s) of where the recognisable theme begins. If this exact recording is unavailable, another recording of the same movement works."
     },
     "confidence": "high",
     "sources": [
       "https://en.wikipedia.org/wiki/The_Marriage_of_Figaro"
     ],
-    "notes": "Kleiber 1955 detail from memory. Start of composition (late 1785) from memory; Wikipedia states 1786 only."
+    "notes": "Wikipedia states 1786 only."
+  },
+  {
+    "id": "cls-mozart-don-giovanni",
+    "composer": "Wolfgang Amadeus Mozart",
+    "composer_short": "Mozart",
+    "work": "Don Giovanni, K. 527",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "opera",
+    "accept_work": "Mozart’s Don Giovanni",
+    "excerpt": "Overture",
+    "year": 1787,
+    "year_lo": 1787,
+    "year_hi": 1787,
+    "year_label": "1787",
+    "premiere_or_publication": "First performed on 29 October 1787 at the Estates Theatre in Prague; Mozart supervised the Vienna premiere on 7 May 1788.",
+    "dating_note": "Composed for Prague in 1787 and premiered there on 29 October 1787. The Vienna version of May 1788 added and replaced some numbers, so 1788 is a plausible wrong answer.",
+    "recording": {
+      "performers": "Philharmonia Orchestra and Chorus",
+      "conductor": "Carlo Maria Giulini",
+      "label": "EMI Columbia",
+      "year": 1959,
+      "why": "Carlo Maria Giulini’s EMI recording of the complete opera with the Philharmonia, made in 1959 with a cast headed by Eberhard Wächter and Joan Sutherland."
+    },
+    "trivia": "The opera was meant to open on 14 October 1787 for the visit of Archduchess Maria Theresa, but it was not ready and Le nozze di Figaro was given instead. Mozart entered its completion in his catalogue on 28 October, the night before the premiere.",
+    "tags": [
+      "classical-era",
+      "opera",
+      "opera-buffa",
+      "da-ponte",
+      "top400"
+    ],
+    "track": {
+      "query": "Mozart Don Giovanni Overture Carlo Maria Giulini Philharmonia Orchestra EMI 1959",
+      "album": "Don Giovanni",
+      "duration": "6:21",
+      "start": null,
+      "isrc": null,
+      "notes": "The Overture of Giulini’s complete set, recorded at Abbey Road in 1959."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Don_Giovanni"
+    ],
+    "notes": "Excerpt = the Overture, which opens with the stone guest’s solemn D minor chords. On all four Dutch lists (best rank 92). Mozart is at the ten-card cap."
   },
   {
     "id": "cls-mozart-eine-kleine-nachtmusik",
@@ -500,28 +516,30 @@
       "performers": "Academy of St Martin in the Fields",
       "conductor": "Neville Marriner",
       "label": "Philips",
-      "year": null,
-      "why": "A polished, widely available account; exact album not checked"
+      "year": 1985,
+      "why": "MusicBrainz recording date 8 November 1985, St John's Smith Square."
     },
     "trivia": "Mozart's catalogue lists five movements, but one minuet is missing from the manuscript, so it is played in four. Nobody knows what occasion it was written for, and it stayed unpublished until about 1827.",
     "tags": [
       "classical-era",
       "orchestral",
       "serenade",
-      "strings"
+      "strings",
+      "top400"
     ],
     "track": {
-      "query": "Mozart Eine kleine Nachtmusik Allegro Marriner",
-      "album": null,
-      "duration": "~5:30",
+      "query": "Mozart Eine kleine Nachtmusik K. 525 Allegro Marriner Academy of St Martin",
+      "album": "Eine kleine Nachtmusik / Canon / Toy Symphony",
+      "duration": "5:45",
+      "start": null,
       "isrc": null,
-      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+      "notes": "Movement/number-level track of the named recording. Duration is that track’s length; start is an estimate (about ±15 s) of where the recognisable theme begins. If this exact recording is unavailable, another recording of the same movement works."
     },
     "confidence": "high",
     "sources": [
       "https://en.wikipedia.org/wiki/Eine_kleine_Nachtmusik"
     ],
-    "notes": "Recording from memory. Counts as titled work: catalogue_only false."
+    "notes": "Eine kleine Nachtmusik is a title, so the work is not catalogue-only."
   },
   {
     "id": "cls-mozart-symphony-40",
@@ -540,31 +558,32 @@
     "premiere_or_publication": "First performance date uncertain; entered in Mozart's catalogue 25 July 1788",
     "dating_note": "Dated exactly by Mozart's catalogue entry of 25 July 1788.",
     "recording": {
-      "performers": "Vienna Philharmonic",
+      "performers": "Berliner Philharmoniker",
       "conductor": "Karl Böhm",
       "label": "Deutsche Grammophon",
-      "year": null,
-      "why": "Mid-1970s Mozart cycle with the Vienna Philharmonic; exact year not checked"
+      "year": 1961,
+      "why": "MusicBrainz recording date December 1961, Jesus-Christus-Kirche, Berlin."
     },
     "trivia": "It is one of only two Mozart symphonies in a minor key; the other, No. 25, is also in G minor and dates from his teens. Mozart later reorchestrated it to add clarinets.",
     "tags": [
       "classical-era",
       "symphony",
-      "symphony",
-      "minor-key"
+      "minor-key",
+      "top400"
     ],
     "track": {
-      "query": "Mozart Symphony No. 40 G minor Molto allegro Bohm",
-      "album": null,
-      "duration": "~8:00",
+      "query": "Mozart Symphony No. 40 G minor K. 550 Allegro molto Karl Böhm Berlin Philharmonic",
+      "album": "Symphonies Nos. 40 & 41",
+      "duration": "8:27",
+      "start": null,
       "isrc": null,
-      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+      "notes": "Movement/number-level track of the named recording. Duration is that track’s length; start is an estimate (about ±15 s) of where the recognisable theme begins. If this exact recording is unavailable, another recording of the same movement works."
     },
     "confidence": "high",
     "sources": [
       "https://en.wikipedia.org/wiki/Symphony_No._40_(Mozart)"
     ],
-    "notes": "No title or nickname: catalogue_only true. Recording from memory."
+    "notes": "No title or nickname; known by genre, number and key only."
   },
   {
     "id": "cls-haydn-symphony-94-surprise",
@@ -586,28 +605,73 @@
       "performers": "Philharmonia Hungarica",
       "conductor": "Antal Doráti",
       "label": "Decca",
-      "year": null,
-      "why": "Doráti recorded the complete Haydn symphonies for Decca around 1969–72; a classic set"
+      "year": 1972,
+      "why": "MusicBrainz recording date June 1972, St. Bonifatius Kirche, Marl; Decca."
     },
     "trivia": "The sudden fortissimo chord in the slow movement is said to have been meant to jolt dozing listeners, though Haydn reportedly claimed he only wanted to surprise the public with something new. The German nickname is Paukenschlag ('drum stroke').",
     "tags": [
       "classical-era",
       "symphony",
-      "symphony",
       "london-symphonies"
     ],
     "track": {
-      "query": "Haydn Symphony 94 Surprise Andante Dorati",
-      "album": null,
-      "duration": "~7:00",
+      "query": "Haydn Symphony No. 94 Surprise Andante Antal Doráti Philharmonia Hungarica",
+      "album": "Haydn: Symphonies 84-95",
+      "duration": "5:54",
+      "start": null,
       "isrc": null,
-      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+      "notes": "Movement/number-level track of the named recording. Duration is that track’s length; start is an estimate (about ±15 s) of where the recognisable theme begins. If this exact recording is unavailable, another recording of the same movement works."
     },
     "confidence": "high",
     "sources": [
       "https://en.wikipedia.org/wiki/Symphony_No._94_(Haydn)"
     ],
-    "notes": "Haydn's own remark and Doráti cycle dates from memory."
+    "notes": null
+  },
+  {
+    "id": "cls-mozart-ave-verum-corpus",
+    "composer": "Wolfgang Amadeus Mozart",
+    "composer_short": "Mozart",
+    "work": "Ave verum corpus, K. 618",
+    "nickname": null,
+    "catalogue_only": false,
+    "form": "choral",
+    "accept_work": "Mozart’s Ave verum corpus",
+    "excerpt": "The complete motet",
+    "year": 1791,
+    "year_lo": 1791,
+    "year_hi": 1791,
+    "year_label": "1791",
+    "premiere_or_publication": "Written for the church choir of Baden bei Wien; the autograph is dated 17 June 1791.",
+    "dating_note": "Mozart’s autograph is dated 17 June 1791, so the motet belongs to his last year, not to the earlier Salzburg or Vienna church music.",
+    "recording": {
+      "performers": "Choir of King’s College, Cambridge; Cambridge Classical Players",
+      "conductor": "Stephen Cleobury",
+      "label": "EMI Classics",
+      "year": 1987,
+      "why": "Stephen Cleobury and the Choir of King’s College, Cambridge, recorded in King’s College Chapel on 11 December 1987 and issued by EMI in 1989."
+    },
+    "trivia": "Mozart wrote it for Anton Stoll, the choirmaster at Baden bei Wien, while he was working on The Magic Flute. It is one of his last sacred works, written a few months before he died in December 1791.",
+    "tags": [
+      "classical-era",
+      "choral",
+      "motet",
+      "sacred",
+      "top400"
+    ],
+    "track": {
+      "query": "Mozart Ave verum corpus K 618 Choir of King’s College Cambridge Stephen Cleobury EMI",
+      "album": "Vespers / Ave verum corpus",
+      "duration": "3:04",
+      "start": null,
+      "isrc": null,
+      "notes": "Closing track of the EMI album Vespers / Ave verum corpus; session date from MusicBrainz relationships."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Ave_verum_corpus_(Mozart)"
+    ],
+    "notes": "On all four Dutch lists (best rank 53). The autograph is dated 17 June 1791."
   },
   {
     "id": "cls-mozart-clarinet-concerto",
@@ -626,31 +690,33 @@
     "premiere_or_publication": "Completed October 1791; possibly first performed 16 October 1791 in Prague",
     "dating_note": "Completed October 1791 (Wikipedia), about two months before Mozart's death.",
     "recording": {
-      "performers": "Any well-reviewed recording",
-      "conductor": null,
-      "label": null,
-      "year": null,
-      "why": "Original was for basset clarinet; either that or a standard A clarinet is fine."
+      "performers": "Jack Brymer (clarinet); Academy of St Martin in the Fields",
+      "conductor": "Neville Marriner",
+      "label": "Philips",
+      "year": 1971,
+      "why": "Philips 6500 378; MusicBrainz recording date September 1971, Walthamstow Assembly Hall, London."
     },
     "trivia": "It was written for his friend Anton Stadler, who played a basset clarinet with extra low notes. Mozart's original score is lost, so the concerto was long played in an adaptation for the ordinary clarinet. The Adagio is heard in the film Out of Africa (1985).",
     "tags": [
       "classical-era",
       "concerto",
       "clarinet",
-      "late-mozart"
+      "late-mozart",
+      "top400"
     ],
     "track": {
-      "query": "Mozart Clarinet Concerto A major K. 622 Adagio",
-      "album": null,
-      "duration": "~7:00",
+      "query": "Mozart Clarinet Concerto K. 622 Adagio Jack Brymer Marriner",
+      "album": "Clarinet Concerto / Bassoon Concerto / Andante for Flute",
+      "duration": "7:22",
+      "start": null,
       "isrc": null,
-      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+      "notes": "Movement/number-level track of the named recording. Duration is that track’s length; start is an estimate (about ±15 s) of where the recognisable theme begins. If this exact recording is unavailable, another recording of the same movement works."
     },
     "confidence": "high",
     "sources": [
       "https://en.wikipedia.org/wiki/Clarinet_Concerto_(Mozart)"
     ],
-    "notes": "Recording not named. Out of Africa and basset-clarinet details from memory."
+    "notes": null
   },
   {
     "id": "cls-mozart-die-zauberflote",
@@ -669,31 +735,33 @@
     "premiere_or_publication": "Premiered 30 September 1791 at Schikaneder's Theater auf der Wieden, Vienna",
     "dating_note": "Composed in 1791 and premiered two months before Mozart's death (Wikipedia).",
     "recording": {
-      "performers": "Roberta Peters (Queen of the Night); Berlin Philharmonic",
+      "performers": "Wilma Lipp (soprano); Wiener Philharmoniker",
       "conductor": "Karl Böhm",
-      "label": "Deutsche Grammophon",
-      "year": 1964,
-      "why": "Well-known mid-1960s studio cast that includes Fritz Wunderlich as Tamino"
+      "label": "Decca",
+      "year": 1955,
+      "why": "MusicBrainz recording date 23 May 1955, Redoutensaal, Vienna; Lipp is the Queen of the Night."
     },
     "trivia": "It is a German-language Singspiel written for a suburban theatre run by Emanuel Schikaneder, who wrote the libretto and sang Papageno at the premiere. The Queen's second aria climbs to a high F.",
     "tags": [
       "classical-era",
       "opera",
       "singspiel",
-      "coloratura"
+      "coloratura",
+      "top400"
     ],
     "track": {
-      "query": "Mozart Magic Flute Der Holle Rache Roberta Peters Bohm",
-      "album": null,
-      "duration": "~3:00",
+      "query": "Mozart Die Zauberflöte Der Hölle Rache Wilma Lipp Karl Böhm Wiener Philharmoniker",
+      "album": "Die Zauberflöte",
+      "duration": "2:59",
+      "start": null,
       "isrc": null,
-      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+      "notes": "Movement/number-level track of the named recording. Duration is that track’s length; start is an estimate (about ±15 s) of where the recognisable theme begins. If this exact recording is unavailable, another recording of the same movement works."
     },
     "confidence": "high",
     "sources": [
       "https://en.wikipedia.org/wiki/The_Magic_Flute"
     ],
-    "notes": "Böhm 1964 cast from memory."
+    "notes": null
   },
   {
     "id": "cls-mozart-requiem",
@@ -708,15 +776,15 @@
     "year": 1791,
     "year_lo": 1791,
     "year_hi": 1791,
-    "year_label": "1791 (unfinished; completed by Süssmayr)",
+    "year_label": "1791",
     "premiere_or_publication": "Completed by Franz Xaver Süssmayr and delivered to Count Walsegg in 1792",
-    "dating_note": "Mozart began it in late 1791 and died on 5 December 1791. Completed works are dated by the original composer, so 1791, not Süssmayr's 1792.",
+    "dating_note": "Mozart began it in late 1791 and died on 5 December 1791, leaving it unfinished. Completed works are dated by the original composer, so 1791, not Süssmayr’s 1792.",
     "recording": {
-      "performers": "Any well-reviewed recording",
-      "conductor": null,
-      "label": null,
-      "year": null,
-      "why": "Standard completion is Süssmayr's; other completions (Levin, Maunder, Druce) exist, which does not change the date."
+      "performers": "Wiener Philharmoniker; Wiener Singverein",
+      "conductor": "Karl Böhm",
+      "label": "Deutsche Grammophon",
+      "year": 1971,
+      "why": "MusicBrainz recording date April 1971, Musikverein, Vienna."
     },
     "trivia": "In Mozart's own hand the Lacrimosa stops after eight bars. Count Walsegg, who had commissioned the work in secret to pass off as his own, received a version completed by Süssmayr.",
     "tags": [
@@ -724,20 +792,22 @@
       "mass",
       "requiem",
       "unfinished",
-      "posthumous-completion"
+      "posthumous-completion",
+      "top400"
     ],
     "track": {
-      "query": "Mozart Requiem Lacrimosa",
-      "album": null,
-      "duration": "~3:00",
+      "query": "Mozart Requiem K. 626 Lacrimosa Karl Böhm Wiener Philharmoniker",
+      "album": "Requiem",
+      "duration": "4:10",
+      "start": null,
       "isrc": null,
-      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+      "notes": "Movement/number-level track of the named recording. Duration is that track’s length; start is an estimate (about ±15 s) of where the recognisable theme begins. If this exact recording is unavailable, another recording of the same movement works."
     },
     "confidence": "high",
     "sources": [
       "https://en.wikipedia.org/wiki/Requiem_(Mozart)"
     ],
-    "notes": "Dated to 1791 per the completed-work rule. Recording not named."
+    "notes": null
   },
   {
     "id": "cls-rouget-de-lisle-la-marseillaise",
@@ -756,11 +826,11 @@
     "premiere_or_publication": "Written in Strasbourg in April 1792",
     "dating_note": "Written in 1792 after France declared war on Austria (Wikipedia); the melody's possible antecedents are debated.",
     "recording": {
-      "performers": "Any well-reviewed recording",
-      "conductor": null,
-      "label": null,
-      "year": null,
-      "why": "Any full-voiced choral or military band performance of the anthem."
+      "performers": "Plácido Domingo (tenor); Chœur de l'Orchestre de Paris; Orchestre de Paris",
+      "conductor": "Daniel Barenboim",
+      "label": "Deutsche Grammophon",
+      "year": 1984,
+      "why": "DG 410 991-1; year is the 1984 release of French Opera Arias, no session date found."
     },
     "trivia": "It began as the 'War Song for the Army of the Rhine' and got its name when volunteers from Marseille sang it as they marched into Paris. Its author, a military engineer, was himself jailed during the Terror.",
     "tags": [
@@ -770,17 +840,18 @@
       "french-revolution"
     ],
     "track": {
-      "query": "La Marseillaise Rouget de Lisle anthem",
-      "album": null,
-      "duration": "~1:30",
+      "query": "La Marseillaise Berlioz arrangement Plácido Domingo Barenboim Orchestre de Paris",
+      "album": "French Opera Arias",
+      "duration": "4:00",
+      "start": null,
       "isrc": null,
-      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+      "notes": "Movement/number-level track of the named recording. Duration is that track’s length; start is an estimate (about ±15 s) of where the recognisable theme begins. If this exact recording is unavailable, another recording of the same movement works."
     },
     "confidence": "high",
     "sources": [
       "https://en.wikipedia.org/wiki/La_Marseillaise"
     ],
-    "notes": "Terror imprisonment detail from memory."
+    "notes": null
   },
   {
     "id": "cls-haydn-trumpet-concerto",
@@ -801,29 +872,31 @@
     "recording": {
       "performers": "Wynton Marsalis (trumpet); National Philharmonic Orchestra",
       "conductor": "Raymond Leppard",
-      "label": "CBS (now Sony Classical)",
-      "year": null,
-      "why": "Hugely popular 1980s recording that brought the concerto to a wide audience; year not checked"
+      "label": "CBS Masterworks",
+      "year": 1982,
+      "why": "CBS Masterworks MK 37846; MusicBrainz recording date 15 December 1982."
     },
     "trivia": "It was written for Anton Weidinger's keyed trumpet, which could play chromatic notes in the middle register that older trumpets could not. When valves arrived, the keyed trumpet vanished but the concerto stayed.",
     "tags": [
       "classical-era",
       "concerto",
       "trumpet",
-      "keyed-trumpet"
+      "keyed-trumpet",
+      "top400"
     ],
     "track": {
-      "query": "Haydn Trumpet Concerto E flat Finale Marsalis",
-      "album": null,
-      "duration": "~5:00",
+      "query": "Haydn Trumpet Concerto E-flat Finale Allegro Wynton Marsalis Leppard",
+      "album": "Trumpet Concertos",
+      "duration": "4:32",
+      "start": null,
       "isrc": null,
-      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+      "notes": "Movement/number-level track of the named recording. Duration is that track’s length; start is an estimate (about ±15 s) of where the recognisable theme begins. If this exact recording is unavailable, another recording of the same movement works."
     },
     "confidence": "high",
     "sources": [
       "https://en.wikipedia.org/wiki/Trumpet_Concerto_(Haydn)"
     ],
-    "notes": "Marsalis recording from memory; year omitted."
+    "notes": null
   },
   {
     "id": "cls-clementi-sonatina-op-36-1",
@@ -836,17 +909,17 @@
     "accept_work": "Clementi's Sonatina in C, Op. 36 No. 1",
     "excerpt": "I. Allegro",
     "year": 1797,
-    "year_lo": 1796,
+    "year_lo": 1797,
     "year_hi": 1797,
     "year_label": "c. 1797",
     "premiere_or_publication": "First edition published in London (Longman & Broderip), undated, generally given as 1797",
     "dating_note": "The undated first edition is usually given as 1797 (IMSLP); composition is presumably shortly before.",
     "recording": {
-      "performers": "Any well-reviewed recording",
+      "performers": "Liv Glaser (piano)",
       "conductor": null,
-      "label": null,
-      "year": null,
-      "why": "Any pianist; this is a teaching piece and is usually played briskly and cleanly."
+      "label": "Simax",
+      "year": 2006,
+      "why": "Simax PSC1258; year is the October 2006 release, no session date found. Weakly sourced pick."
     },
     "trivia": "The first of six sonatinas arranged from easy to harder, it has been a fixture of piano lessons ever since. Erik Satie parodied it in his Sonatine bureaucratique (1917).",
     "tags": [
@@ -856,18 +929,19 @@
       "sonatina"
     ],
     "track": {
-      "query": "Clementi Sonatina Op. 36 No. 1 C major Allegro piano",
-      "album": null,
-      "duration": "~2:00",
+      "query": "Clementi Sonatina Op. 36 No. 1 C major Allegro Liv Glaser",
+      "album": "For All Ages",
+      "duration": "1:26",
+      "start": null,
       "isrc": null,
-      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+      "notes": "Movement/number-level track of the named recording. Duration is that track’s length; start is an estimate (about ±15 s) of where the recognisable theme begins. If this exact recording is unavailable, another recording of the same movement works."
     },
     "confidence": "medium",
     "sources": [
       "https://en.wikipedia.org/wiki/Sonatine_bureaucratique",
       "https://imslp.org/wiki/6_Piano_Sonatinas%2C_Op.36_(Clementi%2C_Muzio)"
     ],
-    "notes": "Date rests on the undated first edition (IMSLP / secondary sources). Wikipedia verification of the year was not possible (no Wikipedia page for Op. 36)."
+    "notes": "The date rests on the undated first edition (IMSLP and secondary sources)."
   },
   {
     "id": "cls-haydn-string-quartet-76-3-emperor",
@@ -881,30 +955,32 @@
     "excerpt": "II. Poco adagio cantabile (variations on the Emperor's Hymn)",
     "year": 1797,
     "year_lo": 1797,
-    "year_hi": 1798,
-    "year_label": "1797 (or 1798)",
+    "year_hi": 1797,
+    "year_label": "1797",
     "premiere_or_publication": "Op. 76 published 1799",
     "dating_note": "The Kaiserquartett page says composed 1797; the Op. 76 page says 1797 or 1798, with accounts showing it was done by 1797.",
     "recording": {
-      "performers": "Any well-reviewed recording",
+      "performers": "Amadeus Quartet",
       "conductor": null,
-      "label": null,
-      "year": null,
-      "why": "Any strong quartet recording; the slow movement is the point."
+      "label": "Deutsche Grammophon",
+      "year": 1963,
+      "why": "DG 449 092-2 (1995 CD); MusicBrainz recording date September 1963, Beethovensaal, Hannover."
     },
     "trivia": "The slow movement is a set of variations on Haydn's own anthem 'Gott erhalte Franz den Kaiser', first sung on the emperor's birthday in 1797. The same tune later became the German national anthem, and it was reportedly the last music Haydn ever played.",
     "tags": [
       "classical-era",
       "string-quartet",
       "variations",
-      "anthem"
+      "anthem",
+      "top400"
     ],
     "track": {
-      "query": "Haydn Emperor Quartet Op. 76 No. 3 Poco adagio",
-      "album": null,
-      "duration": "~7:00",
+      "query": "Haydn String Quartet Op. 76 No. 3 Emperor Poco adagio Amadeus Quartet",
+      "album": "Haydn: Kaiser-Quartett / Sonnenaufgang-Quartett / Mozart: Jagd-Quartett",
+      "duration": "7:31",
+      "start": null,
       "isrc": null,
-      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+      "notes": "Movement/number-level track of the named recording. Duration is that track’s length; start is an estimate (about ±15 s) of where the recognisable theme begins. If this exact recording is unavailable, another recording of the same movement works."
     },
     "confidence": "high",
     "sources": [
@@ -912,7 +988,7 @@
       "https://en.wikipedia.org/wiki/String_Quartets,_Op._76_(Haydn)",
       "https://en.wikipedia.org/wiki/Gott_erhalte_Franz_den_Kaiser"
     ],
-    "notes": "Recording not named. Uses 1797 as the main year."
+    "notes": "Uses 1797 as the main year."
   },
   {
     "id": "cls-beethoven-piano-sonata-8-pathetique",
@@ -934,28 +1010,30 @@
       "performers": "Wilhelm Kempff (piano)",
       "conductor": null,
       "label": "Deutsche Grammophon",
-      "year": null,
-      "why": "Kempff recorded the Beethoven sonatas twice; either cycle is a reliable choice"
+      "year": 1965,
+      "why": "MusicBrainz recording date January 1965, Beethovensaal, Hannover."
     },
     "trivia": "The 'Pathétique' title was added by the publisher, with Beethoven's blessing, rather than written by the composer as commonly thought. Billy Joel borrowed the slow-movement melody for his 1983 song 'This Night'.",
     "tags": [
       "classical-era",
       "solo-piano",
       "piano-sonata",
-      "early-beethoven"
+      "early-beethoven",
+      "top400"
     ],
     "track": {
-      "query": "Beethoven Pathetique Sonata Adagio cantabile Kempff",
-      "album": null,
-      "duration": "~5:00",
+      "query": "Beethoven Piano Sonata No. 8 Pathétique Adagio cantabile Wilhelm Kempff",
+      "album": "Klaviersonaten: Nr. 8 »Pathétique« / Nr. 14 »Mondschein-Sonate« / Nr. 15 »Pastorale« / Nr 24.",
+      "duration": "4:57",
+      "start": null,
       "isrc": null,
-      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+      "notes": "Movement/number-level track of the named recording. Duration is that track’s length; start is an estimate (about ±15 s) of where the recognisable theme begins. If this exact recording is unavailable, another recording of the same movement works."
     },
     "confidence": "high",
     "sources": [
       "https://en.wikipedia.org/wiki/Piano_Sonata_No._8_(Beethoven)"
     ],
-    "notes": "Billy Joel link from memory. Recording not verified."
+    "notes": null
   },
   {
     "id": "cls-haydn-die-schopfung",
@@ -974,31 +1052,33 @@
     "premiere_or_publication": "First performed privately in Vienna in April 1798; published in 1800 in German and English",
     "dating_note": "Written in 1797 and 1798 (Wikipedia).",
     "recording": {
-      "performers": "Berlin Philharmonic; Wiener Singverein",
+      "performers": "Berliner Philharmoniker; Wiener Singverein",
       "conductor": "Herbert von Karajan",
       "label": "Deutsche Grammophon",
-      "year": null,
-      "why": "Karajan recorded it in the 1960s; exact year not checked"
+      "year": 1966,
+      "why": "MusicBrainz recording date 22 February 1966, Jesus-Christus-Kirche, Berlin; the start offset is an estimate."
     },
     "trivia": "Haydn wrote it after hearing Handel's oratorios in London, and the sudden blaze of C major on the word 'light' is one of the best-known moments in choral music. It was published with both German and English text.",
     "tags": [
       "classical-era",
       "choral",
       "oratorio",
-      "handel-influence"
+      "handel-influence",
+      "top400"
     ],
     "track": {
-      "query": "Haydn Creation And there was light Karajan",
-      "album": null,
-      "duration": "~3:00",
+      "query": "Haydn Die Schöpfung Creation Und es ward Licht Karajan Berliner Philharmoniker",
+      "album": "Die Schöpfung",
+      "duration": "2:58",
+      "start": 160,
       "isrc": null,
-      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+      "notes": "Start offset is an estimate for \"Und es ward Licht\", near the end of this track."
     },
     "confidence": "high",
     "sources": [
       "https://en.wikipedia.org/wiki/The_Creation_(Haydn)"
     ],
-    "notes": "Karajan recording and Handel-influence from memory."
+    "notes": null
   },
   {
     "id": "cls-beethoven-piano-sonata-14-moonlight",
@@ -1020,28 +1100,30 @@
       "performers": "Wilhelm Kempff (piano)",
       "conductor": null,
       "label": "Deutsche Grammophon",
-      "year": null,
-      "why": "Kempff's flowing, unshowy account; exact cycle not checked"
+      "year": 1965,
+      "why": "MusicBrainz recording date January 1965, Beethovensaal, Hannover."
     },
     "trivia": "Beethoven's own subtitle was only 'Quasi una fantasia'. The 'Moonlight' name came from the critic Ludwig Rellstab, who in 1824 compared the first movement to moonlight on Lake Lucerne.",
     "tags": [
       "classical-era",
       "solo-piano",
       "piano-sonata",
-      "nickname-not-by-composer"
+      "nickname-not-by-composer",
+      "top400"
     ],
     "track": {
-      "query": "Beethoven Moonlight Sonata Adagio sostenuto Kempff",
-      "album": null,
-      "duration": "~6:00",
+      "query": "Beethoven Moonlight Sonata Adagio sostenuto Wilhelm Kempff",
+      "album": "Klaviersonaten: Nr. 8 »Pathétique« / Nr. 14 »Mondschein-Sonate« / Nr. 15 »Pastorale« / Nr 24.",
+      "duration": "6:02",
+      "start": null,
       "isrc": null,
-      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+      "notes": "Movement/number-level track of the named recording. Duration is that track’s length; start is an estimate (about ±15 s) of where the recognisable theme begins. If this exact recording is unavailable, another recording of the same movement works."
     },
     "confidence": "high",
     "sources": [
       "https://en.wikipedia.org/wiki/Piano_Sonata_No._14_(Beethoven)"
     ],
-    "notes": "Rellstab detail verified on Wikipedia. Recording not verified."
+    "notes": "Rellstab detail verified on Wikipedia."
   },
   {
     "id": "cls-hummel-trumpet-concerto-e-major",
@@ -1062,29 +1144,31 @@
     "recording": {
       "performers": "Wynton Marsalis (trumpet); National Philharmonic Orchestra",
       "conductor": "Raymond Leppard",
-      "label": "CBS (now Sony Classical)",
-      "year": null,
-      "why": "Popular 1980s recording that pairs Hummel with Haydn; year not checked"
+      "label": "CBS Masterworks",
+      "year": 1982,
+      "why": "Sessions 15-17 December 1982 for the whole album (Marsalis discography); released June 1983."
     },
     "trivia": "Like Haydn's concerto, it was written for Anton Weidinger's keyed trumpet, and it was played on New Year's Day 1804 to mark Hummel's arrival in the Esterházy court orchestra. Modern players usually take it down a semitone to E-flat.",
     "tags": [
       "classical-era",
       "concerto",
       "trumpet",
-      "keyed-trumpet"
+      "keyed-trumpet",
+      "top400"
     ],
     "track": {
-      "query": "Hummel Trumpet Concerto E major Rondo Marsalis",
-      "album": null,
-      "duration": "~4:00",
+      "query": "Hummel Trumpet Concerto E-flat Rondo Wynton Marsalis Leppard National Philharmonic",
+      "album": "Trumpet Concertos",
+      "duration": "3:31",
+      "start": null,
       "isrc": null,
-      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+      "notes": "Movement/number-level track of the named recording. Duration is that track’s length; start is an estimate (about ±15 s) of where the recognisable theme begins. If this exact recording is unavailable, another recording of the same movement works."
     },
     "confidence": "high",
     "sources": [
       "https://en.wikipedia.org/wiki/Trumpet_Concerto_(Hummel)"
     ],
-    "notes": "Transposition remark from memory."
+    "notes": null
   },
   {
     "id": "cls-beethoven-symphony-3-eroica",
@@ -1097,37 +1181,82 @@
     "accept_work": "Beethoven's Eroica (Symphony No. 3)",
     "excerpt": "I. Allegro con brio",
     "year": 1804,
-    "year_lo": 1803,
+    "year_lo": 1804,
     "year_hi": 1804,
-    "year_label": "1803–1804",
+    "year_label": "1804",
     "premiere_or_publication": "Private performances 1804; public premiere in Vienna in April 1805",
-    "dating_note": "Composed mainly in 1803–1804 (Wikipedia), with sketches from 1802.",
+    "dating_note": "Composed mainly in 1803–1804 (Wikipedia), with sketches from 1802; carded at the year it was completed.",
     "recording": {
       "performers": "Chamber Orchestra of Europe",
       "conductor": "Nikolaus Harnoncourt",
       "label": "Teldec",
-      "year": null,
-      "why": "Harnoncourt's Beethoven cycle with the COE (early 1990s) is spiky and vivid; year not checked"
+      "year": 1990,
+      "why": "MusicBrainz recording date 3 July 1990, Stefaniensaal, Graz."
     },
     "trivia": "According to his pupil Ferdinand Ries, Beethoven rubbed out the dedication to Napoleon in fury when Bonaparte crowned himself emperor. The first movement alone was longer than many complete symphonies of the time.",
     "tags": [
       "classical-era",
       "symphony",
-      "symphony",
-      "heroic"
+      "heroic",
+      "top400"
     ],
     "track": {
-      "query": "Beethoven Symphony No. 3 Eroica Allegro con brio Harnoncourt",
-      "album": null,
-      "duration": "~15:00",
+      "query": "Beethoven Symphony No. 3 Eroica Allegro con brio Harnoncourt Chamber Orchestra of Europe",
+      "album": "Symphony no. 1 / Symphony no. 3 \"Eroica\"",
+      "duration": "16:02",
+      "start": null,
       "isrc": null,
-      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+      "notes": "Movement/number-level track of the named recording. Duration is that track’s length; start is an estimate (about ±15 s) of where the recognisable theme begins. If this exact recording is unavailable, another recording of the same movement works."
     },
     "confidence": "high",
     "sources": [
       "https://en.wikipedia.org/wiki/Symphony_No._3_(Beethoven)"
     ],
-    "notes": "Premiere dates and Harnoncourt cycle from memory."
+    "notes": null
+  },
+  {
+    "id": "cls-beethoven-violin-concerto",
+    "composer": "Ludwig van Beethoven",
+    "composer_short": "Beethoven",
+    "work": "Violin Concerto in D major, Op. 61",
+    "nickname": null,
+    "catalogue_only": true,
+    "form": "concerto",
+    "accept_work": "Beethoven’s Violin Concerto",
+    "excerpt": "I. Allegro ma non troppo (opening timpani strokes)",
+    "year": 1806,
+    "year_lo": 1806,
+    "year_hi": 1806,
+    "year_label": "1806",
+    "premiere_or_publication": "Premiered on 23 December 1806 at the Theater an der Wien by Franz Clement; it was not a success.",
+    "dating_note": "Written in 1806 for Franz Clement and premiered that December. The concerto was neglected for decades and only became a repertoire piece after 1844.",
+    "recording": {
+      "performers": "Anne-Sophie Mutter (violin); Berliner Philharmoniker",
+      "conductor": "Herbert von Karajan",
+      "label": "Deutsche Grammophon",
+      "year": 1979,
+      "why": "Anne-Sophie Mutter, at sixteen, with Herbert von Karajan and the Berlin Philharmonic, recorded in September 1979 for Deutsche Grammophon."
+    },
+    "trivia": "The concerto opens with soft timpani strokes. After a lukewarm premiere it was rarely played until 1844, when the twelve-year-old Joseph Joachim performed it in London under Felix Mendelssohn.",
+    "tags": [
+      "classical-era",
+      "concerto",
+      "violin-concerto",
+      "top400"
+    ],
+    "track": {
+      "query": "Beethoven Violin Concerto I. Allegro ma non troppo Anne-Sophie Mutter Herbert von Karajan Berliner Philharmoniker Deutsche Grammophon",
+      "album": "Violin Concerto",
+      "duration": "26:37",
+      "start": null,
+      "isrc": null,
+      "notes": "First movement of the DG disc 413 818-2."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Violin_Concerto_(Beethoven)"
+    ],
+    "notes": "On all four Dutch lists (best rank 41)."
   },
   {
     "id": "cls-beethoven-symphony-5",
@@ -1140,37 +1269,38 @@
     "accept_work": "Beethoven's Symphony No. 5",
     "excerpt": "I. Allegro con brio (opening motif)",
     "year": 1808,
-    "year_lo": 1804,
+    "year_lo": 1808,
     "year_hi": 1808,
-    "year_label": "1804–1808",
+    "year_label": "1808",
     "premiere_or_publication": "Premiered 22 December 1808, Theater an der Wien, Vienna",
     "dating_note": "First sketches in 1804; completed in 1807–1808 alongside the Sixth (Wikipedia).",
     "recording": {
-      "performers": "Vienna Philharmonic",
+      "performers": "Wiener Philharmoniker",
       "conductor": "Carlos Kleiber",
       "label": "Deutsche Grammophon",
       "year": 1974,
-      "why": "Driven, razor-sharp account widely regarded as a benchmark"
+      "why": "MusicBrainz recording date March 1974, Musikverein, Vienna."
     },
     "trivia": "The 'fate knocking at the door' explanation comes from Beethoven's associate Anton Schindler and is often doubted. The premiere was a four-hour marathon that also introduced the Sixth Symphony.",
     "tags": [
       "classical-era",
       "symphony",
-      "symphony",
-      "iconic-motif"
+      "iconic-motif",
+      "top400"
     ],
     "track": {
-      "query": "Beethoven Symphony No. 5 Allegro con brio Carlos Kleiber",
-      "album": null,
-      "duration": "~7:30",
+      "query": "Beethoven Symphony No. 5 Allegro con brio Carlos Kleiber Wiener Philharmoniker",
+      "album": "Beethoven: Symphonies Nos. 5 & 7",
+      "duration": "7:28",
+      "start": null,
       "isrc": null,
-      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+      "notes": "Movement/number-level track of the named recording. Duration is that track’s length; start is an estimate (about ±15 s) of where the recognisable theme begins. If this exact recording is unavailable, another recording of the same movement works."
     },
     "confidence": "high",
     "sources": [
       "https://en.wikipedia.org/wiki/Symphony_No._5_(Beethoven)"
     ],
-    "notes": "catalogue_only true because the 'Fate' name is a later, rarely-used label. This differs from the brief's illustrative example (Beethoven 5 as false); flag for the user. Kleiber year from memory."
+    "notes": "The ‘Fate’ name is a later label that rarely serves as a title, so the work is treated as known by genre, number and key only."
   },
   {
     "id": "cls-beethoven-symphony-6-pastoral",
@@ -1183,37 +1313,83 @@
     "accept_work": "Beethoven's Pastoral Symphony (No. 6)",
     "excerpt": "IV. Allegro (Thunderstorm)",
     "year": 1808,
-    "year_lo": 1807,
+    "year_lo": 1808,
     "year_hi": 1808,
-    "year_label": "1807–1808",
+    "year_label": "1808",
     "premiere_or_publication": "Premiered 22 December 1808, Theater an der Wien, with the Fifth",
     "dating_note": "Sketches from 1802, completed 1808; the Fifth and Sixth were finished together in 1807–1808 (Wikipedia).",
     "recording": {
-      "performers": "Vienna Philharmonic",
+      "performers": "Wiener Philharmoniker",
       "conductor": "Karl Böhm",
       "label": "Deutsche Grammophon",
-      "year": null,
-      "why": "Part of Böhm's early-1970s Beethoven cycle; exact year not checked"
+      "year": 1971,
+      "why": "MusicBrainz recording date May 1971, Musikverein, Vienna."
     },
     "trivia": "Each of the five movements has a scene title, from arriving in the countryside to a storm and a shepherds' thanksgiving. Beethoven said it was more the expression of feeling than painting.",
     "tags": [
       "classical-era",
       "symphony",
-      "symphony",
-      "programme-music"
+      "programme-music",
+      "top400"
     ],
     "track": {
-      "query": "Beethoven Symphony No. 6 Pastoral Thunderstorm Bohm",
-      "album": null,
-      "duration": "~4:00",
+      "query": "Beethoven Symphony No. 6 Pastoral Gewitter Sturm Karl Böhm Wiener Philharmoniker",
+      "album": "Symphony No. 6 \"Pastoral\" / Symphonies Nos. 7 & 8 / Overtures",
+      "duration": "3:42",
+      "start": null,
       "isrc": null,
-      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+      "notes": "Movement/number-level track of the named recording. Duration is that track’s length; start is an estimate (about ±15 s) of where the recognisable theme begins. If this exact recording is unavailable, another recording of the same movement works."
     },
     "confidence": "high",
     "sources": [
       "https://en.wikipedia.org/wiki/Symphony_No._6_(Beethoven)"
     ],
-    "notes": "Recording from memory."
+    "notes": null
+  },
+  {
+    "id": "cls-beethoven-piano-concerto-5-emperor",
+    "composer": "Ludwig van Beethoven",
+    "composer_short": "Beethoven",
+    "work": "Piano Concerto No. 5 in E-flat major, Op. 73",
+    "nickname": "Emperor",
+    "catalogue_only": false,
+    "form": "concerto",
+    "accept_work": "Beethoven’s Emperor Concerto",
+    "excerpt": "I. Allegro (opening piano flourishes)",
+    "year": 1809,
+    "year_lo": 1809,
+    "year_hi": 1809,
+    "year_label": "1809",
+    "premiere_or_publication": "Public premiere on 28 November 1811 in Leipzig, with Friedrich Schneider as soloist and the Gewandhaus Orchestra under Johann Philipp Christian Schulz.",
+    "dating_note": "Beethoven completed the concerto in April 1809 while Vienna was under siege by Napoleon’s armies. The premiere came two and a half years later, in November 1811.",
+    "recording": {
+      "performers": "Alfred Brendel (piano); Chicago Symphony Orchestra",
+      "conductor": "James Levine",
+      "label": "Philips",
+      "year": 1983,
+      "why": "Alfred Brendel with the Chicago Symphony under James Levine, recorded in Orchestra Hall in June 1983 for Philips."
+    },
+    "trivia": "The name “Emperor” is not Beethoven’s: its origin is uncertain, but it may have been coined by his English publisher Johann Baptist Cramer. Beethoven would probably have disliked it given his disdain for crowned heads, and he wrote the work while Napoleon’s armies besieged Vienna.",
+    "tags": [
+      "classical-era",
+      "concerto",
+      "piano-concerto",
+      "nickname",
+      "top400"
+    ],
+    "track": {
+      "query": "Beethoven Piano Concerto No. 5 Emperor I. Allegro Alfred Brendel James Levine Chicago Symphony Orchestra Philips",
+      "album": "Complete Piano Concertos",
+      "duration": "20:49",
+      "start": null,
+      "isrc": null,
+      "notes": "First movement of the Emperor Concerto on disc 3 of the Philips set; session date from MusicBrainz relationships."
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Piano_Concerto_No._5_(Beethoven)"
+    ],
+    "notes": "Dated to completion (1809); premiere 1811. On all four Dutch lists (best rank 30). Beethoven is at the ten-card cap."
   },
   {
     "id": "cls-spohr-clarinet-concerto-1",
@@ -1226,17 +1402,17 @@
     "accept_work": "Spohr's Clarinet Concerto No. 1",
     "excerpt": "I. Adagio – Allegro vivace",
     "year": 1809,
-    "year_lo": 1808,
+    "year_lo": 1809,
     "year_hi": 1809,
-    "year_label": "1808–1809",
+    "year_label": "1809",
     "premiere_or_publication": "Premiered by Johann Simon Hermstedt in June 1809; published 1812",
     "dating_note": "Composed between autumn 1808 and January 1809 (Wikipedia).",
     "recording": {
-      "performers": "Any well-reviewed recording",
-      "conductor": null,
-      "label": null,
-      "year": null,
-      "why": "No single reference named; any good clarinet recording."
+      "performers": "Ernst Ottensamer (clarinet); Slovak State Philharmonic Orchestra (Košice)",
+      "conductor": "Johannes Wildner",
+      "label": "Naxos",
+      "year": 1994,
+      "why": "Naxos 8.550688; year is the August 1994 release, no session date found."
     },
     "trivia": "It was the first of four clarinet concertos Spohr wrote for the virtuoso Johann Simon Hermstedt, who premiered it in 1809 to great enthusiasm. All four were dedicated to him.",
     "tags": [
@@ -1246,17 +1422,18 @@
       "less-familiar"
     ],
     "track": {
-      "query": "Spohr Clarinet Concerto No. 1 C minor Op. 26",
-      "album": null,
-      "duration": "~9:00",
+      "query": "Spohr Clarinet Concerto No. 1 C minor Adagio Allegro vivace Ottensamer Wildner",
+      "album": "Clarinet Concertos nos. 1 and 3 / Potpourri, op. 80",
+      "duration": "10:51",
+      "start": null,
       "isrc": null,
-      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+      "notes": "Movement/number-level track of the named recording. Duration is that track’s length; start is an estimate (about ±15 s) of where the recognisable theme begins. If this exact recording is unavailable, another recording of the same movement works."
     },
     "confidence": "high",
     "sources": [
       "https://en.wikipedia.org/wiki/Clarinet_Concerto_No._1_(Spohr)"
     ],
-    "notes": "Less-familiar pick. Recording not named; movement choice from memory."
+    "notes": null
   },
   {
     "id": "cls-beethoven-bagatelle-fur-elise",
@@ -1269,31 +1446,33 @@
     "accept_work": "Beethoven's Für Elise",
     "excerpt": "Opening theme (A section)",
     "year": 1810,
-    "year_lo": 1808,
+    "year_lo": 1810,
     "year_hi": 1810,
     "year_label": "c. 1810",
     "premiere_or_publication": "Not published in Beethoven's lifetime; first printed in 1867 (Ludwig Nohl)",
     "dating_note": "Dated 27 April 1810 on a now-lost autograph reported by Nohl; sketches may be a little older. Posthumous works are dated to composition.",
     "recording": {
-      "performers": "Any well-reviewed recording",
+      "performers": "Alfred Brendel (piano)",
       "conductor": null,
-      "label": null,
-      "year": null,
-      "why": "Any pianist; the delicate opening should be audible."
+      "label": "Philips",
+      "year": 1984,
+      "why": "MusicBrainz recording date March 1984, Henry Wood Hall, London."
     },
     "trivia": "Beethoven never published it: Ludwig Nohl found the manuscript and printed it in 1867, forty years after the composer's death. Who 'Elise' was is still unsettled; candidates include Therese Malfatti and Elisabeth Röckel.",
     "tags": [
       "classical-era",
       "solo-piano",
       "posthumous",
-      "bagatelle"
+      "bagatelle",
+      "top400"
     ],
     "track": {
-      "query": "Beethoven Fur Elise Bagatelle in A minor piano",
-      "album": null,
-      "duration": "~3:00",
+      "query": "Beethoven Für Elise Bagatelle WoO 59 Alfred Brendel",
+      "album": "Bagatelles",
+      "duration": "3:30",
+      "start": null,
       "isrc": null,
-      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+      "notes": "Movement/number-level track of the named recording. Duration is that track’s length; start is an estimate (about ±15 s) of where the recognisable theme begins. If this exact recording is unavailable, another recording of the same movement works."
     },
     "confidence": "medium",
     "sources": [
@@ -1307,7 +1486,7 @@
     "composer_short": "Paganini",
     "work": "24 Caprices for Solo Violin, Op. 1 (Caprice No. 24 in A minor)",
     "nickname": null,
-    "catalogue_only": false,
+    "catalogue_only": true,
     "form": "chamber",
     "accept_work": "Paganini's Caprices (e.g. Caprice No. 24)",
     "excerpt": "Caprice No. 24 in A minor",
@@ -1321,8 +1500,8 @@
       "performers": "Ruggiero Ricci (violin)",
       "conductor": null,
       "label": "Decca",
-      "year": 1947,
-      "why": "Ricci made early complete recordings of the set (1947, then again in 1959)"
+      "year": 1959,
+      "why": "MusicBrainz recording date April 1959, Victoria Hall, Geneva; Decca."
     },
     "trivia": "Brahms, Rachmaninoff and Lutosławski all wrote variations on the theme of No. 24. The whole set was written over some fifteen years but only published in 1820.",
     "tags": [
@@ -1332,17 +1511,18 @@
       "virtuoso"
     ],
     "track": {
-      "query": "Paganini Caprice No. 24 A minor Ricci",
-      "album": null,
-      "duration": "~5:00",
+      "query": "Paganini 24 Caprices Caprice No. 24 A minor Ruggiero Ricci",
+      "album": "Paganini 24 Caprices",
+      "duration": "4:29",
+      "start": null,
       "isrc": null,
-      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+      "notes": "Movement/number-level track of the named recording. Duration is that track’s length; start is an estimate (about ±15 s) of where the recognisable theme begins. If this exact recording is unavailable, another recording of the same movement works."
     },
     "confidence": "medium",
     "sources": [
       "https://en.wikipedia.org/wiki/24_Caprices_for_Solo_Violin_(Paganini)"
     ],
-    "notes": "Wide range (15 years) because the caprices were written in three batches. 'Caprices' is treated as the collection title, so catalogue_only false."
+    "notes": "WIDE RANGE (15 years): the caprices were written in three groups and are not individually dated. Caprice No. 24 is known by genre, number and key only."
   },
   {
     "id": "cls-weber-clarinet-concerto-1",
@@ -1361,11 +1541,11 @@
     "premiere_or_publication": "Premiered in Munich, 13 June 1811, with the Bavarian king in attendance",
     "dating_note": "Written in 1811 for Heinrich Bärmann (Wikipedia).",
     "recording": {
-      "performers": "Any well-reviewed recording",
-      "conductor": null,
-      "label": null,
-      "year": null,
-      "why": "No single reference named; any good clarinet recording."
+      "performers": "Ernst Ottensamer (clarinet); Czecho-Slovak State Philharmonic Orchestra (Košice)",
+      "conductor": "Johannes Wildner",
+      "label": "Naxos",
+      "year": 1990,
+      "why": "Naxos 8.550378; MusicBrainz recording date 19 February 1990, Dom umenia, Košice."
     },
     "trivia": "Weber wrote it for the Munich court clarinettist Heinrich Bärmann, and the king of Bavaria attended the premiere. It is a pillar of the Romantic clarinet repertoire.",
     "tags": [
@@ -1375,17 +1555,18 @@
       "romantic-opening"
     ],
     "track": {
-      "query": "Weber Clarinet Concerto No. 1 F minor Op. 73 Allegro",
-      "album": null,
-      "duration": "~8:00",
+      "query": "Weber Clarinet Concerto No. 1 F minor Allegro Ottensamer Wildner Košice",
+      "album": "Clarinet Concertos nos. 1 & 2 / Concertino",
+      "duration": "8:17",
+      "start": null,
       "isrc": null,
-      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+      "notes": "Movement/number-level track of the named recording. Duration is that track’s length; start is an estimate (about ±15 s) of where the recognisable theme begins. If this exact recording is unavailable, another recording of the same movement works."
     },
     "confidence": "high",
     "sources": [
       "https://en.wikipedia.org/wiki/Clarinet_Concerto_No._1_(Weber)"
     ],
-    "notes": "Recording not named."
+    "notes": null
   },
   {
     "id": "cls-beethoven-symphony-7",
@@ -1398,37 +1579,38 @@
     "accept_work": "Beethoven's Symphony No. 7",
     "excerpt": "II. Allegretto",
     "year": 1812,
-    "year_lo": 1811,
+    "year_lo": 1812,
     "year_hi": 1812,
-    "year_label": "1811–1812",
+    "year_label": "1812",
     "premiere_or_publication": "Premiered 8 December 1813, University of Vienna, conducted by Beethoven, at a charity concert for soldiers wounded at Hanau",
     "dating_note": "Composed 1811–1812 while Beethoven was taking the waters at Teplitz (Wikipedia).",
     "recording": {
-      "performers": "Vienna Philharmonic",
+      "performers": "Wiener Philharmoniker",
       "conductor": "Carlos Kleiber",
       "label": "Deutsche Grammophon",
-      "year": null,
-      "why": "Kleiber's second Beethoven recording, from the mid-1970s; electrifying finale"
+      "year": 1975,
+      "why": "MusicBrainz recording date November 1975, Musikverein, Vienna."
     },
     "trivia": "Beethoven himself conducted the premiere, remarking afterwards that it was one of his best works. Wagner later called the symphony the 'apotheosis of the dance'.",
     "tags": [
       "classical-era",
       "symphony",
-      "symphony",
-      "dance-rhythm"
+      "dance-rhythm",
+      "top400"
     ],
     "track": {
-      "query": "Beethoven Symphony No. 7 Allegretto Carlos Kleiber",
-      "album": null,
-      "duration": "~8:00",
+      "query": "Beethoven Symphony No. 7 Allegretto Carlos Kleiber Wiener Philharmoniker",
+      "album": "Beethoven: Symphonies Nos. 5 & 7",
+      "duration": "8:08",
+      "start": null,
       "isrc": null,
-      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+      "notes": "Movement/number-level track of the named recording. Duration is that track’s length; start is an estimate (about ±15 s) of where the recognisable theme begins. If this exact recording is unavailable, another recording of the same movement works."
     },
     "confidence": "high",
     "sources": [
       "https://en.wikipedia.org/wiki/Symphony_No._7_(Beethoven)"
     ],
-    "notes": "Wagner quote from memory (well attested)."
+    "notes": null
   },
   {
     "id": "cls-sanderson-hail-to-the-chief",
@@ -1441,17 +1623,17 @@
     "accept_work": "Hail to the Chief",
     "excerpt": "The main march theme",
     "year": 1812,
-    "year_lo": 1811,
-    "year_hi": 1813,
+    "year_lo": 1812,
+    "year_hi": 1812,
     "year_label": "c. 1812",
     "premiere_or_publication": "Published in Philadelphia around 1812; the Lady of the Lake play opened in New York on 8 May 1812",
-    "dating_note": "Verses from Scott's 1810 poem were set to music around 1812 by Sanderson, adapting an older Scottish Gaelic melody.",
+    "dating_note": "Verses from Scott’s 1810 poem were set to music around 1812 by Sanderson, adapting an older Scottish Gaelic melody.",
     "recording": {
-      "performers": "Any well-reviewed recording",
+      "performers": "The President's Own United States Marine Band",
       "conductor": null,
-      "label": null,
-      "year": null,
-      "why": "Any military band performance; the march rather than the sung text is the point."
+      "label": "Altissimo! Recordings",
+      "year": 2011,
+      "why": "MusicBrainz credits the track itself to the Marine Band; year is the 2011 album release, no session date found. Weakly sourced pick."
     },
     "trivia": "It began as a boating song for a stage version of Walter Scott's The Lady of the Lake, adapted by an English theatre conductor from a Scottish Gaelic tune. Andrew Jackson was the first living US president honoured with it, in 1829.",
     "tags": [
@@ -1461,11 +1643,12 @@
       "presidential"
     ],
     "track": {
-      "query": "Hail to the Chief march Sanderson",
-      "album": null,
-      "duration": "~1:30",
+      "query": "Hail to the Chief march United States Marine Band The President's Own",
+      "album": "Hail to the Chief",
+      "duration": "0:38",
+      "start": null,
       "isrc": null,
-      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+      "notes": "Movement/number-level track of the named recording. Duration is that track’s length; start is an estimate (about ±15 s) of where the recognisable theme begins. If this exact recording is unavailable, another recording of the same movement works."
     },
     "confidence": "medium",
     "sources": [
@@ -1493,28 +1676,30 @@
       "performers": "Dietrich Fischer-Dieskau (baritone); Gerald Moore (piano)",
       "conductor": null,
       "label": "Deutsche Grammophon",
-      "year": null,
-      "why": "Their Schubert song recordings are a reference; they recorded this song more than once"
+      "year": 1968,
+      "why": "MusicBrainz recording date February 1968, UFA-Tonstudio, Berlin."
     },
     "trivia": "One singer plays four roles (narrator, father, son and the Erl-King) over a relentless triplet figure in the piano. Schubert revised it three times before issuing a fourth version as his Opus 1.",
     "tags": [
       "classical-era",
       "song",
       "lied",
-      "goethe"
+      "goethe",
+      "top400"
     ],
     "track": {
-      "query": "Schubert Erlkonig Fischer-Dieskau Gerald Moore",
-      "album": null,
-      "duration": "~4:00",
+      "query": "Schubert Erlkönig D 328 Dietrich Fischer-Dieskau Gerald Moore",
+      "album": "Die schöne Müllerin / Erlkönig / An die Musik / Heidenröslein",
+      "duration": "4:18",
+      "start": null,
       "isrc": null,
-      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+      "notes": "Movement/number-level track of the named recording. Duration is that track’s length; start is an estimate (about ±15 s) of where the recognisable theme begins. If this exact recording is unavailable, another recording of the same movement works."
     },
     "confidence": "high",
     "sources": [
       "https://en.wikipedia.org/wiki/Erlk%C3%B6nig_(Schubert)"
     ],
-    "notes": "Recording choice from memory."
+    "notes": null
   },
   {
     "id": "cls-cherubini-requiem-in-c-minor",
@@ -1533,11 +1718,11 @@
     "premiere_or_publication": "Premiered 21 January 1817 at a service commemorating Louis XVI",
     "dating_note": "Written in 1816 (Wikipedia).",
     "recording": {
-      "performers": "Any well-reviewed recording",
-      "conductor": null,
-      "label": null,
-      "year": null,
-      "why": "Choose the C minor Requiem (mixed chorus), not the later D minor one for men's voices."
+      "performers": "Philharmonia Orchestra; Ambrosian Singers",
+      "conductor": "Riccardo Muti",
+      "label": "EMI",
+      "year": 1982,
+      "why": "EMI/Angel issue dated 1982; session date unconfirmed (Gramophone dates Muti's EMI Cherubini series from 1980)."
     },
     "trivia": "The archbishop of Paris banned it in 1834 because it uses women's voices, so Cherubini wrote a second Requiem in D minor for male voices to be played at his own funeral.",
     "tags": [
@@ -1547,17 +1732,18 @@
       "less-familiar"
     ],
     "track": {
-      "query": "Cherubini Requiem in C minor Introit",
-      "album": null,
-      "duration": "~5:00",
+      "query": "Cherubini Requiem in C minor Introitus Riccardo Muti Philharmonia Ambrosian Singers",
+      "album": "Verdi: Requiem Mass / Cherubini: Requiem in C minor",
+      "duration": "7:20",
+      "start": null,
       "isrc": null,
-      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+      "notes": "Movement/number-level track of the named recording. Duration is that track’s length; start is an estimate (about ±15 s) of where the recognisable theme begins. If this exact recording is unavailable, another recording of the same movement works."
     },
     "confidence": "high",
     "sources": [
       "https://en.wikipedia.org/wiki/Requiem_(Cherubini)"
     ],
-    "notes": "Less-familiar pick; recording not named."
+    "notes": null
   },
   {
     "id": "cls-rossini-il-barbiere-di-siviglia",
@@ -1579,8 +1765,8 @@
       "performers": "London Symphony Orchestra",
       "conductor": "Claudio Abbado",
       "label": "Deutsche Grammophon",
-      "year": null,
-      "why": "Abbado's 1970s studio set is a classic with a fine cast; exact year not checked"
+      "year": 1971,
+      "why": "MusicBrainz recording date 11 September 1971, Watford Colosseum."
     },
     "trivia": "It first appeared as 'Almaviva' because Paisiello's own Barber of Seville from 1782 was still popular. The famous overture was recycled from two earlier Rossini operas rather than written fresh.",
     "tags": [
@@ -1590,17 +1776,18 @@
       "overture"
     ],
     "track": {
-      "query": "Rossini Barber of Seville Overture Abbado London Symphony",
-      "album": null,
-      "duration": "~7:00",
+      "query": "Rossini Il barbiere di Siviglia Overture Claudio Abbado London Symphony Orchestra",
+      "album": "Il barbiere di Siviglia",
+      "duration": "7:26",
+      "start": null,
       "isrc": null,
-      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+      "notes": "Movement/number-level track of the named recording. Duration is that track’s length; start is an estimate (about ±15 s) of where the recognisable theme begins. If this exact recording is unavailable, another recording of the same movement works."
     },
     "confidence": "high",
     "sources": [
       "https://en.wikipedia.org/wiki/The_Barber_of_Seville"
     ],
-    "notes": "Abbado recording from memory."
+    "notes": null
   },
   {
     "id": "cls-rossini-la-gazza-ladra",
@@ -1619,11 +1806,11 @@
     "premiere_or_publication": "Premiered 31 May 1817, La Scala, Milan",
     "dating_note": "Written for the 31 May 1817 La Scala premiere (Wikipedia).",
     "recording": {
-      "performers": "Any well-reviewed recording",
-      "conductor": null,
-      "label": null,
-      "year": null,
-      "why": "Any lively recording of the overture; the snare drum roll should be crisp."
+      "performers": "London Symphony Orchestra",
+      "conductor": "Claudio Abbado",
+      "label": "Deutsche Grammophon",
+      "year": 1972,
+      "why": "Year is the 1972 DG LP release; a 2012 Decca release of the same track carries a February 1975 date that conflicts with it, so the session is unconfirmed."
     },
     "trivia": "A 19th-century biography quotes Rossini saying the conductor locked him in a room at the top of La Scala, with stagehands tossing each finished overture page out of the window to copyists. The overture opens with snare drums, standing in for the magpie.",
     "tags": [
@@ -1633,11 +1820,12 @@
       "opera-semiseria"
     ],
     "track": {
-      "query": "Rossini La gazza ladra Overture",
-      "album": null,
-      "duration": "~9:00",
+      "query": "Rossini La gazza ladra Overture Claudio Abbado London Symphony Orchestra",
+      "album": "Rossini Overtures",
+      "duration": "9:19",
+      "start": null,
       "isrc": null,
-      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+      "notes": "Movement/number-level track of the named recording. Duration is that track’s length; start is an estimate (about ±15 s) of where the recognisable theme begins. If this exact recording is unavailable, another recording of the same movement works."
     },
     "confidence": "high",
     "sources": [
@@ -1662,11 +1850,11 @@
     "premiere_or_publication": "First sung on Christmas Eve 1818 in Oberndorf bei Salzburg",
     "dating_note": "Gruber wrote the melody for Joseph Mohr's 1816 poem on 24 December 1818 (Wikipedia).",
     "recording": {
-      "performers": "Any well-reviewed recording",
+      "performers": "Wiener Sängerknaben",
       "conductor": null,
-      "label": null,
-      "year": null,
-      "why": "Any simple vocal rendition; the original was for two voices and guitar."
+      "label": "PolyGram Special Markets",
+      "year": 1994,
+      "why": "PolyGram 442 800-2; year is the 1994 release, no session date found. Weakly sourced pick."
     },
     "trivia": "Joseph Mohr handed Gruber the words on Christmas Eve 1818 and asked for a melody and guitar part for that night's mass, possibly because floodwater had damaged the church organ. The carol was first recorded in 1905.",
     "tags": [
@@ -1676,61 +1864,18 @@
       "carol"
     ],
     "track": {
-      "query": "Stille Nacht heilige Nacht Gruber",
-      "album": null,
-      "duration": "~3:00",
+      "query": "Gruber Stille Nacht heilige Nacht Vienna Boys' Choir Christmas Joy",
+      "album": "Christmas Joy",
+      "duration": "4:11",
+      "start": null,
       "isrc": null,
-      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+      "notes": "Movement/number-level track of the named recording. Duration is that track’s length; start is an estimate (about ±15 s) of where the recognisable theme begins. If this exact recording is unavailable, another recording of the same movement works."
     },
     "confidence": "high",
     "sources": [
       "https://en.wikipedia.org/wiki/Silent_Night"
     ],
     "notes": "Organ story is 'possibly' per Wikipedia."
-  },
-  {
-    "id": "cls-schubert-trout-quintet",
-    "composer": "Franz Schubert",
-    "composer_short": "Schubert",
-    "work": "Piano Quintet in A major, D 667 ('Trout')",
-    "nickname": "Trout Quintet",
-    "catalogue_only": false,
-    "form": "chamber",
-    "accept_work": "Schubert's Trout Quintet",
-    "excerpt": "IV. Andantino (variations on 'Die Forelle')",
-    "year": 1819,
-    "year_lo": 1819,
-    "year_hi": 1819,
-    "year_label": "1819",
-    "premiere_or_publication": "Published 1829, a year after Schubert's death",
-    "dating_note": "Composed in 1819 when Schubert was 22 (Wikipedia).",
-    "recording": {
-      "performers": "Clifford Curzon (piano); members of the Vienna Octet",
-      "conductor": null,
-      "label": "Decca",
-      "year": null,
-      "why": "Classic 1950s account; year not checked"
-    },
-    "trivia": "The fourth movement is a set of variations on Schubert's own song 'Die Forelle' (1817), which gives the quintet its name. It was written for the amateur cellist Sylvester Paumgartner, who asked for the variations.",
-    "tags": [
-      "classical-era",
-      "chamber",
-      "variations",
-      "piano-quintet"
-    ],
-    "track": {
-      "query": "Schubert Trout Quintet Andantino Curzon Vienna Octet",
-      "album": null,
-      "duration": "~7:00",
-      "isrc": null,
-      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
-    },
-    "confidence": "high",
-    "sources": [
-      "https://en.wikipedia.org/wiki/Trout_Quintet",
-      "https://en.wikipedia.org/wiki/Die_Forelle"
-    ],
-    "notes": "Recording from memory."
   },
   {
     "id": "cls-weber-invitation-to-the-dance",
@@ -1749,11 +1894,11 @@
     "premiere_or_publication": "Berlioz made his orchestration in 1841",
     "dating_note": "Written for piano in 1819 (Wikipedia). Many recordings use Berlioz's 1841 orchestration, but the work's date is 1819.",
     "recording": {
-      "performers": "Any well-reviewed recording",
-      "conductor": null,
-      "label": null,
-      "year": null,
-      "why": "Either Weber's piano original or Berlioz's orchestration is acceptable."
+      "performers": "Berliner Philharmoniker",
+      "conductor": "Herbert von Karajan",
+      "label": "Deutsche Grammophon",
+      "year": 1983,
+      "why": "DG 413 587-2; MusicBrainz recording date 28 December 1983, Philharmonie, Berlin."
     },
     "trivia": "Weber conceived it as a piano rondo telling the story of a couple dancing, and Berlioz orchestrated it in 1841. It was later danced as Le Spectre de la rose by the Ballets Russes in 1911.",
     "tags": [
@@ -1763,16 +1908,17 @@
       "dance"
     ],
     "track": {
-      "query": "Weber Invitation to the Dance Aufforderung zum Tanz",
-      "album": null,
-      "duration": "~9:00",
+      "query": "Weber Invitation to the Dance Aufforderung zum Tanz Karajan Berliner Philharmoniker",
+      "album": "Les Préludes / Die Moldau / Guillaume Tell (Overture) / Aufforderung zum Tanz / Ungarische Rhapsodie nº 5",
+      "duration": "10:32",
+      "start": null,
       "isrc": null,
-      "notes": "Album/duration are approximate hints from memory; if this exact recording is not on the service, any well-reviewed recording of the excerpt will do."
+      "notes": "Movement/number-level track of the named recording. Duration is that track’s length; start is an estimate (about ±15 s) of where the recognisable theme begins. If this exact recording is unavailable, another recording of the same movement works."
     },
     "confidence": "high",
     "sources": [
       "https://en.wikipedia.org/wiki/Invitation_to_the_Dance_(Weber)"
     ],
-    "notes": "Ballets Russes link from memory (Wikipedia gives a 19 April 1911 Monte Carlo premiere). Track may be the Berlioz orchestration; date stays 1819."
+    "notes": "Track may be the Berlioz orchestration; date stays 1819."
   }
 ]
