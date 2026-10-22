@@ -34609,6 +34609,122 @@
    }
   ]
  },
+ "jazz-rosenberg-trio-caravan": {
+  "set": "jazz",
+  "card": "The Rosenberg Trio - Caravan",
+  "query": "The Rosenberg Trio Caravan Caravan album 1994",
+  "expected": 179,
+  "picked": [
+   {
+    "id": "5JQRV62KBwM",
+    "title": "Caravan (Instrumental)",
+    "channel": "The Rosenberg Trio - Topic",
+    "duration": 177,
+    "views": 15233,
+    "score": 95.3,
+    "why": {
+     "title": 1.0,
+     "artist": 1.0,
+     "query": 0.67,
+     "topic": "artist",
+     "dur": "177s vs 179s",
+     "penalty": [
+      "instrumental"
+     ]
+    }
+   },
+   {
+    "id": "HAYsxf4_VzE",
+    "title": "Rosenberg Trio - Caravan (Dutch TV)",
+    "channel": "kapitanswing",
+    "duration": 182,
+    "views": 6796,
+    "score": 93.1,
+    "why": {
+     "title": 1.0,
+     "artist": 1.0,
+     "query": 0.67,
+     "dur": "182s vs 179s"
+    }
+   },
+   {
+    "id": "2fxvZOxxoxk",
+    "title": "Stochelo Rosenberg - Caravan (4K)",
+    "channel": "PARAMAX FILMS",
+    "duration": 443,
+    "views": 309334,
+    "score": 39.4,
+    "why": {
+     "title": 1.0,
+     "artist": 0.5,
+     "query": 0.5,
+     "dur": "443s vs 179s"
+    }
+   }
+  ],
+  "dropped": [
+   {
+    "id": "xbsNEf1nN2M",
+    "reason": "title mismatch"
+   },
+   {
+    "id": "O4mCtP2nwhI",
+    "reason": "title mismatch"
+   }
+  ]
+ },
+ "jazz-rosenberg-trio-for-sephora": {
+  "set": "jazz",
+  "card": "The Rosenberg Trio - For Sephora",
+  "query": "Rosenberg Trio For Sephora Live at the North Sea Jazz Festival 92 1992",
+  "expected": 268,
+  "picked": [
+   {
+    "id": "oVrL11D6ZIU",
+    "title": "For Sephora (Live (1992/Jazz Festival))",
+    "channel": "The Rosenberg Trio - Topic",
+    "duration": 269,
+    "views": 9444,
+    "score": 118.2,
+    "why": {
+     "title": 1.0,
+     "artist": 1.0,
+     "query": 0.67,
+     "topic": "artist",
+     "dur": "269s vs 268s"
+    }
+   },
+   {
+    "id": "_sKhDnRgHEo",
+    "title": "The Rosenberg Trio - For Sephora live",
+    "channel": "Pchg Gm",
+    "duration": 264,
+    "views": 100,
+    "score": 87.9,
+    "why": {
+     "title": 1.0,
+     "artist": 1.0,
+     "query": 0.42,
+     "dur": "264s vs 268s"
+    }
+   },
+   {
+    "id": "7WBlgPnFlYo",
+    "title": "Spain (Live (1992/Jazz Festival))",
+    "channel": "The Rosenberg Trio - Topic",
+    "duration": 232,
+    "views": 1898,
+    "score": 83.9,
+    "why": {
+     "title": 0.38,
+     "artist": 1.0,
+     "query": 0.5,
+     "topic": "artist",
+     "dur": "232s vs 268s"
+    }
+   }
+  ]
+ },
  "jazz-sade-smooth-operator": {
   "set": "jazz",
   "card": "Sade - Smooth Operator",
@@ -35637,6 +35753,59 @@
    }
   ]
  },
+ "jazz-snarky-puppy-something": {
+  "set": "jazz",
+  "card": "Snarky Puppy feat. Lalah Hathaway - Something",
+  "query": "Snarky Puppy Lalah Hathaway Something Family Dinner Volume 1 2013",
+  "expected": 455,
+  "picked": [
+   {
+    "id": "0SJIgTLe0hc",
+    "title": "Snarky Puppy feat. Lalah Hathaway - Something (Family Dinner - Volume One)",
+    "channel": "GroundUP Music NYC",
+    "duration": 465,
+    "views": 12409080,
+    "score": 97.7,
+    "why": {
+     "title": 1.0,
+     "artist": 1.0,
+     "query": 0.8,
+     "dur": "465s vs 455s"
+    }
+   },
+   {
+    "id": "l61sp9WzqE4",
+    "title": "Snarky Pupp \"Something\" with Lalah Hathaway",
+    "channel": "Soulspazm",
+    "duration": 456,
+    "views": 16071,
+    "score": 83.1,
+    "why": {
+     "title": 1.0,
+     "artist": 0.75,
+     "query": 0.4,
+     "dur": "456s vs 455s"
+    }
+   },
+   {
+    "id": "myeH2EFnvF4",
+    "title": "Snarky Puppy with Lalah Hathaway - Something - Cover",
+    "channel": "AIMtvStage",
+    "duration": 459,
+    "views": 21377,
+    "score": 66.0,
+    "why": {
+     "title": 1.0,
+     "artist": 1.0,
+     "query": 0.5,
+     "dur": "459s vs 455s",
+     "penalty": [
+      "cover"
+     ]
+    }
+   }
+  ]
+ },
  "jazz-snarky-puppy-trinity": {
   "set": "jazz",
   "card": "Snarky Puppy - Trinity",
@@ -35692,6 +35861,60 @@
   "override": [
    "z3bBIoRnd9k",
    "CSiLPkUopBg"
+  ]
+ },
+ "jazz-snarky-puppy-what-about-me": {
+  "set": "jazz",
+  "card": "Snarky Puppy - What About Me?",
+  "query": "Snarky Puppy What About Me We Like It Here 2013",
+  "expected": 402,
+  "picked": [
+   {
+    "id": "tdddBjS46w8",
+    "title": "Snarky Puppy - Larnell Lewis 'What About Me?' Excerpts (We Like it Here)",
+    "channel": "Ledones",
+    "duration": 437,
+    "views": 61329,
+    "score": 95.1,
+    "why": {
+     "title": 1.0,
+     "artist": 1.0,
+     "query": 0.9,
+     "dur": "437s vs 402s"
+    }
+   },
+   {
+    "id": "plW85_m1n1s",
+    "title": "What about me? (We like it here) - Snarky Puppy (Masterclass @ Codarts)",
+    "channel": "Manuel ",
+    "duration": 360,
+    "views": 1902,
+    "score": 92.4,
+    "why": {
+     "title": 1.0,
+     "artist": 1.0,
+     "query": 0.9,
+     "dur": "360s vs 402s"
+    }
+   },
+   {
+    "id": "mZ0_LuZLEqc",
+    "title": "Snarky Puppy: What About Me? [HD] 2013-04-04 - Brooklyn, NY",
+    "channel": "MKDevo",
+    "duration": 473,
+    "views": 14490,
+    "score": 85.6,
+    "why": {
+     "title": 1.0,
+     "artist": 1.0,
+     "query": 0.6,
+     "dur": "473s vs 402s"
+    }
+   }
+  ],
+  "override": [
+   "fuhHU_BZXSk",
+   "Kabima0y7wA"
   ]
  },
  "jazz-sons-of-kemet-my-queen-is-harriet-tubman": {
