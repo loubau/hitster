@@ -11,7 +11,7 @@ const VARIANTS: { id: Variant; name: string; blurb: string }[] = [
 ];
 
 const SET_SAMPLE: Record<SetId, { year: string; top: string; bottom: string }> = {
-  regular: { year: '1975', top: 'Pop', bottom: '1950s to now' },
+  regular: { year: '1975', top: 'Pop', bottom: 'Elvis to Eilish' },
   jazz: { year: '1959', top: 'Jazz', bottom: 'Ellington to Esperanza Spalding' },
   classical: { year: '1808', top: 'Classical', bottom: 'Palestrina to Pärt' },
 };
