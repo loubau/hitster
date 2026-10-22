@@ -749,5 +749,89 @@
       "https://en.wikipedia.org/wiki/Songbook_(Kenny_Garrett_album)"
     ],
     "notes": "Wikipedia gives 7 and 8 January 1997 at Sear Sound, New York, without saying which day this track was cut, so the month is used. Released May 1997. Every track on the album is credited to Garrett."
+  },
+  {
+    "id": "jazz-rosenberg-trio-for-sephora",
+    "artist": "The Rosenberg Trio",
+    "title": "For Sephora",
+    "composer": "Stochelo Rosenberg",
+    "recording_date": "1992-07-12",
+    "recording_year": 1992,
+    "release_year": 1993,
+    "original_issue": "Polydor (album Live at the North Sea Jazz Festival '92, 14 Jun 1993)",
+    "personnel": "Stochelo Rosenberg (lead guitar); Nous'che Rosenberg (rhythm guitar); Nonnie Rosenberg (double bass)",
+    "style": "gypsy",
+    "year": 1992,
+    "year_lo": 1992,
+    "year_hi": 1992,
+    "year_label": "1992",
+    "trivia": "Stochelo Rosenberg wrote this tune as a tribute to his sister Sephora, and it has become a cornerstone of modern gypsy jazz. It opens the trio's live album from the North Sea Jazz Festival in The Hague, recorded on 12 July 1992 when Stochelo was 24.",
+    "tags": [
+      "1990s",
+      "gypsy",
+      "polydor",
+      "live",
+      "original",
+      "north-sea-jazz"
+    ],
+    "track": {
+      "artist": "The Rosenberg Trio",
+      "title": "For Sephora",
+      "album": "Live at the North Sea Jazz Festival '92",
+      "duration": "4:28",
+      "isrc": null,
+      "query": "Rosenberg Trio For Sephora Live at the North Sea Jazz Festival 92 1992",
+      "notes": "live version (4:28, track 1)"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://musicbrainz.org/release/e4298a09-0acd-4759-843a-39e45c709c7a",
+      "https://www.allmusic.com/album/live-at-the-north-sea-jazz-festival-92-mw0000767635",
+      "https://rosenbergacademy.com/products/for-sephora",
+      "https://en.wikipedia.org/wiki/Rosenberg_Trio"
+    ],
+    "notes": "The recording date (12 July 1992, North Sea Jazz Festival, The Hague) and the release date (14 June 1993) come from AllMusic's album page as quoted in search results; AllMusic itself could not be opened, so confidence is medium. MusicBrainz confirms the 1993 Polydor release, the track order and the 4:28 length, and a German library record gives catalogue 519 466-2 and names Stochelo as composer; Wikipedia lists the album as Verve/Polydor. The studio version is on Gipsy Summer (1991) but no recording date was found for it, so the dated live version is used; the query may return the studio take, one year earlier. Tier C: a signature tune for gypsy jazz fans rather than a general-audience name, though a Samois performance with Bireli Lagrene has about 2.9 million YouTube views. One of two Rosenberg Trio cards, with Caravan."
+  },
+  {
+    "id": "jazz-rosenberg-trio-caravan",
+    "artist": "The Rosenberg Trio",
+    "title": "Caravan",
+    "composer": "Juan Tizol and Duke Ellington",
+    "recording_date": null,
+    "recording_year": 1994,
+    "release_year": 1994,
+    "original_issue": "Verve and Polydor (album Caravan, 1994)",
+    "personnel": "Stochelo Rosenberg (lead guitar); Nous'che Rosenberg (rhythm guitar); Nonnie Rosenberg (double bass). The violinist Stephane Grappelli is credited as a guest on the album, but the sources do not say which tracks he plays",
+    "style": "gypsy",
+    "year": 1994,
+    "year_lo": 1994,
+    "year_hi": 1994,
+    "year_label": "1994",
+    "trivia": "Caravan was written by Juan Tizol, with Duke Ellington credited as co-composer and Irving Mills as lyricist, and the Rosenberg Trio plays it as gypsy swing on the album named after it. The sessions ran from 18 January to 3 February 1994 in Paris and Hilversum, and the violinist Stephane Grappelli, whom the trio had accompanied on tour, is a guest on the record.",
+    "tags": [
+      "1990s",
+      "gypsy",
+      "verve",
+      "standard",
+      "grappelli"
+    ],
+    "track": {
+      "artist": "The Rosenberg Trio",
+      "title": "Caravan",
+      "album": "Caravan",
+      "duration": "2:59",
+      "isrc": null,
+      "query": "The Rosenberg Trio Caravan Caravan album 1994",
+      "notes": "album version (about 2:59, MusicBrainz track length)"
+    },
+    "confidence": "medium",
+    "sources": [
+      "https://musicbrainz.org/recording/7e752cd7-743d-4a34-9ea3-4dfc0c39f0fe",
+      "https://musicbrainz.org/release/6c3d4e2a-e22c-4ae1-9f8f-cbc4506a144e",
+      "https://en.wikipedia.org/wiki/Rosenberg_Trio",
+      "https://www.gallistrings.com/en/artists/91-rosenberg-trio-eng",
+      "https://www.allmusic.com/album/caravan-mw0000626333"
+    ],
+    "notes": "The session dates (18 January to 3 February 1994, Davout Studios in Paris and Wisseloord Studio in Hilversum) come from AllMusic's album page as quoted in search results; AllMusic itself could not be opened, so confidence is medium and 1994 is used as the recording year. Release year 1994 is given by MusicBrainz, Wikipedia and Gallistrings; AllMusic and one other discography list 1993, which does not fit the 1994 sessions. MusicBrainz credits the work to Ellington and Tizol and lists this track at about 2:59. Tier B: the tune is a jazz standard and the trio's uploads of it have roughly 220,000 to 310,000 YouTube views. One of two Rosenberg Trio cards, with For Sephora."
   }
 ]

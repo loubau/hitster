@@ -239,45 +239,6 @@
     "notes": "No recording date found, so 2022 is inferred from the June 2022 single and the Partisan signing announced the same day. The composer line is the album's default writing credit, which the track list applies to this song. Official video has about 635,000 YouTube views. Ezra Collective's first card, before Ajala (2023)."
   },
   {
-    "id": "jazz-snarky-puppy-trinity",
-    "artist": "Snarky Puppy",
-    "title": "Trinity",
-    "composer": "Mark Lettieri",
-    "recording_date": "2022-03",
-    "recording_year": 2022,
-    "release_year": 2022,
-    "original_issue": "GroundUP Music (album Empire Central, 30 Sep 2022)",
-    "personnel": "Michael League (electric bass); Mark Lettieri, Bob Lanzetti, Chris McQueen (electric guitars); Bobby Sparks (Hammond B3 organ, ARP String Ensemble, Minimoog, Clavinet); Justin Stanton (Wurlitzer, Prophet, Minimoog, trumpet); Shaun Martin (talkbox, vocoder, synthesizers); Bill Laurance (keyboards); Zach Brock (violin); Mike Maher and Jay Jennings (trumpet, flugelhorn); Chris Bullock (tenor saxophone, bass clarinet); Bob Reynolds (saxophones); Nate Werth, Keita Ogawa, Marcelo Woloski (percussion); Jason JT Thomas, Larnell Lewis, Jamison Ross (drums). Album credits, not assigned by track in the source",
-    "style": "jazz-funk",
-    "year": 2022,
-    "year_lo": 2022,
-    "year_hi": 2022,
-    "year_label": "2022",
-    "trivia": "Trinity is named for the Trinity River in Texas and was the single from Empire Central, an album recorded live in front of a studio audience over eight days at Deep Ellum Art Company in Dallas as a tribute to the city's Black music history. The album won the Grammy for Best Contemporary Instrumental Album at the 65th ceremony.",
-    "tags": [
-      "2020s",
-      "jazz-funk",
-      "groundup",
-      "live",
-      "grammy",
-      "dallas"
-    ],
-    "track": {
-      "artist": "Snarky Puppy",
-      "title": "Trinity",
-      "album": "Empire Central",
-      "duration": "7:54",
-      "isrc": null,
-      "query": "Snarky Puppy Trinity Empire Central 2022",
-      "notes": "album version (7:54); the widely viewed YouTube upload is labelled the Extended Version"
-    },
-    "confidence": "high",
-    "sources": [
-      "https://en.wikipedia.org/wiki/Empire_Central"
-    ],
-    "notes": "The Wikipedia infobox gives the sessions as 3 to 10 March 2022, so the month is used and no single day. The personnel line is the album credit list, not assigned by track. The YouTube upload labelled Extended Version has about 2.8 million views, so tier B. Snarky Puppy's second card, after Lingus (2013)."
-  },
-  {
     "id": "jazz-domi-jd-beck-smile",
     "artist": "DOMi & JD BECK",
     "title": "Smile",

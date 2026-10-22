@@ -78,6 +78,43 @@
     "notes": "Third version of Body and Soul in the set, after Coleman Hawkins 1939 and Dexter Gordon 1985. Not tagged crossover: a standard sung by two vocalists on a Bennett duets album, with a jazz-trained arranger and conductor."
   },
   {
+    "id": "jazz-porter-be-good-lions-song",
+    "artist": "Gregory Porter",
+    "title": "Be Good (Lion's Song)",
+    "composer": "Gregory Porter",
+    "recording_date": "2011-06",
+    "recording_year": 2011,
+    "release_year": 2012,
+    "original_issue": "Motéma (album Be Good, 15 Feb 2012)",
+    "personnel": "Gregory Porter (vocals); Chip Crawford (piano); Aaron James (bass); Emanuel Harrold (drums); Yosuke Sato (alto saxophone); Tivon Pennicott (tenor saxophone); Keyon Harrold (trumpet); Kamau Kenyatta (horn arrangements); Brian Bacchus (producer). Album credits, horn players not assigned by track in the source",
+    "style": "vocal",
+    "year": 2011,
+    "year_lo": 2011,
+    "year_hi": 2011,
+    "year_label": "2011",
+    "trivia": "Gregory Porter wrote the title track of his 2012 album Be Good, which one reviewer called lullaby-like. The album was cut in three days in June 2011 at Systems Two in Brooklyn and went on to chart in Belgium, France and the Netherlands.",
+    "tags": [
+      "2010s",
+      "vocal",
+      "motema",
+      "original"
+    ],
+    "track": {
+      "artist": "Gregory Porter",
+      "title": "Be Good (Lion's Song)",
+      "album": "Be Good",
+      "duration": "6:26",
+      "isrc": null,
+      "query": "Gregory Porter Be Good Lion's Song Be Good 2011",
+      "notes": "album version (6:26, track 2)"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Be_Good_(Gregory_Porter_album)"
+    ],
+    "notes": "The album page gives 20 to 22 June 2011 for the whole album, so the month is used and no single day. Porter's first card in the set."
+  },
+  {
     "id": "jazz-glasper-afro-blue",
     "artist": "Robert Glasper Experiment",
     "title": "Afro Blue",
@@ -229,6 +266,84 @@
       "https://musicbrainz.org/recording/029506e4-5230-40bc-a5b2-dc2e6e595c59"
     ],
     "notes": "MusicBrainz credits the composition to Michael League and lists Cory Henry on keyboard for this recording."
+  },
+  {
+    "id": "jazz-snarky-puppy-what-about-me",
+    "artist": "Snarky Puppy",
+    "title": "What About Me?",
+    "composer": "Michael League",
+    "recording_date": "2013-10",
+    "recording_year": 2013,
+    "release_year": 2014,
+    "original_issue": "Ropeadope and GroundUP Music (album We Like It Here, 25 Feb 2014)",
+    "personnel": "Michael League (bass guitar, Moog bass); Mike Maher and Jay Jennings (trumpets, flugelhorns); Chris Bullock (tenor saxophone, bass clarinet, flute); Bob Reynolds (tenor saxophone); Cory Henry, Bill Laurance, Justin Stanton and Shaun Martin (keyboards); Bob Lanzetti, Mark Lettieri and Chris McQueen (guitars); Larnell Lewis (drums); Nate Werth (percussion); string players. Album credits, not assigned by track in the source",
+    "style": "jazz-funk",
+    "year": 2013,
+    "year_lo": 2013,
+    "year_hi": 2013,
+    "year_label": "2013",
+    "trivia": "The second track of We Like It Here, which Snarky Puppy recorded and filmed live with a studio audience over four nights in the Netherlands in October 2013. The CD and DVD set pairs the album with a film of over an hour of interviews and behind the scenes footage, and that film is also on the band's YouTube page.",
+    "tags": [
+      "2010s",
+      "jazz-funk",
+      "ropeadope",
+      "live",
+      "groundup"
+    ],
+    "track": {
+      "artist": "Snarky Puppy",
+      "title": "What About Me?",
+      "album": "We Like It Here",
+      "duration": "6:42",
+      "isrc": null,
+      "query": "Snarky Puppy What About Me We Like It Here 2013",
+      "notes": "album version (6:42, track 2)"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/We_Like_It_Here"
+    ],
+    "notes": "Wikipedia gives October 2013 for the sessions (Kytopia Studios, Utrecht) and credits all writing on the album to Michael League except where a track is noted; this track has no note, so League is the composer. The personnel line is the album credit list, not assigned by track. The official GroundUP upload has about 16 million YouTube views, so tier B. Snarky Puppy's second card, after Lingus."
+  },
+  {
+    "id": "jazz-snarky-puppy-something",
+    "artist": "Snarky Puppy feat. Lalah Hathaway",
+    "title": "Something",
+    "composer": "David Foster and Brenda Russell",
+    "recording_date": "2013-03",
+    "recording_year": 2013,
+    "release_year": 2013,
+    "original_issue": "Ropeadope (album Family Dinner Volume 1, 2013)",
+    "personnel": "Lalah Hathaway (vocals); Michael League (bass guitar, keyboard bass); Robert 'Sput' Searight (drums); Cory Henry and Bill Laurance (piano, keyboards); Mark Lettieri and Bob Lanzetti (guitars); Mike Maher and Jay Jennings (trumpets, flugelhorns); Chris Bullock (tenor saxophone, flute, bass clarinet); Nate Werth (percussion); Katya Diaz, Rachella Searight and Chelsea West (backing vocals). Apart from Hathaway, album credits not assigned by track in the source",
+    "style": "fusion",
+    "year": 2013,
+    "year_lo": 2013,
+    "year_hi": 2013,
+    "year_label": "2013",
+    "trivia": "Snarky Puppy and Lalah Hathaway won the Grammy for Best R&B Performance on 26 January 2014 for their version of this song by Brenda Russell and David Foster. It was recorded and filmed on 8 and 9 March 2013 at the Shaftman Performance Hall in Roanoke, Virginia, for the first Family Dinner album, made to draw attention to the Jefferson Center's non-profit arts work.",
+    "tags": [
+      "2010s",
+      "fusion",
+      "ropeadope",
+      "live",
+      "grammy",
+      "family-dinner"
+    ],
+    "track": {
+      "artist": "Snarky Puppy feat. Lalah Hathaway",
+      "title": "Something",
+      "album": "Family Dinner Volume 1",
+      "duration": "7:35",
+      "isrc": null,
+      "query": "Snarky Puppy Lalah Hathaway Something Family Dinner Volume 1 2013",
+      "notes": "album version (7:35, track 5), feat. Lalah Hathaway"
+    },
+    "confidence": "high",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Family_Dinner_%E2%80%93_Volume_1",
+      "https://musicbrainz.org/recording/d912ef45-2135-4ee1-adaf-63cb3291d5c0"
+    ],
+    "notes": "Wikipedia gives 8 and 9 March 2013 for the Roanoke sessions, so the month is used and no single day. The writer credit is David Foster and Brenda Russell; the album page lists the arrangement as League, Searight, Henry, Laurance and Lettieri. MusicBrainz dates the album release to 24 September 2013. Apart from Hathaway on track 5, the personnel line is the album credit list. The official GroundUP upload has about 12 million YouTube views and the Grammy adds recognition, so tier B. Snarky Puppy's third card, after Lingus and What About Me?."
   },
   {
     "id": "jazz-porter-liquid-spirit",

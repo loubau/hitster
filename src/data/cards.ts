@@ -37,6 +37,9 @@ interface RawClassical extends RawCommon {
 
 const files = import.meta.glob('/data/sets/*/*.json', { eager: true, import: 'default' }) as Record<string, unknown>;
 
+/** What fits on the card face: "1956", "c. 1956", "1887–1890", "1630s". Curators' notes after it go in the facts. */
+const FACE_YEAR = /^(c\.\s*)?\d{4}s?(\s*[–-]\s*\d{2,4})?/;
+
 const facts = (pairs: [string, string | null | undefined][]): Fact[] =>
   pairs.filter((p): p is [string, string] => !!p[1]).map(([label, value]) => ({ label, value }));
 
@@ -49,7 +52,7 @@ function base(raw: RawCommon, set: SetId) {
     year: raw.year,
     yearLo: Math.min(yearLo, yearHi),
     yearHi: Math.max(yearLo, yearHi),
-    yearLabel: raw.year_label ?? String(raw.year),
+    yearLabel: raw.year_label?.match(FACE_YEAR)?.[0] ?? String(raw.year),
     trivia: raw.trivia ?? '',
     region: raw.region ?? 'intl',
     tags: raw.tags ?? [],
@@ -63,8 +66,9 @@ function normalise(raw: unknown, set: SetId): Card | null {
     const c = raw as RawClassical;
     const rec = c.recording;
     const screen = { film: 'Film', tv: 'Series', game: 'Game' }[c.form ?? ''];
+    const b = base(c, set);
     return {
-      ...base(c, set),
+      ...b,
       primary: c.composer,
       secondary: c.work,
       primaryLabel: 'Composer',
@@ -72,6 +76,7 @@ function normalise(raw: unknown, set: SetId): Card | null {
       excerpt: c.excerpt,
       accept: c.accept_work,
       facts: facts([
+        ['Dated', c.year_label !== b.yearLabel ? c.year_label : null],
         ['Recording', rec && [rec.conductor, rec.performers, rec.year].filter(Boolean).join(', ')],
         ['First heard', c.premiere_or_publication],
       ]),
