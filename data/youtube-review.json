@@ -3471,7 +3471,11 @@
     }
    }
   ],
-  "flag": "title partly matches"
+  "flag": "title partly matches",
+  "override": [
+   "NYufRGrgvg0",
+   "TAXy4h81v5c"
+  ]
  },
  "cls-byrd-ave-verum-corpus": {
   "set": "classical",
@@ -5289,7 +5293,11 @@
    "Dvořák Symphony No. 9 New World II. Largo Kertész Vienna Philharmonic",
    "Symphony No. 9 in E minor, Op. 95 Antonín Dvořák"
   ],
-  "flag": "title partly matches"
+  "flag": "title partly matches",
+  "override": [
+   "gcoXuGjo6y4@50",
+   "szN-tawEMeY@50"
+  ]
  },
  "cls-einaudi-nuvole-bianche": {
   "set": "classical",
@@ -5713,7 +5721,11 @@
     "start": 105
    }
   ],
-  "flag": "title partly matches"
+  "flag": "title partly matches",
+  "override": [
+   "WHi5wFhr0Yk@105",
+   "mSybuhKH_fE@105"
+  ]
  },
  "cls-falla-el-amor-brujo-ritual-fire-dance": {
   "set": "classical",
@@ -8464,7 +8476,11 @@
     }
    }
   ],
-  "flag": "title partly matches"
+  "flag": "title partly matches",
+  "override": [
+   "o6K2onyC08Q",
+   "NQbe9cGgC2Y"
+  ]
  },
  "cls-hurwitz-la-la-land": {
   "set": "classical",
@@ -9398,6 +9414,10 @@
     "id": "SVlRU6UOlBk",
     "reason": "title mismatch"
    }
+  ],
+  "override": [
+   "pJ-xeiVE6c4",
+   "tZ-nuU-hda8"
   ]
  },
  "cls-lehar-the-merry-widow": {
@@ -9713,6 +9733,10 @@
      "dur": "280s vs 239s"
     }
    }
+  ],
+  "override": [
+   "31oAcmBz044",
+   "2NalQFGIzD0"
   ]
  },
  "cls-lully-le-bourgeois-gentilhomme": {
@@ -11893,7 +11917,11 @@
     "start": 445
    }
   ],
-  "flag": "title partly matches"
+  "flag": "title partly matches",
+  "override": [
+   "TZaSJ9VawzQ",
+   "zWytgJy-u8w"
+  ]
  },
  "cls-orff-carmina-burana": {
   "set": "classical",
@@ -14709,7 +14737,11 @@
    "Scheherazade, Op. 35 Nikolai Rimsky-Korsakov",
    "Scheherazade, Op. 35"
   ],
-  "flag": "weak score 63.3; title partly matches"
+  "flag": "weak score 63.3; title partly matches",
+  "override": [
+   "jlCjtBsQY3Q@45",
+   "0mR-GCYapCs@45"
+  ]
  },
  "cls-robert-schumann-piano-concerto": {
   "set": "classical",
@@ -15260,6 +15292,10 @@
      "dur": "241s vs 251s"
     }
    }
+  ],
+  "override": [
+   "cTEZhg1Um34",
+   "9ol8bojo_RQ"
   ]
  },
  "cls-rutter-the-lord-bless-you-and-keep-you": {
@@ -18079,7 +18115,11 @@
     }
    }
   ],
-  "flag": "title partly matches"
+  "flag": "title partly matches",
+  "override": [
+   "uP8FW4EknEs",
+   "6ZZO-axA3HM"
+  ]
  },
  "cls-ten-holt-canto-ostinato": {
   "set": "classical",
@@ -18742,7 +18782,11 @@
     "start": "start-unverified"
    }
   ],
-  "flag": "title partly matches"
+  "flag": "title partly matches",
+  "override": [
+   "AssDQbaIP_I",
+   "l3w4I-KElxQ"
+  ]
  },
  "cls-verdi-la-traviata-brindisi": {
   "set": "classical",
@@ -19206,7 +19250,11 @@
     }
    }
   ],
-  "flag": "title partly matches"
+  "flag": "title partly matches",
+  "override": [
+   "AG2U_i_6jg4",
+   "TFB7QhgFTRo"
+  ]
  },
  "cls-vivaldi-gloria-rv-589": {
   "set": "classical",
@@ -19632,6 +19680,10 @@
      "dur": "652s vs 497s"
     }
    }
+  ],
+  "override": [
+   "TRkuLV77NhY",
+   "MlG1S0TEdkM"
   ]
  },
  "cls-weber-der-freischutz-overture": {
@@ -19846,7 +19898,11 @@
     "reason": "title mismatch"
    }
   ],
-  "flag": "title partly matches"
+  "flag": "title partly matches",
+  "override": [
+   "e6HVCqQStRE",
+   "EZaQ4jH9GuU"
+  ]
  },
  "cls-whitacre-sleep": {
   "set": "classical",
@@ -22687,6 +22743,10 @@
      ]
     }
    }
+  ],
+  "override": [
+   "G46O8YiLHXI",
+   "Go5-bKDCQM8"
   ]
  },
  "jazz-bennett-steppin-out-with-my-baby": {
@@ -25299,7 +25359,11 @@
     "reason": "not embeddable or gone"
    }
   ],
-  "flag": "duration 408s vs 588s"
+  "flag": "duration 408s vs 588s",
+  "override": [
+   "qjQ3UWy1GsA",
+   "5jq2TuEhsBA"
+  ]
  },
  "jazz-cole-get-your-kicks-on-route-66": {
   "set": "jazz",
@@ -32525,7 +32589,11 @@
     }
    }
   ],
-  "flag": "duration 398s vs 304s"
+  "flag": "duration 398s vs 304s",
+  "override": [
+   "X6JM8iagb8o",
+   "Fw4ch6KVOBc"
+  ]
  },
  "jazz-ink-spots-if-i-didnt-care": {
   "set": "jazz",
@@ -37818,7 +37886,11 @@
     }
    }
   ],
-  "flag": "duration 251s vs 174s"
+  "flag": "duration 251s vs 174s",
+  "override": [
+   "-aRKLqr-9wA",
+   "W985hWD5KYg"
+  ]
  },
  "jazz-mulligan-my-funny-valentine": {
   "set": "jazz",
@@ -39343,7 +39415,11 @@
     }
    }
   ],
-  "flag": "duration 50s vs 316s"
+  "flag": "duration 50s vs 316s",
+  "override": [
+   "udxRGfiCIHw",
+   "Qj5z4SbrH20"
+  ]
  },
  "jazz-powell-cleopatras-dream": {
   "set": "jazz",
@@ -40774,7 +40850,11 @@
     }
    }
   ],
-  "flag": "duration 152s vs 203s"
+  "flag": "duration 152s vs 203s",
+  "override": [
+   "gOMA9M3ux1M",
+   "luIa4rd_wV0"
+  ]
  },
  "jazz-samara-joy-guess-who-i-saw-today": {
   "set": "jazz",
